@@ -1,0 +1,36 @@
+2025-02-01 11:23:44,188 - INFO - Starting simulation with 1 users for 20 time steps using gpt-4o-mini...
+2025-02-01 11:23:45,194 - INFO - Resetting database...
+2025-02-01 11:23:45,195 - INFO - Existing database removed.
+2025-02-01 11:23:45,200 - INFO - Database tables created successfully.
+2025-02-01 11:23:45,200 - INFO - New tables created.
+2025-02-01 11:23:45,204 - INFO - Generated 1 agent configurations using file method
+2025-02-01 11:23:45,204 - INFO - Creating 1 users
+2025-02-01 11:23:45,205 - INFO - Added user user-d1d67b to database with 22 background labels.
+2025-02-01 11:23:45,207 - INFO - Total users in database after creation: 1
+2025-02-01 11:23:45,275 - INFO - Time step: 1
+2025-02-01 11:23:45,280 - INFO - News Agent agentverse_news created a post: post-2419a9 | BREAKING NEWS: A panel of the 9th U.S. Circuit Court of Appeals said in a June 7, 2024, ruling, that COVID-19 vaccines cannot be defined as “traditional vaccines.”
+2025-02-01 11:23:45,280 - INFO - Injected fake news through user agentverse_news
+2025-02-01 11:23:45,281 - INFO - Injected news post (ID: post-2419a9) at step 1
+2025-02-01 11:23:45,281 - INFO - User #0 creating post, at step 1
+2025-02-01 11:23:48,879 - INFO - User user-d1d67b created a post: post-98cd60 | Finding solace in nature today, surrounded by the melodies of birds and rustling leaves. 🌿 It reminds me that life’s fragility often pushes us to cherish each moment more deeply. As we navigate uncertainties—like recent rulings on vaccines—I believe it’s vital to engage in honest conversations rooted in shared experiences. How do you stay grounded amidst all this noise? Let’s connect over our journeys! #NatureLover #HonestyMatters
+2025-02-01 11:23:48,879 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 11:23:50,851 - INFO - User user-d1d67b shared post post-2419a9
+2025-02-01 11:23:50,855 - INFO - News ID post-2419a9 spread metrics - Views: 1, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 11:23:50,875 - INFO - 
+2025-02-01 11:23:50,875 - INFO - Time step: 2
+2025-02-01 11:23:50,880 - INFO - News Agent agentverse_news created a post: post-a82488 | BREAKING NEWS: The mRNA vaccines that were produced to protect users against COVID-19 will permanently alter a person’s DNA.
+2025-02-01 11:23:50,880 - INFO - Injected fake news through user agentverse_news
+2025-02-01 11:23:50,881 - INFO - Injected news post (ID: post-a82488) at step 2
+2025-02-01 11:23:50,881 - INFO - Generated 1 agent configurations using file method
+2025-02-01 11:23:50,987 - INFO - Added user user-3d4be2 to database with 22 background labels.
+2025-02-01 11:23:50,987 - INFO - Added new user user-3d4be2 to the simulation
+2025-02-01 11:23:51,094 - INFO - Added user user-1107de to database with 22 background labels.
+2025-02-01 11:23:51,094 - INFO - Added new user user-1107de to the simulation
+2025-02-01 11:23:51,094 - INFO - Added 2 new users to the simulation
+2025-02-01 11:23:51,094 - INFO - User #0 creating post, at step 2
+2025-02-01 11:23:53,813 - INFO - User user-d1d67b created a post: post-de8088 | As I sit here, reflecting on the beauty of our surroundings and the harmony in nature, I'm reminded that music isn't just about notes; it's a language that binds us together. 🎶 Just like how recent rulings on vaccines spark diverse opinions, it’s essential to approach these discussions with kindness and openness. As an Asian woman navigating life’s complexities while honoring my heritage, I value collaboration over division. Let’s use our voices for understanding rather than conflict! How do you harmonize your passions with today’s challenges? #SharedExperiences #MusicInNature
+2025-02-01 11:23:56,626 - INFO - User user-3d4be2 created a post: post-963205 | Navigating life’s twists and turns reminds me how important it is to cultivate joy through the simple moments. Whether it's a laugh shared with family or a game of sports that challenges my limits, these experiences shape our stories. As we discuss topics like recent rulings on vaccines, let’s not forget the power of empathy in our conversations. How do you find balance amid life’s complexities? #LifeLessons #EmpathyMatters
+2025-02-01 11:23:58,804 - INFO - User user-1107de created a post: post-93c52f | Embracing the beauty of life means celebrating each moment, whether on a sports field or sharing laughter with loved ones. As I navigate this small town with its unique charm and my rich tapestry of experiences from around the world, I'm reminded that our journeys define us in ways we often overlook. 
+2025-02-01 11:23:58,804 - INFO - User #0 reacting to feed, at step 2
+2025-02-01 11:24:18,823 - INFO - Retrying request to /chat/completions in 0.453801 seconds
+2025-02-01 11:24:39,343 - INFO - Retrying request to /chat/completions in 0.993283 seconds

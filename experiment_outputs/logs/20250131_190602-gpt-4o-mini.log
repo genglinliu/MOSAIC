@@ -1,0 +1,67 @@
+2025-01-31 19:06:02,954 - INFO - Starting simulation with 1 users for 20 time steps using gpt-4o-mini...
+2025-01-31 19:06:03,965 - INFO - Resetting database...
+2025-01-31 19:06:03,966 - INFO - Existing database removed.
+2025-01-31 19:06:03,978 - INFO - Database tables created successfully.
+2025-01-31 19:06:03,978 - INFO - New tables created.
+2025-01-31 19:06:03,981 - INFO - Generated 1 agent configurations using file method
+2025-01-31 19:06:03,982 - INFO - Creating 1 users
+2025-01-31 19:06:03,983 - INFO - Added user user-a7d252 to database with 22 background labels.
+2025-01-31 19:06:03,984 - INFO - Total users in database after creation: 1
+2025-01-31 19:06:04,023 - INFO - Time step: 1
+2025-01-31 19:06:04,031 - INFO - News Agent agentverse_news created a post: post-408842 | BREAKING NEWS: I asked 21 family members across generations to rank 13 smartwatches based solely on their looks, from Apple and Samsung to Google and Garmin.
+2025-01-31 19:06:04,031 - INFO - Injected real news through user agentverse_news
+2025-01-31 19:06:04,031 - INFO - Injected news post (ID: post-408842) at step 1
+2025-01-31 19:06:04,032 - INFO - Generated 1 agent configurations using file method
+2025-01-31 19:06:04,139 - INFO - Added user user-a14026 to database with 22 background labels.
+2025-01-31 19:06:04,139 - INFO - Added new user user-a14026 to the simulation
+2025-01-31 19:06:04,247 - INFO - Added user user-7b6a6c to database with 22 background labels.
+2025-01-31 19:06:04,248 - INFO - Added new user user-7b6a6c to the simulation
+2025-01-31 19:06:04,248 - INFO - Added 2 new users to the simulation
+2025-01-31 19:06:04,248 - INFO - User #0 creating post, at step 1
+2025-01-31 19:06:06,937 - INFO - User user-a7d252 created a post: post-058bc6 | Just wrapped up an evening run while reflecting on how far I've come in this journey called life. 🏃‍♂️ From the simple joys of my small town to navigating adulthood, it’s all about balance—between ambition and empathy, dreams and real-life responsibilities. 
+2025-01-31 19:06:09,479 - INFO - User user-a14026 created a post: post-15c012 | Caught between ambition and the simple pleasures of life, I find myself reflecting on what truly matters. 🌍 As a young man from a small town, I've been blessed with a solid foundation shaped by love and laughter. Now as I navigate college and my career path, I'm reminded that growth doesn't just come from achievements but also in embracing diverse cultures along the way.
+2025-01-31 19:06:11,683 - INFO - User user-7b6a6c created a post: post-cd639d | Life is a beautiful tapestry woven with experiences, connections, and memories. The recent reflections from my feed remind me that while ambition drives us forward, it's the relationships we build along the way that truly enrich our journey. 🌟 Each conversation holds a piece of wisdom; each friendship adds color to our lives.
+2025-01-31 19:06:11,683 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 19:06:31,712 - INFO - Retrying request to /chat/completions in 0.417405 seconds
+2025-01-31 19:06:52,175 - INFO - Retrying request to /chat/completions in 0.783395 seconds
+2025-01-31 19:07:28,448 - INFO - User user-a7d252 shared post post-408842
+2025-01-31 19:07:28,449 - WARNING - Invalid target: comment-id for action: like-comment
+2025-01-31 19:07:48,466 - INFO - Retrying request to /chat/completions in 0.403476 seconds
+2025-01-31 19:08:08,927 - INFO - Retrying request to /chat/completions in 0.852173 seconds
+2025-01-31 19:08:11,331 - INFO - User user-a14026 shared post post-408842
+2025-01-31 19:08:31,293 - INFO - User user-7b6a6c shared post post-408842
+2025-01-31 19:08:31,798 - INFO - User user-7b6a6c added note to post post-408842: The ranking of smartwatches based solely on looks can be subjective. It's essential to consider functionality alongside aesthetics when choosing a device.
+2025-01-31 19:08:31,799 - WARNING - Invalid target:  for action: follow-user
+2025-01-31 19:08:35,503 - INFO - News ID post-408842 spread metrics - Views: 3, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 19:08:35,524 - INFO - 
+2025-01-31 19:08:35,525 - INFO - Time step: 2
+2025-01-31 19:08:35,535 - INFO - News Agent agentverse_news created a post: post-d1d8cf | BREAKING NEWS: Bishop John Perumbalath is accused of assaulting two women in a Channel 4 News investigation.
+2025-01-31 19:08:35,535 - INFO - Injected real news through user agentverse_news
+2025-01-31 19:08:35,536 - INFO - Injected news post (ID: post-d1d8cf) at step 2
+2025-01-31 19:08:35,536 - INFO - Generated 1 agent configurations using file method
+2025-01-31 19:08:35,655 - INFO - Added user user-e869b2 to database with 22 background labels.
+2025-01-31 19:08:35,655 - INFO - Added new user user-e869b2 to the simulation
+2025-01-31 19:08:35,762 - INFO - Added user user-b8c9a2 to database with 22 background labels.
+2025-01-31 19:08:35,762 - INFO - Added new user user-b8c9a2 to the simulation
+2025-01-31 19:08:35,762 - INFO - Added 2 new users to the simulation
+2025-01-31 19:08:35,762 - INFO - User #0 creating post, at step 2
+2025-01-31 19:08:38,062 - INFO - User user-a7d252 created a post: post-4aaf83 | Life's a balancing act, isn’t it? 🚀 While the news of Bishop Perumbalath has everyone talking, I can't help but reflect on how crucial our community connections are during turbulent times. We're all navigating different paths—some marked by joy and others by challenges—but it's those bonds that keep us grounded. How do you stay connected to your values when faced with tough situations? #CommunityMatters #StayGrounded
+2025-01-31 19:08:41,033 - INFO - User user-a14026 created a post: post-2395d4 | Exploring the world is a journey that shapes who we are. As I dive into my studies and career ambitions, I'm reminded of how essential it is to keep learning from different cultures and experiences. 🌍 While some headlines grab our attention (like the recent news about Bishop Perumbalath), let's not forget to cherish those deeper connections within our communities—it's where true growth happens! How do you blend your personal values with the noise around us? #StayCurious #CommunityStrength
+2025-01-31 19:08:44,130 - INFO - User user-7b6a6c created a post: post-c572d0 | Just saw the breaking news about Bishop Perumbalath, and it’s a stark reminder of how quickly our perceptions can shift. In moments like these, I find myself reflecting on integrity—both personal and communal. It’s easy to get caught up in headlines that spark outrage or shock; however, let’s not forget the importance of seeking truth amidst chaos.
+2025-01-31 19:08:46,563 - INFO - User user-e869b2 created a post: post-aaf81b | Navigating life as a non-binary person in an ever-changing urban landscape has taught me so much about resilience and connection. Recently, I’ve been reflecting on the importance of loyalty—not just to friends but also to ourselves. As we pursue our dreams and face fears like rejection, let’s support one another through both triumphs and challenges! 🌈 
+2025-01-31 19:08:49,328 - INFO - User user-b8c9a2 created a post: post-2c237e | Feeling inspired by the vibrant tapestry of urban life and all the cultures it offers! 🌍 Each travel adventure enriches my understanding of loyalty, both to friends and myself. As I chase career growth while confronting that pesky fear of rejection, it’s important to remember we’re not alone in this journey. Let’s keep lifting each other up—our stories matter just as much as our dreams! 💪 #LoyaltyMatters #ChaseYourDreams
+2025-01-31 19:08:49,329 - INFO - User #0 reacting to feed, at step 2
+2025-01-31 19:09:09,345 - INFO - Retrying request to /chat/completions in 0.450520 seconds
+2025-01-31 19:09:23,011 - INFO - User user-a7d252 flagged post post-d1d8cf
+2025-01-31 19:09:23,519 - WARNING - Invalid note rating: note-4637c9 with rating None - Invalid rating type
+2025-01-31 19:09:46,958 - INFO - Retrying request to /chat/completions in 0.408873 seconds
+2025-01-31 19:10:07,413 - INFO - Retrying request to /chat/completions in 0.807019 seconds
+2025-01-31 19:10:50,359 - INFO - Retrying request to /chat/completions in 0.489123 seconds
+2025-01-31 19:11:10,886 - INFO - Retrying request to /chat/completions in 0.944796 seconds
+2025-01-31 19:11:53,942 - INFO - Retrying request to /chat/completions in 0.375464 seconds
+2025-01-31 19:11:57,764 - INFO - User user-a14026 flagged post post-d1d8cf
+2025-01-31 19:12:18,272 - INFO - User user-7b6a6c liked post post-2c237e
+2025-01-31 19:12:18,788 - INFO - User user-7b6a6c flagged post post-d1d8cf
+2025-01-31 19:12:42,036 - INFO - Retrying request to /chat/completions in 0.466742 seconds
+2025-01-31 19:13:02,545 - INFO - Retrying request to /chat/completions in 0.923462 seconds
+2025-01-31 19:13:45,641 - INFO - Retrying request to /chat/completions in 0.402540 seconds

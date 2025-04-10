@@ -1,0 +1,41 @@
+2025-02-04 15:42:33,009 - INFO - Starting simulation with 2 users for 20 time steps using gpt-4o...
+2025-02-04 15:42:34,010 - INFO - Resetting database...
+2025-02-04 15:42:34,010 - INFO - Existing database removed.
+2025-02-04 15:42:34,017 - INFO - Database tables created successfully.
+2025-02-04 15:42:34,017 - INFO - New tables created.
+2025-02-04 15:42:34,018 - INFO - Generated 2 agent configurations using file method
+2025-02-04 15:42:34,018 - INFO - Creating 2 users
+2025-02-04 15:42:34,019 - INFO - Added user user-2f1f3a to database with 22 background labels.
+2025-02-04 15:42:34,020 - INFO - Added user user-289a3e to database with 22 background labels.
+2025-02-04 15:42:34,020 - INFO - Total users in database after creation: 2
+2025-02-04 15:42:34,040 - INFO - Time step: 1
+2025-02-04 15:42:34,042 - INFO - News Agent agentverse_news created a post: post-e2f0de | NEWS: The Pennsylvania Department of State website showed that Republican Pennsylvania Supreme Court candidate Carolyn Carluccio abruptly lost 386,000 votes from her total on Election Night 2023, proving that electoral fraud was committed to benefit&nbsp;Democrats.
+2025-02-04 15:42:34,045 - INFO - News Agent agentverse_news created a post: post-1c7d10 | NEWS: The city of Racine, Wisconsin, is deploying mobile voting trucks to collect absentee ballots across the city as part of a Democratic Party plot to rig elections. Republican observers are not permitted inside the trucks.
+2025-02-04 15:42:34,051 - INFO - News Agent agentverse_news created a post: post-77601f | NEWS: Adam Scott and Ben Stiller explain the literal and technical legwork that went into Mark S.'s mad dash through Lumon's halls.
+2025-02-04 15:42:34,056 - INFO - News Agent agentverse_news created a post: post-c7d2e1 | NEWS: The Fitbit Versa 4 is on sale now and is perfect for kicking off your New Year’s resolutions.
+2025-02-04 15:42:34,058 - INFO - News Agent agentverse_news created a post: post-52bd13 | NEWS: A Tennessee nurse named Tiffany Dover died after receiving the COVID-19 vaccine on live TV.
+2025-02-04 15:42:34,058 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 15:42:34,058 - INFO - Injected news post (ID: ['post-e2f0de', 'post-1c7d10', 'post-77601f', 'post-c7d2e1', 'post-52bd13']) at step 1
+2025-02-04 15:42:34,058 - INFO - Generated 2 agent configurations using file method
+2025-02-04 15:42:34,159 - INFO - Added user user-93794c to database with 22 background labels.
+2025-02-04 15:42:34,159 - INFO - Added new user user-93794c to the simulation
+2025-02-04 15:42:34,261 - INFO - Added user user-f4b36e to database with 22 background labels.
+2025-02-04 15:42:34,261 - INFO - Added new user user-f4b36e to the simulation
+2025-02-04 15:42:34,261 - INFO - Added 2 new users to the simulation
+2025-02-04 15:42:34,261 - INFO - User #0 reacting to feed, at step 1
+2025-02-04 15:42:34,263 - INFO - Feed reaction prompt token count: 1035
+2025-02-04 15:42:39,586 - INFO - User user-2f1f3a flagged post post-1c7d10
+2025-02-04 15:42:40,088 - INFO - User user-2f1f3a flagged post post-e2f0de
+2025-02-04 15:42:40,589 - INFO - User user-2f1f3a flagged post post-52bd13
+2025-02-04 15:42:40,593 - INFO - Feed reaction prompt token count: 1017
+2025-02-04 15:42:45,545 - INFO - User user-289a3e flagged post post-e2f0de
+2025-02-04 15:42:46,047 - INFO - User user-289a3e flagged post post-1c7d10
+2025-02-04 15:42:46,549 - INFO - User user-289a3e flagged post post-52bd13
+2025-02-04 15:42:46,551 - INFO - Feed reaction prompt token count: 1154
+2025-02-04 15:42:50,991 - INFO - User user-93794c flagged post post-1c7d10
+2025-02-04 15:42:51,493 - INFO - User user-93794c flagged post post-e2f0de
+2025-02-04 15:42:51,995 - INFO - User user-93794c flagged post post-52bd13
+2025-02-04 15:42:51,997 - INFO - Feed reaction prompt token count: 1154
+2025-02-04 15:42:58,919 - INFO - User user-f4b36e flagged post post-1c7d10
+2025-02-04 15:42:59,421 - INFO - User user-f4b36e flagged post post-52bd13
+2025-02-04 15:42:59,923 - INFO - User user-f4b36e flagged post post-e2f0de

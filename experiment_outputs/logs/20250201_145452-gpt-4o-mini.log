@@ -1,0 +1,93 @@
+2025-02-01 14:54:52,126 - INFO - Starting simulation with 1 users for 20 time steps using gpt-4o-mini...
+2025-02-01 14:54:53,133 - INFO - Resetting database...
+2025-02-01 14:54:53,137 - INFO - Existing database removed.
+2025-02-01 14:54:53,151 - INFO - Database tables created successfully.
+2025-02-01 14:54:53,151 - INFO - New tables created.
+2025-02-01 14:54:53,159 - INFO - Generated 1 agent configurations using file method
+2025-02-01 14:54:53,160 - INFO - Creating 1 users
+2025-02-01 14:54:53,161 - INFO - Added user user-ae27e6 to database with 22 background labels.
+2025-02-01 14:54:53,163 - INFO - Total users in database after creation: 1
+2025-02-01 14:54:53,206 - INFO - Time step: 1
+2025-02-01 14:54:53,215 - INFO - News Agent agentverse_news created a post: post-96d52f | BREAKING NEWS: New photos of Mercury taken during the joint European and Japanese BepiColombo mission reveal fascinating details of the small rocky planet.
+2025-02-01 14:54:53,215 - INFO - Injected real news through user agentverse_news
+2025-02-01 14:54:53,216 - INFO - Injected news post (ID: post-96d52f) at step 1
+2025-02-01 14:54:53,216 - INFO - Generated 1 agent configurations using file method
+2025-02-01 14:54:53,323 - INFO - Added user user-95448f to database with 22 background labels.
+2025-02-01 14:54:53,323 - INFO - Added new user user-95448f to the simulation
+2025-02-01 14:54:53,425 - INFO - Added user user-0c1a3b to database with 22 background labels.
+2025-02-01 14:54:53,425 - INFO - Added new user user-0c1a3b to the simulation
+2025-02-01 14:54:53,426 - INFO - Added 2 new users to the simulation
+2025-02-01 14:54:53,426 - INFO - User #0 creating post, at step 1
+2025-02-01 14:54:56,271 - INFO - User user-ae27e6 created a post: post-b94186 | Feeling inspired by the amazing discoveries from the BepiColombo mission! 🌌 Just goes to show that exploration never stops, whether it's in outer space or our personal journeys. I'm all about pushing boundaries and seeking growth—just like Mercury has layers, so do we! What have you done lately to step outside your comfort zone? #AlwaysEvolving #PersonalGrowth
+2025-02-01 14:54:58,868 - INFO - User user-95448f created a post: post-2125ce | Exploring different places has shown me how diverse our world is, much like the layers of Mercury that were revealed in those recent photos! 🌍 Each experience adds a unique hue to my life's tapestry. As I dream of future travels, I'm reminded that even small steps outside our comfort zones can lead to unexpected joys and connections. What's one culture or place you’ve always wanted to explore? #Wanderlust #LifeLessons
+2025-02-01 14:55:00,876 - INFO - User user-0c1a3b created a post: post-62816e | Life's like a beautiful series of interconnected stories, each place I've lived adding its own chapter. 🌆✨ As I reflect on my journey at 44, I'm reminded that our experiences shape us in such profound ways—especially when we embrace compassion and trust along the way.
+2025-02-01 14:55:00,877 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 14:55:20,907 - INFO - Retrying request to /chat/completions in 0.490418 seconds
+2025-02-01 14:55:41,453 - INFO - Retrying request to /chat/completions in 0.795233 seconds
+2025-02-01 14:56:24,379 - INFO - Retrying request to /chat/completions in 0.490702 seconds
+2025-02-01 14:56:44,483 - INFO - User user-ae27e6 shared post post-96d52f
+2025-02-01 14:56:44,484 - WARNING - Invalid target:  for action: rate-note
+2025-02-01 14:56:44,484 - WARNING - Invalid target:  for action: like-comment
+2025-02-01 14:57:04,504 - INFO - Retrying request to /chat/completions in 0.472848 seconds
+2025-02-01 14:57:20,514 - INFO - User user-95448f shared post post-96d52f
+2025-02-01 14:57:41,039 - INFO - User user-0c1a3b shared post post-96d52f
+2025-02-01 14:57:41,549 - INFO - User user-0c1a3b followed user-95448f
+2025-02-01 14:57:45,546 - INFO - News ID post-96d52f spread metrics - Views: 3, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 14:57:45,569 - INFO - 
+2025-02-01 14:57:45,570 - INFO - Time step: 2
+2025-02-01 14:57:45,574 - INFO - News Agent agentverse_news created a post: post-76050d | BREAKING NEWS: Ukraine conducted experiments on its military personnel in U.S.-run biological laboratories to test their tolerance to dangerous infectious diseases.
+2025-02-01 14:57:45,575 - INFO - Injected fake news through user agentverse_news
+2025-02-01 14:57:45,575 - INFO - Injected news post (ID: post-76050d) at step 2
+2025-02-01 14:57:45,575 - INFO - Generated 1 agent configurations using file method
+2025-02-01 14:57:45,682 - INFO - Added user user-e65b48 to database with 22 background labels.
+2025-02-01 14:57:45,682 - INFO - Added new user user-e65b48 to the simulation
+2025-02-01 14:57:45,790 - INFO - Added user user-2005fc to database with 22 background labels.
+2025-02-01 14:57:45,790 - INFO - Added new user user-2005fc to the simulation
+2025-02-01 14:57:45,791 - INFO - Added 2 new users to the simulation
+2025-02-01 14:57:45,791 - INFO - User #0 creating post, at step 2
+2025-02-01 14:57:47,616 - INFO - User user-ae27e6 created a post: post-fa1162 | Just came across some pretty intense news about Ukraine's military experiments. 😳 It’s wild how science and politics can intersect in ways we can't always control. As someone who values personal growth, I find it essential to stay informed and question the narratives around us.
+2025-02-01 14:58:08,131 - INFO - Retrying request to /chat/completions in 0.408876 seconds
+2025-02-01 14:58:09,922 - INFO - User user-95448f created a post: post-bd0652 | Life is a beautiful tapestry, woven with both joy and sorrow. 🌈 As I reflect on my journey—shaped by places lived and lessons learned—I’m reminded that every experience adds depth to who we are. Amidst the chaos of our world today, let’s hold onto compassion as our guiding star. 💫 What personal experiences have shaped your outlook? #LifeJourney #CompassionMatters
+2025-02-01 14:58:12,795 - INFO - User user-0c1a3b created a post: post-e0c09e | Just saw those stunning new photos of Mercury! 🌌 It’s amazing how a glimpse into the cosmos can remind us of our own journeys here on Earth. Each planet has its story, just like each place I've lived shapes who I am today. Can’t wait to explore more cultures and landscapes in my travels ahead—there's so much beauty out there waiting for me! How do you find inspiration in your day-to-day life? #TravelDreams #LifeJourney
+2025-02-01 14:58:15,345 - INFO - User user-e65b48 created a post: post-0cdbf7 | Just wrapped up a great workout session and caught my favorite show afterward! It's amazing how these moments of laughter with friends help us unwind from life’s chaos. Speaking of journeys, the recent photos of Mercury got me thinking—each planet is like each person I meet; we all have our unique stories to share. 🌍✨ What are some unexpected connections you've made lately? #EverydayConnections
+2025-02-01 14:58:16,886 - INFO - User user-2005fc created a post: post-3b5466 | Just finished my daily workout and couldn't help but reflect on the importance of community. Living in a small town, I cherish those connections—each conversation is like adding another thread to the fabric of our lives. 💬 
+2025-02-01 14:58:16,887 - INFO - User #0 reacting to feed, at step 2
+2025-02-01 14:58:26,915 - INFO - User user-ae27e6 flagged post post-76050d
+2025-02-01 14:58:26,916 - WARNING - Invalid target: comment-0cdbf7 for action: like-comment
+2025-02-01 14:58:50,157 - INFO - Retrying request to /chat/completions in 0.380445 seconds
+2025-02-01 14:59:10,568 - INFO - Retrying request to /chat/completions in 0.811147 seconds
+2025-02-01 14:59:53,563 - INFO - Retrying request to /chat/completions in 0.396029 seconds
+2025-02-01 15:00:14,012 - INFO - Retrying request to /chat/completions in 0.863458 seconds
+2025-02-01 15:00:39,228 - INFO - User user-95448f flagged post post-76050d
+2025-02-01 15:01:03,750 - INFO - Retrying request to /chat/completions in 0.469972 seconds
+2025-02-01 15:01:24,302 - INFO - Retrying request to /chat/completions in 0.984287 seconds
+2025-02-01 15:01:48,756 - INFO - User user-0c1a3b shared post post-96d52f
+2025-02-01 15:02:03,800 - INFO - User user-e65b48 liked post post-3b5466
+2025-02-01 15:02:04,310 - INFO - User user-e65b48 added note to post post-76050d: This post lacks credible sources and spreads potentially harmful misinformation regarding military experiments. Verify facts before sharing.
+2025-02-01 15:02:25,307 - INFO - User user-2005fc liked post post-0cdbf7
+2025-02-01 15:02:25,308 - WARNING - Invalid target:  for action: rate-note
+2025-02-01 15:02:25,308 - INFO - News ID post-96d52f spread metrics - Views: 5, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:02:25,308 - INFO - News ID post-76050d spread metrics - Views: 5, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:02:25,311 - INFO - 
+2025-02-01 15:02:25,312 - INFO - Time step: 3
+2025-02-01 15:02:25,318 - INFO - News Agent agentverse_news created a post: post-6ace20 | BREAKING NEWS: The move comes just in time for the release of Marvel's Spider-Man 2 on PC.
+2025-02-01 15:02:25,318 - INFO - Injected real news through user agentverse_news
+2025-02-01 15:02:25,319 - INFO - Injected news post (ID: post-6ace20) at step 3
+2025-02-01 15:02:25,319 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:02:25,423 - INFO - Added user user-34d909 to database with 22 background labels.
+2025-02-01 15:02:25,423 - INFO - Added new user user-34d909 to the simulation
+2025-02-01 15:02:25,530 - INFO - Added user user-1a6aa1 to database with 22 background labels.
+2025-02-01 15:02:25,530 - INFO - Added new user user-1a6aa1 to the simulation
+2025-02-01 15:02:25,530 - INFO - Added 2 new users to the simulation
+2025-02-01 15:02:25,530 - INFO - User #0 creating post, at step 3
+2025-02-01 15:02:28,031 - INFO - User user-ae27e6 created a post: post-eb287a | Just spotted the buzz about Mercury's latest revelations! 🌌 It's incredible how much there is still to discover out there. Reminds me of my own journey—just like those cosmic layers, we’ve all got depths waiting to be explored. As I navigate life in this bustling city, I'm constantly reminded that growth doesn’t just happen; it takes exploration and pushing boundaries. So tell me, what’s one thing you’re doing today to step outside your comfort zone? #CosmicConnections #GrowthMindset
+2025-02-01 15:02:31,766 - INFO - User user-95448f created a post: post-e6694a | Caught a glimpse of the latest Mercury photos from @agentverse_news, and it’s amazing how space exploration continues to unveil new wonders! It reminds me that just like those distant worlds, there are still so many layers within us waiting to be explored. 🌌 As I navigate my own journey through life—filled with different places and experiences—I’m inspired by the idea that growth often comes from stepping into the unknown. What discoveries have you made on your personal journey lately? #ExploreWithin #LifeLessons
+2025-02-01 15:02:33,404 - INFO - User user-0c1a3b created a post: post-756a53 | Navigating life’s complexities at 44 has made me appreciate the beauty in small moments. Recently, those stunning photos of Mercury sparked a thought: just like space exploration reveals new worlds, our personal journeys can lead us to unexpected discoveries about ourselves and others. 🌌 
+2025-02-01 15:02:35,549 - INFO - User user-e65b48 created a post: post-c4f1b9 | Just saw those stunning photos of Mercury! 🌌 They remind me how exploration and curiosity can lead to incredible discoveries, both in space and within ourselves. Living in this small town has taught me that every conversation holds potential for connection—like uncharted planets waiting to be explored! What’s a recent moment you’ve had where you felt like you discovered something new about yourself or someone else? #CuriosityJourney
+2025-02-01 15:02:37,549 - INFO - User user-2005fc created a post: post-cfd861 | Just wrapped up my favorite episode of a classic sitcom and it hit me how much we need laughter in our lives. It’s like the glue that holds us together, especially in this small town where every chuckle shared adds warmth to our connections. 🏡 What show always brings you back for more laughs? Let's swap recommendations! #LaughterIsTheBestMedicine
+2025-02-01 15:02:37,549 - INFO - User #5 creating post, at step 3
+2025-02-01 15:02:39,369 - INFO - User user-34d909 created a post: post-8219df | Sometimes, I find myself reflecting on how life's challenges have shaped my path. Moving to a new country was one of those pivotal moments that opened my eyes and taught me the beauty of community across cultures. It's reminded me how vital genuine connections are, especially in our little corners of the world. 
+2025-02-01 15:02:42,304 - INFO - User user-1a6aa1 created a post: post-2df1ca | Reflecting on my journey, I realize how moving to a new country expanded my perspective on community. It's fascinating how diverse connections enrich our lives in unexpected ways. Just like the laughter shared over classic sitcoms brings warmth and familiarity—reminding us that no matter where we are, genuine bonds make all the difference. What’s one experience that shaped your view of belonging? #CommunityMatters
+2025-02-01 15:02:42,304 - INFO - User #0 reacting to feed, at step 3
+2025-02-01 15:03:02,312 - INFO - Retrying request to /chat/completions in 0.414976 seconds
+2025-02-01 15:03:22,808 - INFO - Retrying request to /chat/completions in 0.836273 seconds

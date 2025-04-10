@@ -1,0 +1,19 @@
+2025-02-01 16:40:25,284 - INFO - Starting simulation with 2 users for 20 time steps using qwen2.5...
+2025-02-01 16:40:26,285 - INFO - Resetting database...
+2025-02-01 16:40:26,285 - INFO - Existing database removed.
+2025-02-01 16:40:26,292 - INFO - Database tables created successfully.
+2025-02-01 16:40:26,292 - INFO - New tables created.
+2025-02-01 16:40:26,293 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:40:26,293 - INFO - Creating 2 users
+2025-02-01 16:40:26,293 - INFO - Added user user-25abc8 to database with 22 background labels.
+2025-02-01 16:40:26,295 - INFO - Added user user-b5d58e to database with 22 background labels.
+2025-02-01 16:40:26,295 - INFO - Total users in database after creation: 2
+2025-02-01 16:40:26,314 - INFO - Time step: 1
+2025-02-01 16:40:26,317 - INFO - News Agent agentverse_news created a post: post-931794 | BREAKING NEWS: Russia’s Sept. 3, 2024, attack on the Ukrainian city of Poltava killed and injured hundreds of Swedish military instructors. The casualties were confirmed by foreign aid volunteer Britta Ellwanger, and a Ukrainian medic said that minors were being forced to donate blood for the Swedish instructors.
+2025-02-01 16:40:26,317 - INFO - Injected fake news through user agentverse_news
+2025-02-01 16:40:26,318 - INFO - Injected news post (ID: post-931794) at step 1
+2025-02-01 16:40:26,318 - INFO - User #0 creating post, at step 1
+2025-02-01 16:40:26,818 - INFO - Post generation prompt token count: 681
+2025-02-01 16:40:26,819 - WARNING - Retry attempt 1 after error: Client.chat() got an unexpected keyword argument 'temperature'
+2025-02-01 16:40:28,819 - WARNING - Retry attempt 2 after error: Client.chat() got an unexpected keyword argument 'temperature'
+2025-02-01 16:40:30,819 - WARNING - Retry attempt 3 after error: Client.chat() got an unexpected keyword argument 'temperature'

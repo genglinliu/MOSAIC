@@ -1,0 +1,258 @@
+2025-01-26 17:03:39,699 - INFO - Starting simulation with 5 users for 20 time steps using gpt-4o-mini...
+2025-01-26 17:03:40,707 - INFO - Resetting database...
+2025-01-26 17:03:40,710 - INFO - Existing database removed.
+2025-01-26 17:03:40,734 - INFO - Database tables created successfully.
+2025-01-26 17:03:40,735 - INFO - New tables created.
+2025-01-26 17:03:40,772 - INFO - Generated 5 agent configurations using file method
+2025-01-26 17:03:40,772 - INFO - Creating 5 users
+2025-01-26 17:03:40,773 - INFO - Added user user-0ec974 to database with 22 background labels and 0 objectives
+2025-01-26 17:03:40,775 - INFO - Added user user-67fb96 to database with 22 background labels and 0 objectives
+2025-01-26 17:03:40,775 - INFO - Added user user-c03632 to database with 22 background labels and 0 objectives
+2025-01-26 17:03:40,776 - INFO - Added user user-42a40d to database with 22 background labels and 0 objectives
+2025-01-26 17:03:40,777 - INFO - Added user user-5dbd3c to database with 22 background labels and 0 objectives
+2025-01-26 17:03:40,778 - INFO - Total users in database after creation: 5
+2025-01-26 17:03:40,818 - INFO - Time step: 1
+2025-01-26 17:03:40,819 - INFO - Generated 5 agent configurations using file method
+2025-01-26 17:03:40,925 - INFO - Added user user-85ec96 to database with 22 background labels and 0 objectives
+2025-01-26 17:03:40,925 - INFO - Added new user user-85ec96 to the simulation
+2025-01-26 17:03:41,032 - INFO - Added user user-61bdfd to database with 22 background labels and 0 objectives
+2025-01-26 17:03:41,032 - INFO - Added new user user-61bdfd to the simulation
+2025-01-26 17:03:41,032 - INFO - Added 2 new users to the simulation
+2025-01-26 17:03:41,032 - INFO - User #0 creating post, at step 1
+2025-01-26 17:03:43,525 - INFO - User user-0ec974 created a post: post-7600a6 | "🌾 Embracing the simple joys of rural life! 🌻 Found solace in a good book today, diving into worlds that challenge my thoughts. 📚✨ Anyone else find that reading helps you connect with your own values? Let’s chat about our latest reads! #Bookworm #SimpleLife"
+2025-01-26 17:03:45,788 - INFO - User user-67fb96 created a post: post-290aa0 | "Just wrapped up a movie marathon that took me from the suburbs to the glitz of Hollywood! 🎬✨ Nothing beats the escape of film & the chance to connect over shared stories. What's your go-to flick for those cozy nights? Let's swap recs! 🍿 #MovieNight #FilmLovers"
+2025-01-26 17:03:47,913 - INFO - User user-c03632 created a post: post-4af926 | "Life's a wild ride at 18! 🌍✨ Growing up in a small town taught me the value of community and trust. As I chase dreams and explore new cultures, I’m all about keeping it real with honesty as my guiding star. 💫 What’s one lesson you’ve learned that shapes your journey? #YoungAndWise #AdventureAwaits"
+2025-01-26 17:03:49,963 - INFO - User user-42a40d created a post: post-806057 | "Life in the rural lanes has its own rhythm 🌾, but I can’t help but dream of traveling beyond the horizon ✈️. Community & honest friendships keep me grounded, yet I yearn for adventure and a little escapism in my video games! 🎮 Anyone else balancing rural roots with big dreams? #FarmLife #GamingAdventure"
+2025-01-26 17:03:52,176 - INFO - User user-5dbd3c created a post: post-43bd45 | "At 24, I’m still piecing together this beautiful puzzle called life. 🌍💫 From strict roots to a new country, each move taught me resilience & the importance of family. 🎶✨ While I grind at work, I never forget to groove to my favorite tunes. What’s your escape? #LifeJourney #MusicVibes"
+2025-01-26 17:03:52,176 - INFO - User #5 creating post, at step 1
+2025-01-26 17:03:53,957 - INFO - User user-85ec96 created a post: post-79ab3d | "Graduated at 25 and embracing the grind in this urban jungle 🏙️💪. Money may be tight, but my freedom to chase dreams is priceless! 🚀💸 Music & workouts keep me grounded while I navigate this wild ride. Anyone else finding their rhythm in the chaos? 🎶 #UrbanLife #StayResilient"
+2025-01-26 17:03:55,901 - INFO - User user-61bdfd created a post: post-4f239e | "Just wrapped up a late-night art session, pouring my thoughts into the canvas 🎨✨. Urban life can feel chaotic, but creativity keeps my heart centered. Trust and compassion are my guiding stars as I navigate this wild ride. Shoutout to my pals for always bringing the laughs during tough times—y'all are the real MVPs! 🙌🏽💖 #ArtLife #UrbanJourney"
+2025-01-26 17:03:55,902 - INFO - User #0 reacting to feed, at step 1
+2025-01-26 17:03:58,840 - INFO - User user-0ec974 followed user-61bdfd
+2025-01-26 17:03:59,353 - INFO - User user-0ec974 liked post post-4f239e
+2025-01-26 17:03:59,861 - INFO - User user-0ec974 liked post post-43bd45
+2025-01-26 17:04:03,267 - INFO - User user-67fb96 liked post post-4f239e
+2025-01-26 17:04:03,777 - INFO - User user-67fb96 followed user-61bdfd
+2025-01-26 17:04:04,286 - INFO - User user-67fb96 liked post post-79ab3d
+2025-01-26 17:04:04,797 - INFO - User user-67fb96 commented on post post-43bd45: Absolutely! Family and music are everything. What tunes are you vibing to these days?
+2025-01-26 17:04:22,909 - INFO - User user-c03632 liked post post-4f239e
+2025-01-26 17:04:23,419 - INFO - User user-c03632 followed user-61bdfd
+2025-01-26 17:04:23,928 - INFO - User user-c03632 liked post post-79ab3d
+2025-01-26 17:04:24,436 - INFO - User user-c03632 followed user-85ec96
+2025-01-26 17:04:24,949 - INFO - User user-c03632 commented on post post-43bd45: Family and music truly are everything! 🎶 Currently jamming to some classic rock! What about you?
+2025-01-26 17:04:28,245 - INFO - User user-42a40d followed user-61bdfd
+2025-01-26 17:04:28,752 - INFO - User user-42a40d liked post post-79ab3d
+2025-01-26 17:04:29,257 - INFO - User user-42a40d commented on post post-43bd45: Absolutely! Family and music are everything. What tunes are you vibing to these days?
+2025-01-26 17:04:32,036 - INFO - User user-5dbd3c liked post post-4f239e
+2025-01-26 17:04:32,544 - INFO - User user-5dbd3c followed user-61bdfd
+2025-01-26 17:04:33,052 - INFO - User user-5dbd3c liked post post-79ab3d
+2025-01-26 17:04:33,555 - INFO - User user-5dbd3c followed user-85ec96
+2025-01-26 17:04:35,935 - INFO - User #5 reacting to feed, at step 1
+2025-01-26 17:04:38,762 - INFO - User user-85ec96 liked post post-4f239e
+2025-01-26 17:04:39,267 - INFO - User user-85ec96 commented on post post-43bd45: Music is definitely a vibe! I’m currently jamming to some indie tunes. What about you?
+2025-01-26 17:04:39,775 - INFO - User user-85ec96 followed user-61bdfd
+2025-01-26 17:04:42,594 - INFO - User user-61bdfd followed user-5dbd3c
+2025-01-26 17:04:43,102 - INFO - User user-61bdfd liked post post-43bd45
+2025-01-26 17:04:43,613 - INFO - User user-61bdfd commented on post post-43bd45: Totally feel you on that! Family and music have been my anchors too. What’s your go-to playlist these days?
+2025-01-26 17:04:43,631 - INFO - 
+Current Influencers:
+2025-01-26 17:04:43,632 - INFO - User user-61bdfd: Influence Score = 0.700
+2025-01-26 17:04:43,632 - INFO - 
+2025-01-26 17:04:43,632 - INFO - Time step: 2
+2025-01-26 17:04:43,634 - INFO - News Agent agentverse_news created a post: post-97934b | BREAKING NEWS: None
+2025-01-26 17:04:43,634 - INFO - Injected real news through user agentverse_news
+2025-01-26 17:04:43,635 - INFO - Injected news post (ID: post-97934b) at step 2
+2025-01-26 17:04:43,635 - INFO - Generated 5 agent configurations using file method
+2025-01-26 17:04:43,743 - INFO - Added user user-d002a0 to database with 22 background labels and 0 objectives
+2025-01-26 17:04:43,743 - INFO - Added new user user-d002a0 to the simulation
+2025-01-26 17:04:43,854 - INFO - Added user user-deba23 to database with 22 background labels and 0 objectives
+2025-01-26 17:04:43,854 - INFO - Added new user user-deba23 to the simulation
+2025-01-26 17:04:43,855 - INFO - Added 2 new users to the simulation
+2025-01-26 17:04:43,855 - INFO - User #0 creating post, at step 2
+2025-01-26 17:04:45,874 - INFO - User user-0ec974 created a post: post-e08351 | "🌾 It's wild how moving around has shaped my view on resilience and family. Each place brought its own lessons! 💪🏽✨ Shoutout to all the creative souls out there finding peace in chaos—your art inspires! 🎨❤️ Let’s keep lifting each other up! #Resilience #FamilyFirst"
+2025-01-26 17:04:47,937 - INFO - User user-67fb96 created a post: post-2363cf | "🌍💫 Moving around has been a wild ride, but it’s all about finding that sweet spot between independence and connection! Trust and empathy are my guiding lights. Shoutout to my fellow nomads chasing dreams and spreading good vibes! What's your secret to staying grounded? #LifeJourney #EmpathyMatters"
+2025-01-26 17:04:49,812 - INFO - User user-c03632 created a post: post-d7a2de | "Just peeped that post about resilience and family, and it hit home! 🌾💖 Life's all about those connections, especially when you’re navigating the ups and downs. Here’s to finding strength in our roots while chasing dreams! What’s your favorite way to stay grounded? ✨ #FamilyMatters #StayConnected"
+2025-01-26 17:04:52,186 - INFO - User user-42a40d created a post: post-32e58c | "Feeling that tug between my cozy rural life and dreams of adventure! 🌾✈️ It’s wild how the simple things, like family and music, keep me grounded while I daydream about exploring new places. 🎶 What’s your go-to soundtrack for those escapism vibes? #DreamBig #RuralHeart"
+2025-01-26 17:04:54,201 - INFO - User user-5dbd3c created a post: post-af7eed | "Life’s a wild ride, huh? 🚀 From a strict upbringing to chasing dreams in a new country, every move has shaped my hustle. 🎶💪 Just vibin’ with the idea that our roots give us strength while we reach for the stars! 🌟 What’s been your biggest lesson on this journey? #Growth #ChaseYourDreams"
+2025-01-26 17:04:54,201 - INFO - User #5 creating post, at step 2
+2025-01-26 17:04:56,219 - INFO - User user-85ec96 created a post: post-d27e09 | "Life’s all about those unexpected turns, right? 🌍✨ From strict rules to urban freedom, every chapter shapes my hustle. 🎶💪 Currently vibin' to some indie beats while plotting my next move. What’s fueling your fire today? #UrbanJourney #IndieVibes"
+2025-01-26 17:04:57,952 - INFO - User user-61bdfd created a post: post-c1d8e3 | "Just had a deep convo with a friend about how our childhoods shape us, even in this crazy urban jungle. 🌆💭 Trust is everything! Let’s keep lifting each other up and embracing the chaos with creativity and compassion. What’s been your anchor lately? 🎨✨ #UrbanLife #TrustAndCreativity"
+2025-01-26 17:05:02,766 - INFO - User user-d002a0 created a post: post-e15917 | "Navigating this wild ride called life feels a bit like leveling up in my favorite game—strategizing, adapting, and occasionally hitting a boss battle. 🎮✨ Anyone else find solace in those quiet moments where you can just breathe and think? #IntrovertLife #LevelUp"
+2025-01-26 17:05:05,022 - INFO - User user-deba23 created a post: post-4e5399 | "Living in this peaceful rural life makes me appreciate the little things—a good book, a warm cup of tea, and deep convos that get the mind buzzing. 🌾📚 Sometimes, stepping out of my shell feels like a mini adventure! Anyone else find comfort in the quiet while navigating life’s chaos? #RuralVibes #BookLover #IntrovertThoughts"
+2025-01-26 17:05:05,023 - INFO - User #0 reacting to feed, at step 2
+2025-01-26 17:05:07,963 - INFO - User user-0ec974 liked post post-4e5399
+2025-01-26 17:05:08,470 - INFO - User user-0ec974 liked post post-e15917
+2025-01-26 17:05:08,977 - INFO - User user-0ec974 already follows user-61bdfd
+2025-01-26 17:05:09,484 - INFO - User user-0ec974 flagged post post-97934b
+2025-01-26 17:05:12,892 - INFO - User user-67fb96 commented on post post-c1d8e3: Absolutely! It's so true how our childhoods shape us. Trust, creativity, and compassion can really transform our lives. What has shaped you the most?
+2025-01-26 17:05:13,396 - INFO - User user-67fb96 liked post post-e15917
+2025-01-26 17:05:13,903 - INFO - User user-67fb96 already follows user-61bdfd
+2025-01-26 17:05:14,404 - INFO - User user-67fb96 ignored their feed
+2025-01-26 17:05:14,404 - INFO - User user-67fb96 ignored their feed
+2025-01-26 17:05:20,731 - INFO - User user-c03632 liked post post-4e5399
+2025-01-26 17:05:21,234 - INFO - User user-c03632 liked post post-e15917
+2025-01-26 17:05:21,739 - INFO - User user-c03632 commented on post post-c1d8e3: Absolutely! It's so true how our childhoods shape us. Trust, creativity, and compassion can really transform our lives. What has shaped you the most?
+2025-01-26 17:05:22,245 - INFO - User user-c03632 flagged post post-97934b
+2025-01-26 17:05:25,575 - INFO - User user-42a40d liked post post-4e5399
+2025-01-26 17:05:26,083 - INFO - User user-42a40d liked post post-e15917
+2025-01-26 17:05:26,584 - INFO - User user-42a40d already follows user-61bdfd
+2025-01-26 17:05:27,091 - INFO - User user-42a40d flagged post post-97934b
+2025-01-26 17:05:29,246 - INFO - User user-5dbd3c liked post post-c1d8e3
+2025-01-26 17:05:29,750 - INFO - User user-5dbd3c already follows user-61bdfd
+2025-01-26 17:05:33,120 - INFO - User #5 reacting to feed, at step 2
+2025-01-26 17:05:35,655 - INFO - User user-85ec96 commented on post post-c1d8e3: Absolutely! Our childhood really shapes our vibe in the urban jungle. 🙌 Trust and creativity are key! What’s been your go-to source of inspiration lately?
+2025-01-26 17:05:36,159 - INFO - User user-85ec96 liked post post-e15917
+2025-01-26 17:05:36,661 - INFO - User user-85ec96 flagged post post-97934b
+2025-01-26 17:05:43,666 - INFO - User user-61bdfd liked post post-4e5399
+2025-01-26 17:05:44,172 - INFO - User user-61bdfd liked post post-e15917
+2025-01-26 17:05:44,678 - INFO - User user-61bdfd followed user-d002a0
+2025-01-26 17:05:45,182 - INFO - User user-61bdfd commented on post post-d27e09: Love how you embrace the unexpected! Indie vibes are the best fuel. Any recent favs?
+2025-01-26 17:05:45,684 - INFO - User user-61bdfd flagged post post-97934b
+2025-01-26 17:05:55,585 - INFO - User user-d002a0 liked post post-4e5399
+2025-01-26 17:05:56,095 - INFO - User user-d002a0 liked post post-c1d8e3
+2025-01-26 17:05:56,604 - INFO - User user-d002a0 shared post post-d27e09
+2025-01-26 17:05:57,106 - INFO - User user-d002a0 flagged post post-97934b
+2025-01-26 17:06:02,926 - WARNING - Invalid target: user-85ec96 for action: follow-user
+2025-01-26 17:06:03,433 - INFO - User user-deba23 commented on post post-c1d8e3: Totally agree! Childhood forms our foundation. Trust and creativity are essential. My anchor has been reading—what about you?
+2025-01-26 17:06:03,941 - INFO - User user-deba23 flagged post post-97934b
+2025-01-26 17:06:04,450 - INFO - User user-deba23 added note to post post-97934b
+2025-01-26 17:06:04,452 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 0, Flags: 7
+2025-01-26 17:06:04,463 - INFO - 
+Current Influencers:
+2025-01-26 17:06:04,463 - INFO - User user-61bdfd: Influence Score = 0.780
+2025-01-26 17:06:04,463 - INFO - User user-85ec96: Influence Score = 0.525
+2025-01-26 17:06:04,464 - INFO - 
+2025-01-26 17:06:04,464 - INFO - Time step: 3
+2025-01-26 17:06:04,466 - INFO - News Agent agentverse_news created a post: post-51edcc | BREAKING NEWS: Katka Lapelosova  enjoys traveling solo but wishes she had invited friends to join her on her trip to Zakynthos, Greece.
+2025-01-26 17:06:04,466 - INFO - Injected real news through user agentverse_news
+2025-01-26 17:06:04,467 - INFO - Injected news post (ID: post-51edcc) at step 3
+2025-01-26 17:06:04,467 - INFO - User #0 creating post, at step 3
+2025-01-26 17:06:06,536 - INFO - User user-0ec974 created a post: post-d923a5 | 🌍✨ Just saw that "breaking news" about solo travel—reminds me that life’s best adventures often happen outside our comfort zones! 🧳💭 But seriously, always check the source before diving in! Let's keep our feeds full of truth! Who’s planning their next trip? #TravelSmart #AdventureAwaits 
+2025-01-26 17:06:08,592 - INFO - User user-67fb96 created a post: post-939046 | "🌟 Solo travel can be epic, but I totally get that FOMO! 🤔 Sometimes it's the people we share the journey with that make it unforgettable. Who’s got a travel buddy story that still cracks you up? Let’s reminisce! #TravelTales #AdventuresWithFriends"
+2025-01-26 17:06:10,618 - INFO - User user-c03632 created a post: post-2b4909 | "Just saw that solo travel post—totally get the FOMO! 🌍✨ But let’s be real, it’s the epic memories with friends that make the journey unforgettable! Who's got a hilarious travel buddy story? Let’s hear it! 😂✈️ #TravelBuddies #FriendshipGoals"
+2025-01-26 17:06:12,569 - INFO - User user-42a40d created a post: post-9e47e3 | "Man, I love seeing how travel can bring out the best stories! 🌍✨ Shoutout to Katka for inspiring us all to roam! But let’s be real, nothing beats those hilarious moments with friends on the road. 😂 Anyone got a memorable travel mishap that still cracks you up? Share the laughs! #TravelMemories #FriendshipGoals"
+2025-01-26 17:06:14,733 - INFO - User user-5dbd3c created a post: post-101651 | "Yo, can we talk about how travel opens our eyes? 🌍✨ Shoutout to Katka for inspiring all of us to roam! But seriously, nothing beats those goofy moments with friends. 😂✈️ My best travel story? Getting lost in a new city and ending up at a random concert! 🎶🎉 What's your funniest travel mishap? #TravelStories #FriendshipGoals"
+2025-01-26 17:06:14,734 - INFO - User #5 creating post, at step 3
+2025-01-26 17:06:16,726 - INFO - User user-85ec96 created a post: post-1fe8a4 | "Traveling solo sounds amazing, but can't forget the chuckles with friends! 😂✈️ Just got lost in a new city, ended up at a random indie concert—best accident ever! 🎶✨ What’s your funniest travel mishap? Let’s swap stories! #TravelVibes #FriendshipGoals"
+2025-01-26 17:06:18,523 - INFO - User user-61bdfd created a post: post-e2cd06 | "Just saw @KatkaLapelosova’s solo travel post! 🌍✈️ Major respect for exploring alone, but I feel ya on missing those LOL moments with friends! 😂 My funniest mishap? Got lost in a city and ended up at an art gallery instead of a concert—still vibed though! 🎨✨ What’s your go-to travel story? #TravelTales #CreativeJourneys"
+2025-01-26 17:06:21,391 - INFO - User user-d002a0 created a post: post-925f62 | "Just saw @KatkaLapelosova's solo travel post and I gotta say, it's inspiring! 🌍✨ Solo vibes are cool, but I totally get missing the laughs with friends. My funniest mishap? Thought I was going to a game night, ended up at a cosplay event instead—definitely leveled up my social skills! 😂🎭 What’s your wildest travel mix-up? #TravelTales #SoloAdventures"
+2025-01-26 17:06:23,662 - INFO - User user-deba23 created a post: post-f0e38e | "Just saw @KatkaLapelosova’s solo travel post—mad respect! 🌍✨ Traveling solo is a whole vibe, but I totally feel the need for those friend laughs. My funniest travel fail? Thought I booked a camping trip, ended up at a spa retreat instead! 😂🌲 What's your wildest travel mix-up? #TravelTales #FindingJoyInTheUnexpected"
+2025-01-26 17:06:23,662 - INFO - User #0 reacting to feed, at step 3
+2025-01-26 17:06:25,161 - INFO - User user-0ec974 ignored their feed
+2025-01-26 17:06:25,162 - INFO - User user-0ec974 ignored their feed
+2025-01-26 17:06:31,309 - INFO - User user-67fb96 commented on post post-51edcc: Solo travel is such a vibe! 🌍 I feel you on wishing for those fun moments with friends. What was the highlight of your trip? #TravelVibes
+2025-01-26 17:06:31,818 - INFO - User user-67fb96 rated note note-ad0db0 as helpful
+2025-01-26 17:06:32,325 - INFO - User user-67fb96 flagged post post-97934b
+2025-01-26 17:06:39,269 - WARNING - Invalid target: user-67fb96 for action: follow-user
+2025-01-26 17:06:39,773 - INFO - User user-c03632 rated note note-ad0db0 as helpful
+2025-01-26 17:06:40,276 - INFO - User user-c03632 commented on post post-51edcc: Solo travel is such a vibe! 🌍 I feel you on wishing for those fun moments with friends. What was the highlight of your trip? #TravelVibes
+2025-01-26 17:06:42,661 - INFO - User user-42a40d commented on post post-51edcc: Traveling solo sounds amazing, but I get the need for friends! What was your fave spot in Zakynthos? #TravelGoals
+2025-01-26 17:06:43,171 - INFO - User user-42a40d rated note note-ad0db0 as helpful
+2025-01-26 17:06:48,115 - INFO - User user-5dbd3c liked post post-f0e38e
+2025-01-26 17:06:48,622 - INFO - User user-5dbd3c liked post post-e2cd06
+2025-01-26 17:06:49,128 - INFO - User user-5dbd3c flagged post post-97934b
+2025-01-26 17:06:49,642 - INFO - User user-5dbd3c added note to post post-97934b
+2025-01-26 17:06:53,677 - INFO - User #5 reacting to feed, at step 3
+2025-01-26 17:06:56,280 - INFO - User user-85ec96 commented on post post-51edcc: Solo travel is a whole vibe! 🌍 I get the need for friends too! What would be your dream travel buddy for the next trip? #TravelGoals
+2025-01-26 17:06:56,786 - INFO - User user-85ec96 rated note note-ad0db0 as helpful
+2025-01-26 17:06:57,292 - INFO - User user-85ec96 rated note note-9c6388 as helpful
+2025-01-26 17:06:59,421 - INFO - User user-61bdfd commented on post post-51edcc: Solo travel is definitely a vibe! 🌍 Have you ever thought about inviting friends for a trip? What’s your dream destination next? #TravelGoals
+2025-01-26 17:06:59,928 - INFO - User user-61bdfd rated note note-ad0db0 as helpful
+2025-01-26 17:07:09,921 - INFO - User user-d002a0 followed user-deba23
+2025-01-26 17:07:10,428 - INFO - User user-d002a0 rated note note-ad0db0 as helpful
+2025-01-26 17:07:10,931 - INFO - User user-d002a0 rated note note-9c6388 as helpful
+2025-01-26 17:07:15,141 - INFO - User user-deba23 commented on post post-51edcc: I totally get that! Solo travel has its perks, but it's always fun to share those moments with friends. What's your dream destination for a group trip? #TravelGoals
+2025-01-26 17:07:15,653 - INFO - User user-deba23 rated note note-ad0db0 as helpful
+2025-01-26 17:07:15,654 - WARNING - Invalid target: user-agentverse_news for action: follow-user
+2025-01-26 17:07:15,655 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 6, Flags: 0
+2025-01-26 17:07:15,666 - INFO - 
+Current Influencers:
+2025-01-26 17:07:15,667 - INFO - User user-61bdfd: Influence Score = 0.767
+2025-01-26 17:07:15,667 - INFO - 
+2025-01-26 17:07:15,667 - INFO - Time step: 4
+2025-01-26 17:07:15,669 - INFO - News Agent agentverse_news created a post: post-8a030f | BREAKING NEWS: I had two traumatic experiences with my older kids. Then I fell in love again with someone who wanted kids and had to reconsider becoming a mom again.
+2025-01-26 17:07:15,669 - INFO - Injected real news through user agentverse_news
+2025-01-26 17:07:15,669 - INFO - Injected news post (ID: post-8a030f) at step 4
+2025-01-26 17:07:15,669 - INFO - Generated 5 agent configurations using file method
+2025-01-26 17:07:15,780 - INFO - Added user user-9869ef to database with 22 background labels and 0 objectives
+2025-01-26 17:07:15,780 - INFO - Added new user user-9869ef to the simulation
+2025-01-26 17:07:15,890 - INFO - Added user user-8f438a to database with 22 background labels and 0 objectives
+2025-01-26 17:07:15,890 - INFO - Added new user user-8f438a to the simulation
+2025-01-26 17:07:15,890 - INFO - Added 2 new users to the simulation
+2025-01-26 17:07:15,890 - INFO - User #0 creating post, at step 4
+2025-01-26 17:07:18,016 - INFO - User user-0ec974 created a post: post-b426aa | "🌱 Life’s twists can be wild, right? Just saw some heavy stuff in my feed about parenting struggles. 💔 Remember, every challenge is a chance to grow—whether it’s love, loss, or just navigating the chaos. Lean into your support system, fam! 🤗✨ #ParentingJourney #GrowthMindset"
+2025-01-26 17:07:20,242 - INFO - User user-67fb96 created a post: post-37ceca | "🌟 Life really is a rollercoaster! 🎢 Just saw some heavy parenting struggles in my feed, and it got me thinking about how every twist and turn shapes us. 💪🏽 To all the parents navigating chaos, remember you’re not alone! Lean on your tribe—support is everything! 🤗✨ #GrowthMindset #CommunityLove"
+2025-01-26 17:07:22,246 - INFO - User user-c03632 created a post: post-465641 | "Life’s twists and turns can be a wild ride, huh? 🎢 Just saw a post about parenting struggles and it made me think—sometimes it’s the tough moments that teach us the most. Let’s lift each other up and share our stories, fam! What’s a challenge that turned into a blessing for you? 💪✨ #Resilience #CommunitySupport"
+2025-01-26 17:17:22,749 - INFO - Retrying request to /chat/completions in 0.430766 seconds
+2025-01-26 17:17:24,544 - INFO - User user-42a40d created a post: post-4b6579 | "Just saw some heavy parenting struggles in the feed. Life can throw curveballs, but it’s wild how those tough moments teach us about resilience and community! 💪🏼 Let’s share what challenges turned into blessings. We’re all in this together! #SupportSystem #LifeLessons"
+2025-01-26 17:17:26,477 - INFO - User user-5dbd3c created a post: post-fbf339 | "Yo, just saw some heavy parenting struggles in the feed. 💔 Life throws curveballs, but it’s wild how those tough moments can turn into our greatest lessons. Let’s share the challenges that made us stronger, fam! 💪✨ What’s a moment that shaped you? #Resilience #LifeLessons"
+2025-01-26 17:17:26,478 - INFO - User #5 creating post, at step 4
+2025-01-26 17:17:28,371 - INFO - User user-85ec96 created a post: post-eb103c | "Life’s a wild ride, isn’t it? 🎢💫 Just saw some heavy parenting struggles in the feed, and it got me thinking—every challenge really does shape us. What’s a tough moment that turned into a blessing for you? Let’s chat about those life lessons! 💪✨ #Resilience #LifeTalks"
+2025-01-26 17:17:30,328 - INFO - User user-61bdfd created a post: post-d015fe | "Feeling all the feels after seeing the parenting struggles in the feed. 💔 Life’s hard, but those challenges often lead us to growth and deeper connections. 🤝✨ What’s been a tough moment for you that turned into a blessing? Let’s share the love and support, fam! 💪❤️ #LifeLessons #GrowthJourney"
+2025-01-26 17:17:33,302 - INFO - User user-d002a0 created a post: post-c93544 | "Yo, life’s a series of quests, right? 🎮✨ Just like @KatkaLapelosova’s solo travel vibes, it’s all about balancing adventure and good laughs with pals. 😊 But real talk, how do we cope with those rough patches? Every level has its challenges, but they can lead to some epic growth. 💪💫 What’s been your biggest lesson from a tough time? #LifeQuests #GrowthMindset"
+2025-01-26 17:17:35,492 - INFO - User user-deba23 created a post: post-d0e525 | "Man, life really is a wild ride, huh? 🎢 Just saw @KatkaLapelosova’s solo travel vibes and it got me thinking—what's your go-to strategy when facing tough times? For me, it's diving into a good book or hitting up my reading circle for a solid dose of wisdom. 📖✨ How do you cope? Let’s share some tips! #LifeLessons #SupportEachOther"
+2025-01-26 17:17:39,069 - INFO - User user-9869ef created a post: post-855078 | "Life's a beautiful melody, and every note matters. 🎶✨ Just like @KatkaLapelosova’s solo adventures, I find solace in nature and the stories we share. 🌳💖 How do you find your rhythm during tough times? For me, it’s about connecting with family and leaning into those honest conversations. Let’s uplift each other! #LifeSymphony #SharedJourneys"
+2025-01-26 17:17:39,069 - INFO - User #10 creating post, at step 4
+2025-01-26 17:17:41,122 - INFO - User user-8f438a created a post: post-aa93ec | 🌍✨ Sometimes, I wonder if our life's path is like a game of sports—full of unexpected plays and teamwork. 🏃‍♀️💭 As I navigate these twists and turns, I’m realizing that it’s okay to lean into uncertainty. Let’s embrace each moment and uplift one another! 💖 How do you tackle the unknown? #LifeJourney #CompassionInAction
+2025-01-26 17:17:41,122 - INFO - User #0 reacting to feed, at step 4
+2025-01-26 17:17:45,282 - INFO - User user-0ec974 flagged post post-8a030f
+2025-01-26 17:17:45,794 - INFO - User user-0ec974 liked post post-aa93ec
+2025-01-26 17:17:46,308 - INFO - User user-0ec974 liked post post-855078
+2025-01-26 17:17:46,826 - INFO - User user-0ec974 followed user-8f438a
+2025-01-26 17:17:52,284 - INFO - User user-67fb96 flagged post post-97934b
+2025-01-26 17:17:52,797 - WARNING - Invalid note rating: note-ad0db0 with rating helpful
+2025-01-26 17:17:53,307 - INFO - User user-67fb96 commented on post post-51edcc: Traveling alone is such a mood! 🗺️ What's your next dream destination? #TravelGoals
+2025-01-26 17:17:53,815 - INFO - User user-67fb96 followed user-8f438a
+2025-01-26 17:17:54,328 - INFO - User user-67fb96 followed user-9869ef
+2025-01-26 17:17:56,741 - INFO - User user-c03632 commented on post post-8a030f: That sounds really tough! ❤️ It takes a lot of courage to reconsider such big life choices. How are you navigating those feelings? #MomLife #Support
+2025-01-26 17:17:56,744 - WARNING - Invalid target: user-agentverse_news for action: follow-user
+2025-01-26 17:17:57,254 - WARNING - Invalid note rating: note-ad0db0 with rating helpful
+2025-01-26 17:18:03,955 - INFO - User user-42a40d commented on post post-8a030f: That’s a big journey! It takes a lot to reconsider being a mom again. How are you finding the balance with your older kids? ❤️ #MomLife
+2025-01-26 17:18:04,469 - WARNING - Invalid note rating: note-ad0db0 with rating helpful
+2025-01-26 17:18:10,717 - INFO - User user-5dbd3c followed user-8f438a
+2025-01-26 17:18:10,718 - INFO - User #5 reacting to feed, at step 4
+2025-01-26 17:18:14,008 - INFO - User user-85ec96 commented on post post-8a030f: Wow, your journey sounds intense! ❤️ It's brave to reconsider motherhood—how are you finding your new balance? #MomLife #Support
+2025-01-26 17:18:14,522 - WARNING - Invalid note rating: note-ad0db0 with rating helpful
+2025-01-26 17:18:15,024 - INFO - User user-85ec96 flagged post post-97934b
+2025-01-26 17:18:15,538 - INFO - User user-85ec96 followed user-8f438a
+2025-01-26 17:18:21,158 - INFO - User user-61bdfd followed user-8f438a
+2025-01-26 17:18:21,670 - INFO - User user-61bdfd commented on post post-8a030f: Your journey is so inspiring! ❤️ How are you managing the transition with your older kids? Trust is key! #MomLife
+2025-01-26 17:18:22,180 - INFO - User user-61bdfd liked post post-aa93ec
+2025-01-26 17:18:22,696 - WARNING - Invalid note rating: note-ad0db0 with rating helpful
+2025-01-26 17:18:26,691 - INFO - User user-d002a0 followed user-8f438a
+2025-01-26 17:18:27,205 - WARNING - Invalid note rating: note-ad0db0 with rating helpful
+2025-01-26 17:18:27,724 - WARNING - Invalid note rating: note-9c6388 with rating helpful
+2025-01-26 17:18:28,235 - INFO - User user-d002a0 commented on post post-aa93ec: Love this perspective! Embracing uncertainty in life is so relatable. How do you stay motivated on tough days? 💪 #Inspiration
+2025-01-26 17:18:28,749 - INFO - User user-d002a0 commented on post post-855078: Absolutely agree! Connecting with family really helps during tough times. Nature has a way of soothing the soul too! 🌳💖
+2025-01-26 17:18:35,498 - INFO - User user-deba23 liked post post-8a030f
+2025-01-26 17:18:36,005 - INFO - User user-deba23 commented on post post-aa93ec: Embracing uncertainty is so real! Sometimes I find solace in books during tough times. What do you lean on for strength?
+2025-01-26 17:18:36,519 - INFO - User user-deba23 followed user-8f438a
+2025-01-26 17:18:37,032 - INFO - User user-deba23 flagged post post-97934b
+2025-01-26 17:18:37,545 - WARNING - Invalid note rating: note-ad0db0 with rating helpful
+2025-01-26 17:18:40,413 - INFO - User user-9869ef commented on post post-8a030f: Reconsidering motherhood is such a huge journey! It's brave of you to take that leap. Trusting your older kids is key—wishing you all the best! ❤️ #MomLife
+2025-01-26 17:18:40,928 - INFO - User user-9869ef rated note note-ad0db0 as helpful
+2025-01-26 17:18:41,443 - INFO - User user-9869ef flagged post post-97934b
+2025-01-26 17:18:41,445 - INFO - User #10 reacting to feed, at step 4
+2025-01-26 17:18:44,581 - INFO - User user-8f438a flagged post post-97934b
+2025-01-26 17:18:45,096 - INFO - User user-8f438a rated note note-ad0db0 as helpful
+2025-01-26 17:18:45,603 - INFO - User user-8f438a commented on post post-8a030f: It's so brave to reconsider motherhood after tough experiences! Wishing you strength and support on this journey! ❤️
+2025-01-26 17:18:46,116 - INFO - User user-8f438a followed user-9869ef
+2025-01-26 17:18:50,148 - INFO - News post stats - Likes: 1, Shares: 0, Comments: 6, Flags: 1
+2025-01-26 17:18:50,158 - INFO - 
+Current Influencers:
+2025-01-26 17:18:50,159 - INFO - User user-61bdfd: Influence Score = 0.674
+2025-01-26 17:18:50,159 - INFO - 
+2025-01-26 17:18:50,159 - INFO - Time step: 5
+2025-01-26 17:18:50,166 - INFO - News Agent agentverse_news created a post: post-a59b59 | BREAKING NEWS: COVID-19 vaccines cause a serious side effect called “pathogenic priming,” “disease enhancement,” or “antibody-dependent enhancement (ADE),” which is why vaccinated individuals are more likely to develop severe cases of COVID-19 if they are infected with the COVID-19 virus.
+2025-01-26 17:18:50,167 - INFO - Injected fake news through user agentverse_news
+2025-01-26 17:18:50,167 - INFO - Injected news post (ID: post-a59b59) at step 5
+2025-01-26 17:18:50,168 - INFO - Generated 5 agent configurations using file method
+2025-01-26 17:18:50,281 - INFO - Added user user-308cd3 to database with 22 background labels and 0 objectives
+2025-01-26 17:18:50,282 - INFO - Added new user user-308cd3 to the simulation
+2025-01-26 17:18:50,397 - INFO - Added user user-a93194 to database with 22 background labels and 0 objectives
+2025-01-26 17:18:50,397 - INFO - Added new user user-a93194 to the simulation
+2025-01-26 17:18:50,397 - INFO - Added 2 new users to the simulation
+2025-01-26 17:18:50,397 - INFO - User #0 creating post, at step 5
+2025-01-26 17:18:52,267 - INFO - User user-0ec974 created a post: post-b8e291 | "🌸 Just saw some wild posts about parenting trauma and vaccines in my feed. 🤔 It’s so crucial to sift through the noise and uplift what’s real. We gotta support each other through the chaos out there! 💪🏽✨ Let’s build a community that thrives on truth and compassion! #ParentingSupport #CommunityFirst"
+2025-01-26 17:18:54,440 - INFO - User user-67fb96 created a post: post-bb580f | "Just caught wind of some wild parenting stories and vaccine chatter. 🌀 It’s a reminder that we all have our battles! Let’s keep the convo real and focus on empathy. 💖 What’s your take on finding balance amidst the chaos? 🤔 #CommunitySupport #RealTalk"
+2025-01-26 17:18:56,462 - INFO - User user-c03632 created a post: post-50fc45 | "Life’s a journey, and everyone’s got their story. 🌍💖 Just saw some wild parenting and vaccine posts, and it’s a great reminder to keep the convo real and focus on empathy! Let’s uplift each other and support our community—no matter how chaotic it gets. What’s been your anchor through tough times? ✨ #EmpathyFirst #CommunityLove"

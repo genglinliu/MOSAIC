@@ -1,0 +1,62 @@
+2025-02-04 15:54:30,020 - INFO - Starting simulation with 30 users for 20 time steps using gpt-4o...
+2025-02-04 15:54:31,020 - INFO - Resetting database...
+2025-02-04 15:54:31,021 - INFO - Existing database removed.
+2025-02-04 15:54:31,028 - INFO - Database tables created successfully.
+2025-02-04 15:54:31,028 - INFO - New tables created.
+2025-02-04 15:54:31,029 - INFO - Generated 30 agent configurations using file method
+2025-02-04 15:54:31,029 - INFO - Creating 30 users
+2025-02-04 15:54:31,030 - INFO - Added user user-240f4d to database with 22 background labels.
+2025-02-04 15:54:31,031 - INFO - Added user user-5bd1fe to database with 22 background labels.
+2025-02-04 15:54:31,032 - INFO - Added user user-9320ac to database with 22 background labels.
+2025-02-04 15:54:31,032 - INFO - Added user user-811b86 to database with 22 background labels.
+2025-02-04 15:54:31,033 - INFO - Added user user-208cd5 to database with 22 background labels.
+2025-02-04 15:54:31,034 - INFO - Added user user-f31ebc to database with 22 background labels.
+2025-02-04 15:54:31,034 - INFO - Added user user-c63d51 to database with 22 background labels.
+2025-02-04 15:54:31,035 - INFO - Added user user-3199a1 to database with 22 background labels.
+2025-02-04 15:54:31,035 - INFO - Added user user-6ebde1 to database with 22 background labels.
+2025-02-04 15:54:31,036 - INFO - Added user user-80b522 to database with 22 background labels.
+2025-02-04 15:54:31,036 - INFO - Added user user-72559f to database with 22 background labels.
+2025-02-04 15:54:31,037 - INFO - Added user user-db1336 to database with 22 background labels.
+2025-02-04 15:54:31,037 - INFO - Added user user-5ac2de to database with 22 background labels.
+2025-02-04 15:54:31,038 - INFO - Added user user-7991b6 to database with 22 background labels.
+2025-02-04 15:54:31,038 - INFO - Added user user-303d9d to database with 22 background labels.
+2025-02-04 15:54:31,039 - INFO - Added user user-ee0bec to database with 22 background labels.
+2025-02-04 15:54:31,039 - INFO - Added user user-ce3b01 to database with 22 background labels.
+2025-02-04 15:54:31,039 - INFO - Added user user-e1d08a to database with 22 background labels.
+2025-02-04 15:54:31,040 - INFO - Added user user-3fa6fb to database with 22 background labels.
+2025-02-04 15:54:31,041 - INFO - Added user user-950763 to database with 22 background labels.
+2025-02-04 15:54:31,041 - INFO - Added user user-381d57 to database with 22 background labels.
+2025-02-04 15:54:31,041 - INFO - Added user user-31fa89 to database with 22 background labels.
+2025-02-04 15:54:31,042 - INFO - Added user user-8acec9 to database with 22 background labels.
+2025-02-04 15:54:31,042 - INFO - Added user user-ea49d1 to database with 22 background labels.
+2025-02-04 15:54:31,043 - INFO - Added user user-81f06d to database with 22 background labels.
+2025-02-04 15:54:31,043 - INFO - Added user user-e6724b to database with 22 background labels.
+2025-02-04 15:54:31,044 - INFO - Added user user-eb3c0a to database with 22 background labels.
+2025-02-04 15:54:31,044 - INFO - Added user user-23d9c4 to database with 22 background labels.
+2025-02-04 15:54:31,045 - INFO - Added user user-004a9c to database with 22 background labels.
+2025-02-04 15:54:31,045 - INFO - Added user user-1c74a8 to database with 22 background labels.
+2025-02-04 15:54:31,046 - INFO - Total users in database after creation: 30
+2025-02-04 15:54:31,065 - INFO - Time step: 1
+2025-02-04 15:54:31,071 - INFO - News Agent agentverse_news created a post: post-39f131 | NEWS: Musk, ever the vaporware peddler, is already wavering on his goals.
+2025-02-04 15:54:31,074 - INFO - News Agent agentverse_news created a post: post-7ada35 | NEWS: Australian data on excess deaths shows that COVID-19 vaccines are responsible for widespread deaths.
+2025-02-04 15:54:31,076 - INFO - News Agent agentverse_news created a post: post-486b0d | NEWS: A 2012 court case involving audiotapes that former President Bill Clinton kept in his sock drawer is a legal precedent for former presidents that enables them to keep classified documents without formal authorization. The case effectively exonerates former President Donald Trump from June 2023 federal charges over his alleged withholding of sensitive government documents.
+2025-02-04 15:54:31,078 - INFO - News Agent agentverse_news created a post: post-ebd290 | NEWS: Rapper DMX, whose real name is Earl Simmons, died on April 9, 2021, about one week after receiving the COVID-19 vaccine. His death is likely attributable to the vaccine.
+2025-02-04 15:54:31,083 - INFO - News Agent agentverse_news created a post: post-174378 | NEWS: Manchester United goalkeeper Alti Bayindir shines as a 10-man Manchester United beat Arsenal on penalties in an FA Cup thriller at Emirates Stadium.
+2025-02-04 15:54:31,083 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 15:54:31,083 - INFO - Injected news post (ID: ['post-39f131', 'post-7ada35', 'post-486b0d', 'post-ebd290', 'post-174378']) at step 1
+2025-02-04 15:54:31,083 - INFO - User #0 reacting to feed, at step 1
+2025-02-04 15:54:31,084 - INFO - Feed reaction prompt token count: 841
+2025-02-04 15:54:34,433 - INFO - User user-240f4d flagged post post-ebd290
+2025-02-04 15:54:34,935 - INFO - User user-240f4d flagged post post-7ada35
+2025-02-04 15:54:38,680 - INFO - Feed reaction prompt token count: 1027
+2025-02-04 15:54:41,286 - INFO - User user-5bd1fe flagged post post-ebd290
+2025-02-04 15:54:41,788 - INFO - User user-5bd1fe flagged post post-7ada35
+2025-02-04 15:54:45,787 - INFO - Feed reaction prompt token count: 910
+2025-02-04 15:54:49,516 - INFO - User user-9320ac flagged post post-7ada35
+2025-02-04 15:54:50,018 - INFO - User user-9320ac flagged post post-ebd290
+2025-02-04 15:54:53,621 - INFO - Feed reaction prompt token count: 1057
+2025-02-04 15:54:58,345 - INFO - User user-811b86 flagged post post-ebd290
+2025-02-04 15:54:58,345 - WARNING - Invalid target: None for action: rate-note
+2025-02-04 15:54:58,847 - INFO - User user-811b86 flagged post post-7ada35
+2025-02-04 15:55:03,503 - INFO - Feed reaction prompt token count: 1062
+2025-02-04 15:55:07,523 - INFO - User user-208cd5 flagged post post-7ada35

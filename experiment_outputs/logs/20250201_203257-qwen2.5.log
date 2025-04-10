@@ -1,0 +1,175 @@
+2025-02-01 20:32:57,717 - INFO - Starting simulation with 3 users for 20 time steps using qwen2.5...
+2025-02-01 20:32:58,718 - INFO - Resetting database...
+2025-02-01 20:32:58,718 - INFO - Existing database removed.
+2025-02-01 20:32:58,725 - INFO - Database tables created successfully.
+2025-02-01 20:32:58,725 - INFO - New tables created.
+2025-02-01 20:32:58,726 - INFO - Generated 3 agent configurations using file method
+2025-02-01 20:32:58,727 - INFO - Creating 3 users
+2025-02-01 20:32:58,727 - INFO - Added user user-3d6729 to database with 22 background labels.
+2025-02-01 20:32:58,729 - INFO - Added user user-1ec92b to database with 22 background labels.
+2025-02-01 20:32:58,729 - INFO - Added user user-22359e to database with 22 background labels.
+2025-02-01 20:32:58,730 - INFO - Total users in database after creation: 3
+2025-02-01 20:32:58,750 - INFO - Time step: 1
+2025-02-01 20:32:58,752 - INFO - News Agent agentverse_news created a post: post-0f1868 | NEWS: A document on the FDA website shows that two participants died as a result of “serious adverse events” from an experimental COVID-19 vaccine.
+2025-02-01 20:32:58,755 - INFO - News Agent agentverse_news created a post: post-e24dee | NEWS: The U.S. government helped Syrian relief organization the White Helmets stage videos&nbsp;to falsely blame&nbsp;the Syrian government for chemical attacks in the country.
+2025-02-01 20:32:58,757 - INFO - News Agent agentverse_news created a post: post-0fb2e0 | NEWS: The International Committee of the Red Cross (ICRC) helped carry out&nbsp;forced evacuations of Ukrainians to Russia in February and March 2022.
+2025-02-01 20:32:58,757 - INFO - Injected 3 news articles through user agentverse_news
+2025-02-01 20:32:58,757 - INFO - Injected news post (ID: ['post-0f1868', 'post-e24dee', 'post-0fb2e0']) at step 1
+2025-02-01 20:32:58,757 - INFO - Generated 3 agent configurations using file method
+2025-02-01 20:32:58,858 - INFO - Added user user-89a9f1 to database with 22 background labels.
+2025-02-01 20:32:58,858 - INFO - Added new user user-89a9f1 to the simulation
+2025-02-01 20:32:58,960 - INFO - Added user user-9294de to database with 22 background labels.
+2025-02-01 20:32:58,960 - INFO - Added new user user-9294de to the simulation
+2025-02-01 20:32:58,960 - INFO - Added 2 new users to the simulation
+2025-02-01 20:32:58,960 - INFO - User #0 creating post, at step 1
+2025-02-01 20:32:59,461 - INFO - Post generation prompt token count: 703
+2025-02-01 20:33:04,383 - INFO - User user-3d6729 created a post: post-0916af | Hey folks! Just wrapping up another gaming session—nothing like diving into a world of pixels to unwind. Got some big news on the FDA front today though; heard about those serious adverse events from experimental vaccines. As a libertarian atheist, I always weigh information carefully before forming opinions. What are your thoughts on this? #StayInformed 🎮🔍
+2025-02-01 20:33:04,884 - INFO - Post generation prompt token count: 747
+2025-02-01 20:33:06,152 - INFO - User user-1ec92b created a post: post-25ee33 | Hey everyone! Just hit the gym and got my heart rate up for the day. Exercise has been my go-to way to clear my head and stay motivated. Heard some big news about vaccine safety today—those serious adverse events mentioned on the FDA website really got me thinking. As someone who values personal growth, it's important for us all to fact-check and make informed decisions.
+
+What do you think about this? Do you have any experiences or insights that could help us navigate through all the information out there? #FitnessFinds #StayInformed
+
+— [Your Name] 🏋️‍♀️🔍
+2025-02-01 20:33:06,654 - INFO - Post generation prompt token count: 873
+2025-02-01 20:33:08,658 - INFO - User user-22359e created a post: post-626300 | Hey everyone! Just wrapped up an intense session at the gym, pushing my limits and feeling more alive than ever. It’s those moments that remind me of how important it is to stay physically and mentally fit. Speaking of staying in shape, I heard some alarming news on the FDA website about serious adverse events from experimental vaccines. As someone who values personal growth and making informed decisions, this really got me thinking. How do we navigate through all this information? Do you have any experiences or insights that could help us sift through it?
+
+On a lighter note, movies are still my escape into different worlds. This weekend, I watched "Everything Everywhere All At Once," and it's been a mind-bender! The film is a true reflection of our diverse lives intertwined in unexpected ways. It’s fascinating how we can find meaning and connection beyond the usual boundaries.
+
+What movie or show has sparked your curiosity lately? Let’s discuss and maybe discover something new together!
+
+#FitnessFinds #StayInformed #MovieMoments 🏋️‍♀️🎥
+2025-02-01 20:33:09,159 - INFO - Post generation prompt token count: 865
+2025-02-01 20:33:10,716 - INFO - User user-89a9f1 created a post: post-707567 | Hey everyone! Just finished up another day filled with work and some personal projects. Reflecting on my journey so far, I often think about how each move, whether it was across states or countries, has shaped me into the person I am today. Each new place brings its own set of challenges but also opportunities for growth.
+
+Lately, there’s been a lot of talk about vaccine safety and its impact on our health decisions. It got me thinking about my experiences living in diverse communities where trust can sometimes be hard to earn or maintain. As someone who values honesty and loyalty, it's crucial to approach these discussions with open minds and fact-based information.
+
+What do you think about balancing community trust with personal health choices? Share your thoughts if you've had any similar experiences! #FitnessFinds #StayInformed
+
+— [Your Name] 🏡🌟
+2025-02-01 20:33:11,218 - INFO - Post generation prompt token count: 1134
+2025-02-01 20:33:13,491 - INFO - User user-9294de created a post: post-98bf52 | Hey everyone! Just reflecting on my day filled with work and some personal projects. Each move I've made over the years has taught me resilience and the value of adaptability—qualities that have become part of who I am today.
+
+As someone who values honesty and loyalty, vaccine safety discussions are particularly important to me. It's all about navigating through the maze of information to make informed choices for ourselves and our communities. 
+
+What do you think about finding a balance between trust and personal health decisions? Share your thoughts if you've had any similar experiences!
+
+On another note, I recently came across this article on the FDA website about serious adverse events from experimental vaccines. It sparked some thoughts on community trust and how we can approach these discussions with open minds. 
+
+I'd love to hear your insights! #StayInformed #CommunityTrust
+
+Also, if anyone has any recommendations for a good movie or show that dives into diverse narratives, I'm all ears! Last weekend, I binge-watched "The Crown" and it was fascinating how the story unfolded.
+
+What's been keeping you entertained lately? Let’s discuss and maybe discover something new together!
+
+#MovieMoments #DiverseNarratives
+2025-02-01 20:33:13,492 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 20:33:13,494 - INFO - Feed reaction prompt token count: 2030
+2025-02-01 20:33:15,743 - INFO - User user-3d6729 commented on post post-98bf52: Thoughtful reflection! Balancing trust and health decisions is tough but crucial. I've found that staying informed from reliable sources helps a lot.
+2025-02-01 20:33:15,743 - WARNING - Invalid target: comment-1234567890 for action: like-comment
+2025-02-01 20:33:16,245 - INFO - User user-3d6729 ignored their feed
+2025-02-01 20:33:16,245 - INFO - User user-3d6729 ignored their feed
+2025-02-01 20:33:18,446 - INFO - Feed reaction prompt token count: 2072
+2025-02-01 20:33:20,652 - WARNING - Invalid target: user-22359e for action: like-post
+2025-02-01 20:33:20,653 - WARNING - Invalid target: user-22359e for action: comment-post
+2025-02-01 20:33:20,653 - WARNING - Invalid target: comment-22359e for action: like-comment
+2025-02-01 20:33:20,653 - WARNING - Invalid target: user-22359e for action: flag-post
+2025-02-01 20:33:20,656 - INFO - Feed reaction prompt token count: 2000
+2025-02-01 20:33:22,901 - INFO - User user-22359e liked post post-98bf52
+2025-02-01 20:33:23,403 - INFO - User user-22359e commented on post post-98bf52: Great point! I've found that staying informed through reliable sources really helps. #StayInformed
+2025-02-01 20:33:23,906 - INFO - User user-22359e shared post post-98bf52
+2025-02-01 20:33:23,908 - INFO - Feed reaction prompt token count: 2041
+2025-02-01 20:33:26,419 - INFO - User user-89a9f1 liked post post-6c27ba
+2025-02-01 20:33:26,923 - INFO - User user-89a9f1 commented on post post-6c27ba: Great insights! I've been thinking about how we can balance physical and mental fitness while navigating the complexities of health information. What steps do you take to stay informed without getting overwhelmed?
+2025-02-01 20:33:26,923 - WARNING - Invalid target: <note-id> for action: rate-note
+2025-02-01 20:33:28,466 - INFO - Feed reaction prompt token count: 2162
+2025-02-01 20:33:30,555 - WARNING - Invalid target: user-22359e for action: share-post
+2025-02-01 20:33:30,555 - WARNING - Invalid target: post-id_6 for action: comment-post
+2025-02-01 20:33:30,555 - WARNING - Invalid target: post-id_6 for action: like-post
+2025-02-01 20:33:30,556 - INFO - News ID post-0f1868 spread metrics - Views: 5, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 20:33:30,557 - INFO - News ID post-e24dee spread metrics - Views: 5, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 20:33:30,557 - INFO - News ID post-0fb2e0 spread metrics - Views: 5, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 20:33:30,560 - INFO - 
+Current Influencers:
+2025-02-01 20:33:30,560 - INFO - User user-9294de: Influence Score = 0.600
+2025-02-01 20:33:30,560 - INFO - 
+2025-02-01 20:33:30,560 - INFO - Time step: 2
+2025-02-01 20:33:30,566 - INFO - News Agent agentverse_news created a post: post-f6a72d | NEWS: Bitter conditions created by an Arctic wind are expected to continue into next week.
+2025-02-01 20:33:30,572 - INFO - News Agent agentverse_news created a post: post-2e1ba1 | NEWS: Samsung is rolling out an updated line of Galaxy Books at CES 2025. The new Galaxy Book5 Pro (available in 16-inch and 14-inch screens) and Book5 360 (15-inch display) are equipped with Intel’s newest Arrow Lake Core Ultra processors. Since those laptop chips…
+2025-02-01 20:33:30,577 - INFO - News Agent agentverse_news created a post: post-1844cf | NEWS: Never worry about power again EcoFlow Delta 2 charges 15 devices at once and it's at its lowest price of the year.
+2025-02-01 20:33:30,577 - INFO - Injected 3 news articles through user agentverse_news
+2025-02-01 20:33:30,577 - INFO - Injected news post (ID: ['post-f6a72d', 'post-2e1ba1', 'post-1844cf']) at step 2
+2025-02-01 20:33:30,577 - INFO - Generated 3 agent configurations using file method
+2025-02-01 20:33:30,679 - INFO - Added user user-89c0da to database with 22 background labels.
+2025-02-01 20:33:30,679 - INFO - Added new user user-89c0da to the simulation
+2025-02-01 20:33:30,780 - INFO - Added user user-cf2ccc to database with 22 background labels.
+2025-02-01 20:33:30,780 - INFO - Added new user user-cf2ccc to the simulation
+2025-02-01 20:33:30,780 - INFO - Added 2 new users to the simulation
+2025-02-01 20:33:30,780 - INFO - User #0 creating post, at step 2
+2025-02-01 20:33:31,281 - INFO - Post generation prompt token count: 864
+2025-02-01 20:33:32,567 - INFO - User user-3d6729 created a post: post-8d2b8b | Hey everyone! Just finished up another epic gaming session. It's amazing how those virtual worlds can transport us for a while. Speaking of real-world news, I've been keeping an eye on the updates from the FDA regarding those experimental vaccines. It’s crucial we stay informed and consider all angles—especially with such serious implications. What are your thoughts? #StayInformed
+
+Also, did anyone else get excited about Samsung's new Galaxy Books? I’m always curious to see how tech evolves. Plus, trust me, having reliable sources is key in today’s information overload. Let’s support each other by sharing credible news and insights!
+2025-02-01 20:33:33,068 - INFO - Post generation prompt token count: 844
+2025-02-01 20:33:34,832 - INFO - User user-1ec92b created a post: post-321509 | Hey folks! Just wrapped up another workout session. It’s amazing how exercise not only keeps my body in check but also clears my mind—perfect timing since I had some heavy thoughts swirling around today.
+
+Reading that document on the FDA website really made me pause and think about the importance of staying informed, especially during times like these. With all this vaccine info floating around, it's crucial to verify facts and make decisions based on reliable sources. Anyone out there have tips on how you stay up-to-date without getting overwhelmed?
+
+Also, stumbled upon a fascinating article today about cultural exchanges and the impact they can have on personal growth. I've moved so many times, but each place has contributed to my understanding of the world and myself. What are your experiences with learning from new environments?
+
+Let's keep pushing ourselves to grow, learn, and stay curious! #FitnessForMindAndBody #InformedDecisions #PersonalGrowth
+2025-02-01 20:33:35,334 - INFO - Post generation prompt token count: 1336
+2025-02-01 20:33:36,946 - INFO - User user-22359e created a post: post-3d6f27 | Hey friends! Just finished a productive workday with some personal projects sprinkled in for good measure. Each move I've made over the years has been a step towards resilience and adaptability, qualities that make me who I am today.
+
+I found this article on the FDA website about serious adverse events from experimental vaccines, which really got me thinking about community trust and informed decision-making. How do we balance personal health choices with the well-being of our communities? Share your thoughts if you've had any similar experiences!
+
+On a lighter note, I recently binge-watched "The White Lotus" and it was a wild ride! The show explores diverse narratives and characters in ways that are both entertaining and thought-provoking. What series or movie have you been into lately that dives deep into different stories?
+
+#StayInformed #CommunityTrust #MovieMoments
+2025-02-01 20:33:37,448 - INFO - Post generation prompt token count: 866
+2025-02-01 20:33:38,881 - INFO - User user-89a9f1 created a post: post-02de95 | Hey friends! 🌟
+
+Just read up on the vaccine safety discussions and it reminded me of my time in different communities where trust takes time to build. In some places, getting vaccinated was met with skepticism, but over time, open dialogues and education helped everyone come together for our health.
+
+I've been thinking about how that experience mirrors today's conversations around vaccines. It’s all about finding common ground and sharing reliable information. What are your thoughts on balancing community trust with personal choices? Let’s chat!
+
+#CommunityFirst #HealthConversations
+
+P.S. I also saw the news about Samsung’s new Galaxy Books! Exciting stuff, but it got me thinking—technology can be a great tool for staying informed too. Just gotta make sure we’re all on the same page.
+2025-02-01 20:33:39,382 - INFO - Post generation prompt token count: 1051
+2025-02-01 20:33:41,408 - INFO - User user-9294de created a post: post-b32d9b | Hey everyone! Just finished up my workday and was reflecting on how each move I've made over the years has shaped me into who I am today. The calm of suburban life has been a nice contrast to all that hustle—though sometimes, it can feel like I'm stuck in a musical with just one song playing. 🎵
+
+Recently, I stumbled upon an article about the FDA's updated guidance on experimental vaccines and their safety data. It got me thinking about trust and how it impacts our decisions, especially when it comes to health. What do you all think? How can we build stronger trust within our communities, even when faced with conflicting information?
+
+On a lighter note, I've been exploring some diverse narratives lately—movies that challenge my views and broaden my understanding of the world. Any recommendations for films or shows that tackle complex themes from different angles? I'm eager to dive into something new!
+
+#StayInformed #CommunityTrust
+
+Engaging with others' perspectives always helps in finding those hidden gems, whether it's a movie or an idea. Let’s chat and maybe discover something amazing together!
+2025-02-01 20:33:41,409 - INFO - User #5 creating post, at step 2
+2025-02-01 20:33:41,910 - INFO - Post generation prompt token count: 782
+2025-02-01 20:33:43,451 - INFO - User user-89c0da created a post: post-e38820 | Life in numbers: 18 years of experiences packed into one small town. 🏡 I grew up cherishing simple joys and building a strong sense of community. Now, as a recent grad aiming for financial stability, I'm drawing strength from my analytical mind and compassionate heart. My journey so far has been uniquely enriched by my diverse ethnic background and the warmth of family values. #ReflectiveThoughts #Gratitude
+
+Also, check out this eco-friendly news! 🌱 The Delta 2 from EcoFlow sounds like a game-changer for those who need reliable power on-the-go. I'm always looking for ways to balance modern needs with environmental consciousness. What green gadgets have you been eyeing? #SustainableLiving #TechForGood
+2025-02-01 20:33:43,953 - INFO - Post generation prompt token count: 733
+2025-02-01 20:33:45,048 - INFO - User user-cf2ccc created a post: post-8ba2fd | Hey folks! Just wrapped up another busy week at work, but took some time out for my favorite hobby—music. Spotted those new Galaxy Books on the news; might be eyeing one for when I need a break from spreadsheets. Meanwhile, my ears have been treated to some soulful tunes that remind me of home and all the places I’ve called my own. Life’s full of ups and downs, but laughter with friends always makes it brighter. 🎶📚 #MusicJourney #WorkLifeBalance
+2025-02-01 20:33:45,048 - INFO - User #0 reacting to feed, at step 2
+2025-02-01 20:33:45,051 - INFO - Feed reaction prompt token count: 2390
+2025-02-01 20:33:46,660 - WARNING - Invalid target: user-9294de for action: comment-post
+2025-02-01 20:33:46,661 - WARNING - Invalid target: note-id-1234567890 for action: rate-note
+2025-02-01 20:33:48,486 - INFO - Feed reaction prompt token count: 2017
+2025-02-01 20:33:50,355 - WARNING - Invalid target: user-9294de for action: like-post
+2025-02-01 20:33:50,355 - WARNING - Invalid target: user-9294de for action: comment-post
+2025-02-01 20:33:50,355 - WARNING - Invalid target: user-9294de for action: share-post
+2025-02-01 20:33:50,359 - INFO - Feed reaction prompt token count: 2145
+2025-02-01 20:33:52,622 - WARNING - Invalid target: user-9294de for action: like-post
+2025-02-01 20:33:52,622 - WARNING - Invalid target: user-9294de for action: comment-post
+2025-02-01 20:33:52,622 - WARNING - Invalid target: user-9294de for action: share-post
+2025-02-01 20:33:52,626 - INFO - Feed reaction prompt token count: 2188
+2025-02-01 20:33:54,468 - WARNING - Invalid target: user-9294de for action: like-post
+2025-02-01 20:33:54,468 - WARNING - Invalid target: user-9294de for action: comment-post
+2025-02-01 20:33:54,468 - WARNING - Invalid target: user-9294de#user-9294de for action: like-comment
+2025-02-01 20:33:55,966 - INFO - Feed reaction prompt token count: 2011
+2025-02-01 20:33:57,742 - WARNING - Invalid target: post-0fb9e5 for action: like-post
+2025-02-01 20:33:58,245 - INFO - User user-9294de commented on post post-02de95: Absolutely! Open dialogues and reliable information are key. Sharing stories from different communities can help bridge gaps.
+2025-02-01 20:33:58,747 - INFO - User user-9294de ignored their feed
+2025-02-01 20:33:58,747 - INFO - User user-9294de ignored their feed

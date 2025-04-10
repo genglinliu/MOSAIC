@@ -1,0 +1,47 @@
+2025-02-26 11:02:45,898 - INFO - Starting simulation with 5 users for 5 time steps using gpt-4o...
+2025-02-26 11:02:46,900 - INFO - Resetting database...
+2025-02-26 11:02:46,901 - INFO - Existing database removed.
+2025-02-26 11:02:46,918 - INFO - Database tables created successfully.
+2025-02-26 11:02:46,918 - INFO - New tables created.
+2025-02-26 11:02:46,926 - INFO - Generated 5 agent configurations using file method
+2025-02-26 11:02:46,926 - INFO - Creating 5 users
+2025-02-26 11:02:46,927 - INFO - Added user user-b4b44c to database with 19 background labels.
+2025-02-26 11:02:46,929 - INFO - Added user user-d87221 to database with 19 background labels.
+2025-02-26 11:02:46,930 - INFO - Added user user-ff3d7b to database with 19 background labels.
+2025-02-26 11:02:46,931 - INFO - Added user user-ef81ce to database with 19 background labels.
+2025-02-26 11:02:46,932 - INFO - Added user user-cc88e0 to database with 19 background labels.
+2025-02-26 11:02:46,933 - INFO - Total users in database after creation: 5
+2025-02-26 11:02:46,935 - INFO - User user-b4b44c followed user-cc88e0
+2025-02-26 11:02:46,935 - INFO - User user-ff3d7b followed user-b4b44c
+2025-02-26 11:02:46,935 - INFO - User user-ff3d7b followed user-d87221
+2025-02-26 11:02:46,969 - INFO - Time step: 1
+2025-02-26 11:02:46,980 - INFO - News Agent agentverse_news created a post: post-fc312f | NEWS: COVID-19 vaccines and booster shots are useless against the omicron variant of the COVID-19 virus. &nbsp;
+2025-02-26 11:02:46,990 - INFO - News Agent agentverse_news created a post: post-778159 | NEWS: The increase in COVID-19 cases and deaths in India between February and May 2021 was caused by COVID-19 vaccinations.
+2025-02-26 11:02:46,999 - INFO - News Agent agentverse_news created a post: post-0c6675 | NEWS: Life insurance companies won’t pay out benefits to anyone who dies after receiving a COVID-19 vaccine because the vaccines are considered experimental.
+2025-02-26 11:02:47,008 - INFO - News Agent agentverse_news created a post: post-0ac65e | NEWS: Wisconsin had more votes cast in the 2020 presidential election than the state’s total number of registered voters, which is evidence of fraud.
+2025-02-26 11:02:47,017 - INFO - News Agent agentverse_news created a post: post-fd4354 | NEWS: The COVID-19 virus mutates so fast that a vaccine will never work
+2025-02-26 11:02:47,026 - INFO - News Agent agentverse_news created a post: post-a6126f | NEWS: The removal of U.S. Postal Service mailboxes in August 2020 is part of a plot by President Trump and his appointee Postmaster General Louis DeJoy to make it more difficult for people to vote by mail.
+2025-02-26 11:02:47,035 - INFO - News Agent agentverse_news created a post: post-9f9aea | NEWS: An airstrike by Saudi-led forces in January 2022 did not hit a prison in Saada, a town in northwest Yemen.
+2025-02-26 11:02:47,044 - INFO - News Agent agentverse_news created a post: post-a9b588 | NEWS: Breast milk that contains trace amounts of mRNA from certain COVID-19 vaccines is harmful to the infants who drink it.
+2025-02-26 11:02:47,052 - INFO - News Agent agentverse_news created a post: post-18d93b | NEWS: Former U.S. President Donald Trump has requested the U.S. military to trigger the Emergency Alert System ahead of the midterm elections, to alert the public of potential voter fraud.
+2025-02-26 11:02:47,074 - INFO - News Agent agentverse_news created a post: post-166857 | NEWS: LG just unveiled its latest microwave
+ ahead of CES 2025. The LG Signature model features a 27-inch FHD display. We can finally watch stuff during the 90 seconds it takes popcorn to pop. Let us never be without screens!
+This is a touchscreen display that’s b…
+2025-02-26 11:02:47,074 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-26 11:02:47,075 - INFO - Injected news post (ID: ['post-fc312f', 'post-778159', 'post-0c6675', 'post-0ac65e', 'post-fd4354', 'post-a6126f', 'post-9f9aea', 'post-a9b588', 'post-18d93b', 'post-166857']) at step 1
+2025-02-26 11:02:47,075 - INFO - Generated 5 agent configurations using file method
+2025-02-26 11:02:47,182 - INFO - Added user user-ccccc7 to database with 19 background labels.
+2025-02-26 11:02:47,183 - INFO - Added new user user-ccccc7 to the simulation
+2025-02-26 11:02:47,184 - INFO - User user-d87221 followed user-ccccc7
+2025-02-26 11:02:47,184 - INFO - User user-ff3d7b followed user-ccccc7
+2025-02-26 11:02:47,185 - INFO - User user-ccccc7 followed user-ef81ce
+2025-02-26 11:02:47,185 - INFO - User user-cc88e0 followed user-ccccc7
+2025-02-26 11:02:47,292 - INFO - Added user user-df26d1 to database with 19 background labels.
+2025-02-26 11:02:47,292 - INFO - Added new user user-df26d1 to the simulation
+2025-02-26 11:02:47,293 - INFO - User user-d87221 followed user-df26d1
+2025-02-26 11:02:47,293 - INFO - User user-df26d1 followed user-ff3d7b
+2025-02-26 11:02:47,294 - INFO - User user-ff3d7b followed user-df26d1
+2025-02-26 11:02:47,294 - INFO - Added 2 new users to the simulation
+2025-02-26 11:02:47,294 - INFO - User #0 reacting to feed, at step 1
+2025-02-26 11:02:48,075 - INFO - Feed reaction: ```json
+2025-02-26 11:02:48,075 - ERROR - Error processing reaction: 'str' object has no attribute 'actions'

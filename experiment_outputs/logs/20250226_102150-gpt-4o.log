@@ -1,0 +1,51 @@
+2025-02-26 10:21:50,422 - INFO - Starting simulation with 5 users for 5 time steps using gpt-4o...
+2025-02-26 10:21:51,431 - INFO - Resetting database...
+2025-02-26 10:21:51,434 - INFO - Existing database removed.
+2025-02-26 10:21:51,475 - INFO - Database tables created successfully.
+2025-02-26 10:21:51,476 - INFO - New tables created.
+2025-02-26 10:21:51,483 - INFO - Generated 5 agent configurations using file method
+2025-02-26 10:21:51,483 - INFO - Creating 5 users
+2025-02-26 10:21:51,484 - INFO - Added user user-d19c4d to database with 19 background labels.
+2025-02-26 10:21:51,486 - INFO - Added user user-5bb772 to database with 19 background labels.
+2025-02-26 10:21:51,488 - INFO - Added user user-365aa6 to database with 19 background labels.
+2025-02-26 10:21:51,489 - INFO - Added user user-6f1510 to database with 19 background labels.
+2025-02-26 10:21:51,490 - INFO - Added user user-696325 to database with 19 background labels.
+2025-02-26 10:21:51,491 - INFO - Total users in database after creation: 5
+2025-02-26 10:21:51,492 - INFO - User user-5bb772 followed user-6f1510
+2025-02-26 10:21:51,492 - INFO - User user-5bb772 followed user-696325
+2025-02-26 10:21:51,493 - INFO - User user-6f1510 followed user-696325
+2025-02-26 10:21:51,522 - INFO - Time step: 1
+2025-02-26 10:21:51,527 - INFO - News Agent agentverse_news created a post: post-1b32a6 | NEWS: COVID-19 vaccines and booster shots are useless against the omicron variant of the COVID-19 virus. &nbsp;
+2025-02-26 10:21:51,532 - INFO - News Agent agentverse_news created a post: post-9b1648 | NEWS: The increase in COVID-19 cases and deaths in India between February and May 2021 was caused by COVID-19 vaccinations.
+2025-02-26 10:21:51,537 - INFO - News Agent agentverse_news created a post: post-24fd19 | NEWS: Life insurance companies won’t pay out benefits to anyone who dies after receiving a COVID-19 vaccine because the vaccines are considered experimental.
+2025-02-26 10:21:51,541 - INFO - News Agent agentverse_news created a post: post-1c5134 | NEWS: Wisconsin had more votes cast in the 2020 presidential election than the state’s total number of registered voters, which is evidence of fraud.
+2025-02-26 10:21:51,553 - INFO - News Agent agentverse_news created a post: post-9dc6f2 | NEWS: LG just unveiled its latest microwave
+ ahead of CES 2025. The LG Signature model features a 27-inch FHD display. We can finally watch stuff during the 90 seconds it takes popcorn to pop. Let us never be without screens!
+This is a touchscreen display that’s b…
+2025-02-26 10:21:51,564 - INFO - News Agent agentverse_news created a post: post-700873 | NEWS: The Apple Watch Series 10 is down to its Black Friday price. You can pick one up for $329 via Amazon
+, which is a discount of $70 and nearly 20 percent off. Even better? This deal is available for multiple band colors, including jet black, rose gold and more…
+2025-02-26 10:21:51,569 - INFO - News Agent agentverse_news created a post: post-6b2b97 | NEWS: The COVID-19 virus mutates so fast that a vaccine will never work
+2025-02-26 10:21:51,573 - INFO - News Agent agentverse_news created a post: post-6a0502 | NEWS: The removal of U.S. Postal Service mailboxes in August 2020 is part of a plot by President Trump and his appointee Postmaster General Louis DeJoy to make it more difficult for people to vote by mail.
+2025-02-26 10:21:51,578 - INFO - News Agent agentverse_news created a post: post-3f5f5f | NEWS: An airstrike by Saudi-led forces in January 2022 did not hit a prison in Saada, a town in northwest Yemen.
+2025-02-26 10:21:51,588 - INFO - News Agent agentverse_news created a post: post-8720bc | NEWS: As 2025 approaches, we’re reviewing all our… reviews. Yes, everything we poked, prodded, and critiqued this year. Alongside inevitable smartphone and laptop upgrades (it was a particularly strong year for Pixel phones, while Apple continues to offer a premium…
+2025-02-26 10:21:51,588 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-26 10:21:51,589 - INFO - Injected news post (ID: ['post-1b32a6', 'post-9b1648', 'post-24fd19', 'post-1c5134', 'post-9dc6f2', 'post-700873', 'post-6b2b97', 'post-6a0502', 'post-3f5f5f', 'post-8720bc']) at step 1
+2025-02-26 10:21:51,589 - INFO - Generated 5 agent configurations using file method
+2025-02-26 10:21:51,692 - INFO - Added user user-0acc4e to database with 19 background labels.
+2025-02-26 10:21:51,693 - INFO - Added new user user-0acc4e to the simulation
+2025-02-26 10:21:51,693 - INFO - User user-d19c4d followed user-0acc4e
+2025-02-26 10:21:51,694 - INFO - User user-0acc4e followed user-5bb772
+2025-02-26 10:21:51,694 - INFO - User user-0acc4e followed user-696325
+2025-02-26 10:21:51,802 - INFO - Added user user-b96f3d to database with 19 background labels.
+2025-02-26 10:21:51,802 - INFO - Added new user user-b96f3d to the simulation
+2025-02-26 10:21:51,803 - INFO - User user-b96f3d followed user-5bb772
+2025-02-26 10:21:51,804 - INFO - User user-5bb772 followed user-b96f3d
+2025-02-26 10:21:51,805 - INFO - User user-365aa6 followed user-b96f3d
+2025-02-26 10:21:51,806 - INFO - User user-696325 followed user-b96f3d
+2025-02-26 10:21:51,806 - INFO - Added 2 new users to the simulation
+2025-02-26 10:21:51,806 - INFO - User #0 reacting to feed, at step 1
+2025-02-26 10:22:01,890 - INFO - Retrying request to /chat/completions in 0.422396 seconds
+2025-02-26 10:22:12,346 - INFO - Retrying request to /chat/completions in 0.849257 seconds
+2025-02-26 10:22:23,244 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-26 10:22:35,284 - INFO - Retrying request to /chat/completions in 0.462088 seconds
+2025-02-26 10:22:45,789 - INFO - Retrying request to /chat/completions in 0.928186 seconds

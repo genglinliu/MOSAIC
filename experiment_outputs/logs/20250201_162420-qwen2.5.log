@@ -1,0 +1,22 @@
+2025-02-01 16:24:20,082 - INFO - Starting simulation with 2 users for 20 time steps using qwen2.5...
+2025-02-01 16:24:21,083 - INFO - Resetting database...
+2025-02-01 16:24:21,084 - INFO - Existing database removed.
+2025-02-01 16:24:21,091 - INFO - Database tables created successfully.
+2025-02-01 16:24:21,091 - INFO - New tables created.
+2025-02-01 16:24:21,094 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:24:21,094 - INFO - Creating 2 users
+2025-02-01 16:24:21,095 - INFO - Added user user-f6db16 to database with 22 background labels.
+2025-02-01 16:24:21,097 - INFO - Added user user-d420e4 to database with 22 background labels.
+2025-02-01 16:24:21,097 - INFO - Total users in database after creation: 2
+2025-02-01 16:24:21,123 - INFO - Time step: 1
+2025-02-01 16:24:21,134 - INFO - News Agent agentverse_news created a post: post-53c6da | BREAKING NEWS: A joke post on the Telegram channel for a right-wing paramilitary group reveals how the Russian internet is reacting to Elon Musks ‘salute.’
+2025-02-01 16:24:21,135 - INFO - Injected real news through user agentverse_news
+2025-02-01 16:24:21,135 - INFO - Injected news post (ID: post-53c6da) at step 1
+2025-02-01 16:24:21,135 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:24:21,237 - INFO - Added user user-145b1a to database with 22 background labels.
+2025-02-01 16:24:21,237 - INFO - Added new user user-145b1a to the simulation
+2025-02-01 16:24:21,339 - INFO - Added user user-0ef129 to database with 22 background labels.
+2025-02-01 16:24:21,339 - INFO - Added new user user-0ef129 to the simulation
+2025-02-01 16:24:21,339 - INFO - Added 2 new users to the simulation
+2025-02-01 16:24:21,340 - INFO - User #0 creating post, at step 1
+2025-02-01 16:24:28,205 - INFO - Post generation prompt token count: 615

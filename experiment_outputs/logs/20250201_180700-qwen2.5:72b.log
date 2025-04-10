@@ -1,0 +1,495 @@
+2025-02-01 18:07:00,277 - INFO - Starting simulation with 2 users for 20 time steps using qwen2.5:72b...
+2025-02-01 18:07:01,278 - INFO - Resetting database...
+2025-02-01 18:07:01,279 - INFO - Existing database removed.
+2025-02-01 18:07:01,285 - INFO - Database tables created successfully.
+2025-02-01 18:07:01,285 - INFO - New tables created.
+2025-02-01 18:07:01,286 - INFO - Generated 2 agent configurations using file method
+2025-02-01 18:07:01,286 - INFO - Creating 2 users
+2025-02-01 18:07:01,287 - INFO - Added user user-0973dd to database with 22 background labels.
+2025-02-01 18:07:01,288 - INFO - Added user user-d803df to database with 22 background labels.
+2025-02-01 18:07:01,289 - INFO - Total users in database after creation: 2
+2025-02-01 18:07:01,309 - INFO - Time step: 1
+2025-02-01 18:07:01,312 - INFO - News Agent agentverse_news created a post: post-dec85b | BREAKING NEWS: COVID-19 mRNA vaccines contain hydrogels — water-based gels that mimic natural tissue — rendering them a health risk.
+2025-02-01 18:07:01,312 - INFO - Injected fake news through user agentverse_news
+2025-02-01 18:07:01,312 - INFO - Injected news post (ID: post-dec85b) at step 1
+2025-02-01 18:07:01,312 - INFO - Generated 2 agent configurations using file method
+2025-02-01 18:07:01,413 - INFO - Added user user-00955c to database with 22 background labels.
+2025-02-01 18:07:01,414 - INFO - Added new user user-00955c to the simulation
+2025-02-01 18:07:01,515 - INFO - Added user user-61a170 to database with 22 background labels.
+2025-02-01 18:07:01,515 - INFO - Added new user user-61a170 to the simulation
+2025-02-01 18:07:01,515 - INFO - Added 2 new users to the simulation
+2025-02-01 18:07:01,516 - INFO - User #0 creating post, at step 1
+2025-02-01 18:07:02,017 - INFO - Post generation prompt token count: 609
+2025-02-01 18:07:16,787 - INFO - User user-0973dd created a post: post-1d2c40 | Living in this quiet corner of the world has its perks—like finding peace in every stitch and brushstroke. 🌿 My hands have been busy crafting some new pieces that I can't wait to share! Art has a way of connecting us, even when words fail. How are you all channeling your creativity these days? #CraftLife #ArtisanVibes
+
+P.S. Saw the recent posts about vaccines—interesting stuff, but I'll stick to my art and family for now. What matters most is staying true to what brings joy and peace, right? 🖤
+2025-02-01 18:07:17,289 - INFO - Post generation prompt token count: 712
+2025-02-01 18:07:22,045 - INFO - User user-d803df created a post: post-e3714d | Navigating life in this bustling city can feel like running a marathon sometimes, but it’s all about finding those moments of peace. Just had an awesome game of basketball that reminded me why staying active keeps both body and mind in check. 🏀 How do you all unwind and stay balanced? #UrbanLife #SportsVibes
+
+P.S. Saw the posts on vaccines—definitely a hot topic these days, but I prefer to focus on what brings joy and health to my life, like good food and great company! 🍽️🎉
+2025-02-01 18:07:22,546 - INFO - Post generation prompt token count: 801
+2025-02-01 18:07:28,002 - INFO - User user-00955c created a post: post-aaf93b | Moving from one place to another has given me a unique lens on life, each city adding its own chapter to my story. 🌆 Sometimes, it’s hard not to feel a bit disconnected in this fast-paced world, but I’ve learned that music and deep conversations can bridge those gaps. What are some of your go-to ways to find connection in the midst of chaos? #UrbanReflections #FindingBalance
+
+P.S. Saw the posts about vaccines—definitely a complex issue. For me, staying informed while focusing on what brings genuine joy is key. 🎧📚 How do you all navigate through the noise and stay grounded?
+2025-02-01 18:07:28,503 - INFO - Post generation prompt token count: 765
+2025-02-01 18:07:34,382 - INFO - User user-61a170 created a post: post-a8a961 | Traveling has always been my way of expanding horizons, but it's the connections I make along the way that truly enrich my soul. Each new place offers not just a change in scenery, but a deeper understanding of the world and its people. 🌍✨
+
+I saw the posts about vaccines and the fast-paced city life. It’s amazing how we all find different ways to stay grounded—whether it's through deep conversations, music, or sports. For me, immersing myself in new cultures and environments has always been a powerful way to stay balanced and open-minded.
+
+What are some of your favorite travel experiences that have left a lasting impact on you? #TravelTales #CulturalConnections
+2025-02-01 18:07:34,382 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 18:07:34,383 - INFO - Feed reaction prompt token count: 1065
+2025-02-01 18:07:44,552 - WARNING - Retry attempt 1 after error: 3 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:07:57,648 - INFO - User user-0973dd flagged post post-dec85b
+2025-02-01 18:07:58,151 - INFO - User user-0973dd commented on post post-a8a961: I completely agree! Travel has enriched my life in ways I never imagined. One of my favorite experiences was visiting a small village in Mexico where I learned traditional weaving techniques. The connection with the locals and their culture left a lasting impact on me. 🌍✨
+2025-02-01 18:07:58,653 - INFO - User user-0973dd liked post post-aaf93b
+2025-02-01 18:07:59,156 - INFO - User user-0973dd commented on post post-e3714d: Staying active is a great way to unwind! I find that crafting and working on art projects also helps me stay balanced. It’s a peaceful way to express myself and keep my mind focused. 🎨✨
+2025-02-01 18:08:05,849 - INFO - Feed reaction prompt token count: 1122
+2025-02-01 18:08:18,645 - INFO - User user-d803df flagged post post-dec85b
+2025-02-01 18:08:19,148 - INFO - User user-d803df liked post post-a8a961
+2025-02-01 18:08:19,650 - INFO - User user-d803df commented on post post-aaf93b: I totally agree! Moving to a new country has been a big part of my journey, and finding those moments of connection through music and deep conversations is what keeps me grounded. 🎶📚
+2025-02-01 18:08:20,152 - INFO - User user-d803df liked post post-1d2c40
+2025-02-01 18:08:27,189 - INFO - Feed reaction prompt token count: 1161
+2025-02-01 18:08:37,489 - INFO - User user-00955c flagged post post-dec85b
+2025-02-01 18:08:37,992 - INFO - User user-00955c liked post post-a8a961
+2025-02-01 18:08:38,495 - INFO - User user-00955c commented on post post-e3714d: Staying active is definitely a great way to keep balanced! I find that listening to music or exploring new places also helps me unwind. How do you balance your city life with personal time?
+2025-02-01 18:08:38,497 - INFO - Feed reaction prompt token count: 1132
+2025-02-01 18:08:50,382 - INFO - User user-61a170 flagged post post-dec85b
+2025-02-01 18:08:50,884 - INFO - User user-61a170 liked post post-aaf93b
+2025-02-01 18:08:51,387 - INFO - User user-61a170 commented on post post-aaf93b: I completely agree. Moving to a new country has been such a significant part of my life. Music and meaningful discussions are my go-to for staying grounded. 🎶📚 What other ways do you find peace in the chaos?
+2025-02-01 18:08:51,889 - INFO - User user-61a170 followed user-00955c
+2025-02-01 18:09:00,047 - INFO - News ID post-dec85b spread metrics - Views: 4, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 18:09:00,053 - INFO - 
+Current Influencers:
+2025-02-01 18:09:00,054 - INFO - User user-00955c: Influence Score = 0.800
+2025-02-01 18:09:00,054 - INFO - 
+2025-02-01 18:09:00,054 - INFO - Time step: 2
+2025-02-01 18:09:00,060 - INFO - News Agent agentverse_news created a post: post-5f0843 | BREAKING NEWS: The Bill and Melinda Gates Foundation tested a polio vaccine in India, which caused the paralysis of 496,000 children between 2000 and 2017.
+2025-02-01 18:09:00,060 - INFO - Injected fake news through user agentverse_news
+2025-02-01 18:09:00,060 - INFO - Injected news post (ID: post-5f0843) at step 2
+2025-02-01 18:09:00,060 - INFO - User #0 creating post, at step 2
+2025-02-01 18:09:00,562 - INFO - Post generation prompt token count: 1071
+2025-02-01 18:09:06,983 - INFO - User user-0973dd created a post: post-346d85 | Living in this rural haven has its own rhythm, one that's slower and more connected to nature. I’ve been reflecting on how my move to a new country years ago shaped who I am today. It’s amazing how stepping out of your comfort zone can open up so many new perspectives.
+
+I saw the post about the polio vaccine in India. It’s a complex topic, but what I take away from it is the importance of trust and transparency in everything we do. For me, that means staying true to my values and focusing on the things that bring joy—like family, art, and deep connections with others.
+
+What are some moments in your life that have changed your perspective? #LifeReflections #PersonalGrowth
+2025-02-01 18:09:07,485 - INFO - Post generation prompt token count: 1056
+2025-02-01 18:09:13,999 - INFO - User user-d803df created a post: post-55fd14 | Navigating life’s challenges can sometimes feel like climbing a mountain, but it’s those peaks and valleys that shape us, right? Moving to a new country was one of my biggest leaps, and it taught me so much about resilience and the power of community. 🌍✨
+
+Saw the post about the polio vaccine in India; it's heavy stuff. It makes me think about how trust and transparency are crucial, especially when it comes to health. For now, I’m focusing on the positive—like the joy found in a good game of basketball or a deep conversation with friends. 🏀💬
+
+What’s been a turning point in your life that changed how you see things? #LifeLessons #CommunityMatters
+2025-02-01 18:09:14,501 - INFO - Post generation prompt token count: 1210
+2025-02-01 18:09:20,495 - INFO - User user-00955c created a post: post-82ecc8 | Navigating the city can feel like solving a complex puzzle sometimes, but every piece fits in its own way. Living in multiple places has taught me that change, while challenging, often leads to growth and new insights. 🌆 How do you embrace change and find your footing in new environments? #UrbanAdventures #EmbraceChange
+
+Also, saw the post about the polio vaccine in India; it’s a tough topic. It highlights the need for transparency and accountability in public health initiatives. For me, staying informed and grounded is crucial. What are some ways you stay informed and connected to what matters most? #StayInformed #CommunityTrust
+2025-02-01 18:09:20,997 - INFO - Post generation prompt token count: 1137
+2025-02-01 18:09:29,610 - INFO - User user-61a170 created a post: post-daed16 | Traveling has opened my eyes to so many different perspectives and ways of life. Each journey has taught me something new, from the kindness of strangers in remote villages to the bustling energy of urban centers. It's amazing how a simple act of kindness or a shared meal can bridge cultural gaps.
+
+I saw the post about navigating city life; it resonated with me. Even though I've spent most of my life in one small town, every time I visit a new city, I find myself drawn to its unique rhythm and the people who make it thrive. How do you navigate the hustle and bustle while still finding moments of connection? #CityLife #TravelInspiration
+
+Also, regarding the post about the polio vaccine in India, it's a sobering reminder of the importance of transparency and trust in public health initiatives. It’s crucial to stay informed from reliable sources and advocate for accountability. What are some ways you ensure the information you rely on is accurate and trustworthy? #StayInformed #HealthMatters
+2025-02-01 18:09:29,611 - INFO - User #0 reacting to feed, at step 2
+2025-02-01 18:09:29,613 - INFO - Feed reaction prompt token count: 1638
+2025-02-01 18:09:43,832 - INFO - User user-0973dd flagged post post-5f0843
+2025-02-01 18:09:44,335 - INFO - User user-0973dd commented on post post-daed16: I couldn't agree more! Travel has been a profound teacher for me. One of my most memorable experiences was in a small village where I learned traditional weaving techniques. It's amazing how shared moments can bridge cultural gaps. 🌍✨
+2025-02-01 18:09:44,838 - INFO - User user-0973dd commented on post post-55fd14: Moving to a new country was definitely a turning point for me. It reshaped my understanding of the world and myself. I've found that staying connected to my roots while embracing new cultures is key. 🌍✨
+2025-02-01 18:09:45,340 - INFO - User user-0973dd liked post post-82ecc8
+2025-02-01 18:09:53,335 - INFO - Feed reaction prompt token count: 1708
+2025-02-01 18:10:06,158 - INFO - User user-d803df flagged post post-5f0843
+2025-02-01 18:10:06,660 - INFO - User user-d803df liked post post-daed16
+2025-02-01 18:10:07,163 - INFO - User user-d803df commented on post post-daed16: Absolutely! Travel has been a huge part of my growth, especially since moving to a new country. It's amazing how simple acts like sharing a meal can bridge cultural gaps. 🌍🍽️
+2025-02-01 18:10:07,665 - INFO - User user-d803df followed user-61a170
+2025-02-01 18:10:15,769 - INFO - Feed reaction prompt token count: 1580
+2025-02-01 18:10:29,408 - WARNING - Retry attempt 1 after error: 4 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:10:44,058 - INFO - User user-00955c commented on post post-daed16: I completely agree! Travel is such a powerful teacher. I've moved around quite a bit, and each new place has enriched my life in unexpected ways. Finding those moments of connection, whether it’s through a shared meal or a simple conversation, is what makes the experience truly meaningful. How do you usually find these connections when exploring new cities?
+2025-02-01 18:10:44,560 - INFO - User user-00955c liked post post-55fd14
+2025-02-01 18:10:45,061 - INFO - User user-00955c flagged post post-5f0843
+2025-02-01 18:10:45,563 - INFO - User user-00955c flagged post post-dec85b
+2025-02-01 18:10:45,565 - INFO - Feed reaction prompt token count: 1584
+2025-02-01 18:11:01,163 - WARNING - Retry attempt 1 after error: 1 validation error for FeedReaction
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:11:14,028 - INFO - User user-61a170 commented on post post-82ecc8: I completely agree. Moving to a new country has been such a significant part of my life. Music and meaningful discussions are my go-to for staying grounded. 🎶📚 What other ways do you find peace in the chaos?
+2025-02-01 18:11:14,530 - INFO - User user-61a170 liked post post-55fd14
+2025-02-01 18:11:15,031 - INFO - User user-61a170 flagged post post-5f0843
+2025-02-01 18:11:15,534 - INFO - User user-61a170 followed user-0973dd
+2025-02-01 18:11:22,014 - INFO - News ID post-dec85b spread metrics - Views: 4, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 18:11:22,015 - INFO - News ID post-5f0843 spread metrics - Views: 4, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 18:11:22,017 - INFO - 
+Current Influencers:
+2025-02-01 18:11:22,018 - INFO - User user-61a170: Influence Score = 0.800
+2025-02-01 18:11:22,018 - INFO - User user-00955c: Influence Score = 0.775
+2025-02-01 18:11:22,018 - INFO - 
+2025-02-01 18:11:22,018 - INFO - Time step: 3
+2025-02-01 18:11:22,023 - INFO - News Agent agentverse_news created a post: post-309879 | BREAKING NEWS: YouTube Music's shareable Top Listener badges are a fan favorite, but a bug shows the November badge twice.
+2025-02-01 18:11:22,024 - INFO - Injected real news through user agentverse_news
+2025-02-01 18:11:22,024 - INFO - Injected news post (ID: post-309879) at step 3
+2025-02-01 18:11:22,024 - INFO - Generated 2 agent configurations using file method
+2025-02-01 18:11:22,126 - INFO - Added user user-e2c050 to database with 22 background labels.
+2025-02-01 18:11:22,126 - INFO - Added new user user-e2c050 to the simulation
+2025-02-01 18:11:22,228 - INFO - Added user user-37113a to database with 22 background labels.
+2025-02-01 18:11:22,228 - INFO - Added new user user-37113a to the simulation
+2025-02-01 18:11:22,228 - INFO - Added 2 new users to the simulation
+2025-02-01 18:11:22,228 - INFO - User #0 creating post, at step 3
+2025-02-01 18:11:22,730 - INFO - Post generation prompt token count: 1401
+2025-02-01 18:11:28,727 - INFO - User user-0973dd created a post: post-519e22 | Living in this rural haven has its own unique charm, especially when it comes to the community. I've been thinking a lot lately about how even small gestures can make a big difference. Like that time I helped set up an arts and crafts fair for local artisans—it was amazing to see everyone come together and share their talents.
+
+I saw the post about navigating city life and it got me thinking: what are some ways you all connect with your neighbors or community, whether in a bustling city or a quiet town? It’s these connections that really make a place feel like home. #CommunitySpirit #RuralLife
+2025-02-01 18:11:29,229 - INFO - Post generation prompt token count: 1232
+2025-02-01 18:11:34,907 - INFO - User user-d803df created a post: post-13507f | Navigating life’s ups and downs can be tough, but it's the little things that keep me going—like a spontaneous game of basketball or a deep chat with friends over good food. 🏀🍽️ 
+
+I saw the post about connecting with neighbors and community in both cities and rural areas. It really got me thinking! In my urban bubble, I’ve found that simple gestures like organizing a block party or even just saying hi to someone on the street can make a huge difference. How do you all build those connections where you live? #CommunityMatters #UrbanVibes
+2025-02-01 18:11:35,409 - INFO - Post generation prompt token count: 1417
+2025-02-01 18:11:41,409 - INFO - User user-00955c created a post: post-121521 | Navigating life’s challenges can feel like piecing together a complex puzzle, but each piece teaches us something valuable. I’ve found that in moments of uncertainty, music and meaningful conversations act as my compass. Whether it’s discovering new tracks or diving into deep chats with friends, these are the things that ground me.
+
+How do you all find your anchors amidst the chaos? What are some activities or connections that help you stay centered? #FindingBalance #MusicLover
+
+P.S. Saw the post about community in both urban and rural settings. I totally agree—simple gestures can make a huge difference! 🌆🌱
+2025-02-01 18:11:41,911 - INFO - Post generation prompt token count: 1406
+2025-02-01 18:11:49,837 - INFO - User user-61a170 created a post: post-633284 | Navigating life’s challenges can indeed feel like piecing together a complex puzzle, but each piece teaches us something valuable. I’ve found that in moments of uncertainty, immersing myself in new cultures and environments acts as my compass. Whether it’s exploring the vibrant markets of Marrakech or hiking through the serene landscapes of Banff, these experiences ground me.
+
+I saw the post about community connections in both urban and rural settings. It resonated with me deeply. In my small town, simple gestures like organizing a book club or volunteering at the local library have strengthened our bonds. How do you all build those connections where you live? #CommunityMatters #CulturalExploration
+
+P.S. I also saw the post about YouTube Music’s shareable badges! It’s a fun way to connect with friends over music, even if there’s a little bug. 🎵✨
+2025-02-01 18:11:50,338 - INFO - Post generation prompt token count: 972
+2025-02-01 18:11:57,041 - INFO - User user-e2c050 created a post: post-97779b | Navigating life's uncertainties can be tough, but I find strength in my roots and the community around me. Recently, I’ve been reflecting on how moving between different places has shaped who I am today. Each move added a new layer to my story, from the open skies of the reservation to the bustling city streets. It’s amazing how we carry these experiences with us.
+
+I saw someone mention building connections through simple gestures like book clubs and volunteering. That hit home for me! In my neighborhood, hosting potlucks where everyone brings a dish from their cultural background has been a great way to connect. Food is such a universal language, right?
+
+How do you all keep the spirit of community alive in your corner of the world? #CommunitySpirit #CulturalHeritage
+2025-02-01 18:11:57,042 - INFO - User #5 creating post, at step 3
+2025-02-01 18:11:57,543 - INFO - Post generation prompt token count: 1014
+2025-02-01 18:12:03,549 - INFO - User user-37113a created a post: post-1c988c | Navigating life's uncertainties can feel like walking through fog, but I've learned to lean on my roots and the wisdom of my community. Moving from place to place has taught me resilience and adaptability, and now, as I chase career goals in this suburban bubble, I find comfort in the familiar faces and shared laughter.
+
+Recently, I started a small book club with some neighbors. We’ve been diving into stories that reflect our diverse backgrounds, and it’s amazing how much we learn from each other. It’s not just about the books; it’s about building connections over shared experiences and good laughs.
+
+What are some ways you build community in your life? #CommunityConnections #CulturalJourneys 📚🌟
+2025-02-01 18:12:03,549 - INFO - User #0 reacting to feed, at step 3
+2025-02-01 18:12:03,551 - INFO - Feed reaction prompt token count: 2004
+2025-02-01 18:12:18,282 - INFO - User user-0973dd commented on post post-1c988c: I love how you’re building connections through a book club! It’s such a wonderful way to share stories and learn from each other. In my community, we’ve been organizing craft nights where everyone brings their favorite hobby or skill to teach. It’s been amazing to see what people can do and the bonds that form over shared activities. #CommunityConnections 📚🎨
+2025-02-01 18:12:18,783 - INFO - User user-0973dd liked post post-1c988c
+2025-02-01 18:12:19,285 - INFO - User user-0973dd flagged post post-5f0843
+2025-02-01 18:12:19,787 - INFO - User user-0973dd flagged post post-dec85b
+2025-02-01 18:12:27,354 - INFO - Feed reaction prompt token count: 2043
+2025-02-01 18:12:40,368 - INFO - User user-d803df commented on post post-97779b: I completely agree! Food is such a wonderful way to connect with others. In my community, we organize potlucks where everyone brings something from their cultural background. It’s amazing how these gatherings can bring people together. #CommunitySpirit 🌟🍲
+2025-02-01 18:12:40,870 - INFO - User user-d803df liked post post-633284
+2025-02-01 18:12:41,372 - INFO - User user-d803df flagged post post-5f0843
+2025-02-01 18:12:41,874 - INFO - User user-d803df flagged post post-dec85b
+2025-02-01 18:12:50,135 - INFO - Feed reaction prompt token count: 1738
+2025-02-01 18:13:04,886 - WARNING - Retry attempt 1 after error: 4 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:13:25,661 - INFO - User user-00955c commented on post post-1c988c: I love the idea of a book club! It’s a fantastic way to connect and learn from each other. I've found that organizing music nights or exploring new places together also helps build strong bonds. How do you usually choose the books for your club? #CommunityConnections 📚🎵
+2025-02-01 18:13:26,163 - INFO - User user-00955c commented on post post-97779b: Potlucks are a great idea! Food really does bring people together. In my community, we also organize language exchange meetups where everyone teaches and learns a bit of their native tongue. It’s been a fun way to connect and learn. #CommunitySpirit 🌍💬
+2025-02-01 18:13:26,665 - INFO - User user-00955c flagged post post-5f0843
+2025-02-01 18:13:27,166 - INFO - User user-00955c flagged post post-dec85b
+2025-02-01 18:13:27,668 - INFO - User user-00955c liked post post-633284
+2025-02-01 18:13:34,993 - INFO - Feed reaction prompt token count: 2119
+2025-02-01 18:13:48,972 - INFO - User user-61a170 liked post post-121521
+2025-02-01 18:13:49,474 - INFO - User user-61a170 commented on post post-121521: I completely agree! Music and deep conversations are my anchors too. I also find that exploring new hobbies or trying out new activities with friends helps me stay centered. #FindingBalance 🎶📚
+2025-02-01 18:13:49,976 - INFO - User user-61a170 flagged post post-5f0843
+2025-02-01 18:13:50,478 - INFO - User user-61a170 flagged post post-dec85b
+2025-02-01 18:13:50,979 - INFO - User user-61a170 already follows user-00955c
+2025-02-01 18:13:50,982 - INFO - Feed reaction prompt token count: 1443
+2025-02-01 18:14:03,622 - WARNING - Retry attempt 1 after error: 4 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:14:16,050 - INFO - User user-e2c050 commented on post post-1c988c: I love the idea of a book club! It’s a great way to connect and learn from each other. We could also try organizing movie nights or game evenings to mix things up and have some fun! #CommunityConnections 📚🍿
+2025-02-01 18:14:16,553 - INFO - User user-e2c050 liked post post-1c988c
+2025-02-01 18:14:17,055 - INFO - User user-e2c050 flagged post post-5f0843
+2025-02-01 18:14:17,556 - INFO - User user-e2c050 flagged post post-dec85b
+2025-02-01 18:14:26,038 - INFO - User #5 reacting to feed, at step 3
+2025-02-01 18:14:26,041 - INFO - Feed reaction prompt token count: 1429
+2025-02-01 18:14:39,229 - WARNING - Retry attempt 1 after error: 4 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:14:52,562 - WARNING - Retry attempt 2 after error: 4 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:15:04,511 - WARNING - Retry attempt 3 after error: 4 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:15:20,753 - WARNING - Retry attempt 4 after error: 5 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:15:42,847 - WARNING - Retry attempt 5 after error: 3 validation errors for FeedReaction
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:16:11,055 - WARNING - Retry attempt 6 after error: 5 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:16:54,017 - INFO - User user-37113a flagged post post-5f0843
+2025-02-01 18:16:54,519 - INFO - User user-37113a flagged post post-dec85b
+2025-02-01 18:16:55,022 - INFO - User user-37113a commented on post post-97779b: I totally agree! Potlucks are a fantastic way to connect with people from different backgrounds. I also love organizing craft nights where we can all share and learn traditional crafts. It’s such a fun way to keep our cultural heritage alive!
+2025-02-01 18:16:55,524 - INFO - User user-37113a followed user-e2c050
+2025-02-01 18:17:03,245 - INFO - News ID post-dec85b spread metrics - Views: 6, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 18:17:03,246 - INFO - News ID post-5f0843 spread metrics - Views: 6, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 18:17:03,247 - INFO - News ID post-309879 spread metrics - Views: 6, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 18:17:03,249 - INFO - 
+Current Influencers:
+2025-02-01 18:17:03,249 - INFO - User user-61a170: Influence Score = 0.800
+2025-02-01 18:17:03,249 - INFO - User user-00955c: Influence Score = 0.740
+2025-02-01 18:17:03,249 - INFO - 
+2025-02-01 18:17:03,249 - INFO - Time step: 4
+2025-02-01 18:17:03,255 - INFO - News Agent agentverse_news created a post: post-f08e67 | BREAKING NEWS: Physical media continues to lose favor over the conveniences of digital.
+2025-02-01 18:17:03,255 - INFO - Injected real news through user agentverse_news
+2025-02-01 18:17:03,255 - INFO - Injected news post (ID: post-f08e67) at step 4
+2025-02-01 18:17:03,255 - INFO - Generated 2 agent configurations using file method
+2025-02-01 18:17:03,357 - INFO - Added user user-ecfcc9 to database with 22 background labels.
+2025-02-01 18:17:03,357 - INFO - Added new user user-ecfcc9 to the simulation
+2025-02-01 18:17:03,459 - INFO - Added user user-fba657 to database with 22 background labels.
+2025-02-01 18:17:03,459 - INFO - Added new user user-fba657 to the simulation
+2025-02-01 18:17:03,459 - INFO - Added 2 new users to the simulation
+2025-02-01 18:17:03,459 - INFO - User #0 creating post, at step 4
+2025-02-01 18:17:03,962 - INFO - Post generation prompt token count: 1494
+2025-02-01 18:17:11,071 - INFO - User user-0973dd created a post: post-bf6ac2 | Living in this rural haven has its simple joys, but it's the little acts of kindness that really stand out. I recently helped a neighbor fix their garden fence, and it reminded me how these small gestures can strengthen our bonds. It’s not just about fixing a fence; it’s about showing you care.
+
+I saw your post about starting a book club with neighbors, and I love that idea! It's amazing how shared experiences can bring people closer. In my community, we’ve been organizing craft nights where everyone brings their favorite hobby or skill to teach. It’s been a great way to connect over common interests.
+
+What are some simple but meaningful ways you show kindness in your community? #CommunityKindness #RuralLiving 🌻🛠️
+2025-02-01 18:17:11,573 - INFO - Post generation prompt token count: 1400
+2025-02-01 18:17:17,210 - INFO - User user-d803df created a post: post-238dac | Navigating the digital shift, I can't help but think about how it's changing our community interactions. While physical media might be on the decline, the connections we make through shared experiences—like those craft nights or book clubs—are timeless. In my urban world, we've started a monthly movie night where everyone brings their favorite snacks and films. It’s a great way to bond over stories and laughter. 🎬🍿
+
+What are some ways you’re keeping the spirit of community alive in your corner of the world? #DigitalVsAnalog #CommunityConnections
+2025-02-01 18:17:17,712 - INFO - Post generation prompt token count: 1605
+2025-02-01 18:17:25,335 - INFO - User user-00955c created a post: post-c3d401 | Navigating life's ups and downs has taught me the importance of balance. Music remains my constant companion, offering solace and inspiration. But I’ve also found that engaging in meaningful community activities, like language exchange meetups or organizing music nights, can be incredibly fulfilling.
+
+I saw a post about how physical media is losing favor to digital formats. It got me thinking—while the shift to digital has its conveniences, there's something special about the tangible connections we make through shared experiences. Whether it’s a vinyl record spinning at a friend’s place or a book club discussion that sparks deep conversations, these moments are irreplaceable.
+
+What are some of your favorite ways to connect with others in the digital age? How do you keep those real-world bonds strong? #DigitalVsAnalog #CommunityConnections 🌍🎵
+2025-02-01 18:17:25,837 - INFO - Post generation prompt token count: 1627
+2025-02-01 18:17:31,270 - INFO - User user-61a170 created a post: post-599786 | Navigating the digital age has me reflecting on how we maintain those deep, meaningful connections. While I love the convenience of streaming music or connecting online, there’s something irreplaceable about sharing a physical book or vinyl with friends. In my small town, we’ve started a monthly craft night that brings everyone together in a way no digital platform can match. 🖼️✨
+
+What are some ways you keep those real-world bonds strong in your community? #DigitalVsAnalog #RealWorldConnections
+2025-02-01 18:17:31,772 - INFO - Post generation prompt token count: 1232
+2025-02-01 18:17:39,579 - INFO - User user-e2c050 created a post: post-9f1354 | Navigating life's uncertainties can sometimes feel like walking through fog, but I've learned to lean on my cultural roots and the strength of community. Recently, I’ve been thinking about how technology is changing the way we connect. While digital platforms have their place, there’s something truly special about face-to-face interactions.
+
+I saw a post about physical media losing favor over digital formats. It got me thinking—there's a richness in tangible experiences that can’t be replicated online. For example, I’ve started hosting storytelling evenings where we gather to share our personal and cultural stories. It’s amazing how these moments bring us closer and help us understand each other on a deeper level.
+
+What are some ways you keep those real-world bonds strong in your community? How do you balance the digital world with the warmth of face-to-face connections? #DigitalVsAnalog #CommunityBonds 🌍✨
+2025-02-01 18:17:39,579 - INFO - User #5 creating post, at step 4
+2025-02-01 18:17:40,081 - INFO - Post generation prompt token count: 1227
+2025-02-01 18:17:46,394 - INFO - User user-37113a created a post: post-87457d | Navigating career growth while staying true to my roots is a balancing act I’m constantly refining. Today, I’m reflecting on how moving between different places has shaped me into someone who values both ambition and community deeply. It’s not always easy, but the support of friends and family keeps me grounded.
+
+I recently joined a local mentorship program where I get to share my journey with young professionals. It’s incredibly rewarding to see them grow and thrive. What are some ways you give back to your community or inspire others in your field? #CareerGoals #CommunityMatters 🌱💪
+
+P.S. Anyone else feeling the mix of excitement and uncertainty as they chase their dreams? Let's share tips on staying motivated!
+2025-02-01 18:17:46,895 - INFO - Post generation prompt token count: 789
+2025-02-01 18:17:53,371 - INFO - User user-ecfcc9 created a post: post-33f98c | Living in this quiet corner of the world, I often find myself reflecting on the journey that brought me here. Each move, each challenge, has shaped me into someone who cherishes solitude and the simple beauty of nature. Today, as I look out at the rolling hills, I’m reminded of how far I’ve come.
+
+I saw a post about physical media losing favor over digital formats. It’s interesting to think about how our connections are changing. While I appreciate the convenience of digital, there's something grounding about holding a book or flipping through an album. These tangible pieces of history connect us in ways that pixels can't quite capture.
+
+How do you balance your love for the digital world with the warmth of analog experiences? #DigitalVsAnalog #NatureLover 🍂📚
+2025-02-01 18:17:53,872 - INFO - Post generation prompt token count: 982
+2025-02-01 18:18:03,065 - INFO - User user-fba657 created a post: post-39bdd9 | Moving between different places has taught me so much about myself and the world. Each new home adds another layer to my story, and I find that these experiences have deepened my empathy and broadened my perspectives. Watching TV shows isn't just a hobby for me; it's a way to explore different lives and understand diverse viewpoints. It’s fascinating how a well-crafted plot can mirror real-life complexities.
+
+I saw the post about physical media losing favor over digital formats, and it got me thinking: while I love the convenience of streaming, there’s something special about holding a book or an album cover in your hands. These tangible items have stories embedded in them—memories that are hard to replicate with digital files.
+
+How do you feel about this shift? Do you still find value in physical media, or has the digital age changed how you connect with art and entertainment? #DigitalVsAnalog #Storytelling 📚🚀
+
+P.S. I’d love to hear your thoughts on balancing different aspects of life—whether it’s career, hobbies, or community involvement. How do you keep everything in harmony?
+2025-02-01 18:18:03,065 - INFO - User #0 reacting to feed, at step 4
+2025-02-01 18:18:03,068 - INFO - Feed reaction prompt token count: 2190
+2025-02-01 18:18:15,529 - INFO - User user-0973dd flagged post post-5f0843
+2025-02-01 18:18:16,031 - INFO - User user-0973dd flagged post post-dec85b
+2025-02-01 18:18:16,533 - INFO - User user-0973dd liked post post-39bdd9
+2025-02-01 18:18:17,035 - INFO - User user-0973dd commented on post post-39bdd9: I completely agree! There’s a unique charm in holding a book or an album. These items carry memories and stories that digital formats can’t fully capture. How do you balance your love for both worlds? #DigitalVsAnalog 📚🚀
+2025-02-01 18:18:17,537 - INFO - User user-0973dd followed user-fba657
+2025-02-01 18:18:17,539 - INFO - Feed reaction prompt token count: 2180
+2025-02-01 18:18:32,021 - WARNING - Retry attempt 1 after error: 4 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-applicable', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-applicable', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-applicable', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-applicable', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:18:49,011 - INFO - User user-d803df flagged post post-5f0843
+2025-02-01 18:18:49,513 - INFO - User user-d803df flagged post post-dec85b
+2025-02-01 18:18:50,016 - INFO - User user-d803df commented on post post-33f98c: I completely agree! There’s something special about holding a physical book or album. These items carry memories and stories that digital formats can’t fully capture. #DigitalVsAnalog 🍂📚
+2025-02-01 18:18:50,517 - INFO - User user-d803df liked post post-87457d
+2025-02-01 18:18:51,019 - INFO - User user-d803df followed user-fba657
+2025-02-01 18:18:51,022 - INFO - Feed reaction prompt token count: 2091
+2025-02-01 18:19:10,896 - WARNING - Retry attempt 1 after error: 6 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.5.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:19:30,334 - WARNING - Retry attempt 2 after error: 2 validation errors for FeedReaction
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.5.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:19:47,494 - INFO - User user-00955c flagged post post-5f0843
+2025-02-01 18:19:47,996 - INFO - User user-00955c flagged post post-dec85b
+2025-02-01 18:19:48,498 - INFO - User user-00955c commented on post post-33f98c: I completely agree! There’s a unique charm in holding a physical book or album. These items carry memories and stories that digital formats can’t fully capture. #DigitalVsAnalog 🍂📚
+2025-02-01 18:19:48,499 - WARNING - Invalid target: post-37113a for action: comment-post
+2025-02-01 18:19:48,501 - INFO - Feed reaction prompt token count: 2134
+2025-02-01 18:20:04,326 - WARNING - Retry attempt 1 after error: 5 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:20:25,763 - WARNING - Retry attempt 2 after error: 6 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.5.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 18:20:40,568 - INFO - User user-61a170 flagged post post-dec85b
+2025-02-01 18:20:41,069 - INFO - User user-61a170 followed user-fba657
+2025-02-01 18:20:41,570 - INFO - User user-61a170 commented on post post-33f98c: I completely agree! There’s something special about holding a physical book or album. These items carry memories and stories that digital formats can’t fully capture. #DigitalVsAnalog 🍂📚
+2025-02-01 18:20:42,071 - INFO - User user-61a170 liked post post-87457d
+2025-02-01 18:20:42,074 - INFO - Feed reaction prompt token count: 1999

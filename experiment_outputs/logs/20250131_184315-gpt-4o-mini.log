@@ -1,0 +1,24 @@
+2025-01-31 18:43:15,586 - INFO - Starting simulation with 2 users for 20 time steps using gpt-4o-mini...
+2025-01-31 18:43:16,595 - INFO - Resetting database...
+2025-01-31 18:43:16,597 - INFO - Existing database removed.
+2025-01-31 18:43:16,613 - INFO - Database tables created successfully.
+2025-01-31 18:43:16,613 - INFO - New tables created.
+2025-01-31 18:43:16,617 - INFO - Generated 2 agent configurations using file method
+2025-01-31 18:43:16,617 - INFO - Creating 2 users
+2025-01-31 18:43:16,619 - INFO - Added user user-9fcd53 to database with 22 background labels.
+2025-01-31 18:43:16,621 - INFO - Added user user-c95ffb to database with 22 background labels.
+2025-01-31 18:43:16,622 - INFO - Total users in database after creation: 2
+2025-01-31 18:43:16,663 - INFO - Time step: 1
+2025-01-31 18:43:16,664 - INFO - Generated 2 agent configurations using file method
+2025-01-31 18:43:16,771 - INFO - Added user user-640f3c to database with 22 background labels.
+2025-01-31 18:43:16,771 - INFO - Added new user user-640f3c to the simulation
+2025-01-31 18:43:16,874 - INFO - Added user user-b0cd7b to database with 22 background labels.
+2025-01-31 18:43:16,874 - INFO - Added new user user-b0cd7b to the simulation
+2025-01-31 18:43:16,874 - INFO - Added 2 new users to the simulation
+2025-01-31 18:43:16,874 - INFO - User #0 creating post, at step 1
+2025-01-31 18:43:19,446 - INFO - User user-9fcd53 created a post: post-709d98 | Feeling grateful today for the warmth of community and those moments we share that make life so rich. 🌼 It's a reminder that even in our small town, every laugh and conversation brings us closer together. As I reflect on my journey—through faith, love, and laughter—I’m reminded how much each bond matters. What are you thankful for this week? #CommunityMatters #Gratitude
+2025-01-31 18:43:22,445 - INFO - User user-c95ffb created a post: post-7f52db | "Sometimes I think about how the roads we travel shape who we are. In this small town, it’s easy to get caught up in familiar faces and stories we've heard a million times—but isn’t there something magical about stepping out of our comfort zones? 🌍 Whether it's an unexpected chat with a stranger or planning that next getaway, every experience adds another layer to my journey. What adventures have you embarked on lately?" #LifeJourney #ExploreMore
+2025-01-31 18:43:24,812 - INFO - User user-640f3c created a post: post-248547 | In a world that often feels like it's moving too fast, I find solace in the quiet moments—like curling up with a book and letting my mind wander through different worlds. 🌌 It's an introvert's escape but also a reminder of how stories connect us all. 
+2025-01-31 18:43:27,332 - INFO - User user-b0cd7b created a post: post-c49043 | Life’s a beautiful tapestry woven with threads of experience, and I've come to realize that it's the quiet moments—like savoring tea while watching the sunset—that often hold the most meaning. 🌅 Each sip reminds me of my heritage and those simple joys we sometimes overlook in our fast-paced world. Embracing both solitude and community enriches this journey. What little rituals bring you peace amidst life's chaos? #Mindfulness #CulturalRoots
+2025-01-31 18:43:27,333 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 18:43:47,361 - INFO - Retrying request to /chat/completions in 0.495881 seconds

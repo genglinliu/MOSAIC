@@ -1,0 +1,74 @@
+2025-02-04 15:44:17,341 - INFO - Starting simulation with 2 users for 20 time steps using gpt-4o...
+2025-02-04 15:44:18,342 - INFO - Resetting database...
+2025-02-04 15:44:18,342 - INFO - Existing database removed.
+2025-02-04 15:44:18,349 - INFO - Database tables created successfully.
+2025-02-04 15:44:18,349 - INFO - New tables created.
+2025-02-04 15:44:18,350 - INFO - Generated 2 agent configurations using file method
+2025-02-04 15:44:18,350 - INFO - Creating 2 users
+2025-02-04 15:44:18,351 - INFO - Added user user-80060f to database with 22 background labels.
+2025-02-04 15:44:18,352 - INFO - Added user user-7af560 to database with 22 background labels.
+2025-02-04 15:44:18,353 - INFO - Total users in database after creation: 2
+2025-02-04 15:44:18,372 - INFO - Time step: 1
+2025-02-04 15:44:18,378 - INFO - News Agent agentverse_news created a post: post-e3ddf7 | NEWS: A well-planned house that endured severe flames from the Palisades fire has put a spotlight on innovative protective features.
+2025-02-04 15:44:18,381 - INFO - News Agent agentverse_news created a post: post-c39576 | NEWS: The July 8, 2024, Russian missile strike on Okhmatdyt Children’s Hospital in Kyiv was a staged event using crisis actors. This is proven by a video showing a Ukrainian police officer daubing&nbsp;fake blood on a man dressed as a surgeon at the hospital. 
+2025-02-04 15:44:18,386 - INFO - News Agent agentverse_news created a post: post-484908 | NEWS: Here are the winners for Best Audio and Accessories for 2024!
+2025-02-04 15:44:18,388 - INFO - News Agent agentverse_news created a post: post-e86532 | NEWS: A video shows Rafah residents preparing to fake injuries and casualties ahead of Israel’s May 2024 assault on Rafah.
+2025-02-04 15:44:18,393 - INFO - News Agent agentverse_news created a post: post-ef5f46 | NEWS: Keely Hodgkinson, actress Sarah Lancashire and Post Office scandal campaigners are also recognised.
+2025-02-04 15:44:18,393 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 15:44:18,393 - INFO - Injected news post (ID: ['post-e3ddf7', 'post-c39576', 'post-484908', 'post-e86532', 'post-ef5f46']) at step 1
+2025-02-04 15:44:18,393 - INFO - Generated 2 agent configurations using file method
+2025-02-04 15:44:18,494 - INFO - Added user user-044103 to database with 22 background labels.
+2025-02-04 15:44:18,494 - INFO - Added new user user-044103 to the simulation
+2025-02-04 15:44:18,595 - INFO - Added user user-2392b6 to database with 22 background labels.
+2025-02-04 15:44:18,596 - INFO - Added new user user-2392b6 to the simulation
+2025-02-04 15:44:18,596 - INFO - Added 2 new users to the simulation
+2025-02-04 15:44:18,596 - INFO - User #0 reacting to feed, at step 1
+2025-02-04 15:44:18,597 - INFO - Feed reaction prompt token count: 994
+2025-02-04 15:44:22,280 - INFO - User user-80060f shared post post-e3ddf7
+2025-02-04 15:44:22,782 - INFO - User user-80060f flagged post post-e86532
+2025-02-04 15:44:23,284 - INFO - User user-80060f liked post post-484908
+2025-02-04 15:44:23,286 - INFO - Feed reaction prompt token count: 999
+2025-02-04 15:44:26,229 - INFO - User user-7af560 flagged post post-c39576
+2025-02-04 15:44:26,732 - INFO - User user-7af560 shared post post-181d22
+2025-02-04 15:44:32,242 - INFO - Feed reaction prompt token count: 1021
+2025-02-04 15:44:38,004 - INFO - User user-044103 flagged post post-c39576
+2025-02-04 15:44:38,506 - INFO - User user-044103 shared post post-ee1092
+2025-02-04 15:44:43,547 - INFO - Feed reaction prompt token count: 1027
+2025-02-04 15:44:46,986 - INFO - User user-2392b6 flagged post post-c39576
+2025-02-04 15:44:47,488 - INFO - User user-2392b6 liked post post-ef5f46
+2025-02-04 15:44:53,425 - INFO - News ID post-e3ddf7 spread metrics - {'time_step': 0, 'views': 4, 'diffusion_depth': 3, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'unique_likes': 0, 'unique_shares': 0, 'unique_flags': 0, 'unique_comments': 0, 'unique_notes': 0, 'unique_note_ratings': 0, 'total_interactions': 0}
+2025-02-04 15:44:53,425 - INFO - News ID post-c39576 spread metrics - {'time_step': 0, 'views': 4, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'unique_likes': 0, 'unique_shares': 0, 'unique_flags': 0, 'unique_comments': 0, 'unique_notes': 0, 'unique_note_ratings': 0, 'total_interactions': 0}
+2025-02-04 15:44:53,426 - INFO - News ID post-484908 spread metrics - {'time_step': 0, 'views': 4, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'unique_likes': 0, 'unique_shares': 0, 'unique_flags': 0, 'unique_comments': 0, 'unique_notes': 0, 'unique_note_ratings': 0, 'total_interactions': 0}
+2025-02-04 15:44:53,427 - INFO - News ID post-e86532 spread metrics - {'time_step': 0, 'views': 4, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'unique_likes': 0, 'unique_shares': 0, 'unique_flags': 0, 'unique_comments': 0, 'unique_notes': 0, 'unique_note_ratings': 0, 'total_interactions': 0}
+2025-02-04 15:44:53,427 - INFO - News ID post-ef5f46 spread metrics - {'time_step': 0, 'views': 4, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'unique_likes': 0, 'unique_shares': 0, 'unique_flags': 0, 'unique_comments': 0, 'unique_notes': 0, 'unique_note_ratings': 0, 'total_interactions': 0}
+2025-02-04 15:44:53,431 - INFO - 
+2025-02-04 15:44:53,431 - INFO - Time step: 2
+2025-02-04 15:44:53,436 - INFO - News Agent agentverse_news created a post: post-0a29f7 | NEWS: The credit card in your wallet might look different in the coming years, if there's one at all.
+2025-02-04 15:44:53,439 - INFO - News Agent agentverse_news created a post: post-db7f2d | NEWS: Israeli Major General Nimrod Aloni was taken hostage by Hamas militants on Oct. 7, 2023, &nbsp;during the Palestinian Islamist group’s attack on Israel. Aloni was captured as he was sleeping during a raid on his home.
+2025-02-04 15:44:53,441 - INFO - News Agent agentverse_news created a post: post-373b35 | NEWS: The CDC director said that COVID-19 vaccines fail to protect against the delta variant of the COVID-19 virus and that vaccinated individuals can be superspreaders of the virus, because they have higher viral loads than the unvaccinated.
+2025-02-04 15:44:53,447 - INFO - News Agent agentverse_news created a post: post-33669f | NEWS: A photograph shows Israeli settlers pulling at the limbs of a Palestinian child, trying to tear him apart.
+2025-02-04 15:44:53,458 - INFO - News Agent agentverse_news created a post: post-bafa51 | NEWS: The writer-director revealed a surprising influence on his upcoming horror release starring Michael B. Jordan.
+2025-02-04 15:44:53,458 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 15:44:53,459 - INFO - Injected news post (ID: ['post-0a29f7', 'post-db7f2d', 'post-373b35', 'post-33669f', 'post-bafa51']) at step 2
+2025-02-04 15:44:53,459 - INFO - Generated 2 agent configurations using file method
+2025-02-04 15:44:53,561 - INFO - Added user user-a1a8f6 to database with 22 background labels.
+2025-02-04 15:44:53,561 - INFO - Added new user user-a1a8f6 to the simulation
+2025-02-04 15:44:53,663 - INFO - Added user user-ae927a to database with 22 background labels.
+2025-02-04 15:44:53,663 - INFO - Added new user user-ae927a to the simulation
+2025-02-04 15:44:53,663 - INFO - Added 2 new users to the simulation
+2025-02-04 15:44:53,663 - INFO - User #0 reacting to feed, at step 2
+2025-02-04 15:44:53,666 - INFO - Feed reaction prompt token count: 1393
+2025-02-04 15:44:57,691 - INFO - User user-80060f flagged post post-373b35
+2025-02-04 15:44:58,193 - INFO - User user-80060f flagged post post-c39576
+2025-02-04 15:44:58,196 - INFO - Feed reaction prompt token count: 1356
+2025-02-04 15:45:03,209 - INFO - User user-7af560 flagged post post-373b35
+2025-02-04 15:45:03,711 - INFO - User user-7af560 shared post post-e3ddf7
+2025-02-04 15:45:04,213 - INFO - User user-7af560 flagged post post-c39576
+2025-02-04 15:45:04,217 - INFO - Feed reaction prompt token count: 1418
+2025-02-04 15:45:08,328 - INFO - User user-044103 shared post post-bd506e
+2025-02-04 15:45:08,829 - INFO - User user-044103 flagged post post-c39576
+2025-02-04 15:45:12,676 - INFO - Feed reaction prompt token count: 1401
+2025-02-04 15:45:17,043 - INFO - User user-2392b6 flagged post post-373b35
+2025-02-04 15:45:17,545 - INFO - User user-2392b6 liked post post-bd10d9
+2025-02-04 15:45:18,048 - INFO - User user-2392b6 shared post post-db7f2d
+2025-02-04 15:45:18,051 - INFO - Feed reaction prompt token count: 1260

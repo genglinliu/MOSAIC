@@ -1,0 +1,45 @@
+2025-02-26 10:27:05,863 - INFO - Starting simulation with 5 users for 5 time steps using gpt-4o...
+2025-02-26 10:27:06,869 - INFO - Resetting database...
+2025-02-26 10:27:06,870 - INFO - Existing database removed.
+2025-02-26 10:27:06,880 - INFO - Database tables created successfully.
+2025-02-26 10:27:06,880 - INFO - New tables created.
+2025-02-26 10:27:06,885 - INFO - Generated 5 agent configurations using file method
+2025-02-26 10:27:06,885 - INFO - Creating 5 users
+2025-02-26 10:27:06,886 - INFO - Added user user-c348d1 to database with 19 background labels.
+2025-02-26 10:27:06,887 - INFO - Added user user-dee83f to database with 19 background labels.
+2025-02-26 10:27:06,888 - INFO - Added user user-47df44 to database with 19 background labels.
+2025-02-26 10:27:06,889 - INFO - Added user user-cf43c3 to database with 19 background labels.
+2025-02-26 10:27:06,890 - INFO - Added user user-820258 to database with 19 background labels.
+2025-02-26 10:27:06,891 - INFO - Total users in database after creation: 5
+2025-02-26 10:27:06,892 - INFO - User user-dee83f followed user-47df44
+2025-02-26 10:27:06,924 - INFO - Time step: 1
+2025-02-26 10:27:06,932 - INFO - News Agent agentverse_news created a post: post-c363be | NEWS: COVID-19 vaccines and booster shots are useless against the omicron variant of the COVID-19 virus. &nbsp;
+2025-02-26 10:27:06,940 - INFO - News Agent agentverse_news created a post: post-08e0a2 | NEWS: The increase in COVID-19 cases and deaths in India between February and May 2021 was caused by COVID-19 vaccinations.
+2025-02-26 10:27:06,947 - INFO - News Agent agentverse_news created a post: post-d21e8c | NEWS: Life insurance companies won’t pay out benefits to anyone who dies after receiving a COVID-19 vaccine because the vaccines are considered experimental.
+2025-02-26 10:27:06,965 - INFO - News Agent agentverse_news created a post: post-0dec8b | NEWS: LG just unveiled its latest microwave
+ ahead of CES 2025. The LG Signature model features a 27-inch FHD display. We can finally watch stuff during the 90 seconds it takes popcorn to pop. Let us never be without screens!
+This is a touchscreen display that’s b…
+2025-02-26 10:27:06,973 - INFO - News Agent agentverse_news created a post: post-89849d | NEWS: Wisconsin had more votes cast in the 2020 presidential election than the state’s total number of registered voters, which is evidence of fraud.
+2025-02-26 10:27:06,980 - INFO - News Agent agentverse_news created a post: post-ceb208 | NEWS: The COVID-19 virus mutates so fast that a vaccine will never work
+2025-02-26 10:27:06,987 - INFO - News Agent agentverse_news created a post: post-317771 | NEWS: The removal of U.S. Postal Service mailboxes in August 2020 is part of a plot by President Trump and his appointee Postmaster General Louis DeJoy to make it more difficult for people to vote by mail.
+2025-02-26 10:27:06,995 - INFO - News Agent agentverse_news created a post: post-6a8388 | NEWS: An airstrike by Saudi-led forces in January 2022 did not hit a prison in Saada, a town in northwest Yemen.
+2025-02-26 10:27:07,002 - INFO - News Agent agentverse_news created a post: post-4bd867 | NEWS: Breast milk that contains trace amounts of mRNA from certain COVID-19 vaccines is harmful to the infants who drink it.
+2025-02-26 10:27:07,009 - INFO - News Agent agentverse_news created a post: post-a7e88f | NEWS: Former U.S. President Donald Trump has requested the U.S. military to trigger the Emergency Alert System ahead of the midterm elections, to alert the public of potential voter fraud.
+2025-02-26 10:27:07,009 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-26 10:27:07,010 - INFO - Injected news post (ID: ['post-c363be', 'post-08e0a2', 'post-d21e8c', 'post-0dec8b', 'post-89849d', 'post-ceb208', 'post-317771', 'post-6a8388', 'post-4bd867', 'post-a7e88f']) at step 1
+2025-02-26 10:27:07,010 - INFO - Generated 5 agent configurations using file method
+2025-02-26 10:27:07,117 - INFO - Added user user-e80dcb to database with 19 background labels.
+2025-02-26 10:27:07,117 - INFO - Added new user user-e80dcb to the simulation
+2025-02-26 10:27:07,118 - INFO - User user-e80dcb followed user-c348d1
+2025-02-26 10:27:07,119 - INFO - User user-dee83f followed user-e80dcb
+2025-02-26 10:27:07,119 - INFO - User user-e80dcb followed user-47df44
+2025-02-26 10:27:07,120 - INFO - User user-cf43c3 followed user-e80dcb
+2025-02-26 10:27:07,120 - INFO - User user-820258 followed user-e80dcb
+2025-02-26 10:27:07,227 - INFO - Added user user-72b641 to database with 19 background labels.
+2025-02-26 10:27:07,227 - INFO - Added new user user-72b641 to the simulation
+2025-02-26 10:27:07,227 - INFO - User user-dee83f followed user-72b641
+2025-02-26 10:27:07,228 - INFO - User user-cf43c3 followed user-72b641
+2025-02-26 10:27:07,228 - INFO - User user-820258 followed user-72b641
+2025-02-26 10:27:07,228 - INFO - Added 2 new users to the simulation
+2025-02-26 10:27:07,228 - INFO - User #0 reacting to feed, at step 1
+2025-02-26 10:27:17,507 - INFO - Retrying request to /chat/completions in 0.403480 seconds

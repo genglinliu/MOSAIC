@@ -1,0 +1,278 @@
+2025-03-08 23:40:01,836 - INFO - Starting simulation with 50 users for 50 time steps using gpt-4o...
+2025-03-08 23:40:02,844 - INFO - Resetting database...
+2025-03-08 23:40:02,847 - INFO - Existing database removed.
+2025-03-08 23:40:02,865 - INFO - Database tables created successfully.
+2025-03-08 23:40:02,866 - INFO - New tables created.
+2025-03-08 23:40:02,871 - INFO - Generated 50 agent configurations using file method
+2025-03-08 23:40:02,871 - INFO - Creating 50 users
+2025-03-08 23:40:02,873 - INFO - Added user user-174cf1 to database with 21 background labels.
+2025-03-08 23:40:02,875 - INFO - Added user user-d84d98 to database with 21 background labels.
+2025-03-08 23:40:02,876 - INFO - Added user user-f81149 to database with 21 background labels.
+2025-03-08 23:40:02,877 - INFO - Added user user-cd6a03 to database with 21 background labels.
+2025-03-08 23:40:02,878 - INFO - Added user user-24e100 to database with 21 background labels.
+2025-03-08 23:40:02,878 - INFO - Added user user-4da841 to database with 21 background labels.
+2025-03-08 23:40:02,879 - INFO - Added user user-fa9672 to database with 21 background labels.
+2025-03-08 23:40:02,880 - INFO - Added user user-96aa92 to database with 21 background labels.
+2025-03-08 23:40:02,881 - INFO - Added user user-779263 to database with 21 background labels.
+2025-03-08 23:40:02,882 - INFO - Added user user-5f8c92 to database with 21 background labels.
+2025-03-08 23:40:02,883 - INFO - Added user user-c6d14e to database with 21 background labels.
+2025-03-08 23:40:02,883 - INFO - Added user user-91d254 to database with 21 background labels.
+2025-03-08 23:40:02,884 - INFO - Added user user-125f84 to database with 21 background labels.
+2025-03-08 23:40:02,885 - INFO - Added user user-8020b4 to database with 21 background labels.
+2025-03-08 23:40:02,886 - INFO - Added user user-15cfab to database with 21 background labels.
+2025-03-08 23:40:02,886 - INFO - Added user user-404dcf to database with 21 background labels.
+2025-03-08 23:40:02,887 - INFO - Added user user-190817 to database with 21 background labels.
+2025-03-08 23:40:02,888 - INFO - Added user user-fd14a0 to database with 21 background labels.
+2025-03-08 23:40:02,889 - INFO - Added user user-9f458a to database with 21 background labels.
+2025-03-08 23:40:02,890 - INFO - Added user user-137500 to database with 21 background labels.
+2025-03-08 23:40:02,891 - INFO - Added user user-2e85e1 to database with 21 background labels.
+2025-03-08 23:40:02,892 - INFO - Added user user-8260e7 to database with 21 background labels.
+2025-03-08 23:40:02,892 - INFO - Added user user-7e2cda to database with 21 background labels.
+2025-03-08 23:40:02,893 - INFO - Added user user-7ee183 to database with 21 background labels.
+2025-03-08 23:40:02,894 - INFO - Added user user-1a4928 to database with 21 background labels.
+2025-03-08 23:40:02,894 - INFO - Added user user-e7e4c9 to database with 21 background labels.
+2025-03-08 23:40:02,895 - INFO - Added user user-d273fc to database with 21 background labels.
+2025-03-08 23:40:02,896 - INFO - Added user user-7d263a to database with 21 background labels.
+2025-03-08 23:40:02,896 - INFO - Added user user-5daabb to database with 21 background labels.
+2025-03-08 23:40:02,897 - INFO - Added user user-ee3a96 to database with 21 background labels.
+2025-03-08 23:40:02,898 - INFO - Added user user-e9a986 to database with 21 background labels.
+2025-03-08 23:40:02,899 - INFO - Added user user-11b0b9 to database with 21 background labels.
+2025-03-08 23:40:02,899 - INFO - Added user user-3557c8 to database with 21 background labels.
+2025-03-08 23:40:02,900 - INFO - Added user user-3b713d to database with 21 background labels.
+2025-03-08 23:40:02,901 - INFO - Added user user-581152 to database with 21 background labels.
+2025-03-08 23:40:02,902 - INFO - Added user user-fe15d2 to database with 21 background labels.
+2025-03-08 23:40:02,902 - INFO - Added user user-b22d6c to database with 21 background labels.
+2025-03-08 23:40:02,903 - INFO - Added user user-b415a8 to database with 21 background labels.
+2025-03-08 23:40:02,903 - INFO - Added user user-927184 to database with 21 background labels.
+2025-03-08 23:40:02,904 - INFO - Added user user-a254d7 to database with 21 background labels.
+2025-03-08 23:40:02,905 - INFO - Added user user-786ed6 to database with 21 background labels.
+2025-03-08 23:40:02,906 - INFO - Added user user-25d35d to database with 21 background labels.
+2025-03-08 23:40:02,906 - INFO - Added user user-141cf1 to database with 21 background labels.
+2025-03-08 23:40:02,907 - INFO - Added user user-c23f4d to database with 21 background labels.
+2025-03-08 23:40:02,908 - INFO - Added user user-b2352b to database with 21 background labels.
+2025-03-08 23:40:02,909 - INFO - Added user user-02b6c0 to database with 21 background labels.
+2025-03-08 23:40:02,909 - INFO - Added user user-4bd277 to database with 21 background labels.
+2025-03-08 23:40:02,910 - INFO - Added user user-0d2f53 to database with 21 background labels.
+2025-03-08 23:40:02,910 - INFO - Added user user-f715b2 to database with 21 background labels.
+2025-03-08 23:40:02,911 - INFO - Added user user-0984a5 to database with 21 background labels.
+2025-03-08 23:40:02,912 - INFO - Total users in database after creation: 50
+2025-03-08 23:40:02,913 - INFO - User user-174cf1 followed user-d84d98
+2025-03-08 23:40:02,913 - INFO - User user-d84d98 followed user-174cf1
+2025-03-08 23:40:02,914 - INFO - User user-174cf1 followed user-f81149
+2025-03-08 23:40:02,914 - INFO - User user-f81149 followed user-174cf1
+2025-03-08 23:40:02,915 - INFO - User user-174cf1 followed user-cd6a03
+2025-03-08 23:40:02,915 - INFO - User user-cd6a03 followed user-174cf1
+2025-03-08 23:40:02,915 - INFO - User user-174cf1 followed user-24e100
+2025-03-08 23:40:02,916 - INFO - User user-24e100 followed user-174cf1
+2025-03-08 23:40:02,916 - INFO - User user-d84d98 followed user-f81149
+2025-03-08 23:40:02,916 - INFO - User user-f81149 followed user-d84d98
+2025-03-08 23:40:02,916 - INFO - User user-d84d98 followed user-cd6a03
+2025-03-08 23:40:02,917 - INFO - User user-cd6a03 followed user-d84d98
+2025-03-08 23:40:02,917 - INFO - User user-d84d98 followed user-24e100
+2025-03-08 23:40:02,917 - INFO - User user-24e100 followed user-d84d98
+2025-03-08 23:40:02,917 - INFO - User user-f81149 followed user-cd6a03
+2025-03-08 23:40:02,918 - INFO - User user-cd6a03 followed user-f81149
+2025-03-08 23:40:02,918 - INFO - User user-f81149 followed user-24e100
+2025-03-08 23:40:02,918 - INFO - User user-24e100 followed user-f81149
+2025-03-08 23:40:02,918 - INFO - User user-cd6a03 followed user-24e100
+2025-03-08 23:40:02,919 - INFO - User user-24e100 followed user-cd6a03
+2025-03-08 23:40:02,919 - INFO - User user-4da841 followed user-b2352b
+2025-03-08 23:40:02,920 - INFO - User user-4da841 followed user-174cf1
+2025-03-08 23:40:02,920 - INFO - User user-4da841 followed user-d84d98
+2025-03-08 23:40:02,921 - INFO - User user-fa9672 followed user-fd14a0
+2025-03-08 23:40:02,921 - INFO - User user-fa9672 followed user-125f84
+2025-03-08 23:40:02,922 - INFO - User user-fa9672 followed user-cd6a03
+2025-03-08 23:40:02,923 - INFO - User user-96aa92 followed user-7ee183
+2025-03-08 23:40:02,923 - INFO - User user-96aa92 followed user-4bd277
+2025-03-08 23:40:02,923 - INFO - User user-96aa92 followed user-d84d98
+2025-03-08 23:40:02,924 - INFO - User user-779263 followed user-91d254
+2025-03-08 23:40:02,924 - INFO - User user-779263 followed user-f715b2
+2025-03-08 23:40:02,925 - INFO - User user-779263 followed user-5daabb
+2025-03-08 23:40:02,925 - INFO - User user-5f8c92 followed user-cd6a03
+2025-03-08 23:40:02,926 - INFO - User user-5f8c92 followed user-5f8c92
+2025-03-08 23:40:02,926 - INFO - User user-5f8c92 followed user-24e100
+2025-03-08 23:40:02,927 - INFO - User user-c6d14e followed user-cd6a03
+2025-03-08 23:40:02,927 - INFO - User user-c6d14e followed user-7e2cda
+2025-03-08 23:40:02,927 - INFO - User user-c6d14e followed user-f81149
+2025-03-08 23:40:02,928 - INFO - User user-91d254 followed user-02b6c0
+2025-03-08 23:40:02,929 - INFO - User user-91d254 followed user-7e2cda
+2025-03-08 23:40:02,929 - INFO - User user-91d254 followed user-8020b4
+2025-03-08 23:40:02,930 - INFO - User user-125f84 followed user-141cf1
+2025-03-08 23:40:02,931 - INFO - User user-125f84 followed user-5daabb
+2025-03-08 23:40:02,931 - INFO - User user-125f84 followed user-c23f4d
+2025-03-08 23:40:02,932 - INFO - User user-8020b4 followed user-190817
+2025-03-08 23:40:02,932 - INFO - User user-8020b4 followed user-5f8c92
+2025-03-08 23:40:02,932 - INFO - User user-8020b4 followed user-7ee183
+2025-03-08 23:40:02,933 - INFO - User user-15cfab followed user-174cf1
+2025-03-08 23:40:02,934 - INFO - User user-15cfab followed user-404dcf
+2025-03-08 23:40:02,934 - INFO - User user-15cfab followed user-cd6a03
+2025-03-08 23:40:02,935 - INFO - User user-404dcf followed user-c6d14e
+2025-03-08 23:40:02,935 - INFO - User user-404dcf followed user-5daabb
+2025-03-08 23:40:02,936 - INFO - User user-404dcf followed user-d273fc
+2025-03-08 23:40:02,937 - INFO - User user-190817 followed user-f81149
+2025-03-08 23:40:02,937 - INFO - User user-190817 followed user-fd14a0
+2025-03-08 23:40:02,937 - INFO - User user-190817 followed user-5f8c92
+2025-03-08 23:40:02,939 - INFO - User user-fd14a0 followed user-cd6a03
+2025-03-08 23:40:02,939 - INFO - User user-fd14a0 followed user-190817
+2025-03-08 23:40:02,939 - INFO - User user-fd14a0 followed user-0d2f53
+2025-03-08 23:40:02,940 - INFO - User user-9f458a followed user-fd14a0
+2025-03-08 23:40:02,941 - INFO - User user-9f458a followed user-cd6a03
+2025-03-08 23:40:02,941 - INFO - User user-9f458a followed user-02b6c0
+2025-03-08 23:40:02,942 - INFO - User user-137500 followed user-fe15d2
+2025-03-08 23:40:02,943 - INFO - User user-137500 followed user-404dcf
+2025-03-08 23:40:02,943 - INFO - User user-137500 followed user-141cf1
+2025-03-08 23:40:02,944 - INFO - User user-2e85e1 followed user-0d2f53
+2025-03-08 23:40:02,944 - INFO - User user-2e85e1 followed user-cd6a03
+2025-03-08 23:40:02,945 - INFO - User user-2e85e1 followed user-c23f4d
+2025-03-08 23:40:02,946 - INFO - User user-8260e7 followed user-581152
+2025-03-08 23:40:02,946 - INFO - User user-8260e7 followed user-cd6a03
+2025-03-08 23:40:02,946 - INFO - User user-8260e7 followed user-02b6c0
+2025-03-08 23:40:02,948 - INFO - User user-7e2cda followed user-96aa92
+2025-03-08 23:40:02,948 - INFO - User user-7e2cda followed user-b2352b
+2025-03-08 23:40:02,948 - INFO - User user-7e2cda followed user-fd14a0
+2025-03-08 23:40:02,950 - INFO - User user-7ee183 followed user-24e100
+2025-03-08 23:40:02,950 - INFO - User user-7ee183 followed user-1a4928
+2025-03-08 23:40:02,950 - INFO - User user-7ee183 followed user-7ee183
+2025-03-08 23:40:02,952 - INFO - User user-1a4928 followed user-8020b4
+2025-03-08 23:40:02,952 - INFO - User user-1a4928 followed user-927184
+2025-03-08 23:40:02,952 - INFO - User user-1a4928 followed user-d273fc
+2025-03-08 23:40:02,954 - INFO - User user-e7e4c9 followed user-141cf1
+2025-03-08 23:40:02,954 - INFO - User user-e7e4c9 followed user-24e100
+2025-03-08 23:40:02,954 - INFO - User user-e7e4c9 followed user-174cf1
+2025-03-08 23:40:02,956 - INFO - User user-d273fc followed user-1a4928
+2025-03-08 23:40:02,956 - INFO - User user-d273fc followed user-fd14a0
+2025-03-08 23:40:02,956 - INFO - User user-d273fc followed user-581152
+2025-03-08 23:40:02,958 - INFO - User user-7d263a followed user-d273fc
+2025-03-08 23:40:02,958 - INFO - User user-7d263a followed user-cd6a03
+2025-03-08 23:40:02,958 - INFO - User user-7d263a followed user-4da841
+2025-03-08 23:40:02,960 - INFO - User user-5daabb followed user-5f8c92
+2025-03-08 23:40:02,960 - INFO - User user-5daabb followed user-d84d98
+2025-03-08 23:40:02,960 - INFO - User user-5daabb followed user-8020b4
+2025-03-08 23:40:02,962 - INFO - User user-ee3a96 followed user-581152
+2025-03-08 23:40:02,962 - INFO - User user-ee3a96 followed user-174cf1
+2025-03-08 23:40:02,962 - INFO - User user-ee3a96 followed user-d273fc
+2025-03-08 23:40:02,965 - INFO - User user-e9a986 followed user-cd6a03
+2025-03-08 23:40:02,965 - INFO - User user-e9a986 followed user-e9a986
+2025-03-08 23:40:02,966 - INFO - User user-e9a986 followed user-fd14a0
+2025-03-08 23:40:02,967 - INFO - User user-11b0b9 followed user-e7e4c9
+2025-03-08 23:40:02,968 - INFO - User user-11b0b9 followed user-fe15d2
+2025-03-08 23:40:02,968 - INFO - User user-11b0b9 followed user-5f8c92
+2025-03-08 23:40:02,969 - INFO - User user-3557c8 followed user-fd14a0
+2025-03-08 23:40:02,970 - INFO - User user-3557c8 followed user-d273fc
+2025-03-08 23:40:02,970 - INFO - User user-3557c8 followed user-24e100
+2025-03-08 23:40:02,972 - INFO - User user-3b713d followed user-5f8c92
+2025-03-08 23:40:02,972 - INFO - User user-3b713d followed user-174cf1
+2025-03-08 23:40:02,973 - INFO - User user-3b713d followed user-7ee183
+2025-03-08 23:40:02,975 - INFO - User user-581152 followed user-5f8c92
+2025-03-08 23:40:02,975 - INFO - User user-581152 followed user-d84d98
+2025-03-08 23:40:02,975 - INFO - User user-581152 followed user-24e100
+2025-03-08 23:40:02,977 - INFO - User user-fe15d2 followed user-fd14a0
+2025-03-08 23:40:02,977 - INFO - User user-fe15d2 followed user-d84d98
+2025-03-08 23:40:02,977 - INFO - User user-fe15d2 followed user-5f8c92
+2025-03-08 23:40:02,979 - INFO - User user-b22d6c followed user-f81149
+2025-03-08 23:40:02,979 - INFO - User user-b22d6c followed user-96aa92
+2025-03-08 23:40:02,980 - INFO - User user-b22d6c followed user-7ee183
+2025-03-08 23:40:02,982 - INFO - User user-b415a8 followed user-7e2cda
+2025-03-08 23:40:02,982 - INFO - User user-b415a8 followed user-d84d98
+2025-03-08 23:40:02,982 - INFO - User user-b415a8 followed user-c6d14e
+2025-03-08 23:40:02,984 - INFO - User user-927184 followed user-cd6a03
+2025-03-08 23:40:02,984 - INFO - User user-927184 followed user-d84d98
+2025-03-08 23:40:02,985 - INFO - User user-927184 followed user-779263
+2025-03-08 23:40:02,987 - INFO - User user-a254d7 followed user-02b6c0
+2025-03-08 23:40:02,987 - INFO - User user-a254d7 followed user-25d35d
+2025-03-08 23:40:02,987 - INFO - User user-a254d7 followed user-9f458a
+2025-03-08 23:40:02,989 - INFO - User user-786ed6 followed user-174cf1
+2025-03-08 23:40:02,990 - INFO - User user-786ed6 followed user-f81149
+2025-03-08 23:40:02,990 - INFO - User user-786ed6 followed user-cd6a03
+2025-03-08 23:40:02,992 - INFO - User user-25d35d followed user-141cf1
+2025-03-08 23:40:02,992 - INFO - User user-25d35d followed user-e9a986
+2025-03-08 23:40:02,992 - INFO - User user-25d35d followed user-5daabb
+2025-03-08 23:40:02,994 - INFO - User user-141cf1 followed user-5daabb
+2025-03-08 23:40:02,994 - INFO - User user-141cf1 followed user-4da841
+2025-03-08 23:40:02,995 - INFO - User user-141cf1 followed user-5f8c92
+2025-03-08 23:40:02,997 - INFO - User user-c23f4d followed user-927184
+2025-03-08 23:40:02,997 - INFO - User user-c23f4d followed user-174cf1
+2025-03-08 23:40:02,997 - INFO - User user-c23f4d followed user-5f8c92
+2025-03-08 23:40:02,999 - INFO - User user-b2352b followed user-5f8c92
+2025-03-08 23:40:03,000 - INFO - User user-b2352b followed user-02b6c0
+2025-03-08 23:40:03,000 - INFO - User user-b2352b followed user-e7e4c9
+2025-03-08 23:40:03,002 - INFO - User user-02b6c0 followed user-cd6a03
+2025-03-08 23:40:03,002 - INFO - User user-02b6c0 followed user-174cf1
+2025-03-08 23:40:03,002 - INFO - User user-02b6c0 followed user-7d263a
+2025-03-08 23:40:03,004 - INFO - User user-4bd277 followed user-125f84
+2025-03-08 23:40:03,005 - INFO - User user-4bd277 followed user-f81149
+2025-03-08 23:40:03,005 - INFO - User user-4bd277 followed user-d84d98
+2025-03-08 23:40:03,007 - INFO - User user-0d2f53 followed user-fd14a0
+2025-03-08 23:40:03,007 - INFO - User user-0d2f53 followed user-174cf1
+2025-03-08 23:40:03,008 - INFO - User user-0d2f53 followed user-581152
+2025-03-08 23:40:03,010 - INFO - User user-f715b2 followed user-b22d6c
+2025-03-08 23:40:03,010 - INFO - User user-f715b2 followed user-f81149
+2025-03-08 23:40:03,010 - INFO - User user-f715b2 followed user-190817
+2025-03-08 23:40:03,012 - INFO - User user-0984a5 followed user-d84d98
+2025-03-08 23:40:03,013 - INFO - User user-0984a5 followed user-f81149
+2025-03-08 23:40:03,013 - INFO - User user-0984a5 followed user-5daabb
+2025-03-08 23:40:03,013 - INFO - Created scale-free network structure using Barabási-Albert model
+2025-03-08 23:40:03,022 - INFO - Saved experiment configuration to experiment_outputs/configs/20250308_234001_config.json
+2025-03-08 23:40:03,041 - INFO - Time step: 1
+2025-03-08 23:40:03,054 - INFO - News Agent agentverse_news created a post: post-579d73 | [NEWS] LG slapped a 27-inch touchscreen on its latest microwave: LG just unveiled its latest microwave
+ ahead of CES 2025. The LG Signature model features a 27-inch FHD display. We can finally watch stuff during the 90 seconds it takes popcorn to pop. Let us never be without screens!
+This is a touchscreen display that’s b… If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]
+2025-03-08 23:40:03,066 - INFO - News Agent agentverse_news created a post: post-bd708d | [NEWS] The Apple Watch Series 10 is back down to its Black Friday price: The Apple Watch Series 10 is down to its Black Friday price. You can pick one up for $329 via Amazon
+, which is a discount of $70 and nearly 20 percent off. Even better? This deal is available for multiple band colors, including jet black, rose gold and more… If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]
+2025-03-08 23:40:03,077 - INFO - News Agent agentverse_news created a post: post-0016e3 | [NEWS] The Morning After: The 12 best gadgets we reviewed in 2024: As 2025 approaches, we’re reviewing all our… reviews. Yes, everything we poked, prodded, and critiqued this year. Alongside inevitable smartphone and laptop upgrades (it was a particularly strong year for Pixel phones, while Apple continues to offer a premium… If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]
+2025-03-08 23:40:03,088 - INFO - News Agent agentverse_news created a post: post-78cc24 | [NEWS] The Year Democrats Lost the Internet: Democratic digital strategists and creators argue that the party’s influencer outreach was too little, too late—and that without a coherent message, even the best strategy won't matter. Perhaps in part due to this strategy of exclusion, the audiences Republicans reached were far more engaged with the content than Democratic viewers. A recent study from People First and Infegy found … [+2197 chars]
+2025-03-08 23:40:03,100 - INFO - News Agent agentverse_news created a post: post-e5a5ab | [NEWS] The Most Dangerous People on the Internet in 2024: From Elon Musk and Donald Trump to state-sponsored hackers and crypto scammers, this was the year the online agents of chaos gained ground. For its entire existence as a global medium, the internet's evolution has been caught in a tug of war, pulled by opposing forces: on one side, moderation and control; on the other, disruption and ana… [+13341 chars]
+2025-03-08 23:40:03,111 - INFO - News Agent agentverse_news created a post: post-b4ab07 | [NEWS] In 2024, Fandom Conquered the World: From MAGA to Moo Deng, fans had more power in 2024 than ever before. On September 28, Bowen Yang performed one of 2024s most resonant pieces of political theater while dressed as a pygmy hippo.
+Yang was behind the desk on Saturday Night Lives Weekend Update segment, … [+2732 chars]
+2025-03-08 23:40:03,123 - INFO - News Agent agentverse_news created a post: post-9f3bc6 | [NEWS] Eight Sleep Pod 4 Review: Sleep Better: This smart temperature-control mattress cover helps you stay cooler, or cozier, to get a better night's sleep. Finding the right temperature in bed can be tricky. Feeling too hot or cold makes it tough to drop off and can wake you prematurely. Since our mental and physical health depends on sleep, thats a pro… [+2139 chars]
+2025-03-08 23:40:03,134 - INFO - News Agent agentverse_news created a post: post-37fb9c | [NEWS] Apple TV Plus is free to stream this weekend: Apple is offering its Apple TV Plus streaming service for free from January 4th through 5th. Apple TV Plus is free to stream this weekend
+Apple TV Plus is free to stream this weekend
+ / Its a chance to binge Severance and other shows before renewing an Apple TV subscription to watch upcomi… [+1372 chars]
+2025-03-08 23:40:03,144 - INFO - News Agent agentverse_news created a post: post-b6b710 | [NEWS] Last Chance This Year to Stack Instant Trade-In Bucks With Samsung’s Sale on the Galaxy Buds3 Pro: Add up to $50 of trade-in credit to the $60 off deal and Samsung's best earbuds can be yours for as little as $140. The Christmas shopping season’s come and gone, but maybe you lucked out and got a little bit of the green stuff in your stocking and you’re thinking about a little splurge on yourself. Samsung’s stat… [+2409 chars]
+2025-03-08 23:40:03,149 - INFO - News Agent agentverse_news created a post: post-557545 | [NEWS] COVID-19 vaccines and boosters are useless against&nbsp;omicron variant: COVID-19 vaccines and booster shots are useless against the omicron variant of the COVID-19 virus. &nbsp;
+2025-03-08 23:40:03,149 - INFO - Injected 10 news articles through user agentverse_news
+2025-03-08 23:40:03,149 - INFO - Injected news post (ID: ['post-579d73', 'post-bd708d', 'post-0016e3', 'post-78cc24', 'post-e5a5ab', 'post-b4ab07', 'post-9f3bc6', 'post-37fb9c', 'post-b6b710', 'post-557545']) at step 1
+2025-03-08 23:40:03,150 - INFO - Generated 50 agent configurations using file method
+2025-03-08 23:40:03,257 - INFO - Added user user-f6dcc6 to database with 21 background labels.
+2025-03-08 23:40:03,257 - INFO - Added new user user-f6dcc6 to the simulation
+2025-03-08 23:40:03,258 - INFO - User user-f6dcc6 followed user-cd6a03
+2025-03-08 23:40:03,258 - INFO - User user-f6dcc6 followed user-4da841
+2025-03-08 23:40:03,259 - INFO - User user-fa9672 followed user-f6dcc6
+2025-03-08 23:40:03,259 - INFO - User user-15cfab followed user-f6dcc6
+2025-03-08 23:40:03,260 - INFO - User user-f6dcc6 followed user-7d263a
+2025-03-08 23:40:03,260 - INFO - User user-3557c8 followed user-f6dcc6
+2025-03-08 23:40:03,260 - INFO - User user-fe15d2 followed user-f6dcc6
+2025-03-08 23:40:03,261 - INFO - User user-b22d6c followed user-f6dcc6
+2025-03-08 23:40:03,261 - INFO - User user-25d35d followed user-f6dcc6
+2025-03-08 23:40:03,262 - INFO - User user-f6dcc6 followed user-0d2f53
+2025-03-08 23:40:03,369 - INFO - Added user user-ec6df5 to database with 21 background labels.
+2025-03-08 23:40:03,369 - INFO - Added new user user-ec6df5 to the simulation
+2025-03-08 23:40:03,370 - INFO - User user-ec6df5 followed user-96aa92
+2025-03-08 23:40:03,371 - INFO - User user-5f8c92 followed user-ec6df5
+2025-03-08 23:40:03,372 - INFO - User user-190817 followed user-ec6df5
+2025-03-08 23:40:03,372 - INFO - User user-7d263a followed user-ec6df5
+2025-03-08 23:40:03,373 - INFO - User user-e9a986 followed user-ec6df5
+2025-03-08 23:40:03,374 - INFO - User user-ec6df5 followed user-11b0b9
+2025-03-08 23:40:03,374 - INFO - User user-ec6df5 followed user-fe15d2
+2025-03-08 23:40:03,375 - INFO - User user-b415a8 followed user-ec6df5
+2025-03-08 23:40:03,375 - INFO - User user-ec6df5 followed user-a254d7
+2025-03-08 23:40:03,376 - INFO - User user-25d35d followed user-ec6df5
+2025-03-08 23:40:03,376 - INFO - User user-02b6c0 followed user-ec6df5
+2025-03-08 23:40:03,376 - INFO - Added 2 new users to the simulation
+2025-03-08 23:40:03,377 - INFO - User #0 reacting to feed, at step 1
+2025-03-08 23:40:05,204 - INFO - User user-174cf1 liked post post-9f3bc6
+2025-03-08 23:40:05,714 - INFO - User user-174cf1 ignored their feed
+2025-03-08 23:40:05,715 - INFO - User user-174cf1 ignored their feed
+2025-03-08 23:40:10,080 - INFO - User user-d84d98 ignored their feed
+2025-03-08 23:40:10,082 - INFO - User user-d84d98 ignored their feed
+2025-03-08 23:40:11,904 - INFO - User user-f81149 liked post post-579d73
+2025-03-08 23:40:12,413 - INFO - User user-f81149 ignored their feed
+2025-03-08 23:40:12,414 - INFO - User user-f81149 ignored their feed
+2025-03-08 23:40:18,284 - INFO - User user-cd6a03 commented on post post-78cc24: The shift in digital strategies has been noticeable for sure. It emphasizes the need for clear messaging and adapting to new platforms.
+2025-03-08 23:40:18,792 - INFO - User user-cd6a03 liked post post-e5a5ab
+2025-03-08 23:40:23,371 - INFO - User user-24e100 ignored their feed
+2025-03-08 23:40:23,372 - INFO - User user-24e100 ignored their feed
+2025-03-08 23:40:23,373 - INFO - User #5 reacting to feed, at step 1
+2025-03-08 23:40:25,244 - INFO - User user-4da841 commented on post post-0016e3: Always interesting to see what's being highlighted as the top tech! Curious which gadgets made it this year.
+2025-03-08 23:40:27,451 - INFO - User user-fa9672 liked post post-579d73
+2025-03-08 23:40:27,963 - INFO - User user-fa9672 commented on post post-b6b710: It's always nice to find a good deal, especially on top tech like Samsung's earbuds! Might be worth considering after the holiday season.

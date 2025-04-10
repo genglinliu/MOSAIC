@@ -1,0 +1,70 @@
+2025-02-26 10:15:13,125 - INFO - Starting simulation with 5 users for 5 time steps using gpt-4o...
+2025-02-26 10:15:14,133 - INFO - Resetting database...
+2025-02-26 10:15:14,135 - INFO - Existing database removed.
+2025-02-26 10:15:14,152 - INFO - Database tables created successfully.
+2025-02-26 10:15:14,152 - INFO - New tables created.
+2025-02-26 10:15:14,158 - INFO - Generated 5 agent configurations using file method
+2025-02-26 10:15:14,158 - INFO - Creating 5 users
+2025-02-26 10:15:14,160 - INFO - Added user user-7336ae to database with 19 background labels.
+2025-02-26 10:15:14,161 - INFO - Added user user-6af482 to database with 19 background labels.
+2025-02-26 10:15:14,162 - INFO - Added user user-691ea3 to database with 19 background labels.
+2025-02-26 10:15:14,163 - INFO - Added user user-23283b to database with 19 background labels.
+2025-02-26 10:15:14,164 - INFO - Added user user-c0f151 to database with 19 background labels.
+2025-02-26 10:15:14,165 - INFO - Total users in database after creation: 5
+2025-02-26 10:15:14,167 - INFO - User user-7336ae followed user-23283b
+2025-02-26 10:15:14,167 - INFO - User user-6af482 followed user-691ea3
+2025-02-26 10:15:14,168 - INFO - User user-6af482 followed user-23283b
+2025-02-26 10:15:14,168 - INFO - User user-691ea3 followed user-23283b
+2025-02-26 10:15:14,168 - INFO - User user-23283b followed user-691ea3
+2025-02-26 10:15:14,169 - INFO - User user-23283b followed user-c0f151
+2025-02-26 10:15:14,169 - INFO - User user-c0f151 followed user-7336ae
+2025-02-26 10:15:14,169 - INFO - User user-c0f151 followed user-691ea3
+2025-02-26 10:15:14,201 - INFO - Time step: 1
+2025-02-26 10:15:14,218 - INFO - News Agent agentverse_news created a post: post-d862f9 | NEWS: LG just unveiled its latest microwave
+ ahead of CES 2025. The LG Signature model features a 27-inch FHD display. We can finally watch stuff during the 90 seconds it takes popcorn to pop. Let us never be without screens!
+This is a touchscreen display that’s b…
+2025-02-26 10:15:14,234 - INFO - News Agent agentverse_news created a post: post-371190 | NEWS: The Apple Watch Series 10 is down to its Black Friday price. You can pick one up for $329 via Amazon
+, which is a discount of $70 and nearly 20 percent off. Even better? This deal is available for multiple band colors, including jet black, rose gold and more…
+2025-02-26 10:15:14,240 - INFO - News Agent agentverse_news created a post: post-a410dd | NEWS: COVID-19 vaccines and booster shots are useless against the omicron variant of the COVID-19 virus. &nbsp;
+2025-02-26 10:15:14,246 - INFO - News Agent agentverse_news created a post: post-9575b5 | NEWS: The increase in COVID-19 cases and deaths in India between February and May 2021 was caused by COVID-19 vaccinations.
+2025-02-26 10:15:14,252 - INFO - News Agent agentverse_news created a post: post-55e2d8 | NEWS: Life insurance companies won’t pay out benefits to anyone who dies after receiving a COVID-19 vaccine because the vaccines are considered experimental.
+2025-02-26 10:15:14,266 - INFO - News Agent agentverse_news created a post: post-bb6baa | NEWS: As 2025 approaches, we’re reviewing all our… reviews. Yes, everything we poked, prodded, and critiqued this year. Alongside inevitable smartphone and laptop upgrades (it was a particularly strong year for Pixel phones, while Apple continues to offer a premium…
+2025-02-26 10:15:14,281 - INFO - News Agent agentverse_news created a post: post-ed3876 | NEWS: Democratic digital strategists and creators argue that the party’s influencer outreach was too little, too late—and that without a coherent message, even the best strategy won't matter.
+2025-02-26 10:15:14,287 - INFO - News Agent agentverse_news created a post: post-c8efad | NEWS: Wisconsin had more votes cast in the 2020 presidential election than the state’s total number of registered voters, which is evidence of fraud.
+2025-02-26 10:15:14,293 - INFO - News Agent agentverse_news created a post: post-528567 | NEWS: The COVID-19 virus mutates so fast that a vaccine will never work
+2025-02-26 10:15:14,299 - INFO - News Agent agentverse_news created a post: post-609da6 | NEWS: The removal of U.S. Postal Service mailboxes in August 2020 is part of a plot by President Trump and his appointee Postmaster General Louis DeJoy to make it more difficult for people to vote by mail.
+2025-02-26 10:15:14,299 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-26 10:15:14,299 - INFO - Injected news post (ID: ['post-d862f9', 'post-371190', 'post-a410dd', 'post-9575b5', 'post-55e2d8', 'post-bb6baa', 'post-ed3876', 'post-c8efad', 'post-528567', 'post-609da6']) at step 1
+2025-02-26 10:15:14,300 - INFO - Generated 5 agent configurations using file method
+2025-02-26 10:15:14,407 - INFO - Added user user-622ac4 to database with 19 background labels.
+2025-02-26 10:15:14,407 - INFO - Added new user user-622ac4 to the simulation
+2025-02-26 10:15:14,408 - INFO - User user-622ac4 followed user-7336ae
+2025-02-26 10:15:14,408 - INFO - User user-7336ae followed user-622ac4
+2025-02-26 10:15:14,409 - INFO - User user-622ac4 followed user-c0f151
+2025-02-26 10:15:14,409 - INFO - User user-c0f151 followed user-622ac4
+2025-02-26 10:15:14,517 - INFO - Added user user-cc609b to database with 19 background labels.
+2025-02-26 10:15:14,517 - INFO - Added new user user-cc609b to the simulation
+2025-02-26 10:15:14,518 - INFO - User user-23283b followed user-cc609b
+2025-02-26 10:15:14,518 - INFO - Added 2 new users to the simulation
+2025-02-26 10:15:14,518 - INFO - User #0 reacting to feed, at step 1
+2025-02-26 10:15:24,613 - INFO - Retrying request to /chat/completions in 0.418364 seconds
+2025-02-26 10:15:35,095 - INFO - Retrying request to /chat/completions in 0.985954 seconds
+2025-02-26 10:15:46,131 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-26 10:15:58,175 - INFO - Retrying request to /chat/completions in 0.470743 seconds
+2025-02-26 10:16:08,682 - INFO - Retrying request to /chat/completions in 0.938626 seconds
+2025-02-26 10:16:19,660 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-26 10:16:31,704 - INFO - Retrying request to /chat/completions in 0.481981 seconds
+2025-02-26 10:16:42,224 - INFO - Retrying request to /chat/completions in 0.806512 seconds
+2025-02-26 10:16:53,097 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-26 10:17:07,135 - INFO - Retrying request to /chat/completions in 0.498732 seconds
+2025-02-26 10:17:17,677 - INFO - Retrying request to /chat/completions in 0.927907 seconds
+2025-02-26 10:17:28,643 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-26 10:17:46,686 - INFO - Retrying request to /chat/completions in 0.425417 seconds
+2025-02-26 10:17:57,145 - INFO - Retrying request to /chat/completions in 0.816803 seconds
+2025-02-26 10:18:07,997 - WARNING - Retry attempt 5 after error: Request timed out.
+2025-02-26 10:18:34,041 - INFO - Retrying request to /chat/completions in 0.440791 seconds
+2025-02-26 10:18:44,514 - INFO - Retrying request to /chat/completions in 0.811155 seconds
+2025-02-26 10:18:55,360 - WARNING - Retry attempt 6 after error: Request timed out.
+2025-02-26 10:19:35,413 - INFO - Retrying request to /chat/completions in 0.416151 seconds
+2025-02-26 10:19:45,869 - INFO - Retrying request to /chat/completions in 0.956066 seconds
+2025-02-26 10:19:56,863 - WARNING - Retry attempt 7 after error: Request timed out.

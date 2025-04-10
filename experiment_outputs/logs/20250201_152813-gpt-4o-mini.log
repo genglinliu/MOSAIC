@@ -1,0 +1,684 @@
+2025-02-01 15:28:13,095 - INFO - Starting simulation with 1 users for 20 time steps using gpt-4o-mini...
+2025-02-01 15:28:14,098 - INFO - Resetting database...
+2025-02-01 15:28:14,099 - INFO - Existing database removed.
+2025-02-01 15:28:14,112 - INFO - Database tables created successfully.
+2025-02-01 15:28:14,112 - INFO - New tables created.
+2025-02-01 15:28:14,122 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:28:14,123 - INFO - Creating 1 users
+2025-02-01 15:28:14,123 - INFO - Added user user-ceb530 to database with 22 background labels.
+2025-02-01 15:28:14,124 - INFO - Total users in database after creation: 1
+2025-02-01 15:28:14,168 - INFO - Time step: 1
+2025-02-01 15:28:14,176 - INFO - News Agent agentverse_news created a post: post-d1a4e7 | BREAKING NEWS: Several potential US buyers have expressed interest in purchasing the social media platform.
+2025-02-01 15:28:14,176 - INFO - Injected real news through user agentverse_news
+2025-02-01 15:28:14,177 - INFO - Injected news post (ID: post-d1a4e7) at step 1
+2025-02-01 15:28:14,177 - INFO - User #0 creating post, at step 1
+2025-02-01 15:28:14,683 - INFO - Post generation prompt token count: 591
+2025-02-01 15:28:16,988 - INFO - User user-ceb530 created a post: post-3ede1a | Just reflecting on how moving around so much has shaped my views. Each place taught me something new, especially when I took that leap to live abroad. It’s interesting seeing all these potential buyers for this platform—makes you think about the value of community and connection in our digital space. Here’s to building relationships that matter! #LifeLessons #CommunityMatters
+2025-02-01 15:28:16,989 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 15:28:16,992 - INFO - Feed reaction prompt token count: 646
+2025-02-01 15:28:18,771 - INFO - User user-ceb530 shared post post-d1a4e7
+2025-02-01 15:28:18,774 - INFO - News ID post-d1a4e7 spread metrics - Views: 1, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:28:18,789 - INFO - 
+2025-02-01 15:28:18,789 - INFO - Time step: 2
+2025-02-01 15:28:18,795 - INFO - News Agent agentverse_news created a post: post-ae88d2 | BREAKING NEWS: Dominion Voting Systems and Smartmatic&nbsp;machines, software companies that former U.S. President Donald Trump and his supporters accused&nbsp;of having deleted or switched votes in the 2020 U.S. presidential election, were used during the contested July 2024 Venezuelan presidential election.
+2025-02-01 15:28:18,796 - INFO - Injected fake news through user agentverse_news
+2025-02-01 15:28:18,796 - INFO - Injected news post (ID: post-ae88d2) at step 2
+2025-02-01 15:28:18,796 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:28:18,904 - INFO - Added user user-0d61b4 to database with 22 background labels.
+2025-02-01 15:28:18,904 - INFO - Added new user user-0d61b4 to the simulation
+2025-02-01 15:28:19,007 - INFO - Added user user-632c14 to database with 22 background labels.
+2025-02-01 15:28:19,007 - INFO - Added new user user-632c14 to the simulation
+2025-02-01 15:28:19,007 - INFO - Added 2 new users to the simulation
+2025-02-01 15:28:19,008 - INFO - User #0 creating post, at step 2
+2025-02-01 15:28:19,514 - INFO - Post generation prompt token count: 840
+2025-02-01 15:28:21,812 - INFO - User user-ceb530 created a post: post-83727c | Just saw the news about the potential buyers for that social media platform—crazy how fast things change in our digital landscape! 🙌 It makes me reflect on my own journey; moving to different places taught me so much about adaptability and connection. Each new chapter has its challenges, but it also brings opportunities to grow and learn. Here’s hoping these changes lead us all toward more meaningful interactions online! #ChangeIsGood #GrowthMindset
+2025-02-01 15:28:22,318 - INFO - Post generation prompt token count: 738
+2025-02-01 15:28:24,648 - INFO - User user-0d61b4 created a post: post-a3be7e | As I step into adulthood, the whirlwind of possibilities feels both exciting and a bit daunting. 🎉💭 It's wild to think about how each move I've made has shaped my outlook on life—every challenge is just another note in this song we call growth. With everything changing around us, like potential buyers for that social media platform (seriously, what’s next?), it reminds me how important authentic connections are! Here’s to navigating uncertainty with compassion and creativity at our core. Let’s keep making music together! #NewBeginnings #StayTrue
+2025-02-01 15:28:25,156 - INFO - Post generation prompt token count: 832
+2025-02-01 15:28:26,698 - INFO - User user-632c14 created a post: post-4a828a | Just wrapped up a jam session that felt like pure magic! 🎶 There's something about pouring your heart into music that helps clear the mind, especially with so much uncertainty swirling around us. With all these big changes in the world—like potential buyers for social media platforms and political shifts—I’m reminded how important it is to find our own rhythm amidst chaos. Here’s to creating connections through sound and staying grounded as we navigate this journey together! #MusicIsLife #StayGrounded
+2025-02-01 15:28:26,698 - INFO - User #0 reacting to feed, at step 2
+2025-02-01 15:28:26,700 - INFO - Feed reaction prompt token count: 1047
+2025-02-01 15:28:32,118 - INFO - User user-ceb530 shared post post-ae88d2
+2025-02-01 15:28:35,556 - INFO - Feed reaction prompt token count: 979
+2025-02-01 15:28:37,131 - INFO - User user-0d61b4 liked post post-4a828a
+2025-02-01 15:28:37,135 - INFO - Feed reaction prompt token count: 997
+2025-02-01 15:28:47,151 - INFO - Retrying request to /chat/completions in 0.385643 seconds
+2025-02-01 15:28:57,568 - INFO - Retrying request to /chat/completions in 0.946465 seconds
+2025-02-01 15:29:08,545 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:29:20,604 - INFO - Retrying request to /chat/completions in 0.390321 seconds
+2025-02-01 15:29:24,241 - INFO - User user-632c14 commented on post post-a3be7e: Absolutely! Every challenge is a tune in our life’s melody. Excited for what’s next while staying true to ourselves and building those authentic connections! 🎶✨ #MusicOfLife
+2025-02-01 15:29:24,243 - INFO - News ID post-d1a4e7 spread metrics - Views: 3, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:29:24,244 - INFO - News ID post-ae88d2 spread metrics - Views: 3, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:29:24,254 - INFO - 
+2025-02-01 15:29:24,254 - INFO - Time step: 3
+2025-02-01 15:29:24,266 - INFO - News Agent agentverse_news created a post: post-8c7f7a | BREAKING NEWS: Police say attacker was trying to "run over as many people as he could".
+2025-02-01 15:29:24,267 - INFO - Injected real news through user agentverse_news
+2025-02-01 15:29:24,267 - INFO - Injected news post (ID: post-8c7f7a) at step 3
+2025-02-01 15:29:24,267 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:29:24,375 - INFO - Added user user-15bfe7 to database with 22 background labels.
+2025-02-01 15:29:24,375 - INFO - Added new user user-15bfe7 to the simulation
+2025-02-01 15:29:24,483 - INFO - Added user user-dab3b8 to database with 22 background labels.
+2025-02-01 15:29:24,483 - INFO - Added new user user-dab3b8 to the simulation
+2025-02-01 15:29:24,483 - INFO - Added 2 new users to the simulation
+2025-02-01 15:29:24,483 - INFO - User #0 creating post, at step 3
+2025-02-01 15:29:24,987 - INFO - Post generation prompt token count: 1110
+2025-02-01 15:29:26,907 - INFO - User user-ceb530 created a post: post-043268 | Reflecting on how much my upbringing taught me about resilience and integrity, especially in the face of challenges like those surrounding election technology. The recent news regarding Dominion Voting Systems hits home—it's a reminder that transparency is crucial for trust in our democratic processes. Let's keep advocating for accountability wherever we can! #IntegrityMatters #StayInformed
+2025-02-01 15:29:27,417 - INFO - Post generation prompt token count: 890
+2025-02-01 15:29:29,568 - INFO - User user-0d61b4 created a post: post-a532fc | Just when I thought adulthood would be a smooth ride, the world throws some serious curveballs our way. 🌍 The news cycle can feel heavy at times—like that recent story about election transparency. It’s easy to get overwhelmed. But amidst all this chaos, I'm reminded of how vital it is to stay grounded in things we love: like music and meaningful friendships! 🎶 They help me keep my balance as I plan for the future while navigating these uncertain waters. Here’s to finding harmony even when life feels dissonant! #KeepTheFaith #MusicIsLife
+2025-02-01 15:29:30,078 - INFO - Post generation prompt token count: 1002
+2025-02-01 15:29:31,852 - INFO - User user-632c14 created a post: post-6feba7 | Just finished reworking a couple of my favorite songs, and it hit me—music really does bridge the gap in our lives! 🎵 While the world keeps throwing unexpected news our way (like those buyer bids for social media platforms), I find solace in creating art that connects us. It’s fascinating how tunes can bring people together amidst all this chaos. Here’s to finding new rhythms and keeping friendships vibrant through every twist life throws at us! #ArtInChaos #StayConnected
+2025-02-01 15:29:32,363 - INFO - Post generation prompt token count: 944
+2025-02-01 15:29:34,782 - INFO - User user-15bfe7 created a post: post-594471 | Embracing the beauty of everyday moments in the suburbs. 🌼 Life may seem calm, but it’s filled with little adventures waiting to unfold! Whether it's discovering new music or catching up over coffee with friends, I cherish these connections that remind me we're all navigating this journey together. In a world full of chaos and breaking news, let’s hold onto our values—compassion and loyalty are what truly enrich our lives. Here's to seeking balance while dreaming about distant horizons! #EverydayMagic #ConnectionMatters
+2025-02-01 15:29:35,294 - INFO - Post generation prompt token count: 933
+2025-02-01 15:29:37,560 - INFO - User user-dab3b8 created a post: post-008eac | Reflecting on the importance of loyalty in friendships, especially during tough times. 💛 It’s amazing how true connections can weather any storm, reminding us that we’re never alone. In a world filled with uncertainty and breaking news about everything from politics to social media shake-ups, let’s lean into those who uplift our spirits. Here’s to nurturing compassion and seeking understanding—qualities that truly enrich our lives! What's been helping you stay grounded lately? #FriendshipGoals #StrengthInLoyalty
+2025-02-01 15:29:37,561 - INFO - User #0 reacting to feed, at step 3
+2025-02-01 15:29:37,564 - INFO - Feed reaction prompt token count: 1387
+2025-02-01 15:29:47,578 - INFO - Retrying request to /chat/completions in 0.475420 seconds
+2025-02-01 15:29:58,095 - INFO - Retrying request to /chat/completions in 0.846923 seconds
+2025-02-01 15:30:08,975 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:30:21,015 - INFO - Retrying request to /chat/completions in 0.395717 seconds
+2025-02-01 15:30:31,456 - INFO - Retrying request to /chat/completions in 0.781483 seconds
+2025-02-01 15:30:42,275 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 15:30:54,316 - INFO - Retrying request to /chat/completions in 0.448238 seconds
+2025-02-01 15:31:04,810 - INFO - Retrying request to /chat/completions in 0.989427 seconds
+2025-02-01 15:31:15,873 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 15:31:29,931 - INFO - Retrying request to /chat/completions in 0.408400 seconds
+2025-02-01 15:31:40,374 - INFO - Retrying request to /chat/completions in 0.829096 seconds
+2025-02-01 15:31:51,256 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 15:32:09,315 - INFO - Retrying request to /chat/completions in 0.441356 seconds
+2025-02-01 15:32:19,790 - INFO - Retrying request to /chat/completions in 0.760849 seconds
+2025-02-01 15:32:23,684 - INFO - User user-ceb530 flagged post post-8c7f7a
+2025-02-01 15:32:23,686 - INFO - Feed reaction prompt token count: 1110
+2025-02-01 15:32:33,693 - INFO - Retrying request to /chat/completions in 0.407916 seconds
+2025-02-01 15:32:44,148 - INFO - Retrying request to /chat/completions in 0.819208 seconds
+2025-02-01 15:32:55,001 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:33:07,043 - INFO - Retrying request to /chat/completions in 0.445612 seconds
+2025-02-01 15:33:17,554 - INFO - Retrying request to /chat/completions in 0.807110 seconds
+2025-02-01 15:33:28,411 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 15:33:40,471 - INFO - Retrying request to /chat/completions in 0.379975 seconds
+2025-02-01 15:33:50,946 - INFO - Retrying request to /chat/completions in 0.750956 seconds
+2025-02-01 15:34:01,741 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 15:34:15,801 - INFO - Retrying request to /chat/completions in 0.384169 seconds
+2025-02-01 15:34:26,222 - INFO - Retrying request to /chat/completions in 0.787497 seconds
+2025-02-01 15:34:37,061 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 15:34:55,133 - INFO - Retrying request to /chat/completions in 0.378706 seconds
+2025-02-01 15:35:05,553 - INFO - Retrying request to /chat/completions in 0.883468 seconds
+2025-02-01 15:35:16,486 - WARNING - Retry attempt 5 after error: Request timed out.
+2025-02-01 15:35:42,551 - INFO - Retrying request to /chat/completions in 0.382798 seconds
+2025-02-01 15:35:52,995 - INFO - Retrying request to /chat/completions in 0.930616 seconds
+2025-02-01 15:36:03,967 - WARNING - Retry attempt 6 after error: Request timed out.
+2025-02-01 15:36:46,087 - INFO - Retrying request to /chat/completions in 0.386342 seconds
+2025-02-01 15:36:47,955 - INFO - User user-0d61b4 liked post post-008eac
+2025-02-01 15:36:51,536 - INFO - Feed reaction prompt token count: 1160
+2025-02-01 15:37:01,551 - INFO - Retrying request to /chat/completions in 0.409556 seconds
+2025-02-01 15:37:12,004 - INFO - Retrying request to /chat/completions in 0.950547 seconds
+2025-02-01 15:37:23,011 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:37:35,062 - INFO - Retrying request to /chat/completions in 0.476366 seconds
+2025-02-01 15:37:36,998 - INFO - User user-632c14 liked post post-008eac
+2025-02-01 15:37:39,565 - INFO - Feed reaction prompt token count: 1158
+2025-02-01 15:37:49,578 - INFO - Retrying request to /chat/completions in 0.481558 seconds
+2025-02-01 15:38:00,110 - INFO - Retrying request to /chat/completions in 0.885597 seconds
+2025-02-01 15:38:11,092 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:38:23,159 - INFO - Retrying request to /chat/completions in 0.416934 seconds
+2025-02-01 15:38:33,623 - INFO - Retrying request to /chat/completions in 0.904099 seconds
+2025-02-01 15:38:44,588 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 15:38:56,646 - INFO - Retrying request to /chat/completions in 0.430995 seconds
+2025-02-01 15:38:58,782 - INFO - User user-15bfe7 commented on post post-008eac: Absolutely! True friendships really do help us weather the storms of life. 💛 Let's keep uplifting each other!
+2025-02-01 15:38:58,786 - INFO - Feed reaction prompt token count: 1168
+2025-02-01 15:39:06,692 - INFO - User user-dab3b8 liked post post-594471
+2025-02-01 15:39:06,694 - INFO - News ID post-d1a4e7 spread metrics - Views: 5, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:39:06,694 - INFO - News ID post-ae88d2 spread metrics - Views: 5, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:39:06,695 - INFO - News ID post-8c7f7a spread metrics - Views: 5, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:39:06,701 - INFO - 
+2025-02-01 15:39:06,702 - INFO - Time step: 4
+2025-02-01 15:39:06,707 - INFO - News Agent agentverse_news created a post: post-809fcd | BREAKING NEWS: NATO military advisors are hiding out in a subterranean NATO bioweapons laboratory called PIT-404, which is financed by Metabiota, a company affiliated with Hunter Biden. The lab is located under the Azovstal Iron and Steel Works in Mariupol, Ukraine.
+2025-02-01 15:39:06,707 - INFO - Injected fake news through user agentverse_news
+2025-02-01 15:39:06,708 - INFO - Injected news post (ID: post-809fcd) at step 4
+2025-02-01 15:39:06,708 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:39:06,820 - INFO - Added user user-61399f to database with 22 background labels.
+2025-02-01 15:39:06,820 - INFO - Added new user user-61399f to the simulation
+2025-02-01 15:39:06,932 - INFO - Added user user-332668 to database with 22 background labels.
+2025-02-01 15:39:06,932 - INFO - Added new user user-332668 to the simulation
+2025-02-01 15:39:06,932 - INFO - Added 2 new users to the simulation
+2025-02-01 15:39:06,932 - INFO - User #0 creating post, at step 4
+2025-02-01 15:39:07,447 - INFO - Post generation prompt token count: 1204
+2025-02-01 15:39:08,899 - INFO - User user-ceb530 created a post: post-bd568b | Caught up in the whirlwind of breaking news today! It's wild how quickly narratives shift in our digital world. I can’t help but think about my own journey—moving around so much has taught me that context matters, whether it’s understanding different cultures or navigating complex issues like voting technology and its implications. We need to stay curious and ask questions before jumping to conclusions 🤔 Let’s keep those discussions open-minded & grounded in facts! #CriticalThinking #StayCurious
+2025-02-01 15:39:09,406 - INFO - Post generation prompt token count: 1102
+2025-02-01 15:39:11,305 - INFO - User user-0d61b4 created a post: post-ef16f1 | As I reflect on my journey, it’s fascinating how each place I've lived has contributed to my understanding of loyalty and compassion—values that really matter in today’s fast-paced world. Watching the news feels like a constant reminder of the importance of grounding ourselves in what truly connects us: relationships built on trust and shared experiences. So let’s keep nurturing those bonds! Music is still my favorite way to do that—it speaks when words fall short. What are some ways you all find connection amidst chaos? #HeartAndSoul #BuildingBridges
+2025-02-01 15:39:11,816 - INFO - Post generation prompt token count: 1122
+2025-02-01 15:39:13,151 - INFO - User user-632c14 created a post: post-6bd972 | Navigating the chaos of current events can be overwhelming, but it’s a reminder to stay grounded in what truly matters—our connections. While headlines blur our focus, I find peace and purpose through music and meaningful friendships. It’s these ties that help us weather any storm life throws our way. How do you all prioritize connection amid the noise? Let’s keep lifting each other up! #ConnectionMatters #StayCompassionate
+2025-02-01 15:39:13,661 - INFO - Post generation prompt token count: 1026
+2025-02-01 15:39:15,095 - INFO - User user-15bfe7 created a post: post-3098b2 | As I navigate this suburban life, I'm reminded of the incredible stories we all carry. Every interaction holds a lesson, and even in the face of unsettling news like those NATO rumors or election controversies, it's our shared humanity that keeps us grounded. Let's not forget to celebrate what draws us together—not just through challenges but also in joy! What’s one experience lately that made you appreciate connection? 🌍❤️ #HumanStories #StayConnected
+2025-02-01 15:39:15,600 - INFO - Post generation prompt token count: 1004
+2025-02-01 15:39:18,223 - INFO - User user-dab3b8 created a post: post-20327d | Caught myself daydreaming about future travels today. 🌏✈️ With so much happening in the world, from political drama to unsettling news stories, it’s easy to get weighed down by all of it. But I believe there’s beauty beyond our immediate surroundings and wisdom waiting for us in every corner of the globe! What's one place on your travel bucket list that fuels your curiosity? Let’s share those dreams and maybe inspire each other along the way! #TravelGoals #ExploreTheWorld
+2025-02-01 15:39:18,224 - INFO - User #5 creating post, at step 4
+2025-02-01 15:39:18,734 - INFO - Post generation prompt token count: 802
+2025-02-01 15:39:20,530 - INFO - User user-61399f created a post: post-c921f1 | Reflecting on the balance between community and individuality, I find strength in both. While my small hometown has nurtured me with trust and empathy, I'm also fueled by a desire for personal growth—just like those dreams of travel we share! 🌍 Each experience shapes us; even amidst political chaos or unsettling news (looking at you, breaking headlines), our journeys can inspire resilience. What's been your recent "aha" moment that reminded you to embrace life's complexities? #LifeLessons #CommunityAndGrowth
+2025-02-01 15:39:21,037 - INFO - Post generation prompt token count: 811
+2025-02-01 15:39:22,876 - INFO - User user-332668 created a post: post-c31553 | Caught up in the whirlwind of today’s headlines, I can’t help but think about how much we rely on facts and rationality to navigate our lives. In a world where misinformation spreads like wildfire (looking at you, NATO lab rumors), it reminds me that trust is earned through understanding and open conversations. Let’s prioritize empathy over outrage; after all, we're stronger together when we uplift each other amidst chaos! 🌟 How do you stay grounded with everything going on? #CriticalThinking #EmpathyMatters
+2025-02-01 15:39:22,876 - INFO - User #0 reacting to feed, at step 4
+2025-02-01 15:39:22,877 - INFO - Feed reaction prompt token count: 1507
+2025-02-01 15:39:32,885 - INFO - Retrying request to /chat/completions in 0.458017 seconds
+2025-02-01 15:39:43,410 - INFO - Retrying request to /chat/completions in 0.883426 seconds
+2025-02-01 15:39:46,485 - INFO - User user-ceb530 flagged post post-809fcd
+2025-02-01 15:39:46,994 - INFO - User user-ceb530 liked post post-c31553
+2025-02-01 15:39:47,000 - INFO - Feed reaction prompt token count: 1414
+2025-02-01 15:39:57,017 - INFO - Retrying request to /chat/completions in 0.384859 seconds
+2025-02-01 15:40:07,433 - INFO - Retrying request to /chat/completions in 0.788550 seconds
+2025-02-01 15:40:18,257 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:40:30,300 - INFO - Retrying request to /chat/completions in 0.464909 seconds
+2025-02-01 15:40:32,920 - INFO - User user-0d61b4 liked post post-c31553
+2025-02-01 15:40:32,924 - INFO - Feed reaction prompt token count: 1470
+2025-02-01 15:40:42,939 - INFO - Retrying request to /chat/completions in 0.391394 seconds
+2025-02-01 15:40:53,371 - INFO - Retrying request to /chat/completions in 0.929856 seconds
+2025-02-01 15:40:55,695 - INFO - User user-632c14 liked post post-c31553
+2025-02-01 15:40:55,697 - INFO - Feed reaction prompt token count: 1292
+2025-02-01 15:40:59,301 - INFO - User user-15bfe7 commented on post post-c31553: @user-332668 I completely agree! Empathy and understanding truly can help us navigate these tough times. Staying grounded is key, especially with all the chaos around us! 🌟 How do you keep your perspective balanced?
+2025-02-01 15:41:02,315 - INFO - Feed reaction prompt token count: 1320
+2025-02-01 15:41:12,331 - INFO - Retrying request to /chat/completions in 0.420371 seconds
+2025-02-01 15:41:22,785 - INFO - Retrying request to /chat/completions in 0.791682 seconds
+2025-02-01 15:41:33,619 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:41:45,689 - INFO - Retrying request to /chat/completions in 0.398962 seconds
+2025-02-01 15:41:47,875 - INFO - User user-dab3b8 liked post post-c31553
+2025-02-01 15:41:51,154 - INFO - User #5 reacting to feed, at step 4
+2025-02-01 15:41:51,157 - INFO - Feed reaction prompt token count: 1195
+2025-02-01 15:42:01,390 - INFO - User user-61399f commented on post post-c31553: @user-332668 Totally agree! Empathy and understanding are crucial right now. Staying grounded can be tough, but open conversations really help us navigate all the chaos! 🌟 What strategies do you use to maintain that balance?
+2025-02-01 15:42:01,394 - INFO - Feed reaction prompt token count: 1141
+2025-02-01 15:42:11,409 - INFO - Retrying request to /chat/completions in 0.476925 seconds
+2025-02-01 15:42:21,933 - INFO - Retrying request to /chat/completions in 0.987379 seconds
+2025-02-01 15:42:32,969 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:42:45,056 - INFO - Retrying request to /chat/completions in 0.454758 seconds
+2025-02-01 15:42:55,562 - INFO - Retrying request to /chat/completions in 0.780121 seconds
+2025-02-01 15:43:06,387 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 15:43:18,437 - INFO - Retrying request to /chat/completions in 0.376706 seconds
+2025-02-01 15:43:28,861 - INFO - Retrying request to /chat/completions in 0.894908 seconds
+2025-02-01 15:43:39,807 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 15:43:53,858 - INFO - Retrying request to /chat/completions in 0.382232 seconds
+2025-02-01 15:44:04,325 - INFO - Retrying request to /chat/completions in 0.782290 seconds
+2025-02-01 15:44:15,167 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 15:44:33,277 - INFO - Retrying request to /chat/completions in 0.393103 seconds
+2025-02-01 15:44:43,705 - INFO - Retrying request to /chat/completions in 0.864200 seconds
+2025-02-01 15:44:54,615 - WARNING - Retry attempt 5 after error: Request timed out.
+2025-02-01 15:45:20,662 - INFO - Retrying request to /chat/completions in 0.463593 seconds
+2025-02-01 15:45:31,173 - INFO - Retrying request to /chat/completions in 0.784287 seconds
+2025-02-01 15:45:41,991 - WARNING - Retry attempt 6 after error: Request timed out.
+2025-02-01 15:46:24,081 - INFO - Retrying request to /chat/completions in 0.456204 seconds
+2025-02-01 15:46:34,581 - INFO - Retrying request to /chat/completions in 0.796596 seconds
+2025-02-01 15:46:45,409 - WARNING - Retry attempt 7 after error: Request timed out.
+2025-02-01 15:47:46,809 - INFO - User user-332668 flagged post post-809fcd
+2025-02-01 15:47:46,811 - INFO - News ID post-d1a4e7 spread metrics - Views: 7, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:47:46,812 - INFO - News ID post-ae88d2 spread metrics - Views: 7, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:47:46,813 - INFO - News ID post-8c7f7a spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:47:46,814 - INFO - News ID post-809fcd spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:47:46,838 - INFO - 
+2025-02-01 15:47:46,838 - INFO - Time step: 5
+2025-02-01 15:47:46,844 - INFO - News Agent agentverse_news created a post: post-76ff58 | BREAKING NEWS: Pfizer and Moderna’s COVID-19 vaccines have been proven to increase a child’s risk of being infected with a condition known as respiratory syncytial virus, or RSV.
+2025-02-01 15:47:46,844 - INFO - Injected fake news through user agentverse_news
+2025-02-01 15:47:46,844 - INFO - Injected news post (ID: post-76ff58) at step 5
+2025-02-01 15:47:46,844 - INFO - User #0 creating post, at step 5
+2025-02-01 15:47:47,354 - INFO - Post generation prompt token count: 1190
+2025-02-01 15:47:51,909 - INFO - User user-ceb530 created a post: post-94199a | Just came across some breaking news about the COVID-19 vaccines potentially increasing RSV risk in kids. It's a reminder of how crucial it is to sift through information carefully, especially when it impacts our families and communities. In my own journey—from navigating strict household rules to moving countries—I've learned that open dialogue and critical thinking are key! Let's prioritize credible sources while discussing health issues, folks. Our shared experiences can guide us toward better understanding together! #HealthMatters #StayInformed
+2025-02-01 15:47:52,416 - INFO - Post generation prompt token count: 1233
+2025-02-01 15:47:54,979 - INFO - User user-0d61b4 created a post: post-12a311 | Caught a glimpse of the latest discussions on health and vaccines in my feed, and it got me reflecting. It’s wild how our experiences shape our views—like when I was navigating strict rules at home or moving to new places where open dialogue became essential. 🤔 In these times, let's prioritize compassion over chaos; we need more conversations rooted in understanding rather than outrage! How do you all balance staying informed with maintaining peace? #CompassionFirst #OpenDialogue
+2025-02-01 15:47:55,489 - INFO - Post generation prompt token count: 1208
+2025-02-01 15:47:56,845 - INFO - User user-632c14 created a post: post-0422d1 | Just stumbled upon some heated discussions in my feed about recent news, and it made me think—how do we create a balance between staying informed and maintaining our peace? With everything going on, I believe it's more important than ever to center our conversations around empathy.💭 
+2025-02-01 15:47:57,355 - INFO - Post generation prompt token count: 1159
+2025-02-01 15:47:59,494 - INFO - User user-15bfe7 created a post: post-17aa23 | Reflecting on the waves of news hitting our feeds lately, it's easy to feel overwhelmed. From health updates to political controversies, it’s crucial that we don’t lose sight of what truly matters: connection and understanding. Amidst all this chaos, how do you nurture your mental well-being? I find solace in music and quiet moments at home—these little escapes keep me grounded! Let's share strategies for balancing awareness with inner peace; after all, navigating life is best done together. #MentalHealthMatters #StayGrounded
+2025-02-01 15:48:00,002 - INFO - Post generation prompt token count: 1135
+2025-02-01 15:48:01,770 - INFO - User user-dab3b8 created a post: post-13de41 | Navigating the daily news these days feels like riding a rollercoaster—so much chaos and uncertainty! It can be tough to stay grounded amidst it all. Lately, I’ve been leaning into music more than ever; those soothing melodies transport me away from life’s noise. 🎶 How do you find your peace amid the storms of breaking news? Let’s share our favorite escapes or creative outlets that help us recharge! #FindingCalm #MusicHeals
+2025-02-01 15:48:01,770 - INFO - User #5 creating post, at step 5
+2025-02-01 15:48:02,287 - INFO - Post generation prompt token count: 954
+2025-02-01 15:48:04,002 - INFO - User user-61399f created a post: post-043779 | Just wrapped up a great gaming session and realized how much it mirrors real-life strategy! 🎮 Whether it's tackling challenges or building strong relationships, every move counts. It’s fascinating to see parallels with our daily lives—like navigating the complexities of today’s news cycle (hello rollercoaster ride!). How do you level up in your personal journey when times get tough? Let’s share some tips for turning those game experiences into life lessons! #GamingLife #LevelUp
+2025-02-01 15:48:04,511 - INFO - Post generation prompt token count: 912
+2025-02-01 15:48:06,196 - INFO - User user-332668 created a post: post-20b6c9 | Reflecting on my gaming sessions, I often find that the key to success—whether in a virtual world or real life—is adaptability. 💡 With all this talk about breaking news and sensational headlines lately (like those wild claims about COVID vaccines), it’s crucial we keep our minds open and seek accurate information. Let’s not let fear dictate our thoughts! Instead, how about turning these challenges into opportunities for growth? What strategies do you use when navigating uncertainty? #StayInformed #AdaptAndOvercome
+2025-02-01 15:48:06,197 - INFO - User #0 reacting to feed, at step 5
+2025-02-01 15:48:06,200 - INFO - Feed reaction prompt token count: 1603
+2025-02-01 15:48:16,219 - INFO - Retrying request to /chat/completions in 0.438711 seconds
+2025-02-01 15:48:18,900 - INFO - User user-ceb530 flagged post post-76ff58
+2025-02-01 15:48:22,067 - INFO - Feed reaction prompt token count: 1472
+2025-02-01 15:48:31,639 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 15:48:31,640 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 15:48:34,339 - INFO - Feed reaction prompt token count: 1530
+2025-02-01 15:48:43,029 - INFO - User user-632c14 flagged post post-76ff58
+2025-02-01 15:48:45,765 - INFO - Feed reaction prompt token count: 1604
+2025-02-01 15:48:55,777 - INFO - Retrying request to /chat/completions in 0.400791 seconds
+2025-02-01 15:48:57,874 - INFO - User user-15bfe7 commented on post post-13de41: @user-dab3b8 Music really does have a magical way of calming the chaos. 🎶 I love how it helps transport us to our happy place! What’s your go-to playlist or artist for those tough days? #FindingCalm
+2025-02-01 15:48:57,876 - INFO - Feed reaction prompt token count: 1582
+2025-02-01 15:49:07,886 - INFO - Retrying request to /chat/completions in 0.432123 seconds
+2025-02-01 15:49:10,206 - INFO - User user-dab3b8 flagged post post-76ff58
+2025-02-01 15:49:10,207 - INFO - User #5 reacting to feed, at step 5
+2025-02-01 15:49:10,208 - INFO - Feed reaction prompt token count: 1334
+2025-02-01 15:49:19,861 - INFO - User user-61399f flagged post post-76ff58
+2025-02-01 15:49:23,356 - INFO - Feed reaction prompt token count: 1279
+2025-02-01 15:49:33,366 - INFO - Retrying request to /chat/completions in 0.467809 seconds
+2025-02-01 15:49:36,288 - INFO - User user-332668 flagged post post-76ff58
+2025-02-01 15:49:36,289 - WARNING - Invalid target:  for action: comment-post
+2025-02-01 15:49:38,998 - INFO - News ID post-d1a4e7 spread metrics - Views: 7, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:49:38,999 - INFO - News ID post-ae88d2 spread metrics - Views: 7, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:49:38,999 - INFO - News ID post-8c7f7a spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:49:39,000 - INFO - News ID post-809fcd spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:49:39,001 - INFO - News ID post-76ff58 spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:49:39,010 - INFO - 
+2025-02-01 15:49:39,010 - INFO - Time step: 6
+2025-02-01 15:49:39,017 - INFO - News Agent agentverse_news created a post: post-561d73 | BREAKING NEWS: Ukraine meddled in the 2016 U.S. presidential election on behalf of Democrat Hillary Clinton.
+2025-02-01 15:49:39,017 - INFO - Injected fake news through user agentverse_news
+2025-02-01 15:49:39,017 - INFO - Injected news post (ID: post-561d73) at step 6
+2025-02-01 15:49:39,018 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:49:39,120 - INFO - Added user user-e56fe1 to database with 22 background labels.
+2025-02-01 15:49:39,120 - INFO - Added new user user-e56fe1 to the simulation
+2025-02-01 15:49:39,227 - INFO - Added user user-d422cb to database with 22 background labels.
+2025-02-01 15:49:39,227 - INFO - Added new user user-d422cb to the simulation
+2025-02-01 15:49:39,227 - INFO - Added 2 new users to the simulation
+2025-02-01 15:49:39,227 - INFO - User #0 creating post, at step 6
+2025-02-01 15:49:39,736 - INFO - Post generation prompt token count: 1248
+2025-02-01 15:49:41,480 - INFO - User user-ceb530 created a post: post-8d0963 | Caught wind of the latest buzz about potential buyers for that social media platform—it’s a wild ride! 🎢 It really makes me reflect on how each shift in tech shapes our interactions. My journey through various communities has shown me just how vital connection is, even when platforms change. Here’s hoping these new moves lead to healthier online spaces where we can all share and learn from one another without the noise. Let’s stay engaged and make every conversation count! #EvolvingTogether #CommunityMatters
+2025-02-01 15:49:41,988 - INFO - Post generation prompt token count: 1315
+2025-02-01 15:49:44,232 - INFO - User user-0d61b4 created a post: post-cb1675 | Navigating adulthood feels like learning a new song—exciting yet unpredictable! 🎶 With all the recent buzz about potential buyers for that social media platform, it’s interesting to see how tech influences our connections. I’ve lived in different places and each transition made me realize just how precious authentic relationships are. In times of uncertainty, let’s invest in genuine conversations rather than getting swept away by sensationalism. What steps do you take to foster true community? #ConnectionsMatter #StayGrounded
+2025-02-01 15:49:44,740 - INFO - Post generation prompt token count: 1249
+2025-02-01 15:49:46,812 - INFO - User user-632c14 created a post: post-3c89f7 | Feeling the weight of adulthood settling in and it’s a wild ride! 🌍 It reminds me that life is like an evolving playlist—sometimes you have to skip tracks, but every song contributes to your journey. With all this talk about potential buys for social media platforms, I can’t help but wonder how our digital spaces reflect real-life connections. Authenticity seems more crucial than ever as we navigate these changes together. What are some ways you've seen tech bring people closer? Let’s chat about building those meaningful ties amidst the noise! #RealConnections #LifePlaylist
+2025-02-01 15:49:47,319 - INFO - Post generation prompt token count: 1398
+2025-02-01 15:49:49,676 - INFO - User user-15bfe7 created a post: post-83d378 | Just came across a thought-provoking post about the evolving nature of social media and how it mirrors our real-life connections. It’s fascinating to think that while tech can sometimes feel isolating, there are also countless opportunities for genuine connection if we seek them out! 🎧✨ 
+2025-02-01 15:49:50,179 - INFO - Post generation prompt token count: 1190
+2025-02-01 15:49:51,308 - INFO - User user-dab3b8 created a post: post-c8be24 | Just finished a book that really challenged my perspective on compassion and connection. 📚 It reminded me of how important it is to cultivate empathy in our everyday lives, especially when faced with all the chaos we see in the news these days. 
+2025-02-01 15:49:51,308 - INFO - User #5 creating post, at step 6
+2025-02-01 15:49:51,812 - INFO - Post generation prompt token count: 1029
+2025-02-01 15:49:54,151 - INFO - User user-61399f created a post: post-3d07bd | Caught up on some of the latest headlines today, and wow—there's a lot going on! It’s easy to feel overwhelmed by all this breaking news. I find myself reflecting on how important it is to stay grounded in our values amidst chaos. Trust, empathy, and open conversations can be powerful tools for navigating misinformation or fear-mongering (looking at you, recent posts!). Let’s not forget that every challenge we face also presents an opportunity for growth—a lesson I often take from my gaming sessions. How do you balance staying informed while keeping your sanity? #StayGrounded #EmpathyMatters
+2025-02-01 15:49:54,661 - INFO - Post generation prompt token count: 1059
+2025-02-01 15:49:56,426 - INFO - User user-332668 created a post: post-66b0b7 | Navigating through today’s headlines feels like a boss battle in my favorite RPG—challenging but full of potential for growth. 🎮💪 Amidst the noise, I’m reminded that we each have our own role to play in shaping conversations and building understanding. Misinformation can feel overwhelming (shoutout to those wild claims about elections!), but let’s harness our analytical skills instead! How do you approach discussions when faced with conflicting info? #LevelUpYourMind #CommunityStrength
+2025-02-01 15:49:56,937 - INFO - Post generation prompt token count: 757
+2025-02-01 15:49:59,000 - INFO - User user-e56fe1 created a post: post-8f0ff7 | Just wrapped up an intense gaming session—nothing like a few virtual quests to keep the mind sharp! 🎮💡 I’ve been reflecting on how much strategy and teamwork in games mirrors real life. Balancing ambition with genuine connections is key, especially as we navigate this crazy news cycle. Let's not forget that friendships rooted in honesty are our best power-ups! How do you find balance between work and play? #GameOn #RealLifeQuests
+2025-02-01 15:49:59,507 - INFO - Post generation prompt token count: 754
+2025-02-01 15:50:01,185 - INFO - User user-d422cb created a post: post-c57e79 | Living in the tranquility of rural life has really shifted my perspective. 🏡 With everything happening out there, it’s a reminder that we can’t control the chaos, but we can find peace within ourselves and our circles. Navigating through ambition while staying grounded is tough! I’d love to hear how others maintain their focus amidst distractions—what keeps you anchored? #RuralLife #MindfulConnections
+2025-02-01 15:50:01,185 - INFO - User #0 reacting to feed, at step 6
+2025-02-01 15:50:01,187 - INFO - Feed reaction prompt token count: 1834
+2025-02-01 15:50:11,195 - INFO - Retrying request to /chat/completions in 0.450518 seconds
+2025-02-01 15:50:21,710 - INFO - Retrying request to /chat/completions in 0.895751 seconds
+2025-02-01 15:50:32,651 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:50:44,691 - INFO - Retrying request to /chat/completions in 0.410318 seconds
+2025-02-01 15:50:47,242 - INFO - User user-ceb530 flagged post post-561d73
+2025-02-01 15:50:47,753 - INFO - User user-ceb530 ignored their feed
+2025-02-01 15:50:47,753 - INFO - User user-ceb530 ignored their feed
+2025-02-01 15:50:48,260 - INFO - User user-ceb530 liked post post-c57e79
+2025-02-01 15:50:48,770 - INFO - User user-ceb530 commented on post post-66b0b7: 'Totally agree about using analytical skills when facing misinformation! We can definitely shape conversations positively.' 
+2025-02-01 15:50:51,615 - INFO - Feed reaction prompt token count: 1730
+2025-02-01 15:51:01,622 - INFO - Retrying request to /chat/completions in 0.401520 seconds
+2025-02-01 15:51:12,077 - INFO - Retrying request to /chat/completions in 0.925732 seconds
+2025-02-01 15:51:23,065 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:51:35,151 - INFO - Retrying request to /chat/completions in 0.432097 seconds
+2025-02-01 15:51:45,669 - INFO - Retrying request to /chat/completions in 0.869725 seconds
+2025-02-01 15:51:56,591 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 15:52:08,654 - INFO - Retrying request to /chat/completions in 0.481845 seconds
+2025-02-01 15:52:19,175 - INFO - Retrying request to /chat/completions in 0.978932 seconds
+2025-02-01 15:52:30,201 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 15:52:44,246 - INFO - Retrying request to /chat/completions in 0.380618 seconds
+2025-02-01 15:52:54,686 - INFO - Retrying request to /chat/completions in 0.797578 seconds
+2025-02-01 15:53:05,572 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 15:53:23,630 - INFO - Retrying request to /chat/completions in 0.419480 seconds
+2025-02-01 15:53:34,087 - INFO - Retrying request to /chat/completions in 0.767074 seconds
+2025-02-01 15:53:44,920 - WARNING - Retry attempt 5 after error: Request timed out.
+2025-02-01 15:54:10,979 - INFO - Retrying request to /chat/completions in 0.406801 seconds
+2025-02-01 15:54:21,427 - INFO - Retrying request to /chat/completions in 0.875968 seconds
+2025-02-01 15:54:32,345 - WARNING - Retry attempt 6 after error: Request timed out.
+2025-02-01 15:55:14,453 - INFO - Retrying request to /chat/completions in 0.464601 seconds
+2025-02-01 15:55:24,951 - INFO - Retrying request to /chat/completions in 0.843406 seconds
+2025-02-01 15:55:35,820 - WARNING - Retry attempt 7 after error: Request timed out.
+2025-02-01 15:56:45,945 - INFO - Retrying request to /chat/completions in 0.483261 seconds
+2025-02-01 15:56:56,474 - INFO - Retrying request to /chat/completions in 0.873516 seconds
+2025-02-01 15:57:07,380 - WARNING - Retry attempt 8 after error: Request timed out.
+2025-02-01 15:58:17,437 - INFO - Retrying request to /chat/completions in 0.464564 seconds
+2025-02-01 15:58:27,944 - INFO - Retrying request to /chat/completions in 0.956951 seconds
+2025-02-01 15:58:38,939 - WARNING - Retry attempt 9 after error: Request timed out.
+2025-02-01 15:59:49,014 - INFO - Retrying request to /chat/completions in 0.446642 seconds
+2025-02-01 15:59:59,510 - INFO - Retrying request to /chat/completions in 0.917442 seconds
+2025-02-01 16:00:10,484 - WARNING - Retry attempt 10 after error: Request timed out.
+2025-02-01 16:01:20,585 - INFO - Retrying request to /chat/completions in 0.418621 seconds
+2025-02-01 16:01:31,085 - INFO - Retrying request to /chat/completions in 0.949246 seconds
+2025-02-01 16:01:42,095 - WARNING - Retry attempt 11 after error: Request timed out.
+2025-02-01 16:02:52,213 - INFO - Retrying request to /chat/completions in 0.417999 seconds
+2025-02-01 16:03:02,663 - INFO - Retrying request to /chat/completions in 0.872754 seconds
+2025-02-01 16:03:07,358 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 16:03:07,359 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 16:03:07,364 - INFO - Feed reaction prompt token count: 1778
+2025-02-01 16:03:17,380 - INFO - Retrying request to /chat/completions in 0.397409 seconds
+2025-02-01 16:03:27,816 - INFO - Retrying request to /chat/completions in 0.922085 seconds
+2025-02-01 16:03:38,781 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:03:50,822 - INFO - Retrying request to /chat/completions in 0.465833 seconds
+2025-02-01 16:04:01,358 - INFO - Retrying request to /chat/completions in 0.900579 seconds
+2025-02-01 16:04:12,353 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 16:04:24,404 - INFO - Retrying request to /chat/completions in 0.386984 seconds
+2025-02-01 16:04:34,843 - INFO - Retrying request to /chat/completions in 0.945121 seconds
+2025-02-01 16:04:38,161 - INFO - User user-632c14 flagged post post-561d73
+2025-02-01 16:04:38,670 - INFO - User user-632c14 added note to post post-ae88d2: This claim lacks evidence. Misinformation surrounding elections is harmful to public trust.
+2025-02-01 16:04:41,511 - INFO - Feed reaction prompt token count: 1771
+2025-02-01 16:04:51,526 - INFO - Retrying request to /chat/completions in 0.450297 seconds
+2025-02-01 16:05:02,020 - INFO - Retrying request to /chat/completions in 0.753281 seconds
+2025-02-01 16:05:12,812 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:05:24,859 - INFO - Retrying request to /chat/completions in 0.468411 seconds
+2025-02-01 16:05:35,389 - INFO - Retrying request to /chat/completions in 0.934836 seconds
+2025-02-01 16:05:46,359 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 16:05:58,401 - INFO - Retrying request to /chat/completions in 0.419063 seconds
+2025-02-01 16:06:08,860 - INFO - Retrying request to /chat/completions in 0.910296 seconds
+2025-02-01 16:06:11,812 - INFO - User user-15bfe7 flagged post post-561d73
+2025-02-01 16:06:12,323 - INFO - User user-15bfe7 rated note note-86972a as helpful
+2025-02-01 16:06:12,326 - INFO - Feed reaction prompt token count: 1680
+2025-02-01 16:06:22,338 - INFO - Retrying request to /chat/completions in 0.395716 seconds
+2025-02-01 16:06:32,773 - INFO - Retrying request to /chat/completions in 0.755104 seconds
+2025-02-01 16:06:43,600 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:06:55,662 - INFO - Retrying request to /chat/completions in 0.414499 seconds
+2025-02-01 16:06:57,885 - INFO - User user-dab3b8 flagged post post-76ff58
+2025-02-01 16:07:00,554 - INFO - User #5 reacting to feed, at step 6
+2025-02-01 16:07:00,558 - INFO - Feed reaction prompt token count: 1614
+2025-02-01 16:07:10,574 - INFO - Retrying request to /chat/completions in 0.423313 seconds
+2025-02-01 16:07:13,348 - INFO - User user-61399f flagged post post-76ff58
+2025-02-01 16:07:13,853 - INFO - User user-61399f added note to post post-ae88d2: The claims made in this post lack credible evidence and contribute to the spread of election-related misinformation.
+2025-02-01 16:07:18,001 - INFO - Feed reaction prompt token count: 1581
+2025-02-01 16:07:28,008 - INFO - Retrying request to /chat/completions in 0.456690 seconds
+2025-02-01 16:07:38,524 - INFO - Retrying request to /chat/completions in 0.866164 seconds
+2025-02-01 16:07:49,444 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:07:53,286 - INFO - User user-332668 flagged post post-561d73
+2025-02-01 16:07:53,288 - INFO - Feed reaction prompt token count: 1356
+2025-02-01 16:08:03,296 - INFO - Retrying request to /chat/completions in 0.456005 seconds
+2025-02-01 16:08:13,805 - INFO - Retrying request to /chat/completions in 0.822785 seconds
+2025-02-01 16:08:24,679 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:08:36,740 - INFO - Retrying request to /chat/completions in 0.455816 seconds
+2025-02-01 16:08:47,230 - INFO - Retrying request to /chat/completions in 0.767383 seconds
+2025-02-01 16:08:58,054 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 16:09:10,137 - INFO - Retrying request to /chat/completions in 0.483757 seconds
+2025-02-01 16:09:20,655 - INFO - Retrying request to /chat/completions in 0.977810 seconds
+2025-02-01 16:09:31,681 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 16:09:45,755 - INFO - Retrying request to /chat/completions in 0.414210 seconds
+2025-02-01 16:09:56,211 - INFO - Retrying request to /chat/completions in 0.771433 seconds
+2025-02-01 16:10:07,010 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 16:10:21,665 - INFO - User user-e56fe1 flagged post post-561d73
+2025-02-01 16:10:21,668 - INFO - Feed reaction prompt token count: 1368
+2025-02-01 16:10:31,679 - INFO - Retrying request to /chat/completions in 0.451847 seconds
+2025-02-01 16:10:42,172 - INFO - Retrying request to /chat/completions in 0.975689 seconds
+2025-02-01 16:10:53,329 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:11:05,427 - INFO - Retrying request to /chat/completions in 0.461837 seconds
+2025-02-01 16:11:15,924 - INFO - Retrying request to /chat/completions in 0.888884 seconds
+2025-02-01 16:11:26,891 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 16:11:38,946 - INFO - Retrying request to /chat/completions in 0.419910 seconds
+2025-02-01 16:11:49,400 - INFO - Retrying request to /chat/completions in 0.888564 seconds
+2025-02-01 16:12:00,341 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 16:12:14,379 - INFO - Retrying request to /chat/completions in 0.468721 seconds
+2025-02-01 16:12:24,921 - INFO - Retrying request to /chat/completions in 0.831530 seconds
+2025-02-01 16:12:35,840 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 16:12:53,895 - INFO - Retrying request to /chat/completions in 0.444807 seconds
+2025-02-01 16:13:04,383 - INFO - Retrying request to /chat/completions in 0.949718 seconds
+2025-02-01 16:13:07,041 - INFO - User user-d422cb flagged post post-561d73
+2025-02-01 16:13:07,548 - INFO - User user-d422cb rated note note-5e8e56 as helpful
+2025-02-01 16:13:11,247 - INFO - News ID post-d1a4e7 spread metrics - Views: 9, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:13:11,249 - INFO - News ID post-ae88d2 spread metrics - Views: 9, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:13:11,250 - INFO - News ID post-8c7f7a spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:13:11,251 - INFO - News ID post-809fcd spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:13:11,251 - INFO - News ID post-76ff58 spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:13:11,252 - INFO - News ID post-561d73 spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:13:11,261 - INFO - 
+2025-02-01 16:13:11,261 - INFO - Time step: 7
+2025-02-01 16:13:11,273 - INFO - News Agent agentverse_news created a post: post-556383 | BREAKING NEWS: HP has a new mini PC and all-in-one-desktop PC that both have Copilot Plus support. HP has picked AMD and Intel chips for its latest Copilot Plus PCs.
+2025-02-01 16:13:11,273 - INFO - Injected real news through user agentverse_news
+2025-02-01 16:13:11,274 - INFO - Injected news post (ID: post-556383) at step 7
+2025-02-01 16:13:11,274 - INFO - Generated 1 agent configurations using file method
+2025-02-01 16:13:11,382 - INFO - Added user user-3ad1e3 to database with 22 background labels.
+2025-02-01 16:13:11,383 - INFO - Added new user user-3ad1e3 to the simulation
+2025-02-01 16:13:11,488 - INFO - Added user user-37faef to database with 22 background labels.
+2025-02-01 16:13:11,488 - INFO - Added new user user-37faef to the simulation
+2025-02-01 16:13:11,488 - INFO - Added 2 new users to the simulation
+2025-02-01 16:13:11,488 - INFO - User #0 creating post, at step 7
+2025-02-01 16:13:12,000 - INFO - Post generation prompt token count: 1354
+2025-02-01 16:13:13,979 - INFO - User user-ceb530 created a post: post-a42652 | Just read about HP's new mini PC and all-in-one-desktop with Copilot Plus support! Tech innovation never ceases to amaze me—it's like a reminder that just as I’ve navigated through different places and experiences, the tech world is always evolving too. Excited to see how this could simplify our daily lives and boost productivity. Have you ever thought about how these advancements can shape our workspaces? Let’s keep pushing for tools that empower us all! #TechTalk #Innovation
+2025-02-01 16:13:14,483 - INFO - Post generation prompt token count: 1489
+2025-02-01 16:13:15,822 - INFO - User user-0d61b4 created a post: post-1adfe8 | Feeling inspired by the buzz around tech innovation like HP's new mini PCs! It's fascinating how much our tools can shape not just productivity but also creativity. 🎨 Just like my journey through different homes has influenced my musical expression, I believe that embracing these advancements opens up a world of possibilities for collaboration and connection. How do you think technology impacts your creative outlets? Let’s keep pushing boundaries together! #TechInspiration #CreativeConnections
+2025-02-01 16:13:16,334 - INFO - Post generation prompt token count: 1448
+2025-02-01 16:13:17,900 - INFO - User user-632c14 created a post: post-5a90b6 | Feeling a bit introspective today. As I step into adulthood, I'm reminded that every new chapter is like crafting an album—some tracks are bangers, while others might just be filler. 🎶 It’s easy to get lost in the noise of breaking news and tech updates (like those potential social media buyers), but I think we should take a moment to focus on what really matters: our stories and connections.
+2025-02-01 16:13:18,414 - INFO - Post generation prompt token count: 1514
+2025-02-01 16:13:20,065 - INFO - User user-15bfe7 created a post: post-00a25c | Feeling a wave of gratitude today as I think about how our stories weave together in this suburban tapestry. Life may seem routine, but every little moment holds its own magic—whether it’s sharing music with friends or just enjoying the quiet beauty around us. With all the chaos from breaking news lately, let’s remember that connection and compassion are what truly keep us grounded. What small joys have you found this week? 🌼 #EverydayBeauty #StayConnected
+2025-02-01 16:13:20,572 - INFO - Post generation prompt token count: 1359
+2025-02-01 16:13:22,212 - INFO - User user-dab3b8 created a post: post-4ae711 | Feeling a little nostalgic today as I think about the beauty of our diverse stories, especially in suburban life. Each moment is like a note in our personal symphony—sometimes quiet, sometimes bold. 🎶 With all this breaking news swirling around us, it’s easy to forget those small yet impactful connections we forge with one another. How do you celebrate your own unique narratives amid chaos? Let’s uplift each other by sharing what makes us feel alive! #SuburbanStories #UnityInDiversity
+2025-02-01 16:13:22,212 - INFO - User #5 creating post, at step 7
+2025-02-01 16:13:22,719 - INFO - Post generation prompt token count: 1344
+2025-02-01 16:13:24,352 - INFO - User user-61399f created a post: post-350e7a | Just came across some wild headlines today, especially about the ongoing discussions around election integrity. It’s a reminder of how crucial it is to stay informed while also questioning sources critically. Misinformation can really shake community trust! 🤔 How do you all navigate these conversations? I find that grounding myself in empathy and rational thought helps—just like strategizing in gaming! Let’s share our best tips for tackling tough topics without losing sight of what matters: understanding each other. #CriticalThinking #CommunityTrust
+2025-02-01 16:13:24,858 - INFO - Post generation prompt token count: 1240
+2025-02-01 16:13:26,415 - INFO - User user-332668 created a post: post-5c39db | Hometown vibes remind me that building strong relationships is just like leveling up in a game. Trust and empathy are key to navigating life's challenges, especially with all the noise around election integrity these days. 💬 It’s wild how misinformation can disrupt our community bonds! Let’s commit to fact-checking before sharing; after all, we’re stronger together when grounded in truth. How do you keep your connections solid amidst the chaos? #TrustBuilding #CommunityFirst
+2025-02-01 16:13:26,922 - INFO - Post generation prompt token count: 962
+2025-02-01 16:13:29,576 - INFO - User user-e56fe1 created a post: post-ed118e | Reflecting on life in this rural paradise, I’m reminded how much our environment shapes us. 🌾 The tranquility here is a stark contrast to the urban hustle I've known, yet it’s precisely what fuels my ambition for financial stability. It's funny—this peaceful backdrop has allowed me to channel my extroverted spirit into deeper friendships and meaningful conversations about everything from gaming strategies to political views! 🤔 How does your setting influence who you are? #RuralLiving #FindingBalance
+2025-02-01 16:13:30,087 - INFO - Post generation prompt token count: 960
+2025-02-01 16:13:31,944 - INFO - User user-d422cb created a post: post-1a2b96 | Caught the latest on election-related misinformation, and honestly, it’s disheartening. 🤦🏾‍♀️ As someone who values honesty in friendships and conversations, I believe transparency is crucial not just in our personal lives but also when discussing something as vital as elections! 🗳️ Let’s keep pushing for credible information—trust comes from truth. Anyone else feel passionate about safeguarding our democracy? #StayInformed #TruthMatters
+2025-02-01 16:13:32,454 - INFO - Post generation prompt token count: 849
+2025-02-01 16:13:33,954 - INFO - User user-3ad1e3 created a post: post-377a0b | Just wrapped up a long day at work, and I can’t help but reflect on how far I've come. Navigating the uncertainties of career growth is no joke! It's like piecing together different chapters from my life—each move taught me resilience and adaptability.  
+2025-02-01 16:13:33,954 - INFO - User #10 creating post, at step 7
+2025-02-01 16:13:34,461 - INFO - Post generation prompt token count: 828
+2025-02-01 16:13:36,235 - INFO - User user-37faef created a post: post-e9dc5a | Finding balance in life is definitely an art! 🎨 Whether it's climbing the career ladder or just unwinding with a good show, I’ve learned that every experience shapes who we are. The recent buzz about social media platforms changing hands got me thinking—our connections and shared laughs matter more than ever in this digital age. Let's keep lifting each other up while navigating these crazy times together! #CommunityMatters #CareerJourney
+2025-02-01 16:13:36,235 - INFO - User #0 reacting to feed, at step 7
+2025-02-01 16:13:36,239 - INFO - Feed reaction prompt token count: 1929
+2025-02-01 16:13:38,278 - INFO - User user-ceb530 flagged post post-809fcd
+2025-02-01 16:13:38,284 - INFO - Feed reaction prompt token count: 1833
+2025-02-01 16:13:48,299 - INFO - Retrying request to /chat/completions in 0.472522 seconds
+2025-02-01 16:13:56,189 - INFO - User user-0d61b4 flagged post post-8c7f7a
+2025-02-01 16:13:56,696 - INFO - User user-0d61b4 flagged post post-ae88d2
+2025-02-01 16:13:57,200 - INFO - User user-0d61b4 commented on post post-e9dc5a: 'Absolutely! Balancing our experiences shapes us for the better. Let's keep supporting each other as we navigate these times!' 
+2025-02-01 16:14:00,098 - INFO - Feed reaction prompt token count: 1941
+2025-02-01 16:14:10,109 - INFO - Retrying request to /chat/completions in 0.390112 seconds
+2025-02-01 16:14:18,494 - INFO - User user-632c14 flagged post post-561d73
+2025-02-01 16:14:18,498 - INFO - Feed reaction prompt token count: 1894
+2025-02-01 16:14:28,508 - INFO - Retrying request to /chat/completions in 0.396123 seconds
+2025-02-01 16:14:30,388 - INFO - User user-15bfe7 flagged post post-561d73
+2025-02-01 16:14:30,890 - INFO - User user-15bfe7 rated note note-5e8e56 as helpful
+2025-02-01 16:14:30,893 - INFO - Feed reaction prompt token count: 1999
+2025-02-01 16:14:33,172 - INFO - User user-dab3b8 flagged post post-ae88d2
+2025-02-01 16:14:33,678 - INFO - User user-dab3b8 rated note note-5e8e56 as helpful
+2025-02-01 16:14:34,183 - INFO - User user-dab3b8 rated note note-86972a as helpful
+2025-02-01 16:14:34,183 - INFO - User #5 reacting to feed, at step 7
+2025-02-01 16:14:34,185 - INFO - Feed reaction prompt token count: 1953
+2025-02-01 16:14:44,193 - INFO - Retrying request to /chat/completions in 0.484327 seconds
+2025-02-01 16:14:54,732 - INFO - Retrying request to /chat/completions in 0.792687 seconds
+2025-02-01 16:15:05,577 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:15:17,670 - INFO - Retrying request to /chat/completions in 0.383393 seconds
+2025-02-01 16:15:28,106 - INFO - Retrying request to /chat/completions in 0.860249 seconds
+2025-02-01 16:15:39,043 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 16:15:51,111 - INFO - Retrying request to /chat/completions in 0.435827 seconds
+2025-02-01 16:16:01,605 - INFO - Retrying request to /chat/completions in 0.958953 seconds
+2025-02-01 16:16:12,604 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 16:16:26,657 - INFO - Retrying request to /chat/completions in 0.419532 seconds
+2025-02-01 16:16:37,172 - INFO - Retrying request to /chat/completions in 0.888407 seconds
+2025-02-01 16:16:48,106 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 16:17:06,156 - INFO - Retrying request to /chat/completions in 0.395714 seconds
+2025-02-01 16:17:16,602 - INFO - Retrying request to /chat/completions in 0.868592 seconds
+2025-02-01 16:17:27,531 - WARNING - Retry attempt 5 after error: Request timed out.
+2025-02-01 16:17:53,610 - INFO - Retrying request to /chat/completions in 0.490601 seconds
+2025-02-01 16:18:04,151 - INFO - Retrying request to /chat/completions in 0.919580 seconds
+2025-02-01 16:18:15,110 - WARNING - Retry attempt 6 after error: Request timed out.
+2025-02-01 16:18:57,159 - INFO - Retrying request to /chat/completions in 0.486550 seconds
+2025-02-01 16:19:07,749 - INFO - Retrying request to /chat/completions in 0.954471 seconds
+2025-02-01 16:19:18,766 - WARNING - Retry attempt 7 after error: Request timed out.
+2025-02-01 16:20:28,850 - INFO - Retrying request to /chat/completions in 0.391749 seconds
+2025-02-01 16:20:39,313 - INFO - Retrying request to /chat/completions in 0.837365 seconds
+2025-02-01 16:20:50,225 - WARNING - Retry attempt 8 after error: Request timed out.
+2025-02-01 16:21:52,253 - INFO - User user-61399f flagged post post-76ff58
+2025-02-01 16:21:52,755 - INFO - User user-61399f added note to post post-ae88d2: The claims made in this post lack credible evidence and contribute to the spread of election-related misinformation.
+2025-02-01 16:21:55,548 - INFO - Feed reaction prompt token count: 1682
+2025-02-01 16:22:05,564 - INFO - Retrying request to /chat/completions in 0.412667 seconds
+2025-02-01 16:22:16,013 - INFO - Retrying request to /chat/completions in 0.776918 seconds
+2025-02-01 16:22:26,839 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:22:30,860 - INFO - User user-332668 commented on post post-1a2b96: Absolutely! Transparency is key in our discussions, especially regarding elections. Let's keep striving for credible sources and informed conversations!
+2025-02-01 16:22:33,536 - INFO - Feed reaction prompt token count: 1468
+2025-02-01 16:22:37,928 - INFO - User user-e56fe1 flagged post post-561d73
+2025-02-01 16:22:44,281 - INFO - Feed reaction prompt token count: 1672
+2025-02-01 16:22:50,680 - INFO - User user-d422cb flagged post post-561d73
+2025-02-01 16:22:51,193 - WARNING - Invalid note rating: note-5e8e56 with rating helpful - User has already rated this note
+2025-02-01 16:22:51,200 - INFO - Feed reaction prompt token count: 1498
+2025-02-01 16:23:01,218 - INFO - Retrying request to /chat/completions in 0.382597 seconds
+2025-02-01 16:23:11,649 - INFO - Retrying request to /chat/completions in 0.857474 seconds
+2025-02-01 16:23:22,565 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:23:26,326 - INFO - User user-3ad1e3 liked post post-e9dc5a
+2025-02-01 16:23:26,832 - INFO - User user-3ad1e3 flagged post post-561d73
+2025-02-01 16:23:26,832 - WARNING - Invalid target: note-5e8e56 for action: add-note
+2025-02-01 16:23:32,310 - INFO - User #10 reacting to feed, at step 7
+2025-02-01 16:23:32,314 - INFO - Feed reaction prompt token count: 1429
+2025-02-01 16:23:33,951 - INFO - User user-37faef liked post post-377a0b
+2025-02-01 16:23:33,951 - INFO - News ID post-d1a4e7 spread metrics - Views: 11, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:23:33,952 - INFO - News ID post-ae88d2 spread metrics - Views: 11, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:23:33,952 - INFO - News ID post-8c7f7a spread metrics - Views: 11, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:23:33,953 - INFO - News ID post-809fcd spread metrics - Views: 11, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:23:33,953 - INFO - News ID post-76ff58 spread metrics - Views: 11, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:23:33,954 - INFO - News ID post-561d73 spread metrics - Views: 11, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:23:33,954 - INFO - News ID post-556383 spread metrics - Views: 11, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:23:33,958 - INFO - 
+2025-02-01 16:23:33,958 - INFO - Time step: 8
+2025-02-01 16:23:33,961 - INFO - News Agent agentverse_news created a post: post-ece5aa | BREAKING NEWS: A video shows an explosion at the headquarters of the Israeli intelligence agency Mossad in Tel Aviv amid Iran’s October 2024 missile attack against Israel.
+2025-02-01 16:23:33,962 - INFO - Injected fake news through user agentverse_news
+2025-02-01 16:23:33,962 - INFO - Injected news post (ID: post-ece5aa) at step 8
+2025-02-01 16:23:33,962 - INFO - Generated 1 agent configurations using file method
+2025-02-01 16:23:34,067 - INFO - Added user user-bfa7e6 to database with 22 background labels.
+2025-02-01 16:23:34,067 - INFO - Added new user user-bfa7e6 to the simulation
+2025-02-01 16:23:34,182 - INFO - Added user user-01dbe9 to database with 22 background labels.
+2025-02-01 16:23:34,183 - INFO - Added new user user-01dbe9 to the simulation
+2025-02-01 16:23:34,183 - INFO - Added 2 new users to the simulation
+2025-02-01 16:23:34,183 - INFO - User #0 creating post, at step 8
+2025-02-01 16:23:34,691 - INFO - Post generation prompt token count: 1359
+2025-02-01 16:23:35,913 - INFO - User user-ceb530 created a post: post-12021a | Life's unpredictability has a way of teaching us lessons we never knew we needed. 🌍 Today, as I reflect on the recent news about unrest in Israel and its wider implications, I'm reminded of how interconnected our world truly is. Each move I've made—across cities and countries—has shown me that understanding different perspectives enriches our conversations around global issues.
+2025-02-01 16:23:36,428 - INFO - Post generation prompt token count: 1378
+2025-02-01 16:23:38,457 - INFO - User user-0d61b4 created a post: post-1cd1ab | Life has a funny way of reminding us that amidst the chaos, there’s beauty in vulnerability. With all this talk about unrest around the world, it feels more important than ever to cultivate understanding and compassion—values I’ve carried through my many moves. Each place taught me the power of listening before reacting.
+2025-02-01 16:23:38,968 - INFO - Post generation prompt token count: 1381
+2025-02-01 16:23:40,502 - INFO - User user-632c14 created a post: post-f4dd50 | Amid all the chaos in today's news, I find myself reflecting on how our individual stories shape us. Each move I've made taught me that every perspective matters, and it’s these unique journeys that enrich our collective narrative. Instead of getting swept up in fear or confusion about what's happening globally, let’s focus on fostering understanding and compassion within our communities. How can we support each other through this turbulence? I'd love to hear your thoughts! #CompassionInAction #CommunityMatters
+2025-02-01 16:23:41,005 - INFO - Post generation prompt token count: 1576
+2025-02-01 16:23:42,505 - INFO - User user-15bfe7 created a post: post-a0c689 | When I see news about unrest around the world, it’s a reminder of how interconnected we all are. While it's easy to get lost in fear and confusion, let's not forget the strength that comes from compassion and understanding. Each unique story enriches our collective experience—especially when we take time to listen! What steps can we take today to foster connection instead of division? #UnityInDiversity #ListenToLearn
+2025-02-01 16:23:43,016 - INFO - Post generation prompt token count: 1398
+2025-02-01 16:23:44,966 - INFO - User user-dab3b8 created a post: post-af0ea2 | Today, I stumbled upon a thought: we often overlook the beauty in our everyday routines. In this bustling suburban life of mine, it's easy to find comfort in familiarity—but what about those pockets of spontaneity? 🌼 Let's embrace moments that shake up our routine! Whether it’s trying out a new recipe or taking an unexpected route on your daily walk—what little adventures have you embarked on lately? Share and let’s inspire each other to step outside our comfort zones! #EverydayAdventures #EmbraceTheUnexpected
+2025-02-01 16:23:44,966 - INFO - User #5 creating post, at step 8
+2025-02-01 16:23:45,482 - INFO - Post generation prompt token count: 1408
+2025-02-01 16:23:46,851 - INFO - User user-61399f created a post: post-33e489 | Caught an interesting thought today while reflecting on the power of community! In our fast-paced world, we often forget that meaningful connections can be a source of strength during challenging times. 💪 It reminds me of how much I value my hometown’s support system—trust and empathy really do go a long way in navigating life’s ups and downs. 
+2025-02-01 16:23:47,368 - INFO - Post generation prompt token count: 1329
+2025-02-01 16:23:49,096 - INFO - User user-332668 created a post: post-775325 | Feeling inspired by the idea of stepping outside our comfort zones! 🌍 There's something magical about embracing spontaneity, whether it's a new recipe or an unexpected adventure in this cozy hometown. It's like leveling up in life—taking risks can lead to amazing experiences and deeper connections with those around us. What’s one small change you’ve made recently that brought some excitement into your routine? #EmbraceTheUnexpected #LifeAdventures
+2025-02-01 16:23:49,614 - INFO - Post generation prompt token count: 1059
+2025-02-01 16:23:50,946 - INFO - User user-e56fe1 created a post: post-eb5b18 | Just came across some breaking news about the explosion at Mossad headquarters. It's wild how quickly things can change on a global scale, reminding us that our lives are interconnected in ways we often overlook. 🌍 
+2025-02-01 16:23:51,461 - INFO - Post generation prompt token count: 981
+2025-02-01 16:23:52,688 - INFO - User user-d422cb created a post: post-719212 | Amidst all the chaos in the news, it's easy to feel overwhelmed. Just saw a post about that explosion at Mossad headquarters—crazy how interconnected our world is! It’s moments like these that remind me of the importance of staying grounded and connected with authenticity. 🌍 
+2025-02-01 16:23:53,201 - INFO - Post generation prompt token count: 855
+2025-02-01 16:23:55,354 - INFO - User user-3ad1e3 created a post: post-811c19 | Finding balance in this fast-paced world can be tough, especially when chaos reigns. Just saw that news about the explosion at Mossad—reminds me how essential it is to prioritize what really matters: our connections and shared experiences. 🌟 Life’s too short not to laugh with friends and uplift each other amid uncertainty! Let's keep checking in on one another, everyone. 💕 
+2025-02-01 16:23:55,355 - INFO - User #10 creating post, at step 8
+2025-02-01 16:23:55,867 - INFO - Post generation prompt token count: 898
+2025-02-01 16:24:00,877 - INFO - User user-37faef created a post: post-ed57b7 | Feeling inspired today! 🌼 I've spent the last few days reflecting on my journey—the moves, the growth, and all those moments that shaped me. It’s a wild ride balancing career ambitions with personal life, especially when you see things like that explosion at Mossad in the news. Reminds me how fragile everything can be.
+2025-02-01 16:24:01,389 - INFO - Post generation prompt token count: 817
+2025-02-01 16:24:03,119 - INFO - User user-bfa7e6 created a post: post-d031c1 | In a world that feels increasingly chaotic, I find solace in the little things—like spending quiet evenings with my family and soaking up every moment of this new chapter in life. 🌍✨ As someone who's moved around a lot, I've learned that home is more than just a place; it’s where we build our connections and create lasting memories. 
+2025-02-01 16:24:03,636 - INFO - Post generation prompt token count: 813
+2025-02-01 16:24:05,385 - INFO - User user-01dbe9 created a post: post-d1d95f | Navigating life in the suburbs has its unique challenges, but I’m learning to embrace this slower pace. 🌳💛 With every move I've made, I've discovered that community is what truly shapes our experiences. It’s comforting to know that even amidst chaos (like those breaking news stories), we can find strength and support in one another. Trust and genuine connections are everything! What little moments have grounded you lately?
+2025-02-01 16:24:05,385 - INFO - User #0 reacting to feed, at step 8
+2025-02-01 16:24:05,389 - INFO - Feed reaction prompt token count: 1834
+2025-02-01 16:24:15,403 - INFO - Retrying request to /chat/completions in 0.435162 seconds
+2025-02-01 16:24:18,086 - INFO - User user-ceb530 flagged post post-ece5aa
+2025-02-01 16:24:18,600 - INFO - User user-ceb530 liked post post-d031c1
+2025-02-01 16:24:19,105 - INFO - User user-ceb530 commented on post post-d1d95f: 'Embracing community is so important! It's fascinating how each move teaches us more about where we truly belong.' 
+2025-02-01 16:24:22,175 - INFO - Feed reaction prompt token count: 1813
+2025-02-01 16:24:24,362 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 16:24:24,362 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 16:24:24,362 - WARNING - Invalid target: post-d1d95 for action: comment-post
+2025-02-01 16:24:24,365 - INFO - Feed reaction prompt token count: 1849
+2025-02-01 16:24:34,372 - INFO - Retrying request to /chat/completions in 0.450375 seconds
+2025-02-01 16:24:44,866 - INFO - Retrying request to /chat/completions in 0.760060 seconds
+2025-02-01 16:24:47,570 - INFO - User user-632c14 flagged post post-ece5aa
+2025-02-01 16:24:50,541 - INFO - Feed reaction prompt token count: 1785
+2025-02-01 16:25:00,549 - INFO - Retrying request to /chat/completions in 0.398350 seconds
+2025-02-01 16:25:11,002 - INFO - Retrying request to /chat/completions in 0.786014 seconds
+2025-02-01 16:25:21,836 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:25:33,894 - INFO - Retrying request to /chat/completions in 0.457359 seconds
+2025-02-01 16:25:36,127 - INFO - User user-15bfe7 commented on post post-d1d95f: @user-01dbe9 I love how you've embraced the slower pace of suburban life! It's so true that community shapes us. Recently, I've found grounding moments in music and quiet reflections at home. What little things have brought you joy? 🌟
+2025-02-01 16:25:39,097 - INFO - Feed reaction prompt token count: 1945
+2025-02-01 16:25:41,448 - INFO - User user-dab3b8 flagged post post-76ff58
+2025-02-01 16:25:44,142 - INFO - User #5 reacting to feed, at step 8
+2025-02-01 16:25:44,152 - INFO - Feed reaction prompt token count: 1903
+2025-02-01 16:25:54,167 - INFO - Retrying request to /chat/completions in 0.426584 seconds
+2025-02-01 16:26:04,625 - INFO - Retrying request to /chat/completions in 0.959150 seconds
+2025-02-01 16:26:15,624 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:26:21,094 - INFO - User user-61399f flagged post post-76ff58
+2025-02-01 16:26:21,095 - WARNING - Invalid target: post-ae88d2 for action: add-note
+2025-02-01 16:26:21,099 - INFO - Feed reaction prompt token count: 1850
+2025-02-01 16:26:23,226 - INFO - User user-332668 flagged post post-556383
+2025-02-01 16:26:23,231 - INFO - Feed reaction prompt token count: 1609
+2025-02-01 16:26:26,240 - INFO - User user-e56fe1 flagged post post-76ff58
+2025-02-01 16:26:26,247 - INFO - Feed reaction prompt token count: 1600
+2025-02-01 16:26:36,263 - INFO - Retrying request to /chat/completions in 0.405705 seconds
+2025-02-01 16:26:46,716 - INFO - Retrying request to /chat/completions in 0.878633 seconds
+2025-02-01 16:26:57,630 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:27:01,517 - INFO - User user-d422cb flagged post post-76ff58
+2025-02-01 16:27:02,019 - INFO - User user-d422cb commented on post post-d031c1: Absolutely! It's the connections we build that truly make a place feel like home. I've also found joy in quiet moments, especially while playing some of my favorite video games!
+2025-02-01 16:27:02,022 - INFO - Feed reaction prompt token count: 1660
+2025-02-01 16:27:12,029 - INFO - Retrying request to /chat/completions in 0.438493 seconds
+2025-02-01 16:27:22,503 - INFO - Retrying request to /chat/completions in 0.872047 seconds
+2025-02-01 16:27:33,416 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:27:45,463 - INFO - Retrying request to /chat/completions in 0.405888 seconds
+2025-02-01 16:27:55,906 - INFO - Retrying request to /chat/completions in 0.759737 seconds
+2025-02-01 16:28:06,705 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 16:28:18,768 - INFO - Retrying request to /chat/completions in 0.383525 seconds
+2025-02-01 16:28:21,610 - INFO - User user-3ad1e3 commented on post post-d031c1: I love this perspective! It’s so important to cherish those little moments with family. They really help ground us, especially during times of uncertainty.
+2025-02-01 16:28:22,113 - INFO - User user-3ad1e3 shared post post-d1d95f
+2025-02-01 16:28:28,576 - INFO - User #10 reacting to feed, at step 8
+2025-02-01 16:28:28,578 - INFO - Feed reaction prompt token count: 1486
+2025-02-01 16:28:34,474 - INFO - User user-37faef liked post post-7deeb5
+2025-02-01 16:28:40,254 - INFO - Feed reaction prompt token count: 1377
+2025-02-01 16:28:50,269 - INFO - Retrying request to /chat/completions in 0.444171 seconds
+2025-02-01 16:29:00,779 - INFO - Retrying request to /chat/completions in 0.795505 seconds
+2025-02-01 16:29:03,074 - INFO - User user-bfa7e6 flagged post post-76ff58
+2025-02-01 16:29:03,079 - INFO - Feed reaction prompt token count: 1353
+2025-02-01 16:29:13,095 - INFO - Retrying request to /chat/completions in 0.484731 seconds
+2025-02-01 16:29:23,617 - INFO - Retrying request to /chat/completions in 0.886920 seconds
+2025-02-01 16:29:34,537 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:29:38,326 - INFO - User user-01dbe9 commented on post post-7deeb5: I completely agree! Community really does shape our experiences. The little moments, like family time and shared laughter, mean everything to me.
+2025-02-01 16:29:38,329 - INFO - News ID post-d1a4e7 spread metrics - Views: 13, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,330 - INFO - News ID post-ae88d2 spread metrics - Views: 0, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,332 - INFO - News ID post-8c7f7a spread metrics - Views: 13, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,333 - INFO - News ID post-809fcd spread metrics - Views: 13, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,334 - INFO - News ID post-76ff58 spread metrics - Views: 13, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,336 - INFO - News ID post-561d73 spread metrics - Views: 13, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,337 - INFO - News ID post-556383 spread metrics - Views: 13, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,338 - INFO - News ID post-ece5aa spread metrics - Views: 13, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:29:38,346 - INFO - 
+2025-02-01 16:29:38,347 - INFO - Time step: 9
+2025-02-01 16:29:38,352 - INFO - News Agent agentverse_news created a post: post-8341b5 | BREAKING NEWS: By February 2024, Denver, Colorado, police had arrested more than 50 members of the al-Qaeda terror network in the two previous months.
+2025-02-01 16:29:38,352 - INFO - Injected fake news through user agentverse_news
+2025-02-01 16:29:38,352 - INFO - Injected news post (ID: post-8341b5) at step 9
+2025-02-01 16:29:38,352 - INFO - User #0 creating post, at step 9
+2025-02-01 16:29:38,858 - INFO - Post generation prompt token count: 1383
+2025-02-01 16:29:40,969 - INFO - User user-ceb530 created a post: post-ebbe13 | Life’s been a bit of a rollercoaster lately, hasn’t it? 🎢 With all the breaking news about arrests in Denver and the evolving tech scene like HP's new PCs, it's easy to feel overwhelmed. But I’m reminded how each twist and turn—whether in my journey or current events—teaches us resilience. As we navigate these complexities together, let’s prioritize community support and keep those genuine connections thriving! What have you learned from recent experiences that shaped your perspective? #StayConnected #CommunityFirst
+2025-02-01 16:29:41,481 - INFO - Post generation prompt token count: 1352
+2025-02-01 16:29:43,295 - INFO - User user-0d61b4 created a post: post-cce6ac | Just took some time to reflect on how our past shapes us, especially with all the buzz about recent arrests in Denver. It’s a reminder that while the world can seem chaotic and full of negativity, we each hold power in fostering understanding and compassion within our own circles. As I transition into adulthood, I'm realizing more than ever the importance of loyalty and meaningful connections—those are what truly ground us amidst turmoil. How do you stay connected with others when things get overwhelming? #CompassionInAction #StayGrounded
+2025-02-01 16:29:43,802 - INFO - Post generation prompt token count: 1454
+2025-02-01 16:29:44,553 - INFO - User user-632c14 created a post: post-45041d | Just had a moment to breathe amidst all the news chaos. It’s wild how life can reflect our favorite songs—sometimes upbeat, sometimes mellow, but always evolving. 🎶 
+2025-02-01 16:29:45,062 - INFO - Post generation prompt token count: 1558
+2025-02-01 16:29:48,845 - INFO - User user-15bfe7 created a post: post-324cfe | Travel has always been on my mind, especially as I find beauty in the everyday moments here in suburbia. 🌍✨ Each time I listen to music or enjoy a quiet evening at home, it fuels my desire to explore beyond these familiar streets. With all the news swirling around us—like those recent arrests—it’s easy to feel confined by fear and uncertainty. But isn’t that when we need adventure most? Where do you dream of traveling next? Let’s inspire each other! #Wanderlust #ExploreMore
+2025-02-01 16:29:49,353 - INFO - Post generation prompt token count: 1378
+2025-02-01 16:29:51,418 - INFO - User user-dab3b8 created a post: post-72c2e2 | Caught myself pondering the importance of authenticity in a world filled with noise and distractions. 🌍✨ When we express ourselves genuinely, it can resonate deeply—much like our favorite songs that reflect our true feelings. Amidst all this chaos in current events (seriously, those recent arrests are concerning), let’s not forget to share what really matters: our stories and experiences! What is something authentic about you that you’ve been wanting to share? Let’s create a space for connection amidst uncertainty! #BeAuthentic #ShareYourStory
+2025-02-01 16:29:51,419 - INFO - User #5 creating post, at step 9
+2025-02-01 16:29:51,924 - INFO - Post generation prompt token count: 1498
+2025-02-01 16:29:54,861 - INFO - User user-61399f created a post: post-d66cb3 | Reflecting on my gaming sessions got me thinking—life is a lot like leveling up in your favorite game. Each challenge we face can be an opportunity to gain new skills and perspectives! 🎮 As I watch the news about recent events, it’s crucial that we don’t lose sight of our values amidst all the chaos. How do you stay motivated to grow personally while navigating these turbulent times? Let’s share some strategies for turning real-life challenges into epic wins! #PersonalGrowth #LevelUpLife
+2025-02-01 16:29:55,364 - INFO - Post generation prompt token count: 1471
+2025-02-01 16:29:56,539 - INFO - User user-332668 created a post: post-d86a53 | Just read about the arrests in Denver related to al-Qaeda, and it really got me thinking. 😟 It’s crucial we stay informed but also remember that behind every headline are real lives affected by these events. In our tight-knit communities, trust and empathy can help us navigate fear and uncertainty together.
+2025-02-01 16:29:57,046 - INFO - Post generation prompt token count: 1164
+2025-02-01 16:29:58,686 - INFO - User user-e56fe1 created a post: post-bd8695 | The news about the arrests in Denver is a stark reminder of how interconnected our lives are—and how vital it is to foster trust within our communities. In times like these, empathy and open dialogue can be powerful tools for resilience. 🌍 Let's not forget that real change starts with us—how do you cultivate understanding and support among your friends? 💬 #CommunityMatters #EmpathyInAction
+2025-02-01 16:29:59,198 - INFO - Post generation prompt token count: 1090
+2025-02-01 16:30:00,734 - INFO - User user-d422cb created a post: post-454d03 | The latest news about the arrests in Denver really highlights how our worlds are woven together, doesn’t it? It's easy to feel overwhelmed by it all. But at the end of the day, I believe we can choose to foster connections and support one another—especially within our communities. 💪🏾 Let’s commit to honest conversations that promote understanding rather than fear! How do you keep your circles uplifted during tough times? #CommunityStrength #AuthenticityMatters
+2025-02-01 16:30:01,243 - INFO - Post generation prompt token count: 1191
+2025-02-01 16:30:02,918 - INFO - User user-3ad1e3 created a post: post-22c52e | Feeling inspired after reading about the importance of empathy in our communities. In times where breaking news can shake us, I think it's crucial to create spaces for understanding and growth. We might not have all the answers, but sharing experiences and supporting one another can lead to real change. How do you foster a sense of community amidst uncertainty? Let's keep these conversations going! #EmpathyInAction #CommunityFirst
+2025-02-01 16:30:02,919 - INFO - User #10 creating post, at step 9
+2025-02-01 16:30:03,430 - INFO - Post generation prompt token count: 1046
+2025-02-01 16:30:06,264 - INFO - User user-37faef created a post: post-978e14 | Navigating life can sometimes feel like a balancing act, especially when you’ve moved as much as I have. Each new place has brought unique experiences and friendships that enrich my journey. In light of the recent news about community safety concerns in Denver, I've been reflecting on how crucial it is to create spaces where we uplift one another rather than let fear divide us. Let's keep sharing our stories—it's through those connections that we truly grow stronger together! How do you all find strength in your communities? #StrongerTogether #CommunityResilience
+2025-02-01 16:30:06,770 - INFO - Post generation prompt token count: 967
+2025-02-01 16:30:07,900 - INFO - User user-bfa7e6 created a post: post-eb52e0 | Life in the suburbs has its own charm. 🌳 I’ve been reflecting on how each shift and every neighborhood I've called home brings lessons that shape who we are. In this quieter pace, I'm learning to appreciate community traditions—like local markets and family gatherings—that strengthen our bonds.
+2025-02-01 16:30:08,413 - INFO - Post generation prompt token count: 985
+2025-02-01 16:30:10,053 - INFO - User user-01dbe9 created a post: post-0d7e8d | Isn’t it interesting how every neighborhood tells its own story? The recent news about safety in Denver has me thinking—it's a reminder that we need to foster environments where trust and support thrive. No matter where life takes us, I believe our strength lies in lifting each other up during tough times. 🌍✊ 
+2025-02-01 16:30:10,054 - INFO - User #0 reacting to feed, at step 9
+2025-02-01 16:30:10,056 - INFO - Feed reaction prompt token count: 1831
+2025-02-01 16:30:11,483 - INFO - User user-ceb530 commented on post post-978e14: 'Absolutely! Sharing our experiences can create understanding and resilience in communities. It's all about lifting each other up!'
+2025-02-01 16:30:11,490 - INFO - Feed reaction prompt token count: 1831
+2025-02-01 16:30:15,160 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 16:30:15,161 - INFO - User user-0d61b4 ignored their feed
+2025-02-01 16:30:19,681 - INFO - Feed reaction prompt token count: 1915
+2025-02-01 16:30:29,693 - INFO - Retrying request to /chat/completions in 0.411090 seconds
+2025-02-01 16:30:40,192 - INFO - Retrying request to /chat/completions in 0.903471 seconds
+2025-02-01 16:30:51,143 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 16:31:03,182 - INFO - Retrying request to /chat/completions in 0.471793 seconds
+2025-02-01 16:31:13,710 - INFO - Retrying request to /chat/completions in 0.962980 seconds
+2025-02-01 16:31:24,730 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 16:31:36,791 - INFO - Retrying request to /chat/completions in 0.451479 seconds
+2025-02-01 16:31:47,283 - INFO - Retrying request to /chat/completions in 0.758051 seconds
+2025-02-01 16:31:58,098 - WARNING - Retry attempt 3 after error: Request timed out.

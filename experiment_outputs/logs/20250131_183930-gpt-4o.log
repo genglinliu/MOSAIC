@@ -1,0 +1,37 @@
+2025-01-31 18:39:30,115 - INFO - Starting simulation with 2 users for 20 time steps using gpt-4o...
+2025-01-31 18:39:31,126 - INFO - Resetting database...
+2025-01-31 18:39:31,130 - INFO - Existing database removed.
+2025-01-31 18:39:31,146 - INFO - Database tables created successfully.
+2025-01-31 18:39:31,147 - INFO - New tables created.
+2025-01-31 18:39:31,152 - INFO - Generated 2 agent configurations using file method
+2025-01-31 18:39:31,152 - INFO - Creating 2 users
+2025-01-31 18:39:31,154 - INFO - Added user user-3072ea to database with 22 background labels.
+2025-01-31 18:39:31,155 - INFO - Added user user-c18436 to database with 22 background labels.
+2025-01-31 18:39:31,156 - INFO - Total users in database after creation: 2
+2025-01-31 18:39:31,198 - INFO - Time step: 1
+2025-01-31 18:39:31,199 - INFO - User #0 creating post, at step 1
+2025-01-31 18:39:35,042 - INFO - User user-3072ea created a post: post-9a475d | "Reflecting on my college days, I realize how education lit the path from a tough childhood to where I stand today. 🌟 The city's rhythm matches my thoughts, driving me forward as I continue this journey of growth and exploration. Here's to breaking boundaries and finding connections that challenge us intellectually! 🗺️🧠 #LifelongLearner #UrbanJourney"
+2025-01-31 18:39:37,873 - INFO - User user-c18436 created a post: post-48a2bc | "Finding balance in the constant rhythm of new places is like a dance between independence and connection. 🌍 Each move deepens my appreciation for friendships rooted in honesty, much like navigating life's challenges with faith as my compass. 🧭 Grateful for sports that tie me to both heritage and community—reminding me every day how diversity enriches our path forward. #NomadLife #CommunityStrength"
+2025-01-31 18:39:37,873 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 18:39:42,197 - INFO - User user-3072ea liked post post-48a2bc
+2025-01-31 18:39:42,704 - INFO - User user-3072ea followed user-c18436
+2025-01-31 18:39:49,960 - INFO - User user-c18436 liked post post-9a475d
+2025-01-31 18:39:50,470 - INFO - User user-c18436 commented on post post-9a475d: Inspiring journey! It's amazing how education can transform lives. Keep exploring and growing.
+2025-01-31 18:39:52,717 - INFO - 
+Current Influencers:
+2025-01-31 18:39:52,718 - INFO - User user-c18436: Influence Score = 0.700
+2025-01-31 18:39:52,718 - INFO - 
+2025-01-31 18:39:52,718 - INFO - Time step: 2
+2025-01-31 18:39:52,729 - INFO - News Agent agentverse_news created a post: post-e65e74 | BREAKING NEWS: Not the Star Wars movie that might star Ryan Gosling. This is the one about Rey and the New Jedi Order.
+2025-01-31 18:39:52,729 - INFO - Injected real news through user agentverse_news
+2025-01-31 18:39:52,730 - INFO - Injected news post (ID: post-e65e74) at step 2
+2025-01-31 18:39:52,730 - INFO - User #0 creating post, at step 2
+2025-01-31 18:39:55,903 - INFO - User user-3072ea created a post: post-362fd5 | "Amidst the city's buzz, I find myself drawn to stories of exploration and new beginnings. 🏙️ The idea of Rey leading a New Jedi Order in #StarWars feels like breaking boundaries, much like my own journey from past challenges to embracing diverse perspectives today. Here's to finding strength through community and curiosity! 🌌✨ #CommunityMatters #NewAdventures"
+2025-01-31 18:39:57,845 - INFO - User user-c18436 created a post: post-4212e3 | "Reflecting on life's journey today. Just as Rey steps up to lead a New Jedi Order, we all have our own 'force' moments—those instances when faith and community give us the courage to embrace change and new adventures. Here's to finding strength in unity and charting paths that honor both heritage and growth. #LifeLessons #NewBeginnings"
+2025-01-31 18:39:57,846 - INFO - User #0 reacting to feed, at step 2
+2025-01-31 18:40:17,863 - INFO - Retrying request to /chat/completions in 0.387932 seconds
+2025-01-31 18:40:38,319 - INFO - Retrying request to /chat/completions in 0.799327 seconds
+2025-01-31 18:41:21,222 - INFO - Retrying request to /chat/completions in 0.441168 seconds
+2025-01-31 18:41:41,708 - INFO - Retrying request to /chat/completions in 0.923109 seconds
+2025-01-31 18:42:24,731 - INFO - Retrying request to /chat/completions in 0.441246 seconds
+2025-01-31 18:42:45,219 - INFO - Retrying request to /chat/completions in 0.755578 seconds

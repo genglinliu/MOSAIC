@@ -1,0 +1,20 @@
+{"qid": "Q1", "question": "What is your age group?", "question_label": "age", "options": ["18-24", "25-34", "35-44", "45-54", "55+"]}
+{"qid": "Q2", "question": "What is your gender?", "question_label": "gender", "options": ["Male", "Female", "Non-binary", "Prefer not to say", "Other"]}
+{"qid": "Q3", "question": "Where do you currently live?", "question_label": "current_location", "options": ["Urban", "Suburban", "Rural", "Small town", "Multiple locations"]}
+{"qid": "Q4", "question": "What's your highest level of education?", "question_label": "education_level", "options": ["High school", "College", "Graduate", "None"]}
+{"qid": "Q5", "question": "Which of the following activities do you spend the most time on?", "question_label": "activity", "options": ["Work", "Family", "Socializing", "Hobbies", "Relaxing", "Exercising"]}
+{"qid": "Q6", "question": "Which value is most important to you?", "question_label": "value", "options": ["Integrity", "Compassion", "Ambition", "Independence", "Community"]}
+{"qid": "Q7", "question": "How would you describe your personality?", "question_label": "personality", "options": ["Extroverted", "Introverted", "Thoughtful", "Outgoing", "Analytical"]}
+{"qid": "Q8", "question": "How do you typically act in unfamiliar social contexts?", "question_label": "social_context", "options": ["Confident", "Reserved", "Friendly", "Neutral", "Awkward"]}
+{"qid": "Q9", "question": "What is your favorite hobby?", "question_label": "hobby", "options": ["Reading", "Sports", "Arts & crafts", "Traveling", "Video games", "TV shows", "Movies", "Music"]}
+{"qid": "Q10", "question": "How would you describe your political affiliation?", "question_label": "political_affiliation", "options": ["Liberal", "Conservative", "Moderate", "Libertarian", "Apolitical"]}
+{"qid": "Q11", "question": "How many places have you lived in?", "question_label": "num_places_lived", "options": ["1", "2-3", "4-5", "More than 5"]}
+{"qid": "Q12", "question": "What is most important to you in social relationships?", "question_label": "social_relationship_importance", "options": ["Trust", "Fun", "Loyalty", "Intellectual connection", "Shared experiences"]}
+{"qid": "Q14", "question": "What is your primary goal currently?", "question_label": "primary_goal", "options": ["Career growth", "Personal development", "Family", "Financial stability", "Travel"]}
+{"qid": "Q16", "question": "What has been one of the most meaningful events in your life?", "question_label": "meaningful_event", "options": ["Birth of a child", "Graduation", "Loss of a loved one", "Marriage", "Moving to a new country"]}
+{"qid": "Q17", "question": "How do you typically act in unfamiliar social contexts?", "question_label": "social_context", "options": ["Confident", "Reserved", "Friendly", "Neutral", "Awkward"]}
+{"qid": "Q18", "question": "How would you describe your religious or spiritual beliefs?", "question_label": "religious_beliefs", "options": ["Religious", "Spiritual but not religious", "Atheist", "Agnostic", "Undecided"]}
+{"qid": "Q20", "question": "What trait do you value most in friends?", "question_label": "friend_value", "options": ["Loyalty", "Humor", "Intelligence", "Empathy", "Honesty"]}
+{"qid": "Q21", "question": "What is your personal income level?", "question_label": "income_level", "options": ["Less than $30000", "$30000 - $60000", "$60000 - $100000", "$100000 - $150000", "Over $150000"]}
+{"qid": "Q22", "question": "How do you identify your ethnicity?", "question_label": "ethnicity", "options": ["African American", "Hispanic/Latino", "Asian", "White/Caucasian", "Native American", "Other"]}
+{"qid": "Q23", "question": "What is your primary language spoken at home?", "question_label": "primary_language", "options": ["English", "Spanish", "Chinese", "Arabic", "French", "Other"]}

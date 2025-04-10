@@ -1,0 +1,89 @@
+2025-01-31 19:14:42,809 - INFO - Starting simulation with 1 users for 20 time steps using gpt-4o-mini...
+2025-01-31 19:14:43,818 - INFO - Resetting database...
+2025-01-31 19:14:43,820 - INFO - Existing database removed.
+2025-01-31 19:14:43,834 - INFO - Database tables created successfully.
+2025-01-31 19:14:43,834 - INFO - New tables created.
+2025-01-31 19:14:43,837 - INFO - Generated 1 agent configurations using file method
+2025-01-31 19:14:43,838 - INFO - Creating 1 users
+2025-01-31 19:14:43,838 - INFO - Added user user-e28e3a to database with 22 background labels.
+2025-01-31 19:14:43,840 - INFO - Total users in database after creation: 1
+2025-01-31 19:14:43,879 - INFO - Time step: 1
+2025-01-31 19:14:43,887 - INFO - News Agent agentverse_news created a post: post-efd51a | BREAKING NEWS: Cole Palmer's pride in his family history is inspiring children on the Caribbean island of St Kitts - as BBC Sport discovered when speaking to Prime Minister Terrance Drew.
+2025-01-31 19:14:43,888 - INFO - Injected real news through user agentverse_news
+2025-01-31 19:14:43,888 - INFO - Injected news post (ID: post-efd51a) at step 1
+2025-01-31 19:14:43,889 - INFO - Generated 1 agent configurations using file method
+2025-01-31 19:14:43,995 - INFO - Added user user-ae52c5 to database with 22 background labels.
+2025-01-31 19:14:43,996 - INFO - Added new user user-ae52c5 to the simulation
+2025-01-31 19:14:44,102 - INFO - Added user user-fccbc1 to database with 22 background labels.
+2025-01-31 19:14:44,102 - INFO - Added new user user-fccbc1 to the simulation
+2025-01-31 19:14:44,102 - INFO - Added 2 new users to the simulation
+2025-01-31 19:14:44,102 - INFO - User #0 creating post, at step 1
+2025-01-31 19:14:46,513 - INFO - User user-e28e3a created a post: post-3fda2c | Just finished reading about Cole Palmer inspiring kids in St Kitts with his family history. It's amazing how stories of our roots can empower future generations! 🌍✨ 
+2025-01-31 19:14:48,754 - INFO - User user-ae52c5 created a post: post-af70c8 | Reflecting on the stories we inherit, it's incredible how they shape our identity and empower us to pass down wisdom. Just saw Cole Palmer's inspiring journey—such a reminder that embracing who we are can light the way for future generations! Let's keep nurturing those family bonds; they're what truly matter in this fast-paced world. 🌿✨ #HeritageMatters
+2025-01-31 19:14:50,692 - INFO - User user-fccbc1 created a post: post-52e848 | In a world that moves so fast, I often find comfort in the quieter moments of life—like evenings spent reminiscing with family around the dinner table. Hearing stories from my parents about our heritage not only strengthens those bonds but also reminds me of where we come from and how it shapes who we are today. Let’s celebrate our roots while building legacies for future generations! 🌳 #FamilyFirst #HeritageMatters
+2025-01-31 19:14:50,692 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 19:15:10,720 - INFO - Retrying request to /chat/completions in 0.394107 seconds
+2025-01-31 19:15:26,465 - INFO - User user-e28e3a shared post post-efd51a
+2025-01-31 19:15:26,465 - WARNING - Invalid target: existingNoteId for action: rate-note
+2025-01-31 19:15:34,359 - INFO - User user-ae52c5 shared post post-efd51a
+2025-01-31 19:15:34,359 - WARNING - Invalid target: <note-id> for action: rate-note
+2025-01-31 19:15:35,846 - INFO - User user-fccbc1 liked post post-af70c8
+2025-01-31 19:15:35,848 - INFO - News ID post-efd51a spread metrics - Views: 3, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 19:15:35,861 - INFO - 
+2025-01-31 19:15:35,861 - INFO - Time step: 2
+2025-01-31 19:15:35,871 - INFO - News Agent agentverse_news created a post: post-e7365c | BREAKING NEWS: The same car crash sensor found on the Galaxy S24 series is coming to the Galaxy S25 series — but will it finally work?
+2025-01-31 19:15:35,871 - INFO - Injected real news through user agentverse_news
+2025-01-31 19:15:35,872 - INFO - Injected news post (ID: post-e7365c) at step 2
+2025-01-31 19:15:35,872 - INFO - Generated 1 agent configurations using file method
+2025-01-31 19:15:35,979 - INFO - Added user user-00890d to database with 22 background labels.
+2025-01-31 19:15:35,979 - INFO - Added new user user-00890d to the simulation
+2025-01-31 19:15:36,083 - INFO - Added user user-bfd1be to database with 22 background labels.
+2025-01-31 19:15:36,083 - INFO - Added new user user-bfd1be to the simulation
+2025-01-31 19:15:36,084 - INFO - Added 2 new users to the simulation
+2025-01-31 19:15:36,084 - INFO - User #0 creating post, at step 2
+2025-01-31 19:15:38,833 - INFO - User user-e28e3a created a post: post-272c55 | Just saw the buzz about Cole Palmer and his inspiring family history! It’s a reminder of how important our roots are, especially for shaping future generations. 🌱✈️ As someone who values loyalty to my community and heritage, I can't help but think about how sharing these stories enriches our hometown experience. It's all about bringing those diverse cultural lessons back home—let's keep that spirit alive! #HeritageMatters #CommunityLove
+2025-01-31 19:15:42,208 - INFO - User user-ae52c5 created a post: post-46931c | Feeling reflective today. As I watch the world change around me, I'm reminded of how important it is to stay rooted in our values and traditions. Whether it's a story shared over dinner or wisdom passed down from generation to generation, these connections are what shape us. 
+2025-01-31 19:15:44,256 - INFO - User user-fccbc1 created a post: post-935d6b | Caught a glimpse of the buzz around Cole Palmer's family history! It's incredible how stories can inspire not just children but entire communities. Growing up, my parents shared tales that shaped my understanding of loyalty and commitment—values I hold dear today. As we navigate this fast-paced world, let’s remember to share our roots; they’re what keep us grounded amid change. What's a story from your past that still resonates with you? #CommunityLove #ValuesMatter
+2025-01-31 19:15:45,894 - INFO - User user-00890d created a post: post-bb5dd9 | Navigating life as a modern nomad has its quirks, but I wouldn’t trade my journey for anything. Every new place teaches me something different—like how to appreciate the art of patience when faced with uncertainty. 📍 
+2025-01-31 19:15:48,345 - INFO - User user-bfd1be created a post: post-553ed0 | Every new destination brings its own set of challenges and lessons. 🌍 Recently, I’ve been reflecting on how crucial it is to find balance amid the chaos—whether it's through sports or just taking a moment to breathe. It’s easy to let fear overshadow our journey, but embracing those awkward moments has taught me that vulnerability can lead to the most meaningful connections. How do you stay rooted when life feels like an endless transition? #NomadLife #EmbraceTheJourney
+2025-01-31 19:15:48,345 - INFO - User #0 reacting to feed, at step 2
+2025-01-31 19:16:07,289 - INFO - User user-e28e3a shared post post-efd51a
+2025-01-31 19:16:07,290 - WARNING - Invalid target: comment-id for action: like-comment
+2025-01-31 19:16:20,399 - INFO - User user-ae52c5 shared post post-efd51a
+2025-01-31 19:16:20,909 - INFO - User user-ae52c5 added note to post post-e7365c: The car crash sensor report on the Galaxy S25 is speculative at this stage; more data needed to assess its reliability.
+2025-01-31 19:16:38,010 - INFO - User user-fccbc1 liked post post-efd51a
+2025-01-31 19:16:38,521 - INFO - User user-fccbc1 rated note note-1a781b as not_helpful
+2025-01-31 19:16:58,541 - INFO - Retrying request to /chat/completions in 0.401026 seconds
+2025-01-31 19:17:17,440 - INFO - User user-00890d liked post post-553ed0
+2025-01-31 19:17:17,945 - INFO - User user-00890d ignored their feed
+2025-01-31 19:17:17,946 - INFO - User user-00890d ignored their feed
+2025-01-31 19:17:41,144 - INFO - Retrying request to /chat/completions in 0.421140 seconds
+2025-01-31 19:18:01,614 - INFO - Retrying request to /chat/completions in 0.841285 seconds
+2025-01-31 19:18:41,629 - INFO - User user-bfd1be flagged post post-e7365c
+2025-01-31 19:18:42,134 - INFO - User user-bfd1be ignored their feed
+2025-01-31 19:18:42,134 - INFO - User user-bfd1be ignored their feed
+2025-01-31 19:18:45,812 - INFO - News ID post-efd51a spread metrics - Views: 5, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 19:18:45,813 - INFO - News ID post-e7365c spread metrics - Views: 5, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 19:18:45,821 - INFO - 
+2025-01-31 19:18:45,821 - INFO - Time step: 3
+2025-01-31 19:18:45,833 - INFO - News Agent agentverse_news created a post: post-7e1ebc | BREAKING NEWS: LG’s Gram laptops are back for another round of updates ahead of CES 2025. A decade into the thin and light lineup’s existence in LG’s portfolio, the latest models load up on AI (surprise!) and boost performance while maintaining their trademark portability.
+…
+2025-01-31 19:18:45,834 - INFO - Injected real news through user agentverse_news
+2025-01-31 19:18:45,834 - INFO - Injected news post (ID: post-7e1ebc) at step 3
+2025-01-31 19:18:45,834 - INFO - Generated 1 agent configurations using file method
+2025-01-31 19:18:45,941 - INFO - Added user user-7c62da to database with 22 background labels.
+2025-01-31 19:18:45,942 - INFO - Added new user user-7c62da to the simulation
+2025-01-31 19:18:46,051 - INFO - Added user user-c70067 to database with 22 background labels.
+2025-01-31 19:18:46,051 - INFO - Added new user user-c70067 to the simulation
+2025-01-31 19:18:46,051 - INFO - Added 2 new users to the simulation
+2025-01-31 19:18:46,051 - INFO - User #0 creating post, at step 3
+2025-01-31 19:18:48,365 - INFO - User user-e28e3a created a post: post-e1cb9f | Just came across some exciting news about LG’s Gram laptops getting AI updates. It’s wild to see how tech evolves, making our lives easier while we pursue new adventures! 🌍✨ Balancing work and travel is a challenge but having reliable gear definitely helps keep me connected as I explore diverse cultures. Anyone else excited for CES 2025? #TechTrends #AdventureAwaits
+2025-01-31 19:18:50,477 - INFO - User user-ae52c5 created a post: post-d3ed81 | Just read about the updates on LG’s Gram laptops ahead of CES 2025. It's fascinating how technology continues to evolve, blending AI with portability! As someone who values connection—both in my personal life and through tech—I appreciate tools that help bridge distances as I explore new places. Excited to see what's next at the showcase! #TechTrends #StayConnected
+2025-01-31 19:18:52,365 - INFO - User user-fccbc1 created a post: post-7a0b82 | Just finished reading about Cole Palmer's inspiring connection to his heritage and the impact it has on future generations. It's a powerful reminder of how our roots shape us, especially as we raise our own families. In my experience, those stories from parents create lasting lessons in loyalty and integrity that guide us through life's challenges.
+2025-01-31 19:18:55,232 - INFO - User user-00890d created a post: post-4d7805 | Just wrapped up a game of pickup soccer with some new friends, and it reminded me how sports can spark genuine connections! 🌍⚽️ Each kick on the field felt like an embrace of my nomadic journey—different places, different faces, but all united through play. It’s moments like these that remind me to celebrate not just where I am, but who I'm becoming along the way. Here’s to finding joy in every goal scored (and even those missed)! #NomadLife #SportsConnect
+2025-01-31 19:18:57,511 - INFO - User user-bfd1be created a post: post-82c128 | Caught up on the latest buzz about LG's Gram laptops—excited to see how they’re pushing boundaries with AI! As a modern-day nomad, I appreciate tech that adapts and evolves just like my journey. Staying connected while navigating different cultures is crucial for me. What are your must-have gadgets when you're always on the move? #TechForNomads #StayConnected
+2025-01-31 19:18:57,512 - INFO - User #5 creating post, at step 3
+2025-01-31 19:18:59,735 - INFO - User user-7c62da created a post: post-579ad3 | Finding comfort in familiar faces while secretly thirsting for deeper conversations can be a tough balance. 😊 Small-town life is beautiful, but sometimes I crave those moments of connection that spark curiosity and thought! Anyone else feel like diving into the depths instead of skimming the surface? Let’s share stories beyond our cozy corners—who's up for some intellectual banter over coffee soon? #SmallTownThoughts #DeepConnections
+2025-01-31 19:19:01,785 - INFO - User user-c70067 created a post: post-a7e9a1 | Just returned from a little escape! 🌍 Traveling always reminds me of the beauty in diversity and shared experiences. It's fascinating how each place has its own story to tell, just like us. I love gathering around with family or friends back home, but there’s something special about meeting new faces who challenge my thoughts and broaden my perspective.
+2025-01-31 19:19:01,785 - INFO - User #0 reacting to feed, at step 3
+2025-01-31 19:19:21,801 - INFO - Retrying request to /chat/completions in 0.462487 seconds

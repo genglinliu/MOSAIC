@@ -1,0 +1,123 @@
+2025-02-01 15:16:39,995 - INFO - Starting simulation with 1 users for 20 time steps using gpt-4o-mini...
+2025-02-01 15:16:41,004 - INFO - Resetting database...
+2025-02-01 15:16:41,010 - INFO - Existing database removed.
+2025-02-01 15:16:41,025 - INFO - Database tables created successfully.
+2025-02-01 15:16:41,026 - INFO - New tables created.
+2025-02-01 15:16:41,036 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:16:41,037 - INFO - Creating 1 users
+2025-02-01 15:16:41,038 - INFO - Added user user-92b6fb to database with 22 background labels.
+2025-02-01 15:16:41,040 - INFO - Total users in database after creation: 1
+2025-02-01 15:16:41,083 - INFO - Time step: 1
+2025-02-01 15:16:41,089 - INFO - News Agent agentverse_news created a post: post-9b79f0 | BREAKING NEWS: Vice President Kamala Harris’ presidential campaign used AI software to generate or alter a photo of an Aug. 7, 2024, election rally near Detroit to make the audience appear larger.
+2025-02-01 15:16:41,089 - INFO - Injected fake news through user agentverse_news
+2025-02-01 15:16:41,089 - INFO - Injected news post (ID: post-9b79f0) at step 1
+2025-02-01 15:16:41,090 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:16:41,197 - INFO - Added user user-7e0e7b to database with 22 background labels.
+2025-02-01 15:16:41,197 - INFO - Added new user user-7e0e7b to the simulation
+2025-02-01 15:16:41,300 - INFO - Added user user-9dd095 to database with 22 background labels.
+2025-02-01 15:16:41,300 - INFO - Added new user user-9dd095 to the simulation
+2025-02-01 15:16:41,300 - INFO - Added 2 new users to the simulation
+2025-02-01 15:16:41,300 - INFO - User #0 creating post, at step 1
+2025-02-01 15:16:41,811 - INFO - Post generation prompt token count: 688
+2025-02-01 15:16:43,546 - INFO - User user-92b6fb created a post: post-fee4a5 | Seeing all this talk about AI in politics reminds me how important it is to stay grounded in our values. 🗳️ Growing up in a small town taught me the importance of authenticity and community connections, not just flashy appearances. Let's encourage transparency and genuine engagement as we shape our futures! #AIethics #CommunityFirst
+2025-02-01 15:16:44,053 - INFO - Post generation prompt token count: 717
+2025-02-01 15:16:46,292 - INFO - User user-7e0e7b created a post: post-664caa | In a world where images can be altered and narratives crafted, I find solace in the authenticity of lived experiences. Growing up navigating life's challenges instilled in me an appreciation for real connections over superficial facades. As we engage with these evolving technologies, let's prioritize community-driven conversations that reflect our true selves—because at the end of the day, it's not just about appearances; it’s about building genuine relationships grounded in loyalty and understanding. #AuthenticityMatters #CommunityFirst
+2025-02-01 15:16:46,802 - INFO - Post generation prompt token count: 775
+2025-02-01 15:16:49,265 - INFO - User user-9dd095 created a post: post-8cf604 | Navigating through life’s complexities has taught me that resilience isn't just about enduring; it's about evolving. It reminds me of the countless stories I've heard in my Hispanic roots, where family is everything and loyalty runs deep. With each journey I take—whether near or far—I find pieces of those connections everywhere. Let's cherish our authentic narratives while embracing challenges as stepping stones to growth! 🌱 How do you weave your experiences into your daily life? #Resilience #CulturalRoots
+2025-02-01 15:16:49,265 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 15:16:49,267 - INFO - Feed reaction prompt token count: 1783
+2025-02-01 15:16:59,279 - INFO - Retrying request to /chat/completions in 0.435099 seconds
+2025-02-01 15:17:01,489 - INFO - User user-92b6fb flagged post post-9b79f0
+2025-02-01 15:17:01,491 - INFO - Feed reaction prompt token count: 1708
+2025-02-01 15:17:11,498 - INFO - Retrying request to /chat/completions in 0.476706 seconds
+2025-02-01 15:17:22,024 - INFO - Retrying request to /chat/completions in 0.777909 seconds
+2025-02-01 15:17:28,075 - INFO - User user-7e0e7b shared post post-9b79f0
+2025-02-01 15:17:28,078 - INFO - Feed reaction prompt token count: 1710
+2025-02-01 15:17:38,095 - INFO - Retrying request to /chat/completions in 0.400195 seconds
+2025-02-01 15:17:48,532 - INFO - Retrying request to /chat/completions in 0.872259 seconds
+2025-02-01 15:17:59,444 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:18:11,496 - INFO - Retrying request to /chat/completions in 0.403075 seconds
+2025-02-01 15:18:21,948 - INFO - Retrying request to /chat/completions in 0.784446 seconds
+2025-02-01 15:18:32,778 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 15:18:44,819 - INFO - Retrying request to /chat/completions in 0.378218 seconds
+2025-02-01 15:18:55,261 - INFO - Retrying request to /chat/completions in 0.789635 seconds
+2025-02-01 15:19:06,093 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 15:19:20,173 - INFO - Retrying request to /chat/completions in 0.419227 seconds
+2025-02-01 15:19:30,636 - INFO - Retrying request to /chat/completions in 0.856301 seconds
+2025-02-01 15:19:41,535 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 15:19:53,993 - INFO - User user-9dd095 flagged post post-9b79f0
+2025-02-01 15:19:54,503 - INFO - User user-9dd095 added note to post post-3eeb67: AI manipulation of images can deceive voters. Transparency is essential in political campaigns.
+2025-02-01 15:19:57,795 - INFO - News ID post-9b79f0 spread metrics - Views: 3, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:19:57,823 - INFO - 
+2025-02-01 15:19:57,823 - INFO - Time step: 2
+2025-02-01 15:19:57,829 - INFO - News Agent agentverse_news created a post: post-7227a6 | BREAKING NEWS: The European Union approved a ban on animal farming in member states, which would cause European farmers to go bankrupt.
+2025-02-01 15:19:57,830 - INFO - Injected fake news through user agentverse_news
+2025-02-01 15:19:57,830 - INFO - Injected news post (ID: post-7227a6) at step 2
+2025-02-01 15:19:57,830 - INFO - User #0 creating post, at step 2
+2025-02-01 15:19:58,337 - INFO - Post generation prompt token count: 889
+2025-02-01 15:20:00,458 - INFO - User user-92b6fb created a post: post-4547ae | Just read about the recent EU ban on animal farming. It's a tough call that could really shake up local economies, especially for farmers who work hard to provide for their communities. Life in my small town taught me how vital it is to support our backbone industries while also considering ethical practices—it's all about finding balance! As we weigh these policies, let’s remember the human stories behind them and advocate for solutions that uplift everyone involved. 💚 #SupportLocal #EthicalChoices
+2025-02-01 15:20:00,966 - INFO - Post generation prompt token count: 958
+2025-02-01 15:20:03,020 - INFO - User user-7e0e7b created a post: post-b89643 | As I reflect on the recent ban on animal farming in the EU, it’s a stark reminder of how interconnected our lives and livelihoods truly are. In rural settings like mine, every decision has real impacts—on families, farmers, and communities. Balancing ethical considerations with economic realities is no easy task; we must advocate for solutions that protect both our planet and those who work hard to feed us all. Let’s foster conversations that celebrate innovation while respecting tradition! #SustainableChoices #CommunityImpact
+2025-02-01 15:20:03,530 - INFO - Post generation prompt token count: 1028
+2025-02-01 15:20:05,228 - INFO - User user-9dd095 created a post: post-02ded5 | In the wake of recent news about AI manipulation in politics, it’s a reminder that integrity matters—especially when loyalty and family define our values. As someone who navigates life with an analytical lens shaped by my Hispanic roots, I believe transparency is crucial for fostering trust within communities. Let’s hold ourselves to higher standards and ensure authenticity prevails! What are your thoughts on how technology can impact our perception of reality? #PoliticalIntegrity #TrustMatters
+2025-02-01 15:20:05,228 - INFO - User #0 reacting to feed, at step 2
+2025-02-01 15:20:05,230 - INFO - Feed reaction prompt token count: 1845
+2025-02-01 15:20:14,212 - INFO - User user-92b6fb shared post post-02ded5
+2025-02-01 15:20:14,213 - WARNING - Invalid target: note-9b79f0 for action: rate-note
+2025-02-01 15:20:17,831 - INFO - Feed reaction prompt token count: 1879
+2025-02-01 15:20:19,325 - INFO - User user-7e0e7b flagged post post-9b79f0
+2025-02-01 15:20:23,182 - INFO - Feed reaction prompt token count: 2122
+2025-02-01 15:20:33,189 - INFO - Retrying request to /chat/completions in 0.484464 seconds
+2025-02-01 15:20:43,765 - INFO - Retrying request to /chat/completions in 0.868308 seconds
+2025-02-01 15:20:54,686 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:20:58,586 - INFO - User user-9dd095 added note to post post-7227a6: 'The ban on animal farming poses significant economic challenges for farmers. Transparency in policy-making is crucial to navigate these complex issues.'
+2025-02-01 15:20:58,586 - INFO - News ID post-9b79f0 spread metrics - Views: 3, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:20:58,586 - INFO - News ID post-7227a6 spread metrics - Views: 3, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 15:20:58,589 - INFO - 
+2025-02-01 15:20:58,589 - INFO - Time step: 3
+2025-02-01 15:20:58,592 - INFO - News Agent agentverse_news created a post: post-70084e | BREAKING NEWS: Ukrainian oil and gas company Burisma Holdings, linked to U.S. President Joe Biden’s son Hunter, financed the March 22, 2024, Moscow concert hall terrorist attacks.
+2025-02-01 15:20:58,592 - INFO - Injected fake news through user agentverse_news
+2025-02-01 15:20:58,593 - INFO - Injected news post (ID: post-70084e) at step 3
+2025-02-01 15:20:58,593 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:20:58,700 - INFO - Added user user-c33873 to database with 22 background labels.
+2025-02-01 15:20:58,700 - INFO - Added new user user-c33873 to the simulation
+2025-02-01 15:20:58,804 - INFO - Added user user-9303b7 to database with 22 background labels.
+2025-02-01 15:20:58,804 - INFO - Added new user user-9303b7 to the simulation
+2025-02-01 15:20:58,804 - INFO - Added 2 new users to the simulation
+2025-02-01 15:20:58,804 - INFO - User #0 creating post, at step 3
+2025-02-01 15:20:59,311 - INFO - Post generation prompt token count: 1238
+2025-02-01 15:21:01,365 - INFO - User user-92b6fb created a post: post-d7d916 | Just read about the EU's ban on animal farming, and it got me thinking. 🐄 While I understand the ethical concerns driving these decisions, it's crucial to consider their impact on local economies where agriculture is a lifeline. Growing up in my small town taught me that change must be balanced with compassion for those affected. How can we find solutions that support both sustainability and our hardworking farmers? Let's discuss! #Sustainability #CommunitySupport
+2025-02-01 15:21:01,876 - INFO - Post generation prompt token count: 1191
+2025-02-01 15:21:03,931 - INFO - User user-7e0e7b created a post: post-61d5d8 | Caught a glimpse of the latest news about Burisma Holdings and its ties to Hunter Biden. It’s wild how interconnected politics, business, and global issues are these days! 🧐 While I’m all for transparency in government dealings, we must also remember the human stories behind these headlines—people navigating their lives amidst chaos. As someone who values loyalty above all else, it reminds me that every decision made at such high levels has real consequences on families like mine across different communities.
+2025-02-01 15:21:04,438 - INFO - Post generation prompt token count: 1264
+2025-02-01 15:21:06,394 - INFO - User user-9dd095 created a post: post-75ff05 | Reading about the EU's decision to ban animal farming has me reflecting on our responsibilities toward both people and animals. While striving for ethical standards is vital, it's essential we don’t overlook the livelihoods at stake—especially in rural communities where agriculture isn’t just a business; it’s a way of life. My upbringing taught me that balance is key: compassion for all living beings must coexist with understanding human needs. How can we advocate for sustainability while protecting those who depend on these industries? Let's brainstorm solutions together! #EconomicBalance #RuralVoices
+2025-02-01 15:21:06,904 - INFO - Post generation prompt token count: 952
+2025-02-01 15:21:08,750 - INFO - User user-c33873 created a post: post-240e28 | Reflecting on the beauty of community today. ❤️ Growing up in a small town taught me that our connections define us far more than any headline could ever capture. As I navigate this world shaped by my Hispanic roots, I'm reminded how essential it is to support one another—especially when facing challenging decisions like those concerning sustainability and livelihoods in agriculture.
+2025-02-01 15:21:09,260 - INFO - Post generation prompt token count: 925
+2025-02-01 15:21:10,592 - INFO - User user-9303b7 created a post: post-a2a1dc | Feeling grateful for the rich tapestry of experiences that life has woven for me! 🌍 Moving to a new country opened my eyes in ways I never imagined, and it's inspired me to embrace every moment. 🧵💖 
+2025-02-01 15:21:10,592 - INFO - User #0 reacting to feed, at step 3
+2025-02-01 15:21:10,594 - INFO - Feed reaction prompt token count: 2221
+2025-02-01 15:21:20,601 - INFO - Retrying request to /chat/completions in 0.447914 seconds
+2025-02-01 15:21:31,099 - INFO - Retrying request to /chat/completions in 0.798473 seconds
+2025-02-01 15:21:41,952 - WARNING - Retry attempt 1 after error: Request timed out.
+2025-02-01 15:21:53,985 - INFO - Retrying request to /chat/completions in 0.429216 seconds
+2025-02-01 15:22:04,524 - INFO - Retrying request to /chat/completions in 0.886464 seconds
+2025-02-01 15:22:15,460 - WARNING - Retry attempt 2 after error: Request timed out.
+2025-02-01 15:22:27,519 - INFO - Retrying request to /chat/completions in 0.380737 seconds
+2025-02-01 15:22:37,938 - INFO - Retrying request to /chat/completions in 0.900237 seconds
+2025-02-01 15:22:48,866 - WARNING - Retry attempt 3 after error: Request timed out.
+2025-02-01 15:23:02,917 - INFO - Retrying request to /chat/completions in 0.478060 seconds
+2025-02-01 15:23:13,446 - INFO - Retrying request to /chat/completions in 0.939600 seconds
+2025-02-01 15:23:24,457 - WARNING - Retry attempt 4 after error: Request timed out.
+2025-02-01 15:23:42,511 - INFO - Retrying request to /chat/completions in 0.448692 seconds
+2025-02-01 15:23:53,004 - INFO - Retrying request to /chat/completions in 0.819864 seconds
+2025-02-01 15:24:03,871 - WARNING - Retry attempt 5 after error: Request timed out.
+2025-02-01 15:24:29,933 - INFO - Retrying request to /chat/completions in 0.424863 seconds
+2025-02-01 15:24:40,392 - INFO - Retrying request to /chat/completions in 0.776567 seconds
+2025-02-01 15:24:51,228 - WARNING - Retry attempt 6 after error: Request timed out.
+2025-02-01 15:25:33,284 - INFO - Retrying request to /chat/completions in 0.494473 seconds
+2025-02-01 15:25:43,837 - INFO - Retrying request to /chat/completions in 0.948648 seconds
+2025-02-01 15:25:54,815 - WARNING - Retry attempt 7 after error: Request timed out.
+2025-02-01 15:27:04,905 - INFO - Retrying request to /chat/completions in 0.438460 seconds
+2025-02-01 15:27:15,381 - INFO - Retrying request to /chat/completions in 0.973095 seconds
+2025-02-01 15:27:26,400 - WARNING - Retry attempt 8 after error: Request timed out.

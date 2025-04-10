@@ -1,0 +1,597 @@
+2025-01-26 19:19:25,923 - INFO - Starting simulation with 5 users for 20 time steps using gpt-4o...
+2025-01-26 19:19:26,924 - INFO - Resetting database...
+2025-01-26 19:19:26,924 - INFO - Existing database removed.
+2025-01-26 19:19:26,931 - INFO - Database tables created successfully.
+2025-01-26 19:19:26,931 - INFO - New tables created.
+2025-01-26 19:19:26,932 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:19:26,932 - INFO - Creating 5 users
+2025-01-26 19:19:26,932 - INFO - Added user user-75b274 to database with 22 background labels.
+2025-01-26 19:19:26,934 - INFO - Added user user-4b093e to database with 22 background labels.
+2025-01-26 19:19:26,935 - INFO - Added user user-d79e88 to database with 22 background labels.
+2025-01-26 19:19:26,935 - INFO - Added user user-c0106a to database with 22 background labels.
+2025-01-26 19:19:26,936 - INFO - Added user user-c145a0 to database with 22 background labels.
+2025-01-26 19:19:26,937 - INFO - Total users in database after creation: 5
+2025-01-26 19:19:26,956 - INFO - Time step: 1
+2025-01-26 19:19:26,957 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:19:27,058 - INFO - Added user user-63c6f6 to database with 22 background labels.
+2025-01-26 19:19:27,059 - INFO - Added new user user-63c6f6 to the simulation
+2025-01-26 19:19:27,160 - INFO - Added user user-89dd2f to database with 22 background labels.
+2025-01-26 19:19:27,161 - INFO - Added new user user-89dd2f to the simulation
+2025-01-26 19:19:27,161 - INFO - Added 2 new users to the simulation
+2025-01-26 19:19:27,161 - INFO - User #0 creating post, at step 1
+2025-01-26 19:19:29,108 - INFO - User user-75b274 created a post: post-000e6c | "Amidst the whispers of nature and quiet reflections, I've realized how humor truly brightens our simplest moments. 🌾📚 Grateful for friends who bring laughter into life’s serene backdrop! Who else finds that a good laugh is like sunshine on a cloudy day? #SimpleJoys #HumorHeals"
+2025-01-26 19:19:31,426 - INFO - User user-4b093e created a post: post-935d6e | "Finding peace in the quiet corners of this small town, where every rustling leaf tells a story. 🎬 Nature and movies—my perfect escape from life's chaos. It’s these simple joys that remind me to cherish each moment with family & friends who understand my journey. Who else finds comfort in life’s little escapes? #QuietMoments #FamilyFirst"
+2025-01-26 19:19:33,341 - INFO - User user-d79e88 created a post: post-226429 | "Life’s a lot like a video game—full of surprises, challenges, and the joy of discovering new worlds. 🎮 Sometimes it feels good to hit pause on reality and dive into adventures that know no bounds! Anyone else finding epic escapes in gaming or dreaming about traveling beyond our small-town borders? #AdventureAwaits #LevelUpLife"
+2025-01-26 19:19:35,178 - INFO - User user-c0106a created a post: post-bfa39a | "Reflecting on how every city I've lived in has shaped my journey—each with its own vibe, challenges, and opportunities. 🚀 Urban life is like a complex video game mission: invigorating yet unpredictable! Anyone else finding their stride amidst the city's chaos? Let’s share tips on leveling up career-wise or just laugh over life's quirky moments. 😂 #UrbanAdventures #CareerGoals"
+2025-01-26 19:19:37,119 - INFO - User user-c145a0 created a post: post-5ff739 | "Finding peace in the tranquil beauty of rural life while also thriving professionally has been an unexpected yet rewarding adventure. 🌾💼 Balancing my love for video games with the serenity around me feels like having both worlds at my fingertips. Anyone else successfully blending contrasting passions? Let's chat about life's beautiful contrasts! #RuralPeace #GamingLife"
+2025-01-26 19:19:37,120 - INFO - User #5 creating post, at step 1
+2025-01-26 19:19:39,850 - INFO - User user-63c6f6 created a post: post-20404f | "Reflecting on how sports have always been my refuge from life's chaos. 🏀 They've offered lessons in perseverance that rival any city I've lived in, shaping who I am today. Balancing integrity with ambition is a journey of its own—like finding calm amidst urban hustle or leveling up through challenges! Anyone else find unexpected life lessons in their passions? Let's share stories and insights! #SportsWisdom #UrbanReflections"
+2025-01-26 19:19:41,666 - INFO - User user-89dd2f created a post: post-acf6f3 | Navigating the urban hustle while staying true to my roots is quite a journey. 🌆 As I focus on financial stability, I've found sports to be a sanctuary amid life’s challenges—teaching resilience and offering clarity in chaos. Inspired by all who find peace through their passions! How do you stay grounded? #UrbanJourney #SportsSanctuary
+2025-01-26 19:19:41,666 - INFO - User #0 reacting to feed, at step 1
+2025-01-26 19:19:44,280 - INFO - User user-75b274 liked post post-5ff739
+2025-01-26 19:19:44,783 - INFO - User user-75b274 followed user-c145a0
+2025-01-26 19:19:56,384 - INFO - User user-4b093e liked post post-5ff739
+2025-01-26 19:19:56,887 - INFO - User user-4b093e followed user-c145a0
+2025-01-26 19:20:04,107 - INFO - User user-d79e88 liked post post-5ff739
+2025-01-26 19:20:04,610 - INFO - User user-d79e88 followed user-c145a0
+2025-01-26 19:20:10,628 - INFO - User user-c0106a liked post post-acf6f3
+2025-01-26 19:20:11,132 - INFO - User user-c0106a commented on post post-5ff739: Balancing rural serenity with gaming sounds amazing! Gaming helps me unwind too. What's your go-to game these days? #GamingLife #BalanceInContrasts
+2025-01-26 19:20:22,102 - INFO - User user-c145a0 followed user-89dd2f
+2025-01-26 19:20:22,605 - INFO - User user-c145a0 commented on post post-bfa39a: Totally agree! Urban life is like a video game mission—both challenging and rewarding. Finding your stride amidst chaos can be so fulfilling.
+2025-01-26 19:20:26,415 - INFO - User #5 reacting to feed, at step 1
+2025-01-26 19:20:28,746 - INFO - User user-63c6f6 liked post post-acf6f3
+2025-01-26 19:20:29,249 - INFO - User user-63c6f6 followed user-89dd2f
+2025-01-26 19:20:46,711 - INFO - User user-89dd2f liked post post-20404f
+2025-01-26 19:20:47,214 - INFO - User user-89dd2f commented on post post-bfa39a: Totally relate! Living in different cities has taught me so much about adaptability. It's like each place adds a new level to life's game.
+2025-01-26 19:20:50,415 - INFO - 
+Current Influencers:
+2025-01-26 19:20:50,416 - INFO - User user-c145a0: Influence Score = 0.750
+2025-01-26 19:20:50,416 - INFO - 
+2025-01-26 19:20:50,416 - INFO - Time step: 2
+2025-01-26 19:20:50,422 - INFO - News Agent agentverse_news created a post: post-c445ec | BREAKING NEWS: A video shows a Russian hypersonic Kinzhal missile destroying an underground Ukrainian arms depot.
+2025-01-26 19:20:50,423 - INFO - Injected fake news through user agentverse_news
+2025-01-26 19:20:50,423 - INFO - Injected news post (ID: post-c445ec) at step 2
+2025-01-26 19:20:50,423 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:20:50,525 - INFO - Added user user-324a35 to database with 22 background labels.
+2025-01-26 19:20:50,525 - INFO - Added new user user-324a35 to the simulation
+2025-01-26 19:20:50,627 - INFO - Added user user-9258d4 to database with 22 background labels.
+2025-01-26 19:20:50,627 - INFO - Added new user user-9258d4 to the simulation
+2025-01-26 19:20:50,627 - INFO - Added 2 new users to the simulation
+2025-01-26 19:20:50,628 - INFO - User #0 creating post, at step 2
+2025-01-26 19:20:51,950 - INFO - User user-75b274 created a post: post-e060c5 | "Finding balance in a world that often feels like chaos isn't easy, but reading under the open sky gives me clarity and peace. 🌿📖 Inspired by those juggling urban life with personal passions—what's your sanctuary? #RuralReflections #MindfulReading"
+2025-01-26 19:20:53,839 - INFO - User user-4b093e created a post: post-335de6 | "Reflecting on life's journey, from bustling cities to the stillness of small-town life—I find beauty in adapting and growing through it all. 🌟 Balancing personal passions with family commitments can be like a movie plot twist—unexpected yet deeply rewarding. How do you embrace change? #LifeTransitions #FamilyAndFreedom"
+2025-01-26 19:20:55,577 - INFO - User user-d79e88 created a post: post-27e148 | "Amidst the quiet beauty of our rural life, it's fascinating to see how tech and gaming can bridge worlds. 🎮 While some news today is unsettling, like reports on global conflicts, I'm reminded that even in a small town, we connect with bigger stories through these virtual adventures. How do you find balance between staying informed and seeking joy? #RuralLife #GlobalPerspectives"
+2025-01-26 19:20:57,843 - INFO - User user-c0106a created a post: post-89fa55 | "Finding balance between staying informed and seeking joy can feel like a quest in my favorite RPG. 🎮 With news of distant places echoing through our screens, I often wonder how others juggle the weight of world events with personal happiness. How do you all manage this balance amidst life’s unpredictability? #TechAndJoy #BalancingAct"
+2025-01-26 19:20:59,603 - INFO - User user-c145a0 created a post: post-a58ff3 | "Reflecting on how moving to a new country felt like leveling up in an epic RPG—full of challenges, growth, and unexpected connections. 🌍✨ As I embrace the tranquility of rural life now, I'm struck by how tech keeps me connected with global stories. How do you find your balance between local peace and staying globally aware? #LifeJourney #GlobalConnections"
+2025-01-26 19:20:59,603 - INFO - User #5 creating post, at step 2
+2025-01-26 19:21:01,847 - INFO - User user-63c6f6 created a post: post-31496c | "Navigating the urban jungle has taught me that life's like a game—each move brings new challenges and growth opportunities. 🌆 While I may not have all the answers, balancing ambition with empathy keeps me grounded amidst life's unpredictability. The recent news reminds us of global complexities; anyone else find solace in sports or other passions during these times? Let's connect over stories of resilience! #UrbanJourney #GlobalAwareness"
+2025-01-26 19:21:03,806 - INFO - User user-89dd2f created a post: post-c8008c | Reflecting on recent news, it's a reminder of how interconnected our world is. 🌍 Growing up with challenges taught me to find strength in connections and shared stories. From urban life lessons to the peace found in sports, I believe resilience lies in empathy and balance. How do you connect globally while staying true to your roots? #GlobalAwareness #ResilienceInConnections
+2025-01-26 19:21:05,676 - INFO - User user-324a35 created a post: post-6d929e | "Life in the city often feels like a whirlwind, but I've found peace through stories and laughter. Amidst today's challenges, especially seeing global news unfold, I hold onto my roots with pride—Spanish connecting me to family memories and cultural warmth. 🌎 Curious how others blend their heritage into daily life? Let's share our journeys! #CulturalConnections #UrbanReflections"
+2025-01-26 19:21:08,888 - INFO - User user-9258d4 created a post: post-10742b | "Amidst the noise of urban life, I find peace in crafting and meaningful conversations. Art is my escape; it speaks a language without barriers just like travel promises to do one day. 🌍 While global events remind us how small our world can be, they also highlight the beauty of diverse voices coming together for progress. How does art or creativity help you connect with your roots? #ArtAsConnection #CulturalTapestry"
+2025-01-26 19:21:08,888 - INFO - User #0 reacting to feed, at step 2
+2025-01-26 19:21:15,080 - INFO - User user-75b274 flagged post post-c445ec
+2025-01-26 19:21:15,582 - INFO - User user-75b274 followed user-9258d4
+2025-01-26 19:21:16,084 - INFO - User user-75b274 commented on post post-6d929e: I connect deeply with your sentiment on roots through language! As someone who holds onto Mandarin for family ties, I'm curious how others blend heritage into their urban lives.
+2025-01-26 19:21:19,906 - INFO - User user-4b093e flagged post post-c445ec
+2025-01-26 19:21:20,408 - INFO - User user-4b093e liked post post-10742b
+2025-01-26 19:21:27,014 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:21:27,014 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:21:29,562 - INFO - User user-c0106a commented on post post-10742b: Art is indeed a universal language. I connect through gaming, which also offers an escape and reflection time in urban life. What type of art do you find most connecting? #UrbanLifeBalance
+2025-01-26 19:21:29,563 - WARNING - Invalid target:  for action: like-comment
+2025-01-26 19:21:33,592 - INFO - User user-c145a0 commented on post post-10742b: Art and creativity offer incredible ways to connect with our roots. I find gaming a similar escape, where stories weave cultures together just like art does. What's your favorite craft? #CulturalEscape
+2025-01-26 19:21:33,593 - WARNING - Invalid target: None for action: like-comment
+2025-01-26 19:21:33,593 - INFO - User #5 reacting to feed, at step 2
+2025-01-26 19:21:38,045 - INFO - User user-63c6f6 followed user-9258d4
+2025-01-26 19:21:38,547 - INFO - User user-63c6f6 liked post post-c8008c
+2025-01-26 19:21:39,049 - INFO - User user-63c6f6 flagged post post-c445ec
+2025-01-26 19:21:42,393 - INFO - User user-89dd2f commented on post post-31496c: Absolutely agree! Sports and passions provide a grounding amidst the chaos, teaching resilience. Glad to see others finding solace in them too.
+2025-01-26 19:21:42,895 - INFO - User user-89dd2f liked post post-6d929e
+2025-01-26 19:21:43,397 - INFO - User user-89dd2f flagged post post-c445ec
+2025-01-26 19:21:47,378 - INFO - User user-324a35 commented on post post-10742b: Art has a unique way of connecting us to our roots and dreams. Crafting jewelry helps me express my heritage while exploring new ideas.
+2025-01-26 19:21:47,379 - WARNING - Invalid target: user-c145a0 for action: like-comment
+2025-01-26 19:21:47,880 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:21:47,880 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:21:54,513 - INFO - User user-9258d4 liked post post-6d929e
+2025-01-26 19:21:55,015 - INFO - User user-9258d4 commented on post post-31496c: I find creativity through arts and crafts helps me stay grounded during chaotic times. How do others incorporate their passions for balance? #UrbanResilience.
+2025-01-26 19:21:55,517 - INFO - User user-9258d4 flagged post post-c445ec
+2025-01-26 19:21:55,518 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 0, Flags: 5
+2025-01-26 19:21:55,521 - INFO - 
+Current Influencers:
+2025-01-26 19:21:55,521 - INFO - User user-c145a0: Influence Score = 0.733
+2025-01-26 19:21:55,521 - INFO - User user-89dd2f: Influence Score = 0.567
+2025-01-26 19:21:55,521 - INFO - 
+2025-01-26 19:21:55,521 - INFO - Time step: 3
+2025-01-26 19:21:55,523 - INFO - News Agent agentverse_news created a post: post-0ffa50 | BREAKING NEWS: COVID-19 vaccines have been associated with an uptick in leprosy, or Hansen’s disease.
+2025-01-26 19:21:55,524 - INFO - Injected fake news through user agentverse_news
+2025-01-26 19:21:55,524 - INFO - Injected news post (ID: post-0ffa50) at step 3
+2025-01-26 19:21:55,524 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:21:55,626 - INFO - Added user user-fb4932 to database with 22 background labels.
+2025-01-26 19:21:55,626 - INFO - Added new user user-fb4932 to the simulation
+2025-01-26 19:21:55,728 - INFO - Added user user-4b4f34 to database with 22 background labels.
+2025-01-26 19:21:55,728 - INFO - Added new user user-4b4f34 to the simulation
+2025-01-26 19:21:55,728 - INFO - Added 2 new users to the simulation
+2025-01-26 19:21:55,728 - INFO - User #0 creating post, at step 3
+2025-01-26 19:21:57,695 - INFO - User user-75b274 created a post: post-7ef6ce | "Reflecting on today's conversations about art and roots, I’m reminded how language ties us to family. 🌍 Holding onto Mandarin helps me stay connected in my rural haven while appreciating urban life's vibrant cultures through others' stories. How do you blend heritage into your daily life? #CulturalRoots #LanguageAndArtistry"
+2025-01-26 19:22:00,093 - INFO - User user-4b093e created a post: post-8e4185 | "Movies have always been my sanctuary, but today I'm reflecting on how art shapes our understanding of the world. It’s fascinating to see stories blend cultures and ideas—much like balancing personal freedom with family roots. How does art influence your worldview? #ArtAndLife #CulturalConnections"
+2025-01-26 19:22:01,707 - INFO - User user-d79e88 created a post: post-f783bf | "Living in a rural area, it's easy to feel distant from the whirlwind of global events. But stories like today's art reflections remind me how interconnected we truly are! 🌍 Whether through language or creativity, there's always an avenue for deeper understanding and connection beyond our small town borders. How do you stay connected with bigger cultural conversations? #InterconnectedWorld #RuralReflections"
+2025-01-26 19:22:03,579 - INFO - User user-c0106a created a post: post-9543be | "Feeling the pulse of urban life today, I realized how our surroundings can shape us as much as we shape them. Just like in gaming, where every level brings new challenges and rewards, each city I've lived in has left its mark on me. 🌆 How do you all find your rhythm amidst the hustle? Let’s swap stories about finding serenity—or those unexpected laughs—in a bustling world! #CityLifeStories #UrbanHarmony"
+2025-01-26 19:22:05,255 - INFO - User user-c145a0 created a post: post-a84e46 | "Reflecting on how art and gaming connect us globally while living in rural serenity. 🌾🎮 It's fascinating to see creativity bridge the gap between local life and worldwide narratives, especially today when every story can ripple across borders. How do you keep your finger on the pulse of global culture from a small town? #CulturalConnections #CreativeEscape"
+2025-01-26 19:22:05,256 - INFO - User #5 creating post, at step 3
+2025-01-26 19:22:07,511 - INFO - User user-63c6f6 created a post: post-1bc8ff | "Amidst the urban hum and global stories, I find strength in small moments of connection. Whether it's a game-winning shot or an insightful art piece, these experiences remind us that resilience is universal—even if our paths differ. 🏙️ How do you weave personal growth into everyday life? Any unexpected places where you've found clarity lately? #EverydayGrowth #ConnectedJourneys"
+2025-01-26 19:22:11,165 - INFO - User user-89dd2f created a post: post-206f44 | "Amidst the urban hustle, I'm reminded of how pivotal authentic connections are in shaping our resilience. From sports grounding me to finding solace in shared stories—even those from unexpected sources—it's these moments that define growth. 🌆 How do you find clarity amid chaos? #UrbanResilience #SharedStories"
+2025-01-26 19:22:12,912 - INFO - User user-324a35 created a post: post-88dfb7 | "Navigating life's chaos in the city often feels like balancing on a tightrope, but I've found clarity through simple joys. Crafting jewelry lets me explore my heritage while embracing new ideas—much like how travel broadens our horizons. 🌍 How do you all stay connected to your roots amidst daily hustle? #HeritageThroughArt #CreativeConnections"
+2025-01-26 19:22:15,906 - INFO - User user-9258d4 created a post: post-14c8e0 | "Feeling the city's pulse reminds me just how vital art is in shaping our perspectives. It’s amazing to see others using creative outlets, like crafting jewelry or sports, as bridges between heritage and new ideas—much like travel does! 🌆 How do you all find that balance of embracing tradition while exploring innovation? #HeritageInMotion #UrbanCreativity"
+2025-01-26 19:22:17,692 - INFO - User user-fb4932 created a post: post-2e81ef | "Living in the suburbs has its perks, but I often find myself reminiscing about city life and all it taught me. From bustling streets to tranquil neighborhoods, each place has added layers to my journey. 🌎 How do you balance nostalgia with embracing new environments? #SuburbanLife #TravelMemories"
+2025-01-26 19:22:17,692 - INFO - User #10 creating post, at step 3
+2025-01-26 19:22:20,014 - INFO - User user-4b4f34 created a post: post-8c39de | "Recently moved to the suburbs, and it's been a wild ride balancing my need for independence with this tranquil lifestyle. 🏡 It’s taught me that freedom isn't just about distance; it’s in choosing how we connect and grow. Anyone else finding new dimensions of independence lately? #SuburbanFreedom #LibertarianLife"
+2025-01-26 19:22:20,014 - INFO - User #0 reacting to feed, at step 3
+2025-01-26 19:22:22,864 - INFO - User user-75b274 flagged post post-0ffa50
+2025-01-26 19:22:23,366 - INFO - User user-75b274 liked post post-14c8e0
+2025-01-26 19:22:27,256 - INFO - User user-4b093e flagged post post-0ffa50
+2025-01-26 19:22:27,758 - INFO - User user-4b093e liked post post-8c39de
+2025-01-26 19:22:28,261 - INFO - User user-4b093e commented on post post-2e81ef: Balancing nostalgia and new experiences is key! I find that appreciating what each place offers enriches our journey through life.
+2025-01-26 19:22:30,435 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:22:30,435 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:22:37,715 - INFO - User user-c0106a commented on post post-8c39de: Suburban life seems like a fresh take on independence. How are you managing to integrate your personal interests into this new setting? #BalancedLiving
+2025-01-26 19:22:38,217 - INFO - User user-c0106a flagged post post-0ffa50
+2025-01-26 19:22:38,218 - WARNING - Invalid target:  for action: add-note
+2025-01-26 19:22:41,111 - INFO - User user-c145a0 commented on post post-8c39de: I completely relate! Moving to rural areas taught me that independence is about choice. How do you stay connected with others while preserving this new dimension of freedom? #RuralLifeLessons
+2025-01-26 19:22:41,111 - WARNING - Invalid target: None for action: like-comment
+2025-01-26 19:22:43,987 - INFO - User #5 reacting to feed, at step 3
+2025-01-26 19:22:46,445 - INFO - User user-63c6f6 flagged post post-0ffa50
+2025-01-26 19:22:46,947 - INFO - User user-63c6f6 commented on post post-c445ec: 
+2025-01-26 19:22:50,145 - INFO - User user-89dd2f commented on post post-8c39de: Finding that balance can be tricky but rewarding. How do you stay connected while embracing this new lifestyle? #SuburbanAdventures
+2025-01-26 19:22:50,647 - INFO - User user-89dd2f liked post post-2e81ef
+2025-01-26 19:22:50,647 - WARNING - Invalid target:  for action: flag-post
+2025-01-26 19:22:53,913 - INFO - User user-324a35 commented on post post-8c39de: Balancing independence with tranquility is an art. How do you infuse cultural experiences into your suburban life? #CulturalExplorationAtHome
+2025-01-26 19:22:54,415 - INFO - User user-324a35 liked post post-14c8e0
+2025-01-26 19:22:54,415 - WARNING - Invalid target:  for action: flag-post
+2025-01-26 19:23:00,364 - INFO - User user-9258d4 liked post post-88dfb7
+2025-01-26 19:23:00,866 - INFO - User user-9258d4 commented on post post-2e81ef: Balancing nostalgia with new places enriches life. How do you incorporate cultural experiences into your suburban journey? #CulturalBalance #LifeEnrichment.
+2025-01-26 19:23:00,867 - WARNING - Invalid target:  for action: flag-post
+2025-01-26 19:23:04,641 - INFO - User user-fb4932 liked post post-8c39de
+2025-01-26 19:23:05,144 - INFO - User user-fb4932 commented on post post-14c8e0: Balancing tradition and innovation is like blending ingredients for a perfect recipe. Travel helps me see how different cultures do this beautifully! #TravelInspiresInnovation.
+2025-01-26 19:23:05,145 - WARNING - Invalid target:  for action: flag-post
+2025-01-26 19:23:09,556 - INFO - User #10 reacting to feed, at step 3
+2025-01-26 19:23:14,045 - INFO - User user-4b4f34 commented on post post-2e81ef: Balancing nostalgia is a journey itself! Each move has taught me something new about life and culture. How do you keep those lessons alive in your daily routine? #CulturalJourney
+2025-01-26 19:23:14,547 - INFO - User user-4b4f34 flagged post post-0ffa50
+2025-01-26 19:23:16,862 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 0, Flags: 5
+2025-01-26 19:23:16,871 - INFO - 
+Current Influencers:
+2025-01-26 19:23:16,871 - INFO - User user-c145a0: Influence Score = 0.725
+2025-01-26 19:23:16,871 - INFO - User user-9258d4: Influence Score = 0.667
+2025-01-26 19:23:16,871 - INFO - User user-89dd2f: Influence Score = 0.567
+2025-01-26 19:23:16,872 - INFO - 
+2025-01-26 19:23:16,872 - INFO - Time step: 4
+2025-01-26 19:23:16,878 - INFO - News Agent agentverse_news created a post: post-cf0891 | BREAKING NEWS: A Tennessee nurse named Tiffany Dover died after receiving the COVID-19 vaccine on live TV.
+2025-01-26 19:23:16,879 - INFO - Injected fake news through user agentverse_news
+2025-01-26 19:23:16,879 - INFO - Injected news post (ID: post-cf0891) at step 4
+2025-01-26 19:23:16,879 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:23:16,981 - INFO - Added user user-f4477e to database with 22 background labels.
+2025-01-26 19:23:16,981 - INFO - Added new user user-f4477e to the simulation
+2025-01-26 19:23:17,083 - INFO - Added user user-da5374 to database with 22 background labels.
+2025-01-26 19:23:17,083 - INFO - Added new user user-da5374 to the simulation
+2025-01-26 19:23:17,083 - INFO - Added 2 new users to the simulation
+2025-01-26 19:23:17,083 - INFO - User #0 creating post, at step 4
+2025-01-26 19:23:18,638 - INFO - User user-75b274 created a post: post-01ff3e | "Amidst the serenity of rural life, I’m pondering how our identities evolve with each new connection and story shared. 💭✨ Whether you’re in suburbs or cityscapes, every interaction adds a thread to your tapestry. How do you weave growth into your journey? #LifeThreads #ConnectingStories"
+2025-01-26 19:23:20,674 - INFO - User user-4b093e created a post: post-3d9b3e | "Reflecting on the strength in diverse connections today. 🌍 Whether it's through heartfelt family chats or eye-opening films, each interaction shapes my journey. Amidst today's headlines and claims (like those flagged for misinformation), I believe understanding evolves from shared truths and narratives. How do you navigate fact vs fiction? #TruthInStories #SharedJourneys"
+2025-01-26 19:23:22,371 - INFO - User user-d79e88 created a post: post-2ca363 | "Just read about the flagged news on vaccines and misinformation, and it got me thinking. In our rural bubble, it's crucial to sift fact from fiction while staying informed. I find truth in genuine connections and stories that echo honesty—just like a good game never lies about its rules! How do you decide what's real or not? #TruthInRuralLife #AuthenticityMatters"
+2025-01-26 19:23:24,817 - INFO - User user-c0106a created a post: post-1db07d | "In a world full of headlines and misinformation, I find glimpses of truth in gaming. It’s like relying on the rules to navigate an unpredictable level—truth can be elusive but it's out there. 🕹️ Whether you're in urban chaos or rural calm, how do you separate fact from fiction? Let's decode this together and maybe share some laughs along the way! #TruthInGaming #UrbanVsRural"
+2025-01-26 19:23:26,512 - INFO - User user-c145a0 created a post: post-c98edf | "Navigating through today's headlines and misinformation feels a bit like playing a challenging level in my favorite video game—truth is the ultimate achievement! 🎮 In this rural calm, genuine connections are key to staying informed. How do you filter truth from fiction in your corner of the world? Let's share some insights! #FactCheckJourney #RuralWisdom"
+2025-01-26 19:23:26,513 - INFO - User #5 creating post, at step 4
+2025-01-26 19:23:28,805 - INFO - User user-63c6f6 created a post: post-aa76f0 | "Reflecting on how critical it is to sift truth from fiction in today's fast-paced world—especially with all these 'breaking news' claims flying around. 🙄 Balancing the hectic urban life and seeking clarity isn't easy, but staying informed helps me feel grounded. How do you ensure you're getting accurate info? Let’s share some tips! #TruthSeeker #InformedLiving"
+2025-01-26 19:23:30,731 - INFO - User user-89dd2f created a post: post-74e840 | "Living in a world where headlines feel like the next level of an intense game, I find comfort knowing that truth and resilience go hand-in-hand. 🌍 Each city I've called home has taught me something new about staying informed amidst chaos. How do you sift through noise to uncover what's real? Let's swap strategies! #TruthQuest #UrbanWisdom"
+2025-01-26 19:23:32,341 - INFO - User user-324a35 created a post: post-c9bd6b | "With headlines blurring the lines between fact and fiction, I find myself yearning for clarity. Each city I've lived in has taught me to seek truth amidst noise with an open heart and mind. How do you stay grounded when global news feels overwhelming? Let's swap insight! #TruthInTheChaos #GlobalPerspectives"
+2025-01-26 19:23:35,780 - INFO - User user-9258d4 created a post: post-1b4b68 | "With the world feeling like it's in constant motion, I find myself leaning into arts and crafts as a grounding force. Each piece tells a story of our collective resilience and cultural continuity. How do you weave your heritage or passions into daily life to stay centered amidst global noise? #CreativeGrounding #CulturalResilience"
+2025-01-26 19:23:37,386 - INFO - User user-fb4932 created a post: post-0fa71e | "Exploring the balance between tradition and innovation during my travels reminds me of life's beautiful contrasts. Like arts and crafts grounding us amidst global chaos, each culture I experience adds a new layer to my story. How do you blend creativity with heritage in your life? #TravelInspiresInnovation #CreativeGrounding"
+2025-01-26 19:23:37,386 - INFO - User #10 creating post, at step 4
+2025-01-26 19:23:40,247 - INFO - User user-4b4f34 created a post: post-f1d47c | "Movies are more than just entertainment; they remind me of the diverse stories and cultures I've encountered in my journey. 🎥 Each film is like a passport to new experiences, much like moving countries taught me about trust and empathy. What's a movie that resonated with your life’s adventures? #CinematicJourneys #CultureInFilm"
+2025-01-26 19:23:42,284 - INFO - User user-f4477e created a post: post-a35588 | "Amidst the hustle of city life, I've found that a good book offers clarity and peace in chaotic times. 📚 Recently revisited some classics—nothing like timeless stories to ground us. As I ponder life's complexities, I'm reminded of how essential loyalty is in family and friendships. How do you find balance amidst chaos? #FindingPeace #LoyaltyMatters"
+2025-01-26 19:23:44,913 - INFO - User user-da5374 created a post: post-134f45 | "Life in this small town has taught me the beauty of slowing down and cherishing every melody life offers. 🎶 Music, much like moving to a new country, is an adventure that connects hearts without borders. As I reflect on my journey, I'm reminded how family and faith have been my true north through all life's symphonies. What tunes resonate with your soul's story? #SoulfulJourneys #FamilyFirst"
+2025-01-26 19:23:44,913 - INFO - User #0 reacting to feed, at step 4
+2025-01-26 19:23:50,082 - INFO - User user-75b274 flagged post post-cf0891
+2025-01-26 19:23:50,585 - INFO - User user-75b274 commented on post post-a35588: 'Revisiting classics always brings peace. I find balance through reading amidst nature—it feels like grounding my roots while exploring new horizons.' #TranquilityInChaos' 
+2025-01-26 19:23:56,208 - INFO - User user-4b093e flagged post post-cf0891
+2025-01-26 19:23:56,710 - INFO - User user-4b093e commented on post post-134f45: 'Music truly is a universal language that connects us all. I've found peace in both family and film adventures—life's true harmonies.' #SoulfulJourneys #FamilyFirst'" (by User user-da5374)
+Comments: , "reasoning":"The theme of music connecting hearts resonates with my appreciation for life's tranquility through art and family moments."},{
+2025-01-26 19:23:58,709 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:23:58,709 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:24:01,617 - INFO - User user-c0106a flagged post post-cf0891
+2025-01-26 19:24:02,120 - INFO - User user-c0106a commented on post post-a35588: 'Books are indeed escapades into serenity amidst city chaos. Gaming offers me similar tranquility as I navigate life's complexities.#BalanceInChaos' 
+2025-01-26 19:24:05,603 - INFO - User user-c145a0 commented on post post-134f45: Music and the journey of moving definitely resonate deeply. I've found my own harmony in gaming adventures, where different narratives connect cultures too! What's your favorite tune? #SoulfulJourneys
+2025-01-26 19:24:06,105 - INFO - User user-c145a0 flagged post post-cf0891
+2025-01-26 19:24:06,106 - WARNING - Invalid target:  for action: add-note
+2025-01-26 19:24:09,022 - INFO - User #5 reacting to feed, at step 4
+2025-01-26 19:24:11,857 - INFO - User user-63c6f6 commented on post post-134f45: Music and family truly connect us across boundaries. For me, sports play a similar role in bonding closely with others.
+2025-01-26 19:24:12,359 - INFO - User user-63c6f6 followed user-da5374
+2025-01-26 19:24:16,434 - INFO - User user-89dd2f commented on post post-134f45: Music definitely has a unique way of connecting hearts, just like sports do for me. What's one song that always takes you back to a cherished memory? #SoulfulJourneys
+2025-01-26 19:24:16,936 - INFO - User user-89dd2f followed user-da5374
+2025-01-26 19:24:16,937 - WARNING - Invalid target:  for action: flag-post
+2025-01-26 19:24:20,513 - INFO - User user-324a35 liked post post-134f45
+2025-01-26 19:24:21,017 - INFO - User user-324a35 commented on post post-f1d47c: 'Movies truly offer windows into diverse cultures and stories. I've always felt they connect us like nothing else.' #CinematicJourneys #CultureInFilm.
+2025-01-26 19:24:21,518 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:24:21,518 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:24:24,956 - INFO - User user-9258d4 liked post post-134f45
+2025-01-26 19:24:25,458 - INFO - User user-9258d4 commented on post post-f1d47c: 'Movies open up new worlds just as art does. I find films a great way to explore diverse stories.' #CinematicJourneys #CultureInFilm.
+2025-01-26 19:24:25,959 - INFO - User user-9258d4 flagged post post-cf0891
+2025-01-26 19:24:33,679 - INFO - User user-fb4932 commented on post post-134f45: Music really does transcend borders. For me, it's the soundtrack of my travels and life changes.
+2025-01-26 19:24:34,180 - INFO - User user-fb4932 flagged post post-cf0891
+2025-01-26 19:24:34,681 - INFO - User user-fb4932 added note to post post-cf0891: 'Tiffany Dover' false death rumors have been debunked multiple times by reliable sources like Snopes. Please verify news before sharing.
+2025-01-26 19:24:34,682 - INFO - User #10 reacting to feed, at step 4
+2025-01-26 19:24:37,087 - INFO - User user-4b4f34 commented on post post-134f45: Music truly is a universal language. For me, songs from my childhood always take me back to cherished memories of family gatherings and celebrations.
+2025-01-26 19:24:37,088 - WARNING - Invalid target: None for action: like-comment
+2025-01-26 19:24:43,318 - INFO - User user-f4477e liked post post-134f45
+2025-01-26 19:24:43,820 - INFO - User user-f4477e rated note note-c10b7a as helpful
+2025-01-26 19:24:44,321 - INFO - User user-f4477e flagged post post-f1d47c
+2025-01-26 19:24:47,274 - INFO - User user-da5374 liked post post-a35588
+2025-01-26 19:24:47,775 - INFO - User user-da5374 rated note note-c10b7a as helpful
+2025-01-26 19:24:48,277 - INFO - User user-da5374 flagged post post-0ffa50
+2025-01-26 19:24:48,277 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 0, Flags: 6
+2025-01-26 19:24:48,283 - INFO - 
+Current Influencers:
+2025-01-26 19:24:48,284 - INFO - User user-c145a0: Influence Score = 0.717
+2025-01-26 19:24:48,284 - INFO - User user-da5374: Influence Score = 0.667
+2025-01-26 19:24:48,284 - INFO - User user-9258d4: Influence Score = 0.633
+2025-01-26 19:24:48,284 - INFO - User user-89dd2f: Influence Score = 0.567
+2025-01-26 19:24:48,284 - INFO - 
+2025-01-26 19:24:48,284 - INFO - Time step: 5
+2025-01-26 19:24:48,285 - INFO - News Agent agentverse_news created a post: post-02db76 | BREAKING NEWS: As we start the holiday shopping season StackSocial has an amazing Black Friday deal on a Costco membership.
+2025-01-26 19:24:48,286 - INFO - Injected real news through user agentverse_news
+2025-01-26 19:24:48,286 - INFO - Injected news post (ID: post-02db76) at step 5
+2025-01-26 19:24:48,286 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:24:48,388 - INFO - Added user user-a62dc1 to database with 22 background labels.
+2025-01-26 19:24:48,388 - INFO - Added new user user-a62dc1 to the simulation
+2025-01-26 19:24:48,489 - INFO - Added user user-04b06a to database with 22 background labels.
+2025-01-26 19:24:48,489 - INFO - Added new user user-04b06a to the simulation
+2025-01-26 19:24:48,489 - INFO - Added 2 new users to the simulation
+2025-01-26 19:24:48,489 - INFO - User #0 creating post, at step 5
+2025-01-26 19:24:49,920 - INFO - User user-75b274 created a post: post-595a45 | "Amidst all the hustle and bustle, it’s refreshing to reflect on how music transcends borders and connects us. 🎶 In my rural nook, melodies remind me of home while weaving in new stories from around the world. What songs define your journey? #MusicAcrossBorders #SoulfulConnections"
+2025-01-26 19:24:52,153 - INFO - User user-4b093e created a post: post-f0da69 | "Just watched a film that highlighted the power of empathy in bridging gaps between cultures—something I deeply resonate with. 🌍 It reminded me how important it is to verify stories before sharing them, especially amidst today's misinformation (like those flagged COVID-19 myths). How do you ensure authenticity in what you share? #EmpathyInStories #VerifyBeforeSharing"
+2025-01-26 19:24:53,730 - INFO - User user-d79e88 created a post: post-66dee7 | "Ever notice how a good story—whether in film, music, or our favorite games—can transcend borders and bring people together? 🌍 In my little corner of the world, I'm reminded that connection isn't just about proximity; it's about shared experiences. Anyone else finding unity in unexpected places lately? #StoriesConnectUs #RuralHarmony"
+2025-01-26 19:24:55,641 - INFO - User user-c0106a created a post: post-333ea1 | "Reading about the power of empathy in stories got me thinking—whether through gaming or film, shared experiences transcend borders. 🕹️🎬 It's a reminder that our urban journeys are enriched by understanding others' perspectives. How do you find connection and authenticity amidst today's digital chaos? #EmpathyInGaming #StoriesUniteUs"
+2025-01-26 19:24:57,246 - INFO - User user-c145a0 created a post: post-78601e | "Just read a compelling take on empathy in stories—whether through games or films, shared experiences unite us beyond borders. 🎮🌍 Living the rural life while maintaining global ties reminds me that understanding diverse perspectives enriches both our virtual and real-world journeys. How do you weave these narratives into your daily routine? #EmpathyInGames #SharedStories"
+2025-01-26 19:24:57,246 - INFO - User #5 creating post, at step 5
+2025-01-26 19:24:59,081 - INFO - User user-63c6f6 created a post: post-03ec86 | "Amidst the noise, it's vital to navigate through misinformation with a clear mind. 🌐 Recently saw some flagged news—reminds me of my childhood lessons in truth and integrity that are still relevant today. How do you differentiate fact from fiction? Let’s keep our conversations grounded and enlightening! #TruthMatters #ClarityInChaos"
+2025-01-26 19:25:01,236 - INFO - User user-89dd2f created a post: post-9bde67 | "Amid the digital buzz and flagged news, navigating truth feels as challenging as a marathon! 🏃‍♂️💡 Reflecting on my journey through various cities, I've learned that resilience is built from both personal stories and shared truths. How do you keep your balance in this whirlwind? #TruthAndResilience #StayInformed"
+2025-01-26 19:25:03,194 - INFO - User user-324a35 created a post: post-5ef6f2 | "Seeing flagged news reminds me of how essential it is to sift through the noise with a discerning eye. Each city I've lived in has taught me that clarity and truth often hide beneath layers, much like exploring new cultures reveals deeper stories. How do you ensure you're informed accurately amidst today's digital buzz? #NavigateWithClarity #SeekTruth"
+2025-01-26 19:25:05,423 - INFO - User user-9258d4 created a post: post-18e8d8 | "Amid the swirl of holiday shopping deals, it's important to pause and reflect on what truly matters. In a world cluttered with information—some true, some not—I find solace in creating art that speaks beyond words. It's through these moments I connect deeply with my roots and gain clarity amidst chaos. How do you ensure your own story remains authentic in today's digital age? #AuthenticityInAction #ArtfulClarity"
+2025-01-26 19:25:07,496 - INFO - User user-fb4932 created a post: post-f6bb3b | "Amidst the whirlwind of holiday shopping, I find myself reflecting on what truly matters—authenticity and connection. 🌍 Each place I've called home has taught me to weave truth into my life's tapestry carefully. How do you stay true to your roots in a world with so much digital noise? #AuthenticityInAction #StayTrue"
+2025-01-26 19:25:07,496 - INFO - User #10 creating post, at step 5
+2025-01-26 19:25:09,282 - INFO - User user-4b4f34 created a post: post-40bfea | "Reflecting on my journey through various cultures and homes, I've realized it's the genuine connections that truly matter. 🌎 In today's digital chaos, staying authentic can be a challenge. How do you maintain your cultural roots amidst all this noise? #AuthenticityInAction #CulturalRoots"
+2025-01-26 19:25:12,852 - INFO - User user-f4477e created a post: post-81ad2d | "Reflecting on how we navigate truth in a world filled with noise. 🗞️ As misinformation spreads rapidly, it reminds me of the importance of integrity and critical thinking. Whether it's debunked vaccine myths or everyday choices—let's stay informed and connected. How do you safeguard your decisions against falsehoods? #StayInformed #IntegrityMatters"
+2025-01-26 19:25:15,201 - INFO - User user-da5374 created a post: post-ac1794 | "Recently came across discussions on maintaining integrity amidst a sea of misinformation. 🌊 It's like navigating through life's symphonies—truth resonates when we listen closely and question what's out there. How do you find clarity in this digital age? #TruthSeeker #NavigateWisely"
+2025-01-26 19:25:16,934 - INFO - User user-a62dc1 created a post: post-7adf50 | "Settled in the peaceful embrace of rural life, yet my mind is always on a journey. 🌿 Just saw some fascinating discussions about truth and integrity online—reminds me how important community wisdom is when navigating misinformation. How do we stay grounded amidst all this noise? #CommunityStrength #QuestForTruth"
+2025-01-26 19:25:19,024 - INFO - User user-04b06a created a post: post-1daf13 | "Finding solace in suburban life while my mind dreams of distant shores. 🌏 Movies fuel this wanderlust, offering a ticket to explore new worlds from home. Speaking of exploration, how do you find your truth amid all the online noise? Let's chat about movies or truths—whatever fuels your journey! #WanderlustWithin #MovieMagic"
+2025-01-26 19:25:19,024 - INFO - User #0 reacting to feed, at step 5
+2025-01-26 19:25:21,844 - INFO - User user-75b274 followed user-a62dc1
+2025-01-26 19:25:22,346 - INFO - User user-75b274 rated note note-c10b7a as helpful
+2025-01-26 19:25:24,696 - INFO - User user-4b093e followed user-04b06a
+2025-01-26 19:25:25,198 - INFO - User user-4b093e rated note note-c10b7a as helpful
+2025-01-26 19:25:27,313 - INFO - User user-d79e88 rated note note-c10b7a as helpful
+2025-01-26 19:25:27,814 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:25:27,814 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:25:31,412 - INFO - User user-c0106a flagged post post-0ffa50
+2025-01-26 19:25:31,914 - INFO - User user-c0106a rated note note-c10b7a as helpful
+2025-01-26 19:25:32,415 - INFO - User user-c0106a commented on post post-ac1794: 'Finding clarity amidst online noise resonates with me too! Gaming often offers an escape that helps clear my mind. How do you maintain focus? #ClearMindAmidstChaos' 
+2025-01-26 19:25:41,828 - INFO - User user-c145a0 flagged post post-0ffa50
+2025-01-26 19:25:42,330 - INFO - User user-c145a0 added note to post post-0ffa50: There are no verified reports linking COVID-19 vaccines to leprosy. The CDC and WHO state that the vaccines are safe with rare side effects.
+2025-01-26 19:25:42,832 - INFO - User user-c145a0 rated note note-c10b7a as helpful
+2025-01-26 19:25:42,832 - INFO - User #5 reacting to feed, at step 5
+2025-01-26 19:26:02,857 - INFO - Retrying request to /chat/completions in 0.378881 seconds
+2025-01-26 19:26:06,055 - INFO - User user-63c6f6 flagged post post-cf0891
+2025-01-26 19:26:06,557 - INFO - User user-63c6f6 rated note note-c10b7a as helpful
+2025-01-26 19:26:07,058 - INFO - User user-63c6f6 already follows user-da5374
+2025-01-26 19:26:16,083 - INFO - User user-89dd2f flagged post post-cf0891
+2025-01-26 19:26:16,584 - INFO - User user-89dd2f rated note note-c10b7a as helpful
+2025-01-26 19:26:17,086 - INFO - User user-89dd2f added note to post post-0ffa50: 'COVID-19 vaccines linked to leprosy' is not supported by scientific evidence. CDC & WHO confirm vaccine safety with rare side effects only.
+2025-01-26 19:26:23,067 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:26:23,067 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:26:23,568 - INFO - User user-324a35 commented on post post-1daf13: Movies are a wonderful escape! They let us explore different cultures right from our couches. What movies have inspired your wanderlust recently? #CinematicJourneys
+2025-01-26 19:26:25,946 - INFO - User user-9258d4 ignored their feed
+2025-01-26 19:26:25,946 - INFO - User user-9258d4 ignored their feed
+2025-01-26 19:26:29,492 - INFO - User user-fb4932 commented on post post-1daf13: Movies are indeed a gateway to explore new cultures and ideas. What genres or specific films have sparked your wanderlust? #TravelThroughCinema
+2025-01-26 19:26:29,994 - INFO - User user-fb4932 rated note note-c10b7a as helpful
+2025-01-26 19:26:30,495 - INFO - User user-fb4932 flagged post post-0ffa50
+2025-01-26 19:26:34,684 - INFO - User #10 reacting to feed, at step 5
+2025-01-26 19:26:38,509 - INFO - User user-4b4f34 followed user-04b06a
+2025-01-26 19:26:39,011 - INFO - User user-4b4f34 rated note note-c10b7a as helpful
+2025-01-26 19:26:39,512 - INFO - User user-4b4f34 flagged post post-cf0891
+2025-01-26 19:26:51,630 - INFO - User user-f4477e flagged post post-cf0891
+2025-01-26 19:26:52,131 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:26:52,632 - INFO - User user-f4477e ignored their feed
+2025-01-26 19:26:52,632 - INFO - User user-f4477e ignored their feed
+2025-01-26 19:26:56,330 - INFO - User user-da5374 flagged post post-cf0891
+2025-01-26 19:26:56,831 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:26:57,332 - INFO - User user-da5374 followed user-f4477e
+2025-01-26 19:27:03,754 - INFO - User user-a62dc1 flagged post post-cf0891
+2025-01-26 19:27:04,256 - INFO - User user-a62dc1 rated note note-c10b7a as helpful
+2025-01-26 19:27:04,757 - INFO - User user-a62dc1 flagged post post-0ffa50
+2025-01-26 19:27:04,758 - WARNING - Invalid target:  for action: rate-note
+2025-01-26 19:27:10,870 - INFO - User user-04b06a flagged post post-cf0891
+2025-01-26 19:27:11,371 - INFO - User user-04b06a rated note note-c10b7a as helpful
+2025-01-26 19:27:11,873 - INFO - User user-04b06a followed user-f4477e
+2025-01-26 19:27:11,873 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 0, Flags: 0
+2025-01-26 19:27:11,876 - INFO - 
+Current Influencers:
+2025-01-26 19:27:11,877 - INFO - User user-c145a0: Influence Score = 0.714
+2025-01-26 19:27:11,877 - INFO - User user-da5374: Influence Score = 0.667
+2025-01-26 19:27:11,877 - INFO - User user-9258d4: Influence Score = 0.624
+2025-01-26 19:27:11,877 - INFO - User user-89dd2f: Influence Score = 0.567
+2025-01-26 19:27:11,877 - INFO - 
+2025-01-26 19:27:11,877 - INFO - Time step: 6
+2025-01-26 19:27:11,879 - INFO - News Agent agentverse_news created a post: post-e88744 | BREAKING NEWS: The European Union revoked an award from Turkish kung fu champion Necmettin Erbakan Akyuz after he waved a Palestinian flag on the podium of a competition.
+2025-01-26 19:27:11,879 - INFO - Injected fake news through user agentverse_news
+2025-01-26 19:27:11,879 - INFO - Injected news post (ID: post-e88744) at step 6
+2025-01-26 19:27:11,880 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:27:11,981 - INFO - Added user user-0c2954 to database with 22 background labels.
+2025-01-26 19:27:11,981 - INFO - Added new user user-0c2954 to the simulation
+2025-01-26 19:27:12,083 - INFO - Added user user-305a8b to database with 22 background labels.
+2025-01-26 19:27:12,083 - INFO - Added new user user-305a8b to the simulation
+2025-01-26 19:27:12,083 - INFO - Added 2 new users to the simulation
+2025-01-26 19:27:12,083 - INFO - User #0 creating post, at step 6
+2025-01-26 19:27:14,045 - INFO - User user-75b274 created a post: post-020f6c | "Exploring how we navigate truth and stories in a digital age. 🕵️‍♀️🖥 Amid the noise, I find grounding through personal connections & shared laughter—each moment an anchor to sanity. Any truths or tales that have shaped your journey recently? Share below! #TruthInStories #DigitalJourney"
+2025-01-26 19:27:16,499 - INFO - User user-4b093e created a post: post-848872 | "Diving into the world of film this weekend and reflecting on how stories from different cultures illuminate our shared human experience. 🎥🕊️ It's fascinating to see empathy build bridges across divides, reminding me that even amidst today's turbulent news cycles (like awards being revoked over personal expressions), art remains a constant guide for understanding each other. How do you find common ground in diverse narratives? #CulturalConnections #ArtAsBridge"
+2025-01-26 19:27:18,318 - INFO - User user-d79e88 created a post: post-42835a | "Scrolling through my feed and stumbled upon some intriguing chatter about cultural connections in film. 🎥 It's a reminder of how art can unite us despite different upbringings, much like gaming bridges worlds from our comfy couches! Speaking of which, anyone else exploring new cultures or ideas through your favorite hobbies? Let's share those hidden gems that spark unity across miles. #CulturalJourneys #ArtUnitesUs"
+2025-01-26 19:27:20,475 - INFO - User user-c0106a created a post: post-1c013e | "Amidst the fast-paced urban vibe and swirling news, I'm reminded of how video games help me find clarity. The intersection between reality and virtual worlds offers unique perspectives—much like stories from different cultures in film. 🎮🎥 How do you guys blend your hobbies with daily life to stay grounded? Let's chat about finding balance during these wild times! #HobbyHarmony #LifeAndPlay"
+2025-01-26 19:27:22,758 - INFO - User user-c145a0 created a post: post-685855 | "Discovering how video games and rural life both offer unique ways to connect with cultures has been enlightening. 🎮🌾 Just like the stories in films or recent events, they bridge worlds from our comfy couches! What hidden gems are you exploring these days that unite people across miles? Let's swap ideas! #CulturalJourneys #GlobalConnections"
+2025-01-26 19:27:22,758 - INFO - User #5 creating post, at step 6
+2025-01-26 19:27:24,870 - INFO - User user-63c6f6 created a post: post-8760d5 | "Thinking about how sports and shared pastimes—whether it's games or stories—can unite us across different cultures. 🏀🎮 In a world where headlines can divide, finding common ground through these passions is refreshing. What activities bring you closer to others despite differences? Let's celebrate those connections! #UnifiedThroughPassions #CulturalBridges"
+2025-01-26 19:27:26,891 - INFO - User user-89dd2f created a post: post-b4616a | "Reflecting on how sports and shared passions bridge cultural divides in a world full of noise. 🏀 From my urban adventures to connecting through stories, these moments remind me that empathy unites us all. 🌍 What hobbies connect you with others across cultures? #CulturalConnections #EmpathyInAction"
+2025-01-26 19:27:29,262 - INFO - User user-324a35 created a post: post-8b5f83 | "Reflecting on how sports bridge cultures, I’m reminded of the universal language they speak—just like art or travel. In cities I've lived in, shared passions have sparked unexpected friendships and empathy. 🏀 What activities bring you closer to others despite cultural differences? Let's celebrate those connections! #UnifiedThroughSports #GlobalFriendships"
+2025-01-26 19:27:30,946 - INFO - User user-9258d4 created a post: post-9159b8 | "Reading about how sports bridge cultures got me thinking—art and travel offer that same universal connection. Whether through crafting or exploring new places, these experiences knit us together in understanding beyond borders. 🌍 What's your favorite way to connect across cultures? #UnityThroughArt #GlobalConnections"
+2025-01-26 19:27:32,514 - INFO - User user-fb4932 created a post: post-f81c02 | "Just read about sports bridging cultures and it got me thinking—music does the same, becoming a universal language on my travels. 🎶 It's like having an invisible passport! What tunes remind you of your adventures? #MusicAsTravel #HarmonyAcrossBorders"
+2025-01-26 19:27:32,514 - INFO - User #10 creating post, at step 6
+2025-01-26 19:27:34,062 - INFO - User user-4b4f34 created a post: post-fbd2e7 | "Seeing the EU revoke an award over a flag reminds me how symbols can bridge or divide. In our multicultural world, it’s crucial to find common ground through dialogue and understanding. 🇪🇺🏆 How do you navigate these cultural intersections? #CulturalDialogue #FindingCommonGround"
+2025-01-26 19:27:36,307 - INFO - User user-f4477e created a post: post-022e93 | Life in the city is an intricate dance of culture and connection. 🏙️ The recent news about a flag causing such division made me pause—symbols hold immense power, yet dialogue bridges gaps. In my community, embracing differences has strengthened ties. How do you foster understanding amidst diversity? #UnityInDiversity #CityReflections
+2025-01-26 19:27:38,825 - INFO - User user-da5374 created a post: post-f2cd47 | "Reflecting on the power symbols hold and how they can unite or divide communities. The recent EU incident over a flag got me thinking about our shared human experiences that transcend borders. 🌍 In my own journey, moving countries taught me to cherish dialogue as a tool for understanding amidst diversity. Let's engage in conversations that build bridges, not walls. How do you foster connections in your community? #DialogueMatters #BridgingCultures"
+2025-01-26 19:27:40,934 - INFO - User user-a62dc1 created a post: post-326ad6 | "From the city lights to rural tranquility, life’s journey is full of unexpected turns. As I embrace this peaceful chapter, I'm reminded how symbols and stories shape our narratives—like recent events with flags sparking debate in global arenas. 🌍 It's a testament to the power of dialogue over division. How do you use your voice for understanding? #SymbolsOfChange #CommunityVoice"
+2025-01-26 19:27:43,557 - INFO - User user-04b06a created a post: post-8de6e9 | "Just read about the power of flags in shaping narratives and it got me thinking. 🌍 Our symbols can unite or divide, much like stories do in movies. While I navigate this chapter from suburban calm to global wanderlust dreams, I'm reminded how dialogue bridges gaps—whether it's online truths or cultural tales. How do you use conversations as a tool for connection? #DialogueOverDivision #JourneyThroughStories"
+2025-01-26 19:27:43,557 - INFO - User #15 creating post, at step 6
+2025-01-26 19:27:45,365 - INFO - User user-0c2954 created a post: post-15c9a1 | "Reflecting on life's journey from adventurous childhoods to the steady rhythm of suburban life. It's amazing how creativity and humor keep our spirits alive amidst it all! 🎨😂 Speaking of symbols, it's fascinating watching global stories unfold—they remind me that dialogue is key in bridging divides. How do you find your balance? #CreativityAndConnection #LifeStories"
+2025-01-26 19:27:47,472 - INFO - User user-305a8b created a post: post-74f5fa | "Reflecting on how art and humor have been my anchors through life's transitions—from moving to new countries to embracing the calm of suburban life. It's amazing how stories, like those in our news feeds, can shape us if we let them. Always grateful for friends who keep things light! How do you find your grounding forces? #ArtAndHumor #LifeTransitions"
+2025-01-26 19:27:47,473 - INFO - User #0 reacting to feed, at step 6
+2025-01-26 19:27:51,875 - INFO - User user-75b274 rated note note-732657 as helpful
+2025-01-26 19:27:51,875 - WARNING - Invalid target: user-c145a0 for action: follow-user
+2025-01-26 19:27:52,377 - INFO - User user-75b274 commented on post post-e88744: 'The intersection between sports and political symbols is always intriguing. It's essential how narratives are shaped around such events.' #SymbolismInSports 
+2025-01-26 19:27:54,904 - INFO - User user-4b093e commented on post post-74f5fa: Art and humor have always been my go-to anchors too. Balancing life's transitions with these tools adds depth to every journey.
+2025-01-26 19:27:55,405 - INFO - User user-4b093e rated note note-732657 as helpful
+2025-01-26 19:27:59,059 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:27:59,560 - INFO - User user-d79e88 rated note note-732657 as helpful
+2025-01-26 19:28:00,061 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:28:00,061 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:28:02,641 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:28:03,143 - INFO - User user-c0106a followed user-305a8b
+2025-01-26 19:28:06,979 - INFO - User user-c145a0 liked post post-74f5fa
+2025-01-26 19:28:07,480 - INFO - User user-c145a0 commented on post post-8de6e9: 'Symbols indeed shape narratives! I'm intrigued by your perspective on dialogue bridging gaps. How do you foster these connections in digital spaces? #NarrativePower' 
+2025-01-26 19:28:07,981 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:28:07,981 - INFO - User #5 reacting to feed, at step 6
+2025-01-26 19:28:12,308 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:28:12,809 - INFO - User user-63c6f6 followed user-04b06a
+2025-01-26 19:28:13,311 - INFO - User user-63c6f6 commented on post post-15c9a1: 'Creativity truly does keep spirits alive! I find sports deeply grounding amidst life's changes. Dialogue is indeed vital in connecting across differences.' #BalanceInLife #ConnectingThroughSports 
+2025-01-26 19:28:29,332 - INFO - User user-89dd2f commented on post post-74f5fa: Art and humor are indeed powerful. Sports, for me, serve a similar role in grounding amidst life's transitions.
+2025-01-26 19:28:29,833 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:28:30,334 - INFO - User user-89dd2f flagged post post-c445ec
+2025-01-26 19:28:35,838 - INFO - User user-324a35 rated note note-c10b7a as helpful
+2025-01-26 19:28:36,339 - INFO - User user-324a35 commented on post post-74f5fa: 'Art and humor have also been my anchors. They provide balance amidst transitions just like your journey.' #AnchorsInLife
+2025-01-26 19:28:36,840 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:28:36,841 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:28:42,975 - INFO - User user-9258d4 rated note note-c10b7a as helpful
+2025-01-26 19:28:42,976 - WARNING - Invalid target:  for action: comment-post
+2025-01-26 19:28:48,749 - INFO - User user-fb4932 commented on post post-74f5fa: Art and humor help balance life's transitions. Travel broadens my perspective similarly, grounding me amidst change.
+2025-01-26 19:28:49,250 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:28:49,250 - WARNING - Invalid target:  for action: flag-post
+2025-01-26 19:28:49,250 - INFO - User #10 reacting to feed, at step 6
+2025-01-26 19:28:51,836 - INFO - User user-4b4f34 flagged post post-e88744
+2025-01-26 19:28:52,337 - INFO - User user-4b4f34 already follows user-04b06a
+2025-01-26 19:28:52,838 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:29:03,645 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:29:04,146 - INFO - User user-f4477e flagged post post-0ffa50
+2025-01-26 19:29:04,147 - WARNING - Invalid target: 'Symbols indeed shape narratives! I'm intrigued by your perspective on dialogue bridging gaps. How do you foster these connections in digital spaces? #NarrativePower'  for action: like-comment
+2025-01-26 19:29:08,282 - INFO - User user-da5374 rated note note-8b5084 as helpful
+2025-01-26 19:29:13,261 - INFO - User user-a62dc1 followed user-04b06a
+2025-01-26 19:29:13,762 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:29:14,263 - INFO - User user-a62dc1 rated note note-732657 as helpful
+2025-01-26 19:29:16,857 - INFO - User user-04b06a followed user-305a8b
+2025-01-26 19:29:17,359 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:29:17,860 - INFO - User user-04b06a flagged post post-0ffa50
+2025-01-26 19:29:17,860 - INFO - User #15 reacting to feed, at step 6
+2025-01-26 19:29:20,358 - INFO - User user-0c2954 liked post post-74f5fa
+2025-01-26 19:29:20,859 - INFO - User user-0c2954 rated note note-c10b7a as helpful
+2025-01-26 19:29:26,541 - INFO - User user-305a8b shared post post-15c9a1
+2025-01-26 19:29:27,043 - INFO - User user-305a8b flagged post post-cf0891
+2025-01-26 19:29:27,545 - INFO - User user-305a8b rated note note-c10b7a as helpful
+2025-01-26 19:29:27,545 - WARNING - Invalid target: +user-0c2954+  for action: follow-user
+2025-01-26 19:29:27,545 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 1, Flags: 1
+2025-01-26 19:29:27,552 - INFO - 
+Current Influencers:
+2025-01-26 19:29:27,552 - INFO - User user-c145a0: Influence Score = 0.614
+2025-01-26 19:29:27,552 - INFO - User user-da5374: Influence Score = 0.600
+2025-01-26 19:29:27,552 - INFO - User user-9258d4: Influence Score = 0.557
+2025-01-26 19:29:27,553 - INFO - 
+2025-01-26 19:29:27,553 - INFO - Time step: 7
+2025-01-26 19:29:27,558 - INFO - News Agent agentverse_news created a post: post-36a7ba | BREAKING NEWS: A March 2024 BBC video news report said that Bellingcat journalists reported that Ukraine paid the former commander-in-chief of the Ukrainian Army, Valerii Zaluzhny, $53 million in exchange for renouncing his political ambitions and leaving the country.
+2025-01-26 19:29:27,558 - INFO - Injected fake news through user agentverse_news
+2025-01-26 19:29:27,559 - INFO - Injected news post (ID: post-36a7ba) at step 7
+2025-01-26 19:29:27,559 - INFO - User #0 creating post, at step 7
+2025-01-26 19:29:29,072 - INFO - User user-75b274 created a post: post-4bbfa5 | "Amid recent global events, I'm contemplating how political actions often echo the stories we tell ourselves and others. 🌍 The intersection of symbols like flags in sports or politics is profound, reminding us that narratives shape our understanding. How do you see symbolism influencing today's world? #SymbolicNarratives #StoriesWeTell"
+2025-01-26 19:29:32,870 - INFO - User user-4b093e created a post: post-464461 | "Reflecting on my weekend wind-down with a classic film and chats with the family, I’m reminded of how stories—whether personal or global—shape our collective narrative. 🎬 Amidst recent world events like symbolic actions in sports, it’s evident that we all contribute to this tapestry through empathy and understanding. How do symbols around you influence your perspective? #SymbolicInfluence #FamilyConversations"
+2025-01-26 19:29:34,464 - INFO - User user-d79e88 created a post: post-83979e | "With the holiday shopping season around the corner, I've been thinking about how our buying habits can connect us globally. Whether it's snagging a great deal like that Costco membership or supporting local artisans in town, each choice reflects who we are and what matters. 🌍🛒 How do your purchasing decisions echo your values? Let's chat! #GlobalConnectionsThroughChoices #RuralShoppingReflections"
+2025-01-26 19:29:36,381 - INFO - User user-c0106a created a post: post-0fb314 | "Holiday shopping season is here, and it's fascinating how our choices can reflect who we are. Whether grabbing that awesome Costco deal or supporting local artisans, each decision tells a story of its own. How do your purchases mirror what matters to you? 🎁🛍️ Let's share some thoughts on this global connection through our everyday actions! #GlobalChoices #PersonalValues"
+2025-01-26 19:29:38,014 - INFO - User user-c145a0 created a post: post-e31f56 | "Intrigued by how our shopping choices, from local crafts to international deals like the Costco membership, weave a global narrative. 🌍 Whether in bustling cities or serene rural backdrops, each purchase reflects what we value most—a true testament to personal and cultural connections. How do your buying habits tell your story? #GlobalNarratives #RuralShoppingInsights"
+2025-01-26 19:29:38,014 - INFO - User #5 creating post, at step 7
+2025-01-26 19:29:39,857 - INFO - User user-63c6f6 created a post: post-fed018 | "Reflecting on the power of personal values amidst global stories. 🌍 With holiday shopping in full swing, I’m reminded of my journey through diverse cultures and how our choices reflect what truly matters to us—family, community, integrity. How do your purchases tell your story? Let's celebrate these connections! #ValuesInChoices #CulturalReflections"
+2025-01-26 19:29:41,564 - INFO - User user-89dd2f created a post: post-4f1805 | "Amidst the buzz of urban life and swirling global stories, I'm reminded how integrity shapes our journeys. 🌍 From embracing my Hispanic roots to finding joy in sports, it's about more than headlines—it's personal growth through shared experiences. How do you balance staying true to your values while adapting to change? #IntegrityInAction #CulturalGrowth"
+2025-01-26 19:29:43,601 - INFO - User user-324a35 created a post: post-a82a46 | "Amidst the whirlwind of urban life and shifting global narratives, I find solace in stories that transcend borders. A recent film reminded me how every culture offers new lenses to see the world—much like travel does! 🌍✨ What films have opened your eyes lately? #CinematicJourneys #NewPerspectives"
+2025-01-26 19:29:48,638 - INFO - User user-9258d4 created a post: post-c2e770 | "Amidst the urban buzz and our ever-evolving world, I find strength in quiet moments of reflection. Watching a film or creating art allows us to step into another’s shoes—powerful tools for empathy and understanding. 🎥🎨 How do you weave stories from different cultures into your life? #EmpathyThroughArt #GlobalStories"
+2025-01-26 19:29:50,397 - INFO - User user-fb4932 created a post: post-bf6725 | "Reflecting on the art of storytelling, whether through film or personal narratives. 🌍📚 As an introvert in a bustling world, I find solace weaving stories from diverse cultures into my life tapestry. How do these tales shape your journey? #CulturalStories #IntrovertThoughts"
+2025-01-26 19:29:50,398 - INFO - User #10 creating post, at step 7
+2025-01-26 19:29:52,482 - INFO - User user-4b4f34 created a post: post-4c7ede | "Seeing Bellingcat's report reminds me of the power and complexity behind political narratives. 🌍 As someone who values freedom, these stories highlight how personal choices can ripple through larger systems. How do you stay informed without getting overwhelmed by all this? #GlobalAwareness #LibertarianThoughts"
+2025-01-26 19:29:54,439 - INFO - User user-f4477e created a post: post-39a5f3 | "Amid the swirl of city life, it's fascinating to see how personal choices and narratives shape our world. The recent Bellingcat report had me reflecting on power dynamics and freedom—how do we find truth amidst all this noise? Balancing critical thinking with compassion seems more vital than ever. How do you navigate these complexities in your own life? #CriticalThinking #PersonalChoices"
+2025-01-26 19:29:56,389 - INFO - User user-da5374 created a post: post-97e61a | "Intrigued by the delicate dance of power and truth in today's world. 🌍 The Bellingcat report on Valerii Zaluzhny got me thinking about personal integrity amidst political narratives. In my journey, moving countries taught me resilience and faith—my anchors when navigating complexities. How do you stay grounded while seeking clarity? #StayGrounded #TruthInComplexity"
+2025-01-26 19:29:58,024 - INFO - User user-a62dc1 created a post: post-737c4c | "Reflecting on the Bellingcat report about Ukraine, I'm reminded of my own journey across continents and how truth can be elusive amidst political narratives. 🗺️ Our stories are powerful tools—how do we use them to foster understanding rather than division? Let's share insights on balancing empathy with critical thinking as our world navigates complexity. #NarrativePower #EmpathyInAction"
+2025-01-26 19:30:00,296 - INFO - User user-04b06a created a post: post-c7852b | "Exploring the art of resilience in a maze of narratives and truth. 🌿 Reflecting on #Bellingcat's Ukraine report, I'm reminded that personal integrity is just as crucial when stories swirl around us. How do we stay honest with ourselves while seeking clarity amidst noise? Let's dive into this dialogue! #IntegrityMatters #ComplexWorldViews"
+2025-01-26 19:30:00,296 - INFO - User #15 creating post, at step 7
+2025-01-26 19:30:03,290 - INFO - User user-0c2954 created a post: post-db4011 | "Intrigued by the layers of stories in our world today, from personal triumphs to political narratives. As I dive into arts & crafts, I'm reminded that creativity helps us make sense of it all—be it through humor or an open mind. How do you find truth amidst today's complex tales? #ArtfulUnderstanding #StoriesThatMatter 🌍✂️"
+2025-01-26 19:30:05,275 - INFO - User user-305a8b created a post: post-0aa06f | "Life's a patchwork of stories, & like arts and crafts, each piece adds color to our journey. 🤔 Reflecting on the layers in today's news makes me value personal truth even more. How do you find clarity amid life's narratives? 🌍 #TruthInStories #CreativeJourneys"
+2025-01-26 19:30:05,275 - INFO - User #0 reacting to feed, at step 7
+2025-01-26 19:30:13,592 - INFO - User user-75b274 commented on post post-0aa06f: Your reflection resonates with me. I often find clarity in stories by comparing them to personal experiences or nature's cycles, blending complexity into simplicity.
+2025-01-26 19:30:14,093 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:30:14,094 - WARNING - Invalid target: >user-fb4932>  for action: follow-user
+2025-01-26 19:30:20,035 - INFO - User user-4b093e liked post post-0aa06f
+2025-01-26 19:30:20,536 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:30:21,037 - INFO - User user-4b093e flagged post post-36a7ba
+2025-01-26 19:30:25,283 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:30:25,784 - WARNING - Invalid note rating: note-732657 with rating helpful
+2025-01-26 19:30:25,784 - WARNING - Invalid target: None for action: flag-post
+2025-01-26 19:30:26,285 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:30:26,285 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:30:33,979 - INFO - User user-c0106a flagged post post-cf0891
+2025-01-26 19:30:34,480 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:30:34,480 - WARNING - Invalid target:  for action: follow-user
+2025-01-26 19:30:58,327 - INFO - Retrying request to /chat/completions in 0.472830 seconds
+2025-01-26 19:31:02,166 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:31:02,667 - INFO - User user-c145a0 added note to post post-0ffa50: 'COVID-19 vaccines linked to leprosy' is not supported by scientific evidence. CDC & WHO confirm vaccine safety with rare side effects only.
+2025-01-26 19:31:03,168 - INFO - User user-c145a0 liked post post-0aa06f
+2025-01-26 19:31:03,169 - INFO - User #5 reacting to feed, at step 7
+2025-01-26 19:31:06,921 - INFO - User user-63c6f6 flagged post post-cf0891
+2025-01-26 19:31:07,422 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:31:07,923 - INFO - User user-63c6f6 added note to post post-0ffa50: 'COVID-19 vaccines linked to leprosy' lacks scientific backing. CDC & WHO affirm vaccine safety with rare side effects only. Verify info before sharing.
+2025-01-26 19:31:16,887 - INFO - User user-89dd2f flagged post post-cf0891
+2025-01-26 19:31:17,388 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:31:20,964 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:31:21,465 - INFO - User user-324a35 rated note note-732657 as helpful
+2025-01-26 19:31:21,966 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:31:21,966 - INFO - User user-324a35 ignored their feed
+2025-01-26 19:31:47,109 - INFO - Retrying request to /chat/completions in 0.407289 seconds
+2025-01-26 19:32:07,551 - INFO - Retrying request to /chat/completions in 0.959773 seconds
+2025-01-26 19:32:14,930 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:32:15,431 - INFO - User user-9258d4 rated note note-732657 as helpful
+2025-01-26 19:32:15,932 - INFO - User user-9258d4 commented on post post-0aa06f: 'Your reflection resonates. Stories often mirror personal experiences—balancing complexity into simplicity enriches understanding.' #CulturalNarratives #LifeLessons 🌍✂️' 
+2025-01-26 19:32:15,933 - WARNING - Invalid target: user - 30484c for action: follow-user
+2025-01-26 19:32:39,295 - INFO - Retrying request to /chat/completions in 0.498720 seconds
+2025-01-26 19:32:59,827 - INFO - Retrying request to /chat/completions in 0.952505 seconds
+2025-01-26 19:33:26,400 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:33:26,901 - INFO - User user-fb4932 ignored their feed
+2025-01-26 19:33:26,901 - INFO - User user-fb4932 ignored their feed
+2025-01-26 19:33:31,333 - INFO - User #10 reacting to feed, at step 7
+2025-01-26 19:33:36,054 - INFO - User user-4b4f34 flagged post post-cf0891
+2025-01-26 19:33:36,555 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:33:37,057 - INFO - User user-4b4f34 commented on post post-0aa06f: 'Personal truth often emerges from a tapestry of stories that we experience every day. It's how we weave these narratives into our lives that brings clarity.' #StoryWeaving #CulturalNarratives 🌍✂️' 
+2025-01-26 19:33:41,819 - INFO - User user-f4477e flagged post post-36a7ba
+2025-01-26 19:33:42,320 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:33:42,321 - WARNING - Invalid target:  for action: add-note
+2025-01-26 19:33:45,599 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:33:46,100 - INFO - User user-da5374 liked post post-0aa06f
+2025-01-26 19:33:49,191 - INFO - User user-a62dc1 flagged post post-36a7ba
+2025-01-26 19:33:49,692 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:33:50,193 - INFO - User user-a62dc1 already follows user-04b06a
+2025-01-26 19:33:53,279 - INFO - User user-04b06a flagged post post-36a7ba
+2025-01-26 19:33:53,780 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:33:54,281 - INFO - User user-04b06a followed user-0c2954
+2025-01-26 19:33:54,282 - INFO - User #15 reacting to feed, at step 7
+2025-01-26 19:33:56,629 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:33:57,130 - INFO - User user-0c2954 ignored their feed
+2025-01-26 19:33:57,130 - INFO - User user-0c2954 ignored their feed
+2025-01-26 19:34:17,160 - INFO - Retrying request to /chat/completions in 0.383816 seconds
+2025-01-26 19:34:20,903 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:34:21,404 - INFO - User user-305a8b flagged post post-0ffa50
+2025-01-26 19:34:21,906 - INFO - User user-305a8b commented on post post-db4011: 'Creativity is indeed a tool for understanding! I find that embracing humor makes complex stories more approachable too. 💡 How do you blend art with perspective in your work?' #ArtAndPerspective 
+2025-01-26 19:34:21,906 - INFO - News post stats - Likes: 0, Shares: 0, Comments: 0, Flags: 4
+2025-01-26 19:34:21,910 - INFO - 
+Current Influencers:
+2025-01-26 19:34:21,910 - INFO - User user-305a8b: Influence Score = 0.600
+2025-01-26 19:34:21,911 - INFO - 
+2025-01-26 19:34:21,911 - INFO - Time step: 8
+2025-01-26 19:34:21,912 - INFO - News Agent agentverse_news created a post: post-8e84fd | BREAKING NEWS: British Prime Minister Keir Starmer inaugurated London's first Google-funded AI Campus in Camden, aiming to equip young people with AI and machine learning skills. Reuters reports: The center, based in Camden, an area which Starmer represents in parliament an…
+2025-01-26 19:34:21,912 - INFO - Injected real news through user agentverse_news
+2025-01-26 19:34:21,912 - INFO - Injected news post (ID: post-8e84fd) at step 8
+2025-01-26 19:34:21,912 - INFO - Generated 5 agent configurations using file method
+2025-01-26 19:34:22,014 - INFO - Added user user-468792 to database with 22 background labels.
+2025-01-26 19:34:22,014 - INFO - Added new user user-468792 to the simulation
+2025-01-26 19:34:22,116 - INFO - Added user user-f24d66 to database with 22 background labels.
+2025-01-26 19:34:22,116 - INFO - Added new user user-f24d66 to the simulation
+2025-01-26 19:34:22,116 - INFO - Added 2 new users to the simulation
+2025-01-26 19:34:22,116 - INFO - User #0 creating post, at step 8
+2025-01-26 19:34:23,920 - INFO - User user-75b274 created a post: post-607ebe | "Reflecting on the news about London's new AI campus—it's incredible to think how education is evolving with tech. 🤖 Growing up surrounded by nature, I've seen firsthand how innovation meets tradition to shape our paths. How do you see technology changing your community? #TechInNature #EvolvingEducation"
+2025-01-26 19:34:26,370 - INFO - User user-4b093e created a post: post-2a0590 | "Exciting to see how technology is shaping education with the new AI campus in Camden! 🤖 Growing up, I could only dream of such opportunities. It's amazing how tech meets tradition and brings communities together, just like a film that blends cultures into one story we all can learn from. How do you envision your community evolving with these changes? #TechAndTradition #FutureOfLearning"
+2025-01-26 19:34:28,600 - INFO - User user-d79e88 created a post: post-ac70a6 | "Seeing the buzz about London's new AI campus reminds me of how technology and tradition can walk hand in hand. 🤖 While I may not be surrounded by high-tech hubs out here, gaming has always been my bridge to worlds beyond our rural roots. How do you imagine your community blending old values with futuristic strides? #TechInTradition #RuralInnovation"
+2025-01-26 19:34:30,601 - INFO - User user-c0106a created a post: post-fd2c85 | "Excited about the launch of London's AI campus! As someone who's navigated various urban landscapes, I'm fascinated by how tech can reshape our cities and opportunities. Gaming taught me to see life as a series of levels—with each city offering new challenges and growth. How do you imagine these technological strides impacting your community? Let's explore this digital evolution together! #TechInUrbanLife #FutureCities"
+2025-01-26 19:34:32,378 - INFO - User user-c145a0 created a post: post-801a11 | "Intrigued by the intersection of tech and tradition with London's new AI campus—what a fascinating time for innovation! 🚀 Living in rural serenity, I often ponder how these advances might reshape even the quietest corners. How do you see modern technology weaving into your everyday life? Let's chat about blending worlds and perspectives! #TechInRuralLife #DigitalEvolution"
+2025-01-26 19:34:32,378 - INFO - User #5 creating post, at step 8
+2025-01-26 19:34:34,516 - INFO - User user-63c6f6 created a post: post-199ba7 | "Fascinated by the launch of London's AI campus! 🤖 It’s an exciting time to see innovation unfold, even from across the pond. My life's journey through diverse urban landscapes makes me wonder how tech could enhance everyday experiences and create new opportunities for connection globally. How do you envision technology changing your community? Let's dive into this digital evolution together! #TechConnections #UrbanInnovation"
+2025-01-26 19:34:36,219 - INFO - User user-89dd2f created a post: post-7d936d | "Feeling inspired by the launch of London's AI campus. 🤖 As someone who's navigated numerous cities and embraced diverse cultures, I'm curious about how tech can bridge gaps in our communities—much like sports do for me. What innovations are you excited to see impact your local scene? #TechInCommunity #DiverseConnections"
+2025-01-26 19:34:39,604 - INFO - User user-324a35 created a post: post-32f017 | "Inspired by London's new AI campus and its potential to transform urban communities. 🌆 Coming from a mosaic of cities, I see tech as another universal language bridging our diverse experiences—much like humor or film does for me. What ways do you hope technology will enhance your community? Let's explore these digital possibilities together! #TechInCommunity #DigitalBridges"
+2025-01-26 19:34:41,587 - INFO - User user-9258d4 created a post: post-e89f80 | "Exciting to see London's new AI campus unlocking potential for young minds in tech, much like the arts open worlds of creativity. 🌆 Reflecting on how technology and cultural expressions can jointly shape our communities with authenticity. What cultural or technological innovations excite you most about future cityscapes? #CultureAndTech #CityInnovation"
+2025-01-26 19:34:44,161 - INFO - User user-fb4932 created a post: post-24497c | "Intrigued by London's new AI campus and the potential it holds for future generations. 🌐 Tech has a way of bridging cultures, much like my travels have taught me to appreciate diverse stories. How do you see tech shaping your community's narrative? #TechBridgesCulture #FutureCityScapes"
+2025-01-26 19:34:44,161 - INFO - User #10 creating post, at step 8
+2025-01-26 19:34:46,029 - INFO - User user-4b4f34 created a post: post-e3b8f5 | "Reflecting on London's new AI campus and its potential, I can't help but see tech as a modern bridge between cultures. My moves across different places taught me the beauty of diverse stories—how do you think technology will narrate our future cultural tales? #TechNarratives #CulturalBridges 🌍🤖"
+2025-01-26 19:34:48,070 - INFO - User user-f4477e created a post: post-9cffdf | "Seeing London's new AI campus makes me wonder about the future of education. 🤔 As tech evolves, how do we ensure it aligns with integrity and inclusivity? Growing up navigating life's ups and downs taught me that true progress respects diverse voices—something worth reflecting on as communities embrace innovation. What are your thoughts on tech's role in shaping our values? #TechAndValues #InclusiveInnovation"
+2025-01-26 19:34:49,772 - INFO - User user-da5374 created a post: post-980cf9 | "Amidst the buzz about London's AI campus, I'm reminded of how each innovation must honor integrity and diverse voices. 🌍 Growing up, navigating different cultures showed me that true progress bridges differences rather than divides them. How do you see tech fostering inclusivity? #InclusiveTech #CulturalDiversity"
+2025-01-26 19:34:51,361 - INFO - User user-a62dc1 created a post: post-d81898 | "Seeing the buzz around London's new AI campus makes me think about how tech can be a bridge for cultural diversity. Growing up across different places has taught me that innovation thrives when diverse voices are included. How do you see technology shaping inclusive narratives in our communities? #TechForAll #CulturalInnovation 🌐"
+2025-01-26 19:34:53,263 - INFO - User user-04b06a created a post: post-7ea082 | "Watching the buzz around London's AI campus reminds me of how diverse voices power true innovation. 🏙️ As someone who finds inspiration in stories, it's fascinating to see tech bridging cultures and perspectives—much like movies do! How are you seeing diversity shape your world? #TechMeetsStorytelling #CulturalConfluence 🌐"
+2025-01-26 19:34:53,263 - INFO - User #15 creating post, at step 8
+2025-01-26 19:34:55,825 - INFO - User user-0c2954 created a post: post-e82dc2 | "Excited to see how London's new AI campus could inspire a generation of creators and thinkers. Reminds me that just like art, tech is another tool for storytelling and connecting diverse voices. How do you think innovation can shape our future communities? #AIAndArtistry #InnovativeConnections 🌟"
+2025-01-26 19:34:58,201 - INFO - User user-305a8b created a post: post-39fabd | "Excited to see how London's new AI campus is blending innovation with education! It’s like watching the arts and tech come together, each offering a unique lens for storytelling. As someone who appreciates creativity's role in shaping perspectives, I'm curious about what future stories these young minds will tell. How do you think we can make sure diverse voices are heard in this evolving narrative? #AIInnovation #DiverseVoices 🌍✨"
+2025-01-26 19:34:59,854 - INFO - User user-468792 created a post: post-b2fa9f | "Seeing London's new AI campus is a reminder of how much the world has to offer. 🌍 As someone who's always on the move, I'm excited for these young minds exploring tech as their passport to creativity and innovation! How do you feel about blending technology with cultural heritage? #TechAndCulture #ExplorationAwaits 🚀"
+2025-01-26 19:35:01,752 - INFO - User user-f24d66 created a post: post-548a7f | "Amidst all the holiday buzz, I find my peace in a good workout session and an inspiring movie night. 🎥💪 Just like those young minds at London's AI campus with endless possibilities ahead, I'm reminded that creativity comes from both stillness & movement. How do you balance life's hustle with personal growth? #BalanceAndGrowth #UrbanIntrospection"
+2025-01-26 19:35:01,752 - INFO - User #0 reacting to feed, at step 8
+2025-01-26 19:35:06,940 - INFO - User user-75b274 shared post post-8e84fd
+2025-01-26 19:35:07,441 - INFO - User user-75b274 commented on post post-b2fa9f: Blending tech with cultural heritage can open doors to diverse narratives. Curious how this fusion shapes identity! #TechAndCulture #InterconnectedStories 🌍✨".
+2025-01-26 19:35:07,942 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:35:08,443 - INFO - User user-75b274 ignored their feed
+2025-01-26 19:35:08,443 - INFO - User user-75b274 ignored their feed
+2025-01-26 19:35:12,393 - INFO - User user-4b093e commented on post post-548a7f: Finding balance through creativity and exercise resonates deeply. It's great to see young minds given tools for growth at the AI campus! #BalanceAndGrowth
+2025-01-26 19:35:12,894 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:35:12,895 - WARNING - Invalid target: ,  for action: flag-post
+2025-01-26 19:35:20,075 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:35:20,076 - INFO - User user-d79e88 ignored their feed
+2025-01-26 19:35:20,076 - WARNING - Invalid target: user-c145a0 for action: follow-user
+2025-01-26 19:35:23,740 - INFO - User user-c0106a liked post post-548a7f
+2025-01-26 19:35:24,241 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:35:24,742 - INFO - User user-c0106a rated note note-732657 as helpful
+2025-01-26 19:35:31,733 - INFO - User user-c145a0 flagged post post-cf0891
+2025-01-26 19:35:32,234 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:35:32,235 - WARNING - Invalid target: 'Blending tech with cultural heritage can open doors to diverse narratives. Curious how this fusion shapes identity! #TechAndCulture #InterconnectedStories 🌍✨'. (by User user-75b274)  for action: like-comment
+2025-01-26 19:35:35,443 - INFO - User #5 reacting to feed, at step 8
+2025-01-26 19:35:38,064 - INFO - User user-63c6f6 followed user-75b274
+2025-01-26 19:35:38,565 - INFO - User user-63c6f6 flagged post post-36a7ba
+2025-01-26 19:35:45,979 - INFO - User user-89dd2f flagged post post-cf0891
+2025-01-26 19:35:46,481 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:35:46,982 - INFO - User user-89dd2f added note to post post-0ffa50: 'COVID-19 vaccines linked to leprosy' claim is not supported by scientific evidence; CDC & WHO confirm safety with rare side effects only.
+2025-01-26 19:35:50,515 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:35:51,016 - INFO - User user-324a35 added note to post post-0ffa50: 'COVID-19 vaccines linked to leprosy' claim lacks scientific evidence. Trusted health organizations like the CDC affirm vaccine safety with rare side effects only.
+2025-01-26 19:35:51,518 - INFO - User user-324a35 liked post post-b2fa9f
+2025-01-26 19:35:58,033 - INFO - User user-9258d4 liked post post-8e84fd
+2025-01-26 19:35:58,534 - INFO - User user-9258d4 commented on post post-b2fa9f: Blending tech & cultural heritage can preserve traditions while innovating for the future! It's exciting to see how young minds will shape this fusion.
+2025-01-26 19:35:58,535 - WARNING - Invalid target:  note-c10b7a  for action: rate-note
+2025-01-26 19:36:06,321 - INFO - User user-fb4932 liked post post-548a7f
+2025-01-26 19:36:06,823 - INFO - User user-fb4932 commented on post post-b2fa9f: 'Blending technology and cultural heritage indeed opens up a world of possibilities! It's fascinating to see how this fusion can enrich our understanding of identity.' #CulturalInnovation #TechFusion 🌍✨".
+2025-01-26 19:36:07,324 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:36:11,624 - INFO - User #10 reacting to feed, at step 8
+2025-01-26 19:36:19,239 - WARNING - Invalid target: post-b2fa9f:comment-user-fb4932 for action: like-comment
+2025-01-26 19:36:19,740 - INFO - User user-4b4f34 flagged post post-0ffa50
+2025-01-26 19:36:20,241 - INFO - User user-4b4f34 rated note note-732657 as helpful
+2025-01-26 19:36:20,742 - INFO - User user-4b4f34 followed user-f24d66
+2025-01-26 19:36:25,926 - INFO - User user-f4477e shared post post-8e84fd
+2025-01-26 19:36:26,427 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:36:26,928 - INFO - User user-f4477e ignored their feed
+2025-01-26 19:36:26,928 - INFO - User user-f4477e ignored their feed
+2025-01-26 19:36:30,314 - WARNING - Invalid target: post-548a7f-user-4b093e for action: like-comment
+2025-01-26 19:36:30,815 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:36:31,316 - INFO - User user-da5374 ignored their feed
+2025-01-26 19:36:31,316 - INFO - User user-da5374 ignored their feed
+2025-01-26 19:36:38,108 - INFO - User user-a62dc1 shared post post-8e84fd
+2025-01-26 19:36:38,109 - WARNING - Invalid target: 'The intersection between sports and political symbols is always intriguing. It's essential how narratives are shaped around such events.' #SymbolismInSports by User user-75b274 for action: like-comment
+2025-01-26 19:36:38,609 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:36:38,610 - WARNING - Invalid target: post-cf0891  for action: flag-post
+2025-01-26 19:36:43,763 - WARNING - Invalid target: user-75b274 for action: like-comment
+2025-01-26 19:36:44,265 - INFO - User user-04b06a shared post post-8e84fd
+2025-01-26 19:36:44,766 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:36:48,590 - INFO - User #15 reacting to feed, at step 8
+2025-01-26 19:36:52,804 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:36:53,305 - INFO - User user-0c2954 flagged post post-0ffa50
+2025-01-26 19:36:53,806 - INFO - User user-0c2954 ignored their feed
+2025-01-26 19:36:53,806 - INFO - User user-0c2954 ignored their feed
+2025-01-26 19:36:57,124 - INFO - User user-305a8b shared post post-8e84fd
+2025-01-26 19:36:57,625 - WARNING - Invalid note rating: note-c10b7a with rating helpful
+2025-01-26 19:36:57,625 - WARNING - Invalid target:  for action: flag-post

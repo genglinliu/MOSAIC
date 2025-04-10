@@ -1,0 +1,465 @@
+2025-02-18 22:34:10,073 - INFO - Starting simulation with 3 users for 5 time steps using gpt-4o...
+2025-02-18 22:34:11,082 - INFO - Resetting database...
+2025-02-18 22:34:11,085 - INFO - Existing database removed.
+2025-02-18 22:34:11,100 - INFO - Database tables created successfully.
+2025-02-18 22:34:11,100 - INFO - New tables created.
+2025-02-18 22:34:11,103 - INFO - Generated 3 agent configurations using file method
+2025-02-18 22:34:11,103 - INFO - Creating 3 users
+2025-02-18 22:34:11,104 - INFO - Added user user-fa8b6e to database with 22 background labels.
+2025-02-18 22:34:11,106 - INFO - Added user user-b78c53 to database with 22 background labels.
+2025-02-18 22:34:11,107 - INFO - Added user user-9d61e3 to database with 22 background labels.
+2025-02-18 22:34:11,107 - INFO - Total users in database after creation: 3
+2025-02-18 22:34:11,143 - INFO - Time step: 1
+2025-02-18 22:34:11,148 - INFO - News Agent agentverse_news created a post: post-05771a | NEWS: Hamas staged a “Pallywood” video, showing a boy standing amid rubble, to fake the impact of the Israel-Hamas war on Palestinians in Gaza.
+2025-02-18 22:34:11,151 - INFO - News Agent agentverse_news created a post: post-24865b | NEWS: Kamala Harris is not eligible to serve as president or vice president because she is not a natural-born U.S. citizen, since her parents are immigrants.
+2025-02-18 22:34:11,154 - INFO - News Agent agentverse_news created a post: post-71adaa | NEWS: The U.S. deployed the aircraft carrier USS Gerald R. Ford to the coast of Haifa in northern Israel in June 2024 to aid Israel in its fight against Hezbollah in Lebanon.
+2025-02-18 22:34:11,156 - INFO - News Agent agentverse_news created a post: post-9b844b | NEWS: An Israeli sniper named Barib Yariel, one of the best snipers of the Israel Defense Force (IDF), was killed by Palestinian militant group Hamas during the Israel-Hamas war.
+2025-02-18 22:34:11,161 - INFO - News Agent agentverse_news created a post: post-4a31b0 | NEWS: COVID-19 vaccination increases a person’s risk of developing Long COVID, which are symptoms described by medical authorities as lasting health problems associated with COVID-19 infection.
+2025-02-18 22:34:11,167 - INFO - News Agent agentverse_news created a post: post-852eca | NEWS: This attractive hybrid smartwatch offers reliable health data and decent sleep and fitness tools, along with notifications and excellent battery life.
+2025-02-18 22:34:11,174 - INFO - News Agent agentverse_news created a post: post-ced2a9 | NEWS: Hamza Mahmoud is a 16-year-old maker from Cairo who builds engaging electronic toys and games out of simple, accessible materials.
+The post Maker Spotlight: DIY Games with Hamza Mahmoud appeared first on Make: DIY Projects and Ideas for Makers.
+2025-02-18 22:34:11,181 - INFO - News Agent agentverse_news created a post: post-c2eb4d | NEWS: The unprecedented charges mean the South Korean president faces decades in prison if convicted.
+2025-02-18 22:34:11,185 - INFO - News Agent agentverse_news created a post: post-1f923b | NEWS: Videos shared online in November 2023 show the Commander-in-Chief of the Ukrainian Armed Forces Valerii Zaluzhny calling on the military to mutiny against Ukrainian President Volodymyr Zelensky and for Ukrainians to protest in the street.
+2025-02-18 22:34:11,191 - INFO - News Agent agentverse_news created a post: post-95bf62 | NEWS: The lower-tier offering comes as Qualcomm is rumored to be working on midrange and overclocked Snapdragon 8 Elite variants.
+2025-02-18 22:34:11,191 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-18 22:34:11,191 - INFO - Injected news post (ID: ['post-05771a', 'post-24865b', 'post-71adaa', 'post-9b844b', 'post-4a31b0', 'post-852eca', 'post-ced2a9', 'post-c2eb4d', 'post-1f923b', 'post-95bf62']) at step 1
+2025-02-18 22:34:11,192 - INFO - Generated 3 agent configurations using file method
+2025-02-18 22:34:11,299 - INFO - Added user user-ff5876 to database with 22 background labels.
+2025-02-18 22:34:11,299 - INFO - Added new user user-ff5876 to the simulation
+2025-02-18 22:34:11,406 - INFO - Added user user-7f72ad to database with 22 background labels.
+2025-02-18 22:34:11,406 - INFO - Added new user user-7f72ad to the simulation
+2025-02-18 22:34:11,406 - INFO - Added 2 new users to the simulation
+2025-02-18 22:34:11,406 - INFO - User #0 reacting to feed, at step 1
+2025-02-18 22:34:14,311 - INFO - User user-fa8b6e flagged post post-24865b
+2025-02-18 22:34:14,822 - INFO - User user-fa8b6e ignored their feed
+2025-02-18 22:34:14,823 - INFO - User user-fa8b6e ignored their feed
+2025-02-18 22:34:20,320 - WARNING - Invalid target: post-071adaa for action: flag-post
+2025-02-18 22:34:20,827 - INFO - User user-b78c53 flagged post post-05771a
+2025-02-18 22:34:21,335 - INFO - User user-b78c53 flagged post post-24865b
+2025-02-18 22:34:27,100 - INFO - User user-9d61e3 flagged post post-05771a
+2025-02-18 22:34:27,102 - WARNING - Invalid target: post-071adaa for action: share-post
+2025-02-18 22:34:29,858 - INFO - User user-ff5876 flagged post post-05771a
+2025-02-18 22:34:30,367 - INFO - User user-ff5876 flagged post post-24865b
+2025-02-18 22:34:36,089 - INFO - User user-7f72ad flagged post post-24865b
+2025-02-18 22:34:36,597 - INFO - User user-7f72ad flagged post post-05771a
+2025-02-18 22:34:38,756 - INFO - News ID post-05771a spread metrics - {'time_step': 0, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:34:38,757 - INFO - News ID post-24865b spread metrics - {'time_step': 0, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:34:38,757 - INFO - News ID post-71adaa spread metrics - {'time_step': 0, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:38,758 - INFO - News ID post-9b844b spread metrics - {'time_step': 0, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:38,759 - INFO - News ID post-4a31b0 spread metrics - {'time_step': 0, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:38,759 - INFO - News ID post-852eca spread metrics - {'time_step': 0, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:38,759 - INFO - News ID post-ced2a9 spread metrics - {'time_step': 0, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:38,760 - INFO - News ID post-c2eb4d spread metrics - {'time_step': 0, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:38,760 - INFO - News ID post-1f923b spread metrics - {'time_step': 0, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:38,761 - INFO - News ID post-95bf62 spread metrics - {'time_step': 0, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:34:41,728 - INFO - Fact checker main_checker marked post post-05771a as unverified
+2025-02-18 22:34:41,729 - INFO - Fact checked post post-05771a: unverified (50%)
+2025-02-18 22:34:47,982 - INFO - Fact checker main_checker marked post post-24865b as false
+2025-02-18 22:34:47,982 - INFO - Fact checked post post-24865b: false (95%)
+2025-02-18 22:34:50,837 - INFO - Fact checker main_checker marked post post-71adaa as unverified
+2025-02-18 22:34:50,837 - INFO - Fact checked post post-71adaa: unverified (50%)
+2025-02-18 22:34:53,711 - INFO - Fact checker main_checker marked post post-9b844b as unverified
+2025-02-18 22:34:53,711 - INFO - Fact checked post post-9b844b: unverified (60%)
+2025-02-18 22:34:57,286 - INFO - Fact checker main_checker marked post post-4a31b0 as false
+2025-02-18 22:34:57,286 - INFO - Fact checked post post-4a31b0: false (95%)
+2025-02-18 22:34:57,286 - INFO - 
+2025-02-18 22:34:57,287 - INFO - Time step: 2
+2025-02-18 22:34:57,292 - INFO - News Agent agentverse_news created a post: post-780ec6 | NEWS: Singer Justin Bieber’s partial facial paralysis was caused by the COVID-19 vaccine.
+2025-02-18 22:34:57,297 - INFO - News Agent agentverse_news created a post: post-66e25c | NEWS: A person unvaccinated against COVID-19 can be harmed by receiving blood donated by a vaccinated individual.
+2025-02-18 22:34:57,306 - INFO - News Agent agentverse_news created a post: post-fbb260 | NEWS: The incoming president of the United States is also a social media mogul. We’re keeping a running tally of his stake in Truth Social—and how his fortunes change with its ups and downs.
+2025-02-18 22:34:57,309 - INFO - News Agent agentverse_news created a post: post-38e121 | NEWS: Vaccines for the human papillomavirus (HPV) have been linked to fertility problems, including premature ovarian failure in women and lower sperm counts in men.
+2025-02-18 22:34:57,313 - INFO - News Agent agentverse_news created a post: post-c42362 | NEWS: Hours after the Finnish government announced in May 2022 that it intended to join NATO, Russia deployed nuclear missiles to Vyborg, a Western Russian city near the Finnish border, according to dashcam footage.
+2025-02-18 22:34:57,321 - INFO - News Agent agentverse_news created a post: post-83f712 | NEWS: Washington Commanders' Daniels could become the first rookie quarterback to play the Super Bowl. Williams, who led the team to a Super Bowl win, says talented Black QBs are finally getting their due.
+2025-02-18 22:34:57,324 - INFO - News Agent agentverse_news created a post: post-b90747 | NEWS: U.S. Vice President and Democratic presidential nominee Kamala Harris launched a campaign website called NewWayForward.us. The “New Way Forward” plan calls for “citizenship for all undocumented immigrants,” ending voter ID laws, free college&nbsp;“for all students attending public colleges and universities,”&nbsp;and a huge spike in U.S. military&nbsp;funding&nbsp;for Ukraine.
+2025-02-18 22:34:57,327 - INFO - News Agent agentverse_news created a post: post-cdc6d0 | NEWS: Colombian TV channel Canal Capital reported that the body of Michael Ramirez Fino, a Colombian man fighting for Ukraine in the Russia-Ukraine war, was returned to Colombia with its internal organs missing.
+2025-02-18 22:34:57,331 - INFO - News Agent agentverse_news created a post: post-b5de11 | NEWS: A Ryanair flight traveling from Athens to Vilnius, Lithuania, on May 23, 2021, made an emergency landing at Minsk, Belarus’s capital city, after a bomb threat. Although passenger Roman Protasevich was subsequently arrested at Minsk International Airport, Belarus authorities did not know that he was on board. Belarus requested the plane to land in Minsk because air traffic staff had received an emailed bomb threat against the flight, which was attributed to Hamas.
+2025-02-18 22:34:57,334 - INFO - News Agent agentverse_news created a post: post-881e72 | NEWS: One of the suspected gunmen arrested following the Moscow concert hall attack was Rustam Azhiyev, a Chechen commander fighting on the Ukrainian side of the Russia-Ukraine war.
+2025-02-18 22:34:57,334 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-18 22:34:57,334 - INFO - Injected news post (ID: ['post-780ec6', 'post-66e25c', 'post-fbb260', 'post-38e121', 'post-c42362', 'post-83f712', 'post-b90747', 'post-cdc6d0', 'post-b5de11', 'post-881e72']) at step 2
+2025-02-18 22:34:57,334 - INFO - Generated 3 agent configurations using file method
+2025-02-18 22:34:57,441 - INFO - Added user user-f97569 to database with 22 background labels.
+2025-02-18 22:34:57,442 - INFO - Added new user user-f97569 to the simulation
+2025-02-18 22:34:57,548 - INFO - Added user user-8d7e93 to database with 22 background labels.
+2025-02-18 22:34:57,549 - INFO - Added new user user-8d7e93 to the simulation
+2025-02-18 22:34:57,549 - INFO - Added 2 new users to the simulation
+2025-02-18 22:34:57,549 - INFO - User #0 reacting to feed, at step 2
+2025-02-18 22:35:00,665 - INFO - User user-fa8b6e flagged post post-66e25c
+2025-02-18 22:35:01,172 - INFO - User user-fa8b6e flagged post post-780ec6
+2025-02-18 22:35:07,307 - INFO - User user-b78c53 flagged post post-780ec6
+2025-02-18 22:35:07,815 - INFO - User user-b78c53 flagged post post-66e25c
+2025-02-18 22:35:13,363 - INFO - User user-9d61e3 flagged post post-66e25c
+2025-02-18 22:35:13,873 - INFO - User user-9d61e3 flagged post post-780ec6
+2025-02-18 22:35:16,932 - INFO - User user-ff5876 flagged post post-780ec6
+2025-02-18 22:35:17,442 - INFO - User user-ff5876 flagged post post-66e25c
+2025-02-18 22:35:23,234 - INFO - User user-7f72ad flagged post post-66e25c
+2025-02-18 22:35:23,743 - INFO - User user-7f72ad flagged post post-780ec6
+2025-02-18 22:35:25,815 - INFO - User #5 reacting to feed, at step 2
+2025-02-18 22:35:28,517 - INFO - User user-f97569 flagged post post-780ec6
+2025-02-18 22:35:29,027 - INFO - User user-f97569 flagged post post-66e25c
+2025-02-18 22:35:34,251 - INFO - User user-8d7e93 flagged post post-780ec6
+2025-02-18 22:35:34,758 - INFO - User user-8d7e93 flagged post post-66e25c
+2025-02-18 22:35:37,310 - INFO - News ID post-05771a spread metrics - {'time_step': 1, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:35:37,311 - INFO - News ID post-24865b spread metrics - {'time_step': 1, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:35:37,311 - INFO - News ID post-71adaa spread metrics - {'time_step': 1, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,312 - INFO - News ID post-9b844b spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,312 - INFO - News ID post-4a31b0 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,312 - INFO - News ID post-852eca spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,313 - INFO - News ID post-ced2a9 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,313 - INFO - News ID post-c2eb4d spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,313 - INFO - News ID post-1f923b spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,314 - INFO - News ID post-95bf62 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,314 - INFO - News ID post-780ec6 spread metrics - {'time_step': 1, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:35:37,315 - INFO - News ID post-66e25c spread metrics - {'time_step': 1, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:35:37,315 - INFO - News ID post-fbb260 spread metrics - {'time_step': 1, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,315 - INFO - News ID post-38e121 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,316 - INFO - News ID post-c42362 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,316 - INFO - News ID post-83f712 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,317 - INFO - News ID post-b90747 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,317 - INFO - News ID post-cdc6d0 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,317 - INFO - News ID post-b5de11 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:37,318 - INFO - News ID post-881e72 spread metrics - {'time_step': 1, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:35:40,872 - INFO - Fact checker main_checker marked post post-780ec6 as misleading
+2025-02-18 22:35:40,872 - INFO - Fact checked post post-780ec6: misleading (90%)
+2025-02-18 22:35:45,001 - INFO - Fact checker main_checker marked post post-66e25c as false
+2025-02-18 22:35:45,001 - INFO - Fact checked post post-66e25c: false (95%)
+2025-02-18 22:35:48,183 - INFO - Fact checker main_checker marked post post-fbb260 as misleading
+2025-02-18 22:35:48,183 - INFO - Fact checked post post-fbb260: misleading (90%)
+2025-02-18 22:35:53,803 - INFO - Fact checker main_checker marked post post-38e121 as misleading
+2025-02-18 22:35:53,803 - INFO - Fact checked post post-38e121: misleading (90%)
+2025-02-18 22:35:56,923 - INFO - Fact checker main_checker marked post post-c42362 as unverified
+2025-02-18 22:35:56,923 - INFO - Fact checked post post-c42362: unverified (50%)
+2025-02-18 22:35:56,923 - INFO - 
+2025-02-18 22:35:56,924 - INFO - Time step: 3
+2025-02-18 22:35:56,929 - INFO - News Agent agentverse_news created a post: post-11e961 | NEWS: A video shows dozens of Ukrainian soldiers surrendering to Russia in July 2023 during the Russia-Ukraine war.
+2025-02-18 22:35:56,938 - INFO - News Agent agentverse_news created a post: post-c1bd80 | NEWS: Republican Mike Johnson could only lose two votes from his own party in his bid for speaker re-election, and he nearly did.
+2025-02-18 22:35:56,942 - INFO - News Agent agentverse_news created a post: post-d7ea3c | NEWS: Four pilots who work for British Airways have died from the COVID-19 vaccine, and now the airline is in “crisis talks” with the British government about whether vaccinated pilots should be allowed to fly.
+2025-02-18 22:35:56,951 - INFO - News Agent agentverse_news created a post: post-177e36 | NEWS: The FBI says the man who allegedly carried out the New Year's Day attack visited the city in October and November, and recorded video of the area he aimed to target using "smart glasses."
+2025-02-18 22:35:56,954 - INFO - News Agent agentverse_news created a post: post-0dbcb5 | NEWS: Outbreaks of mpox, also known as monkeypox, beginning in 2022&nbsp;are obscuring how COVID-19 vaccines are causing a new autoimmune disease called Vaccine-Acquired Immunodeficiency Syndrome, or VAIDS.
+2025-02-18 22:35:56,961 - INFO - News Agent agentverse_news created a post: post-516a7f | NEWS: More than two million train tickets will be sold at a discount under a promotion starting next week.
+2025-02-18 22:35:56,968 - INFO - News Agent agentverse_news created a post: post-e24d9d | NEWS: Good Lock, a first-party Samsung launcher that builds off One UI, will be available in all countries soon.
+2025-02-18 22:35:56,972 - INFO - News Agent agentverse_news created a post: post-cbb201 | NEWS: Al-Jazeera reported in a video segment that drunk Ukrainian fans were arrested at the World Cup in Qatar for spreading Nazi symbols around the Al-Bayt stadium.
+2025-02-18 22:35:56,975 - INFO - News Agent agentverse_news created a post: post-cbe9e9 | NEWS: A viral video shows a formation of Russian fighter jets and helicopters entering Kiev, Ukraine, on Feb. 24, 2022, the first day of the Russian invasion.
+2025-02-18 22:35:56,978 - INFO - News Agent agentverse_news created a post: post-0a8611 | NEWS: Actor Matthew Perry’s death in October 2023 was linked to COVID-19 vaccines.
+2025-02-18 22:35:56,978 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-18 22:35:56,978 - INFO - Injected news post (ID: ['post-11e961', 'post-c1bd80', 'post-d7ea3c', 'post-177e36', 'post-0dbcb5', 'post-516a7f', 'post-e24d9d', 'post-cbb201', 'post-cbe9e9', 'post-0a8611']) at step 3
+2025-02-18 22:35:56,978 - INFO - Generated 3 agent configurations using file method
+2025-02-18 22:35:57,085 - INFO - Added user user-938429 to database with 22 background labels.
+2025-02-18 22:35:57,085 - INFO - Added new user user-938429 to the simulation
+2025-02-18 22:35:57,192 - INFO - Added user user-48b515 to database with 22 background labels.
+2025-02-18 22:35:57,192 - INFO - Added new user user-48b515 to the simulation
+2025-02-18 22:35:57,192 - INFO - Added 2 new users to the simulation
+2025-02-18 22:35:57,192 - INFO - User #0 reacting to feed, at step 3
+2025-02-18 22:35:59,336 - INFO - User user-fa8b6e flagged post post-d7ea3c
+2025-02-18 22:36:01,420 - INFO - User user-b78c53 flagged post post-d7ea3c
+2025-02-18 22:36:03,641 - INFO - User user-9d61e3 flagged post post-d7ea3c
+2025-02-18 22:36:07,945 - INFO - User user-ff5876 flagged post post-d7ea3c
+2025-02-18 22:36:11,836 - INFO - User user-7f72ad flagged post post-d7ea3c
+2025-02-18 22:36:12,344 - INFO - User user-7f72ad ignored their feed
+2025-02-18 22:36:12,344 - INFO - User user-7f72ad ignored their feed
+2025-02-18 22:36:12,852 - INFO - User user-7f72ad flagged post post-11e961
+2025-02-18 22:36:12,853 - INFO - User #5 reacting to feed, at step 3
+2025-02-18 22:36:15,317 - INFO - User user-f97569 flagged post post-d7ea3c
+2025-02-18 22:36:17,845 - INFO - User user-8d7e93 flagged post post-d7ea3c
+2025-02-18 22:36:18,360 - INFO - User user-8d7e93 ignored their feed
+2025-02-18 22:36:18,360 - INFO - User user-8d7e93 ignored their feed
+2025-02-18 22:36:23,538 - INFO - User user-938429 flagged post post-d7ea3c
+2025-02-18 22:36:26,887 - INFO - User user-48b515 flagged post post-d7ea3c
+2025-02-18 22:36:27,396 - INFO - User user-48b515 ignored their feed
+2025-02-18 22:36:27,396 - INFO - User user-48b515 ignored their feed
+2025-02-18 22:36:27,904 - INFO - User user-48b515 ignored their feed
+2025-02-18 22:36:27,905 - INFO - User user-48b515 ignored their feed
+2025-02-18 22:36:27,908 - INFO - News ID post-05771a spread metrics - {'time_step': 2, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:36:27,909 - INFO - News ID post-24865b spread metrics - {'time_step': 2, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:36:27,909 - INFO - News ID post-71adaa spread metrics - {'time_step': 2, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,910 - INFO - News ID post-9b844b spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,911 - INFO - News ID post-4a31b0 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,912 - INFO - News ID post-852eca spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,912 - INFO - News ID post-ced2a9 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,913 - INFO - News ID post-c2eb4d spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,914 - INFO - News ID post-1f923b spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,914 - INFO - News ID post-95bf62 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,915 - INFO - News ID post-780ec6 spread metrics - {'time_step': 2, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:36:27,915 - INFO - News ID post-66e25c spread metrics - {'time_step': 2, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:36:27,916 - INFO - News ID post-fbb260 spread metrics - {'time_step': 2, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,916 - INFO - News ID post-38e121 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,917 - INFO - News ID post-c42362 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,918 - INFO - News ID post-83f712 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,918 - INFO - News ID post-b90747 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,919 - INFO - News ID post-cdc6d0 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,920 - INFO - News ID post-b5de11 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,920 - INFO - News ID post-881e72 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,921 - INFO - News ID post-11e961 spread metrics - {'time_step': 2, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 1, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 1}
+2025-02-18 22:36:27,921 - INFO - News ID post-c1bd80 spread metrics - {'time_step': 2, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,922 - INFO - News ID post-d7ea3c spread metrics - {'time_step': 2, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 9, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 9}
+2025-02-18 22:36:27,922 - INFO - News ID post-177e36 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,923 - INFO - News ID post-0dbcb5 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,923 - INFO - News ID post-516a7f spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,924 - INFO - News ID post-e24d9d spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,924 - INFO - News ID post-cbb201 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,925 - INFO - News ID post-cbe9e9 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:27,926 - INFO - News ID post-0a8611 spread metrics - {'time_step': 2, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:36:31,298 - INFO - Fact checker main_checker marked post post-d7ea3c as false
+2025-02-18 22:36:31,298 - INFO - Fact checked post post-d7ea3c: false (95%)
+2025-02-18 22:36:33,680 - INFO - Fact checker main_checker marked post post-11e961 as unverified
+2025-02-18 22:36:33,681 - INFO - Fact checked post post-11e961: unverified (50%)
+2025-02-18 22:36:36,416 - INFO - Fact checker main_checker marked post post-c1bd80 as unverified
+2025-02-18 22:36:36,416 - INFO - Fact checked post post-c1bd80: unverified (50%)
+2025-02-18 22:36:39,078 - INFO - Fact checker main_checker marked post post-177e36 as unverified
+2025-02-18 22:36:39,079 - INFO - Fact checked post post-177e36: unverified (50%)
+2025-02-18 22:36:49,091 - INFO - Retrying request to /chat/completions in 0.447443 seconds
+2025-02-18 22:36:53,962 - INFO - Fact checker main_checker marked post post-0dbcb5 as false
+2025-02-18 22:36:53,963 - INFO - Fact checked post post-0dbcb5: false (95%)
+2025-02-18 22:36:53,963 - INFO - 
+2025-02-18 22:36:53,963 - INFO - Time step: 4
+2025-02-18 22:36:53,970 - INFO - News Agent agentverse_news created a post: post-5df335 | NEWS: The Ukrainian parliament proposed a bill that would ban photography and filming in cemeteries, in order to conceal the country’s military losses.
+2025-02-18 22:36:53,981 - INFO - News Agent agentverse_news created a post: post-13e9b6 | NEWS: The survival of organisms in the vacuum of space could support the theory that life didn't start on Earth, but originated elsewhere in the galaxy.
+2025-02-18 22:36:53,986 - INFO - News Agent agentverse_news created a post: post-8a83d8 | NEWS: NATO launched a nuclear attack on Russia’s Tver region in September 2024. Videos&nbsp;shared on social media depicting the attack show large explosions with two mushroom clouds.
+2025-02-18 22:36:53,990 - INFO - News Agent agentverse_news created a post: post-a599bc | NEWS: In May 2024, the UN reduced by half its reported statistics for women and children casualties in Gaza during the Israel-Hamas war.
+2025-02-18 22:36:53,999 - INFO - News Agent agentverse_news created a post: post-04dd78 | NEWS: Samsung’s long-rumored Galaxy S25 Slim handset region availability surfaced ahead of the Unpacked event.
+2025-02-18 22:36:54,003 - INFO - News Agent agentverse_news created a post: post-c73343 | NEWS: A 2022&nbsp;leaked report shows that the U.S. Supreme Court voted to overturn the 2020 presidential electiondue to election fraud.&nbsp;As a result, Donald Trump will be reinstated as president. 
+2025-02-18 22:36:54,006 - INFO - News Agent agentverse_news created a post: post-43c72b | NEWS: Russia’s Sept. 3, 2024, attack on the Ukrainian city of Poltava killed and injured hundreds of Swedish military instructors. The casualties were confirmed by foreign aid volunteer Britta Ellwanger, and a Ukrainian medic said that minors were being forced to donate blood for the Swedish instructors.
+2025-02-18 22:36:54,009 - INFO - News Agent agentverse_news created a post: post-8ea03e | NEWS: The clinical trial for Audenz, a U.S. Food and Drug Administration-approved vaccine against the H5N1 strain of bird flu, found that the vaccine kills one out of every 200 people who receive it. &nbsp;
+2025-02-18 22:36:54,013 - INFO - News Agent agentverse_news created a post: post-f899d8 | NEWS: Chinese President Xi Jinping was under house arrest in September 2022, after a military coup led by General Li Qiaoming. Mass cancellation of flights in China, video footage of a military procession and of an explosion in Beijing, as well as Xi’s disappearance from the public eye are all evidence of the coup.
+2025-02-18 22:36:54,016 - INFO - News Agent agentverse_news created a post: post-f93ca7 | NEWS: Pfizer’s own COVID-19 vaccine trial data shows that the vaccine causes increased sickness and death compared to those who received a placebo.
+2025-02-18 22:36:54,016 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-18 22:36:54,016 - INFO - Injected news post (ID: ['post-5df335', 'post-13e9b6', 'post-8a83d8', 'post-a599bc', 'post-04dd78', 'post-c73343', 'post-43c72b', 'post-8ea03e', 'post-f899d8', 'post-f93ca7']) at step 4
+2025-02-18 22:36:54,016 - INFO - Generated 3 agent configurations using file method
+2025-02-18 22:36:54,124 - INFO - Added user user-bb4c39 to database with 22 background labels.
+2025-02-18 22:36:54,124 - INFO - Added new user user-bb4c39 to the simulation
+2025-02-18 22:36:54,231 - INFO - Added user user-ffba74 to database with 22 background labels.
+2025-02-18 22:36:54,232 - INFO - Added new user user-ffba74 to the simulation
+2025-02-18 22:36:54,232 - INFO - Added 2 new users to the simulation
+2025-02-18 22:36:54,232 - INFO - User #0 reacting to feed, at step 4
+2025-02-18 22:36:57,433 - INFO - User user-fa8b6e flagged post post-8ea03e
+2025-02-18 22:36:57,938 - INFO - User user-fa8b6e flagged post post-c73343
+2025-02-18 22:37:01,807 - INFO - User user-b78c53 flagged post post-8ea03e
+2025-02-18 22:37:02,316 - INFO - User user-b78c53 flagged post post-c73343
+2025-02-18 22:37:02,825 - INFO - User user-b78c53 flagged post post-43c72b
+2025-02-18 22:37:08,463 - INFO - User user-9d61e3 flagged post post-c73343
+2025-02-18 22:37:08,972 - INFO - User user-9d61e3 flagged post post-8ea03e
+2025-02-18 22:37:14,713 - INFO - User user-ff5876 flagged post post-c73343
+2025-02-18 22:37:15,221 - INFO - User user-ff5876 flagged post post-8ea03e
+2025-02-18 22:37:19,008 - INFO - User user-7f72ad flagged post post-43c72b
+2025-02-18 22:37:19,518 - INFO - User user-7f72ad flagged post post-c73343
+2025-02-18 22:37:20,028 - INFO - User user-7f72ad flagged post post-8ea03e
+2025-02-18 22:37:22,393 - INFO - User #5 reacting to feed, at step 4
+2025-02-18 22:37:27,974 - INFO - User user-f97569 flagged post post-8ea03e
+2025-02-18 22:37:28,483 - INFO - User user-f97569 flagged post post-c73343
+2025-02-18 22:37:28,992 - INFO - User user-f97569 flagged post post-43c72b
+2025-02-18 22:37:35,283 - INFO - User user-8d7e93 flagged post post-c73343
+2025-02-18 22:37:35,787 - INFO - User user-8d7e93 flagged post post-43c72b
+2025-02-18 22:37:36,295 - INFO - User user-8d7e93 flagged post post-8ea03e
+2025-02-18 22:37:40,308 - INFO - User user-938429 flagged post post-43c72b
+2025-02-18 22:37:40,813 - INFO - User user-938429 flagged post post-c73343
+2025-02-18 22:37:41,321 - INFO - User user-938429 flagged post post-8ea03e
+2025-02-18 22:37:46,771 - INFO - User user-48b515 flagged post post-43c72b
+2025-02-18 22:37:47,280 - INFO - User user-48b515 flagged post post-c73343
+2025-02-18 22:37:47,786 - INFO - User user-48b515 flagged post post-8ea03e
+2025-02-18 22:37:53,009 - INFO - User user-bb4c39 flagged post post-43c72b
+2025-02-18 22:37:53,519 - INFO - User user-bb4c39 flagged post post-8ea03e
+2025-02-18 22:37:54,029 - INFO - User user-bb4c39 flagged post post-c73343
+2025-02-18 22:37:54,031 - INFO - User #10 reacting to feed, at step 4
+2025-02-18 22:37:57,614 - INFO - User user-ffba74 flagged post post-43c72b
+2025-02-18 22:37:58,125 - INFO - User user-ffba74 flagged post post-c73343
+2025-02-18 22:37:58,634 - INFO - User user-ffba74 flagged post post-8ea03e
+2025-02-18 22:37:58,639 - INFO - News ID post-05771a spread metrics - {'time_step': 3, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:37:58,640 - INFO - News ID post-24865b spread metrics - {'time_step': 3, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:37:58,641 - INFO - News ID post-71adaa spread metrics - {'time_step': 3, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,642 - INFO - News ID post-9b844b spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,643 - INFO - News ID post-4a31b0 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,644 - INFO - News ID post-852eca spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,645 - INFO - News ID post-ced2a9 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,646 - INFO - News ID post-c2eb4d spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,647 - INFO - News ID post-1f923b spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,647 - INFO - News ID post-95bf62 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,648 - INFO - News ID post-780ec6 spread metrics - {'time_step': 3, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:37:58,649 - INFO - News ID post-66e25c spread metrics - {'time_step': 3, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:37:58,649 - INFO - News ID post-fbb260 spread metrics - {'time_step': 3, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,650 - INFO - News ID post-38e121 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,651 - INFO - News ID post-c42362 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,651 - INFO - News ID post-83f712 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,652 - INFO - News ID post-b90747 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,653 - INFO - News ID post-cdc6d0 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,653 - INFO - News ID post-b5de11 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,654 - INFO - News ID post-881e72 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,654 - INFO - News ID post-11e961 spread metrics - {'time_step': 3, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 1, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 1}
+2025-02-18 22:37:58,655 - INFO - News ID post-c1bd80 spread metrics - {'time_step': 3, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,655 - INFO - News ID post-d7ea3c spread metrics - {'time_step': 3, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 9, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 9}
+2025-02-18 22:37:58,656 - INFO - News ID post-177e36 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,656 - INFO - News ID post-0dbcb5 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,657 - INFO - News ID post-516a7f spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,657 - INFO - News ID post-e24d9d spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,658 - INFO - News ID post-cbb201 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,658 - INFO - News ID post-cbe9e9 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,659 - INFO - News ID post-0a8611 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,659 - INFO - News ID post-5df335 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,660 - INFO - News ID post-13e9b6 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,660 - INFO - News ID post-8a83d8 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,661 - INFO - News ID post-a599bc spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,661 - INFO - News ID post-04dd78 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,662 - INFO - News ID post-c73343 spread metrics - {'time_step': 3, 'views': 11, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 11, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 11}
+2025-02-18 22:37:58,662 - INFO - News ID post-43c72b spread metrics - {'time_step': 3, 'views': 11, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 8, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 8}
+2025-02-18 22:37:58,663 - INFO - News ID post-8ea03e spread metrics - {'time_step': 3, 'views': 11, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 11, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 11}
+2025-02-18 22:37:58,663 - INFO - News ID post-f899d8 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:37:58,664 - INFO - News ID post-f93ca7 spread metrics - {'time_step': 3, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:38:02,248 - INFO - Fact checker main_checker marked post post-c73343 as false
+2025-02-18 22:38:02,248 - INFO - Fact checked post post-c73343: false (95%)
+2025-02-18 22:38:06,128 - INFO - Fact checker main_checker marked post post-8ea03e as false
+2025-02-18 22:38:06,129 - INFO - Fact checked post post-8ea03e: false (95%)
+2025-02-18 22:38:09,245 - INFO - Fact checker main_checker marked post post-43c72b as unverified
+2025-02-18 22:38:09,245 - INFO - Fact checked post post-43c72b: unverified (20%)
+2025-02-18 22:38:13,800 - INFO - Fact checker main_checker marked post post-f899d8 as false
+2025-02-18 22:38:13,801 - INFO - Fact checked post post-f899d8: false (95%)
+2025-02-18 22:38:18,315 - INFO - Fact checker main_checker marked post post-f93ca7 as false
+2025-02-18 22:38:18,316 - INFO - Fact checked post post-f93ca7: false (95%)
+2025-02-18 22:38:18,316 - INFO - 
+2025-02-18 22:38:18,316 - INFO - Time step: 5
+2025-02-18 22:38:18,324 - INFO - News Agent agentverse_news created a post: post-1b3f6a | NEWS: An image shows U.S. Secretary of State Antony Blinken and Ukrainian Minister of Foreign Affairs Dmytro Kuleba dining at a Ukrainian restaurant decorated in Nazi symbols on May 14, 2024.
+2025-02-18 22:38:18,335 - INFO - News Agent agentverse_news created a post: post-8addbb | NEWS: The BBC says it had made it "very clear" to the opera singer that it didn't tolerate the behaviour.
+2025-02-18 22:38:18,340 - INFO - News Agent agentverse_news created a post: post-e8b0c2 | NEWS: FoxNews.com published an article on June 3, 2024, titled “Trump Faces a Guilty Verdict: Biden Isn't Likely to Be Helped by This.” The article reported on an “inevitable start of a new civil war.”
+2025-02-18 22:38:18,349 - INFO - News Agent agentverse_news created a post: post-185d01 | NEWS: Astell&Kern's AK UW100MKII earbuds are now in India, and they're an amazing deal. So should you actually buy these?
+2025-02-18 22:38:18,357 - INFO - News Agent agentverse_news created a post: post-1c93a5 | NEWS: With real-life SpongeBob Krabby Patties and Deadpool booty Xbox controllers—and so much more—it was a wild year for tie-in merch.
+2025-02-18 22:38:18,365 - INFO - News Agent agentverse_news created a post: post-80041b | NEWS: Apple’s support page says it’s following the Protecting Americans from Foreign Adversary Controlled Applications Act by pulling TikTok and other ByteDance apps in the US.
+2025-02-18 22:38:18,368 - INFO - News Agent agentverse_news created a post: post-07758c | NEWS: Videos and images show explosives detonating on Francis Scott Key Bridge in Baltimore, causing the bridge’s March 2024 collapse.
+2025-02-18 22:38:18,375 - INFO - News Agent agentverse_news created a post: post-43866a | NEWS: What words will be buzzing about in the global health and development hive in the year ahead? Our experts have nominations for your consideration.
+2025-02-18 22:38:18,378 - INFO - News Agent agentverse_news created a post: post-7882be | NEWS: A secret Kyiv&nbsp;troll farm seeking to interfere in the 2024 U.S. election was publicly exposed by a former employee named Olesya Movchan. Movchan said that the group&nbsp;conspired with the CIA and&nbsp;advanced pro-Biden and anti-Trump content to influence public opinion in the U.S.
+2025-02-18 22:38:18,384 - INFO - News Agent agentverse_news created a post: post-ba9ee1 | NEWS: A fresh outburst from the Sun may trigger auroras in parts of the northern United States and Canada.
+2025-02-18 22:38:18,385 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-18 22:38:18,385 - INFO - Injected news post (ID: ['post-1b3f6a', 'post-8addbb', 'post-e8b0c2', 'post-185d01', 'post-1c93a5', 'post-80041b', 'post-07758c', 'post-43866a', 'post-7882be', 'post-ba9ee1']) at step 5
+2025-02-18 22:38:18,385 - INFO - Generated 3 agent configurations using file method
+2025-02-18 22:38:18,492 - INFO - Added user user-922528 to database with 22 background labels.
+2025-02-18 22:38:18,492 - INFO - Added new user user-922528 to the simulation
+2025-02-18 22:38:18,596 - INFO - Added user user-249b02 to database with 22 background labels.
+2025-02-18 22:38:18,596 - INFO - Added new user user-249b02 to the simulation
+2025-02-18 22:38:18,596 - INFO - Added 2 new users to the simulation
+2025-02-18 22:38:18,596 - INFO - User #0 reacting to feed, at step 5
+2025-02-18 22:38:22,088 - INFO - User user-fa8b6e flagged post post-1b3f6a
+2025-02-18 22:38:22,593 - INFO - User user-fa8b6e flagged post post-e8b0c2
+2025-02-18 22:38:26,292 - INFO - User user-b78c53 flagged post post-e8b0c2
+2025-02-18 22:38:26,801 - INFO - User user-b78c53 flagged post post-1b3f6a
+2025-02-18 22:38:32,429 - INFO - User user-9d61e3 flagged post post-1b3f6a
+2025-02-18 22:38:32,938 - INFO - User user-9d61e3 flagged post post-e8b0c2
+2025-02-18 22:38:37,757 - INFO - User user-ff5876 flagged post post-1b3f6a
+2025-02-18 22:38:38,266 - INFO - User user-ff5876 flagged post post-e8b0c2
+2025-02-18 22:38:41,557 - INFO - User user-7f72ad flagged post post-1b3f6a
+2025-02-18 22:38:42,064 - INFO - User user-7f72ad ignored their feed
+2025-02-18 22:38:42,065 - INFO - User user-7f72ad ignored their feed
+2025-02-18 22:38:42,572 - INFO - User user-7f72ad flagged post post-e8b0c2
+2025-02-18 22:38:42,574 - INFO - User #5 reacting to feed, at step 5
+2025-02-18 22:38:45,850 - INFO - User user-f97569 flagged post post-e8b0c2
+2025-02-18 22:38:46,356 - INFO - User user-f97569 flagged post post-1b3f6a
+2025-02-18 22:38:53,352 - INFO - User user-8d7e93 flagged post post-e8b0c2
+2025-02-18 22:38:53,860 - INFO - User user-8d7e93 ignored their feed
+2025-02-18 22:38:53,861 - INFO - User user-8d7e93 ignored their feed
+2025-02-18 22:38:54,369 - INFO - User user-8d7e93 flagged post post-1b3f6a
+2025-02-18 22:39:00,087 - INFO - User user-938429 flagged post post-e8b0c2
+2025-02-18 22:39:00,594 - INFO - User user-938429 flagged post post-1b3f6a
+2025-02-18 22:39:06,020 - INFO - User user-48b515 flagged post post-1b3f6a
+2025-02-18 22:39:06,526 - INFO - User user-48b515 flagged post post-e8b0c2
+2025-02-18 22:39:12,803 - INFO - User user-bb4c39 flagged post post-e8b0c2
+2025-02-18 22:39:13,308 - INFO - User user-bb4c39 flagged post post-1b3f6a
+2025-02-18 22:39:13,309 - INFO - User #10 reacting to feed, at step 5
+2025-02-18 22:39:16,421 - INFO - User user-ffba74 flagged post post-1b3f6a
+2025-02-18 22:39:16,929 - INFO - User user-ffba74 flagged post post-e8b0c2
+2025-02-18 22:39:21,688 - INFO - User user-922528 flagged post post-e8b0c2
+2025-02-18 22:39:22,197 - INFO - User user-922528 flagged post post-1b3f6a
+2025-02-18 22:39:30,797 - INFO - User user-249b02 flagged post post-1b3f6a
+2025-02-18 22:39:31,305 - INFO - User user-249b02 flagged post post-e8b0c2
+2025-02-18 22:39:33,672 - INFO - News ID post-05771a spread metrics - {'time_step': 4, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:39:33,673 - INFO - News ID post-24865b spread metrics - {'time_step': 4, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 4, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 4}
+2025-02-18 22:39:33,673 - INFO - News ID post-71adaa spread metrics - {'time_step': 4, 'views': 5, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,674 - INFO - News ID post-9b844b spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,675 - INFO - News ID post-4a31b0 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,676 - INFO - News ID post-852eca spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,676 - INFO - News ID post-ced2a9 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,677 - INFO - News ID post-c2eb4d spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,678 - INFO - News ID post-1f923b spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,679 - INFO - News ID post-95bf62 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,680 - INFO - News ID post-780ec6 spread metrics - {'time_step': 4, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:39:33,680 - INFO - News ID post-66e25c spread metrics - {'time_step': 4, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 7, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 7}
+2025-02-18 22:39:33,681 - INFO - News ID post-fbb260 spread metrics - {'time_step': 4, 'views': 7, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,682 - INFO - News ID post-38e121 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,683 - INFO - News ID post-c42362 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,684 - INFO - News ID post-83f712 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,684 - INFO - News ID post-b90747 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,685 - INFO - News ID post-cdc6d0 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,686 - INFO - News ID post-b5de11 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,686 - INFO - News ID post-881e72 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,687 - INFO - News ID post-11e961 spread metrics - {'time_step': 4, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 1, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 1}
+2025-02-18 22:39:33,687 - INFO - News ID post-c1bd80 spread metrics - {'time_step': 4, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,688 - INFO - News ID post-d7ea3c spread metrics - {'time_step': 4, 'views': 9, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 9, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 9}
+2025-02-18 22:39:33,688 - INFO - News ID post-177e36 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,689 - INFO - News ID post-0dbcb5 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,690 - INFO - News ID post-516a7f spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,690 - INFO - News ID post-e24d9d spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,691 - INFO - News ID post-cbb201 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,691 - INFO - News ID post-cbe9e9 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,692 - INFO - News ID post-0a8611 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,692 - INFO - News ID post-5df335 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,693 - INFO - News ID post-13e9b6 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,693 - INFO - News ID post-8a83d8 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,694 - INFO - News ID post-a599bc spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,694 - INFO - News ID post-04dd78 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,694 - INFO - News ID post-c73343 spread metrics - {'time_step': 4, 'views': 11, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 11, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 11}
+2025-02-18 22:39:33,695 - INFO - News ID post-43c72b spread metrics - {'time_step': 4, 'views': 11, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 8, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 8}
+2025-02-18 22:39:33,696 - INFO - News ID post-8ea03e spread metrics - {'time_step': 4, 'views': 11, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 11, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 11}
+2025-02-18 22:39:33,696 - INFO - News ID post-f899d8 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,696 - INFO - News ID post-f93ca7 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,697 - INFO - News ID post-1b3f6a spread metrics - {'time_step': 4, 'views': 13, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 13, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 13}
+2025-02-18 22:39:33,697 - INFO - News ID post-8addbb spread metrics - {'time_step': 4, 'views': 13, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,698 - INFO - News ID post-e8b0c2 spread metrics - {'time_step': 4, 'views': 13, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_flags': 13, 'num_likes': 0, 'num_shares': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 13}
+2025-02-18 22:39:33,698 - INFO - News ID post-185d01 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,699 - INFO - News ID post-1c93a5 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,700 - INFO - News ID post-80041b spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,700 - INFO - News ID post-07758c spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,701 - INFO - News ID post-43866a spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,701 - INFO - News ID post-7882be spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:33,702 - INFO - News ID post-ba9ee1 spread metrics - {'time_step': 4, 'views': 0, 'diffusion_depth': 0, 'should_takedown': False, 'takedown_reason': 'Content moderation is disabled', 'takedown_executed': False, 'num_likes': 0, 'num_shares': 0, 'num_flags': 0, 'num_comments': 0, 'num_notes': 0, 'num_note_ratings': 0, 'total_interactions': 0}
+2025-02-18 22:39:37,463 - INFO - Fact checker main_checker marked post post-1b3f6a as false
+2025-02-18 22:39:37,463 - INFO - Fact checked post post-1b3f6a: false (95%)
+2025-02-18 22:39:40,839 - INFO - Fact checker main_checker marked post post-e8b0c2 as false
+2025-02-18 22:39:40,840 - INFO - Fact checked post post-e8b0c2: false (90%)
+2025-02-18 22:39:42,684 - INFO - Fact checker main_checker marked post post-8addbb as unverified
+2025-02-18 22:39:42,684 - INFO - Fact checked post post-8addbb: unverified (50%)
+2025-02-18 22:39:45,031 - INFO - Fact checker main_checker marked post post-185d01 as unverified
+2025-02-18 22:39:45,031 - INFO - Fact checked post post-185d01: unverified (60%)
+2025-02-18 22:39:48,830 - INFO - Fact checker main_checker marked post post-1c93a5 as true
+2025-02-18 22:39:48,830 - INFO - Fact checked post post-1c93a5: true (90%)
+2025-02-18 22:39:48,831 - INFO - 
+2025-02-18 22:39:48,831 - INFO - 
+Simulation complete. Printing statistics...
+2025-02-18 22:39:48,832 - INFO - Simulation Statistics:
+2025-02-18 22:39:48,832 - INFO - Total users: 14
+2025-02-18 22:39:48,832 - INFO - Total posts: 50
+2025-02-18 22:39:48,832 - INFO - Total user actions: 145
+2025-02-18 22:39:48,832 - INFO - Action breakdown:
+2025-02-18 22:39:48,833 - INFO -   flag_post: 88
+2025-02-18 22:39:48,833 - INFO -   ignore: 7
+2025-02-18 22:39:48,833 - INFO -   post: 50
+2025-02-18 22:39:48,837 - INFO - Saved simulation database to experiment_outputs/database_copies/20250218_223410.db
+2025-02-18 22:39:48,843 - INFO - 
+Homophily Analysis Results:
+2025-02-18 22:39:48,843 - INFO - 
+Network Assortativity:
+2025-02-18 22:39:48,843 - INFO - age_assortativity: 0.000
+2025-02-18 22:39:48,843 - INFO - hobby_assortativity: 0.000
+2025-02-18 22:39:48,843 - INFO - primary_language_assortativity: 0.000
+2025-02-18 22:39:48,843 - INFO - social_relationship_importance_assortativity: 0.000
+2025-02-18 22:39:48,843 - INFO - meaningful_event_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - childhood_description_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - activity_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - gender_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - social_context_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - personality_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - fear_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - ethnicity_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - current_location_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - political_affiliation_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - education_level_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - primary_goal_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - difficult_situation_resolve_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - friend_value_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - religious_beliefs_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - num_places_lived_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - value_assortativity: 0.000
+2025-02-18 22:39:48,844 - INFO - income_level_assortativity: 0.000

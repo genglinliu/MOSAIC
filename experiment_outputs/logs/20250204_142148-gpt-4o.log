@@ -1,0 +1,510 @@
+2025-02-04 14:21:48,139 - INFO - Starting simulation with 20 users for 20 time steps using gpt-4o...
+2025-02-04 14:21:49,140 - INFO - Resetting database...
+2025-02-04 14:21:49,140 - INFO - Existing database removed.
+2025-02-04 14:21:49,148 - INFO - Database tables created successfully.
+2025-02-04 14:21:49,148 - INFO - New tables created.
+2025-02-04 14:21:49,150 - INFO - Generated 20 agent configurations using file method
+2025-02-04 14:21:49,150 - INFO - Creating 20 users
+2025-02-04 14:21:49,150 - INFO - Added user user-a5006c to database with 22 background labels.
+2025-02-04 14:21:49,151 - INFO - Added user user-91ee77 to database with 22 background labels.
+2025-02-04 14:21:49,152 - INFO - Added user user-887f9e to database with 22 background labels.
+2025-02-04 14:21:49,153 - INFO - Added user user-5141a6 to database with 22 background labels.
+2025-02-04 14:21:49,153 - INFO - Added user user-b0fe20 to database with 22 background labels.
+2025-02-04 14:21:49,154 - INFO - Added user user-fac5c2 to database with 22 background labels.
+2025-02-04 14:21:49,155 - INFO - Added user user-3ebb97 to database with 22 background labels.
+2025-02-04 14:21:49,155 - INFO - Added user user-5e4216 to database with 22 background labels.
+2025-02-04 14:21:49,156 - INFO - Added user user-59f852 to database with 22 background labels.
+2025-02-04 14:21:49,156 - INFO - Added user user-287433 to database with 22 background labels.
+2025-02-04 14:21:49,157 - INFO - Added user user-268163 to database with 22 background labels.
+2025-02-04 14:21:49,157 - INFO - Added user user-5dae71 to database with 22 background labels.
+2025-02-04 14:21:49,158 - INFO - Added user user-d8696d to database with 22 background labels.
+2025-02-04 14:21:49,158 - INFO - Added user user-d2df85 to database with 22 background labels.
+2025-02-04 14:21:49,159 - INFO - Added user user-171441 to database with 22 background labels.
+2025-02-04 14:21:49,159 - INFO - Added user user-836f9a to database with 22 background labels.
+2025-02-04 14:21:49,160 - INFO - Added user user-b1d6b8 to database with 22 background labels.
+2025-02-04 14:21:49,160 - INFO - Added user user-c58e01 to database with 22 background labels.
+2025-02-04 14:21:49,161 - INFO - Added user user-f219e9 to database with 22 background labels.
+2025-02-04 14:21:49,161 - INFO - Added user user-541ea9 to database with 22 background labels.
+2025-02-04 14:21:49,161 - INFO - Total users in database after creation: 20
+2025-02-04 14:21:49,181 - INFO - Time step: 1
+2025-02-04 14:21:49,187 - INFO - News Agent agentverse_news created a post: post-cd467f | NEWS: Ever wondered what info is stored on the magnetic-striped cards in your wallet? This project shows you how to make a magstripe reader for less than $40.
+The post Flashback: Magnetic Stripe Reader appeared first on Make: DIY Projects and Ideas for Makers.
+2025-02-04 14:21:49,193 - INFO - News Agent agentverse_news created a post: post-d2ee9b | NEWS: During its "2025 strategy meeting," some of Google's plans for the coming year were shared. The TLDR is: expect a lot more Gemini and expect it soon.
+2025-02-04 14:21:49,198 - INFO - News Agent agentverse_news created a post: post-6c23e7 | NEWS: American skiing legend Lindsey Vonn explains why she returned to racing after a near six-year absence.
+2025-02-04 14:21:49,200 - INFO - News Agent agentverse_news created a post: post-d0b517 | NEWS: Five thousand American troops took part in Israel’s ground operations against Hamas, proving direct U.S. involvement in the Israel-Hamas War
+2025-02-04 14:21:49,205 - INFO - News Agent agentverse_news created a post: post-386424 | NEWS: The hosts of "Uncanny Valley" spent the week following the advice of AI chatbots when it came to shopping, fitness, and parenting. Here’s how it went.
+2025-02-04 14:21:49,205 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 14:21:49,205 - INFO - Injected news post (ID: ['post-cd467f', 'post-d2ee9b', 'post-6c23e7', 'post-d0b517', 'post-386424']) at step 1
+2025-02-04 14:21:49,205 - INFO - Generated 20 agent configurations using file method
+2025-02-04 14:21:49,307 - INFO - Added user user-f6e348 to database with 22 background labels.
+2025-02-04 14:21:49,307 - INFO - Added new user user-f6e348 to the simulation
+2025-02-04 14:21:49,408 - INFO - Added user user-afeadb to database with 22 background labels.
+2025-02-04 14:21:49,408 - INFO - Added new user user-afeadb to the simulation
+2025-02-04 14:21:49,408 - INFO - Added 2 new users to the simulation
+2025-02-04 14:21:49,408 - INFO - User #0 reacting to feed, at step 1
+2025-02-04 14:21:49,409 - INFO - Feed reaction prompt token count: 991
+2025-02-04 14:21:52,900 - INFO - User user-a5006c liked post post-d2ee9b
+2025-02-04 14:21:53,403 - INFO - User user-a5006c shared post post-386424
+2025-02-04 14:21:56,412 - INFO - Feed reaction prompt token count: 896
+2025-02-04 14:21:59,677 - INFO - User user-91ee77 shared post post-9bb71f
+2025-02-04 14:22:00,179 - INFO - User user-91ee77 liked post post-cd467f
+2025-02-04 14:22:03,598 - INFO - Feed reaction prompt token count: 1135
+2025-02-04 14:22:08,047 - INFO - User user-887f9e shared post post-6c23e7
+2025-02-04 14:22:08,549 - INFO - User user-887f9e liked post post-cd467f
+2025-02-04 14:22:09,050 - INFO - User user-887f9e flagged post post-d0b517
+2025-02-04 14:22:09,053 - INFO - Feed reaction prompt token count: 1042
+2025-02-04 14:22:12,553 - INFO - User user-5141a6 liked post post-d2ee9b
+2025-02-04 14:22:13,055 - INFO - User user-5141a6 flagged post post-d0b517
+2025-02-04 14:22:17,712 - INFO - Feed reaction prompt token count: 1063
+2025-02-04 14:22:22,204 - INFO - User user-b0fe20 liked post post-a7c67a
+2025-02-04 14:22:22,708 - INFO - User user-b0fe20 shared post post-6c23e7
+2025-02-04 14:22:23,210 - INFO - User user-b0fe20 flagged post post-d0b517
+2025-02-04 14:22:23,210 - INFO - User #5 reacting to feed, at step 1
+2025-02-04 14:22:23,212 - INFO - Feed reaction prompt token count: 1042
+2025-02-04 14:22:26,814 - INFO - User user-fac5c2 liked post post-a7c67a
+2025-02-04 14:22:27,316 - INFO - User user-fac5c2 flagged post post-d0b517
+2025-02-04 14:22:32,131 - INFO - Feed reaction prompt token count: 969
+2025-02-04 14:22:36,134 - INFO - User user-3ebb97 shared post post-0ce6ab
+2025-02-04 14:22:36,636 - INFO - User user-3ebb97 flagged post post-d0b517
+2025-02-04 14:22:40,459 - INFO - Feed reaction prompt token count: 972
+2025-02-04 14:22:46,424 - INFO - User user-5e4216 flagged post post-d0b517
+2025-02-04 14:22:46,926 - INFO - User user-5e4216 liked post post-4e7061
+2025-02-04 14:22:47,429 - INFO - User user-5e4216 shared post post-cd467f
+2025-02-04 14:22:47,431 - INFO - Feed reaction prompt token count: 1078
+2025-02-04 14:22:52,822 - INFO - User user-59f852 liked post post-0cd05f
+2025-02-04 14:22:53,324 - INFO - User user-59f852 liked post post-d2ee9b
+2025-02-04 14:22:58,097 - INFO - Feed reaction prompt token count: 1068
+2025-02-04 14:23:01,561 - INFO - User user-287433 shared post post-4e7061
+2025-02-04 14:23:02,063 - INFO - User user-287433 liked post post-d2ee9b
+2025-02-04 14:23:09,891 - INFO - User #10 reacting to feed, at step 1
+2025-02-04 14:23:09,894 - INFO - Feed reaction prompt token count: 1130
+2025-02-04 14:23:13,831 - INFO - User user-268163 flagged post post-d0b517
+2025-02-04 14:23:14,333 - INFO - User user-268163 liked post post-6c23e7
+2025-02-04 14:23:17,282 - INFO - Feed reaction prompt token count: 1042
+2025-02-04 14:23:21,847 - INFO - User user-5dae71 liked post post-cd467f
+2025-02-04 14:23:22,350 - INFO - User user-5dae71 flagged post post-d0b517
+2025-02-04 14:23:27,769 - INFO - Feed reaction prompt token count: 944
+2025-02-04 14:23:33,683 - INFO - User user-d8696d liked post post-4c3798
+2025-02-04 14:23:34,185 - INFO - User user-d8696d flagged post post-d0b517
+2025-02-04 14:23:37,205 - INFO - Feed reaction prompt token count: 1081
+2025-02-04 14:23:40,872 - INFO - User user-d2df85 shared post post-4c3798
+2025-02-04 14:23:41,373 - INFO - User user-d2df85 flagged post post-d0b517
+2025-02-04 14:23:47,245 - INFO - Feed reaction prompt token count: 1098
+2025-02-04 14:23:50,385 - INFO - User user-171441 liked post post-6c23e7
+2025-02-04 14:23:50,887 - INFO - User user-171441 flagged post post-d0b517
+2025-02-04 14:23:54,918 - INFO - User #15 reacting to feed, at step 1
+2025-02-04 14:23:54,921 - INFO - Feed reaction prompt token count: 1059
+2025-02-04 14:23:58,740 - INFO - User user-836f9a shared post post-d2ee9b
+2025-02-04 14:23:59,242 - INFO - User user-836f9a flagged post post-d0b517
+2025-02-04 14:24:04,059 - INFO - Feed reaction prompt token count: 1059
+2025-02-04 14:24:09,405 - INFO - User user-b1d6b8 shared post post-b0c123
+2025-02-04 14:24:09,906 - INFO - User user-b1d6b8 flagged post post-d2ee9b
+2025-02-04 14:24:10,409 - INFO - User user-b1d6b8 liked post post-6c23e7
+2025-02-04 14:24:10,411 - INFO - Feed reaction prompt token count: 1096
+2025-02-04 14:24:14,195 - INFO - User user-c58e01 shared post post-6d4f9b
+2025-02-04 14:24:14,697 - INFO - User user-c58e01 liked post post-cd467f
+2025-02-04 14:24:20,342 - INFO - Feed reaction prompt token count: 1108
+2025-02-04 14:24:23,127 - INFO - User user-f219e9 flagged post post-d0b517
+2025-02-04 14:24:23,629 - INFO - User user-f219e9 shared post post-cd467f
+2025-02-04 14:24:29,177 - INFO - Feed reaction prompt token count: 1092
+2025-02-04 14:24:36,077 - INFO - User user-541ea9 shared post post-386424
+2025-02-04 14:24:36,578 - INFO - User user-541ea9 flagged post post-d0b517
+2025-02-04 14:24:42,715 - INFO - User #20 reacting to feed, at step 1
+2025-02-04 14:24:42,718 - INFO - Feed reaction prompt token count: 936
+2025-02-04 14:24:46,102 - INFO - User user-f6e348 flagged post post-d0b517
+2025-02-04 14:24:46,604 - INFO - User user-f6e348 liked post post-c7b9c1
+2025-02-04 14:24:50,825 - INFO - Feed reaction prompt token count: 1102
+2025-02-04 14:24:54,762 - INFO - User user-afeadb shared post post-9d71ab
+2025-02-04 14:24:55,264 - INFO - User user-afeadb flagged post post-d0b517
+2025-02-04 14:25:06,580 - INFO - News ID post-cd467f spread metrics - Views: 22, Depth: 2, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:25:06,581 - INFO - News ID post-d2ee9b spread metrics - Views: 22, Depth: 3, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:25:06,582 - INFO - News ID post-6c23e7 spread metrics - Views: 22, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:25:06,582 - INFO - News ID post-d0b517 spread metrics - Views: 22, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:25:06,583 - INFO - News ID post-386424 spread metrics - Views: 22, Depth: 5, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:25:06,586 - INFO - 
+2025-02-04 14:25:06,587 - INFO - Time step: 2
+2025-02-04 14:25:06,589 - INFO - News Agent agentverse_news created a post: post-401e5d | NEWS: The 2004 presidential election was stolen from Democratic nominee John Kerry. Had all the votes in Ohio been counted, U.S. President George W. Bush would have lost re-election in 2004.
+2025-02-04 14:25:06,591 - INFO - News Agent agentverse_news created a post: post-3b35d8 | NEWS: A video shows Russia moving nuclear missile launchers to the town of Vyborg at the Finnish border, just after Finland joined NATO on April 4, 2023.
+2025-02-04 14:25:06,593 - INFO - News Agent agentverse_news created a post: post-b82a8f | NEWS: The Jewish elite started the war in Ukraine in 2022.
+2025-02-04 14:25:06,595 - INFO - News Agent agentverse_news created a post: post-e05bbb | NEWS: Russia did not target civilians in its June 27, 2023, missile strike on a pizzeria in the Ukrainian city of Kramatorsk. The pizzeria was a military command post hosting “NATO mercenaries” and members of the Ukrainian Armed Forces.
+2025-02-04 14:25:06,600 - INFO - News Agent agentverse_news created a post: post-b070d7 | NEWS: We were so excited to see our friends at Adafruit hit 800 open source hardware certifications, which is 27% of all certified projects!
+The post Adafruit Hit 800 Open Source Hardware Certifications appeared first on Make: DIY Projects and Ideas for Makers.
+2025-02-04 14:25:06,600 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 14:25:06,600 - INFO - Injected news post (ID: ['post-401e5d', 'post-3b35d8', 'post-b82a8f', 'post-e05bbb', 'post-b070d7']) at step 2
+2025-02-04 14:25:06,600 - INFO - Generated 20 agent configurations using file method
+2025-02-04 14:25:06,702 - INFO - Added user user-ccab08 to database with 22 background labels.
+2025-02-04 14:25:06,702 - INFO - Added new user user-ccab08 to the simulation
+2025-02-04 14:25:06,803 - INFO - Added user user-4ba27f to database with 22 background labels.
+2025-02-04 14:25:06,804 - INFO - Added new user user-4ba27f to the simulation
+2025-02-04 14:25:06,804 - INFO - Added 2 new users to the simulation
+2025-02-04 14:25:06,804 - INFO - User #0 reacting to feed, at step 2
+2025-02-04 14:25:06,807 - INFO - Feed reaction prompt token count: 1321
+2025-02-04 14:25:09,986 - INFO - User user-a5006c flagged post post-b82a8f
+2025-02-04 14:25:10,489 - INFO - User user-a5006c shared post post-b070d7
+2025-02-04 14:25:14,552 - INFO - Feed reaction prompt token count: 1280
+2025-02-04 14:25:19,558 - INFO - User user-91ee77 liked post post-400faa
+2025-02-04 14:25:20,060 - INFO - User user-91ee77 shared post post-386424
+2025-02-04 14:25:20,562 - INFO - User user-91ee77 flagged post post-b82a8f
+2025-02-04 14:25:20,565 - INFO - Feed reaction prompt token count: 1558
+2025-02-04 14:25:24,870 - INFO - User user-887f9e shared post post-6c23e7
+2025-02-04 14:25:25,371 - INFO - User user-887f9e flagged post post-b82a8f
+2025-02-04 14:25:25,372 - WARNING - Invalid target: post-cd467f  for action: like-post
+2025-02-04 14:25:25,374 - INFO - Feed reaction prompt token count: 1432
+2025-02-04 14:25:28,975 - INFO - User user-5141a6 flagged post post-e05bbb
+2025-02-04 14:25:29,476 - INFO - User user-5141a6 flagged post post-401e5d
+2025-02-04 14:25:36,743 - INFO - Feed reaction prompt token count: 1507
+2025-02-04 14:25:40,961 - INFO - User user-b0fe20 liked post post-5fafab
+2025-02-04 14:25:41,462 - INFO - User user-b0fe20 shared post post-a2ba5a
+2025-02-04 14:25:41,963 - INFO - User user-b0fe20 flagged post post-b82a8f
+2025-02-04 14:25:46,596 - INFO - User #5 reacting to feed, at step 2
+2025-02-04 14:25:46,599 - INFO - Feed reaction prompt token count: 1447
+2025-02-04 14:25:49,547 - INFO - User user-fac5c2 flagged post post-e05bbb
+2025-02-04 14:25:50,048 - INFO - User user-fac5c2 liked post post-b070d7
+2025-02-04 14:25:53,057 - INFO - Feed reaction prompt token count: 1398
+2025-02-04 14:25:57,554 - INFO - User user-3ebb97 shared post post-9185d6
+2025-02-04 14:25:58,055 - INFO - User user-3ebb97 flagged post post-e05bbb
+2025-02-04 14:25:58,055 - WARNING - Invalid target: post-b82a8f  for action: flag-post
+2025-02-04 14:26:12,970 - INFO - Feed reaction prompt token count: 1416
+2025-02-04 14:26:17,576 - INFO - User user-5e4216 liked post post-5fafab
+2025-02-04 14:26:18,077 - INFO - User user-5e4216 flagged post post-e05bbb
+2025-02-04 14:26:18,579 - INFO - User user-5e4216 shared post post-b070d7
+2025-02-04 14:26:23,218 - INFO - Feed reaction prompt token count: 1462
+2025-02-04 14:26:27,739 - INFO - User user-59f852 liked post post-6885ed
+2025-02-04 14:26:28,241 - INFO - User user-59f852 flagged post post-b82a8f
+2025-02-04 14:26:28,742 - INFO - User user-59f852 flagged post post-d0b517
+2025-02-04 14:26:28,744 - INFO - Feed reaction prompt token count: 1485
+2025-02-04 14:26:32,885 - INFO - User user-287433 liked post post-6885ed
+2025-02-04 14:26:33,386 - INFO - User user-287433 shared post post-e4eb1f
+2025-02-04 14:26:33,888 - INFO - User user-287433 flagged post post-b82a8f
+2025-02-04 14:26:33,888 - INFO - User #10 reacting to feed, at step 2
+2025-02-04 14:26:33,890 - INFO - Feed reaction prompt token count: 1503
+2025-02-04 14:26:38,403 - INFO - User user-268163 liked post post-b070d7
+2025-02-04 14:26:38,904 - INFO - User user-268163 flagged post post-401e5d
+2025-02-04 14:26:39,405 - INFO - User user-268163 flagged post post-e05bbb
+2025-02-04 14:26:39,408 - INFO - Feed reaction prompt token count: 1437
+2025-02-04 14:26:43,049 - INFO - User user-5dae71 flagged post post-b82a8f
+2025-02-04 14:26:43,550 - INFO - User user-5dae71 flagged post post-e05bbb
+2025-02-04 14:26:48,961 - INFO - Feed reaction prompt token count: 1340
+2025-02-04 14:26:52,133 - INFO - User user-d8696d liked post post-6885ed
+2025-02-04 14:26:52,634 - INFO - User user-d8696d flagged post post-b82a8f
+2025-02-04 14:26:57,255 - INFO - Feed reaction prompt token count: 1474
+2025-02-04 14:27:00,907 - INFO - User user-d2df85 shared post post-a7dbfd
+2025-02-04 14:27:01,408 - INFO - User user-d2df85 flagged post post-b82a8f
+2025-02-04 14:27:05,378 - INFO - Feed reaction prompt token count: 1474
+2025-02-04 14:27:09,611 - INFO - User user-171441 flagged post post-401e5d
+2025-02-04 14:27:10,112 - INFO - User user-171441 flagged post post-e05bbb
+2025-02-04 14:27:10,613 - INFO - User user-171441 flagged post post-b82a8f
+2025-02-04 14:27:10,614 - INFO - User #15 reacting to feed, at step 2
+2025-02-04 14:27:10,616 - INFO - Feed reaction prompt token count: 1464
+2025-02-04 14:27:15,361 - INFO - User user-836f9a flagged post post-b82a8f
+2025-02-04 14:27:15,861 - INFO - User user-836f9a flagged post post-e05bbb
+2025-02-04 14:27:16,363 - INFO - User user-836f9a shared post post-6885ed
+2025-02-04 14:27:16,364 - INFO - Feed reaction prompt token count: 1498
+2025-02-04 14:27:20,371 - INFO - User user-b1d6b8 flagged post post-b070d7
+2025-02-04 14:27:20,873 - INFO - User user-b1d6b8 shared post post-fd155a
+2025-02-04 14:27:20,875 - INFO - Feed reaction prompt token count: 1516
+2025-02-04 14:27:24,341 - INFO - User user-c58e01 shared post post-8bd304
+2025-02-04 14:27:24,842 - INFO - User user-c58e01 flagged post post-b82a8f
+2025-02-04 14:27:30,738 - INFO - Feed reaction prompt token count: 1528
+2025-02-04 14:27:38,410 - INFO - User user-f219e9 liked post post-931c12
+2025-02-04 14:27:38,911 - INFO - User user-f219e9 flagged post post-401e5d
+2025-02-04 14:27:39,412 - INFO - User user-f219e9 flagged post post-e05bbb
+2025-02-04 14:27:39,914 - INFO - User user-f219e9 shared post post-cd467f
+2025-02-04 14:27:45,534 - INFO - Feed reaction prompt token count: 1530
+2025-02-04 14:27:51,411 - INFO - User user-541ea9 flagged post post-b82a8f
+2025-02-04 14:27:51,912 - INFO - User user-541ea9 flagged post post-e05bbb
+2025-02-04 14:27:52,413 - INFO - User user-541ea9 liked post post-931c12
+2025-02-04 14:27:52,414 - INFO - User #20 reacting to feed, at step 2
+2025-02-04 14:27:52,416 - INFO - Feed reaction prompt token count: 1344
+2025-02-04 14:27:58,521 - INFO - User user-f6e348 flagged post post-e05bbb
+2025-02-04 14:27:59,022 - INFO - User user-f6e348 flagged post post-401e5d
+2025-02-04 14:27:59,523 - INFO - User user-f6e348 flagged post post-b82a8f
+2025-02-04 14:27:59,525 - INFO - Feed reaction prompt token count: 1555
+2025-02-04 14:28:03,505 - INFO - User user-afeadb shared post post-c8be96
+2025-02-04 14:28:04,005 - INFO - User user-afeadb flagged post post-401e5d
+2025-02-04 14:28:09,341 - INFO - Feed reaction prompt token count: 1404
+2025-02-04 14:28:13,573 - INFO - User user-ccab08 flagged post post-b82a8f
+2025-02-04 14:28:14,075 - INFO - User user-ccab08 shared post post-931c12
+2025-02-04 14:28:18,351 - INFO - Feed reaction prompt token count: 1458
+2025-02-04 14:28:22,547 - INFO - User user-4ba27f liked post post-2a7d17
+2025-02-04 14:28:23,049 - INFO - User user-4ba27f shared post post-d2ee9b
+2025-02-04 14:28:23,050 - WARNING - Invalid target:  for action: flag-post
+2025-02-04 14:28:30,968 - INFO - News ID post-cd467f spread metrics - Views: 24, Depth: 2, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,968 - INFO - News ID post-d2ee9b spread metrics - Views: 24, Depth: 3, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,969 - INFO - News ID post-6c23e7 spread metrics - Views: 24, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,969 - INFO - News ID post-d0b517 spread metrics - Views: 24, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,970 - INFO - News ID post-386424 spread metrics - Views: 24, Depth: 5, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,970 - INFO - News ID post-401e5d spread metrics - Views: 24, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,971 - INFO - News ID post-3b35d8 spread metrics - Views: 24, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,971 - INFO - News ID post-b82a8f spread metrics - Views: 24, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,972 - INFO - News ID post-e05bbb spread metrics - Views: 24, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,972 - INFO - News ID post-b070d7 spread metrics - Views: 24, Depth: 5, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:28:30,982 - INFO - 
+2025-02-04 14:28:30,982 - INFO - Time step: 3
+2025-02-04 14:28:30,988 - INFO - News Agent agentverse_news created a post: post-a14a61 | NEWS: BBC News published a graphic that shows how Ukrainian President Volodymyr Zelensky and other Ukrainian politicians made millions of dollars by misusing funds that the U.S. and other countries sent to Ukraine during the Russia-Ukraine war.
+2025-02-04 14:28:31,000 - INFO - News Agent agentverse_news created a post: post-f096b3 | NEWS: After nearly two days of outages–longer than TikTok itself was down in the U.S.–developer Second Dinner says changes are being made to avoid Snap being caught by future potential action against Bytedance.
+2025-02-04 14:28:31,005 - INFO - News Agent agentverse_news created a post: post-03e305 | NEWS: COVID-19 vaccines will contain aborted human fetal tissue.
+2025-02-04 14:28:31,010 - INFO - News Agent agentverse_news created a post: post-099387 | NEWS: Investors with advance notice of the Oct. 7, 2023, Hamas attacks made hundreds of millions of dollars shorting Israel-related stocks.
+2025-02-04 14:28:31,015 - INFO - News Agent agentverse_news created a post: post-0a6641 | NEWS: Studies have shown that ventilators were the real cause of deaths of nearly all hospitalized COVID-19 patients. &nbsp;
+2025-02-04 14:28:31,015 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 14:28:31,015 - INFO - Injected news post (ID: ['post-a14a61', 'post-f096b3', 'post-03e305', 'post-099387', 'post-0a6641']) at step 3
+2025-02-04 14:28:31,016 - INFO - Generated 20 agent configurations using file method
+2025-02-04 14:28:31,118 - INFO - Added user user-c850fe to database with 22 background labels.
+2025-02-04 14:28:31,118 - INFO - Added new user user-c850fe to the simulation
+2025-02-04 14:28:31,219 - INFO - Added user user-612fe3 to database with 22 background labels.
+2025-02-04 14:28:31,219 - INFO - Added new user user-612fe3 to the simulation
+2025-02-04 14:28:31,220 - INFO - Added 2 new users to the simulation
+2025-02-04 14:28:31,220 - INFO - User #0 reacting to feed, at step 3
+2025-02-04 14:28:31,223 - INFO - Feed reaction prompt token count: 1654
+2025-02-04 14:28:35,165 - INFO - User user-a5006c flagged post post-0a6641
+2025-02-04 14:28:35,666 - INFO - User user-a5006c shared post post-b070d7
+2025-02-04 14:28:39,198 - INFO - Feed reaction prompt token count: 1656
+2025-02-04 14:28:45,734 - INFO - User user-91ee77 liked post post-2a8983
+2025-02-04 14:28:46,236 - INFO - User user-91ee77 flagged post post-0a6641
+2025-02-04 14:28:46,737 - INFO - User user-91ee77 flagged post post-03e305
+2025-02-04 14:28:51,269 - INFO - Feed reaction prompt token count: 1875
+2025-02-04 14:29:01,282 - INFO - Retrying request to /chat/completions in 0.430426 seconds
+2025-02-04 14:29:05,318 - INFO - User user-887f9e shared post post-2a8983
+2025-02-04 14:29:05,819 - INFO - User user-887f9e flagged post post-a14a61
+2025-02-04 14:29:05,823 - INFO - Feed reaction prompt token count: 1828
+2025-02-04 14:29:09,519 - INFO - User user-5141a6 liked post post-85b7b0
+2025-02-04 14:29:10,020 - INFO - User user-5141a6 flagged post post-03e305
+2025-02-04 14:29:14,230 - INFO - Feed reaction prompt token count: 1894
+2025-02-04 14:29:19,257 - INFO - User user-b0fe20 shared post post-85b7b0
+2025-02-04 14:29:19,758 - INFO - User user-b0fe20 flagged post post-03e305
+2025-02-04 14:29:20,260 - INFO - User user-b0fe20 flagged post post-e05bbb
+2025-02-04 14:29:20,260 - INFO - User #5 reacting to feed, at step 3
+2025-02-04 14:29:20,263 - INFO - Feed reaction prompt token count: 1857
+2025-02-04 14:29:27,054 - INFO - User user-fac5c2 flagged post post-03e305
+2025-02-04 14:29:27,556 - INFO - User user-fac5c2 flagged post post-0a6641
+2025-02-04 14:29:28,057 - INFO - User user-fac5c2 liked post post-f096b3
+2025-02-04 14:29:28,058 - WARNING - Invalid target:  post-d2ee9b  for action: share-post
+2025-02-04 14:29:28,060 - INFO - Feed reaction prompt token count: 1827
+2025-02-04 14:29:33,061 - INFO - User user-3ebb97 shared post post-2a3576
+2025-02-04 14:29:33,562 - INFO - User user-3ebb97 flagged post post-0a6641
+2025-02-04 14:29:34,062 - INFO - User user-3ebb97 flagged post post-03e305
+2025-02-04 14:29:34,066 - INFO - Feed reaction prompt token count: 1837
+2025-02-04 14:29:38,621 - INFO - User user-5e4216 shared post post-b4d035
+2025-02-04 14:29:39,122 - INFO - User user-5e4216 flagged post post-0a6641
+2025-02-04 14:29:39,623 - INFO - User user-5e4216 flagged post post-a14a61
+2025-02-04 14:29:39,627 - INFO - Feed reaction prompt token count: 1869
+2025-02-04 14:29:43,715 - INFO - User user-59f852 liked post post-1550db
+2025-02-04 14:29:44,217 - INFO - User user-59f852 flagged post post-03e305
+2025-02-04 14:29:44,718 - INFO - User user-59f852 flagged post post-a14a61
+2025-02-04 14:29:48,379 - INFO - Feed reaction prompt token count: 1905
+2025-02-04 14:29:53,128 - INFO - User user-287433 shared post post-1550db
+2025-02-04 14:29:53,629 - INFO - User user-287433 flagged post post-099387
+2025-02-04 14:29:53,630 - INFO - User #10 reacting to feed, at step 3
+2025-02-04 14:29:53,633 - INFO - Feed reaction prompt token count: 1921
+2025-02-04 14:29:59,071 - INFO - User user-268163 flagged post post-0a6641
+2025-02-04 14:29:59,572 - INFO - User user-268163 flagged post post-03e305
+2025-02-04 14:30:00,074 - INFO - User user-268163 liked post post-cd467f
+2025-02-04 14:30:03,808 - INFO - Feed reaction prompt token count: 1809
+2025-02-04 14:30:10,134 - INFO - User user-5dae71 liked post post-20c151
+2025-02-04 14:30:10,635 - INFO - User user-5dae71 flagged post post-0a6641
+2025-02-04 14:30:11,136 - INFO - User user-5dae71 flagged post post-a14a61
+2025-02-04 14:30:11,139 - INFO - Feed reaction prompt token count: 1713
+2025-02-04 14:30:16,325 - INFO - User user-d8696d liked post post-20c151
+2025-02-04 14:30:16,826 - INFO - User user-d8696d flagged post post-03e305
+2025-02-04 14:30:16,827 - WARNING - Invalid target:  post-cd467f  for action: share-post
+2025-02-04 14:30:19,544 - INFO - Feed reaction prompt token count: 1863
+2025-02-04 14:30:25,065 - INFO - User user-d2df85 shared post post-20c151
+2025-02-04 14:30:25,566 - INFO - User user-d2df85 flagged post post-03e305
+2025-02-04 14:30:26,067 - INFO - User user-d2df85 flagged post post-0a6641
+2025-02-04 14:30:26,069 - INFO - Feed reaction prompt token count: 1884
+2025-02-04 14:30:36,083 - INFO - Retrying request to /chat/completions in 0.412120 seconds
+2025-02-04 14:30:41,504 - INFO - User user-171441 liked post post-009a39
+2025-02-04 14:30:42,005 - INFO - User user-171441 flagged post post-099387
+2025-02-04 14:30:42,507 - INFO - User user-171441 flagged post post-a14a61
+2025-02-04 14:30:47,456 - INFO - User #15 reacting to feed, at step 3
+2025-02-04 14:30:47,459 - INFO - Feed reaction prompt token count: 1894
+2025-02-04 14:30:53,923 - INFO - User user-836f9a shared post post-009a39
+2025-02-04 14:30:54,424 - INFO - User user-836f9a flagged post post-0a6641
+2025-02-04 14:30:54,926 - INFO - User user-836f9a flagged post post-03e305
+2025-02-04 14:30:59,167 - INFO - Feed reaction prompt token count: 1878
+2025-02-04 14:31:09,183 - INFO - User user-b1d6b8 flagged post post-1b47cd
+2025-02-04 14:31:09,684 - INFO - User user-b1d6b8 flagged post post-009a39
+2025-02-04 14:31:10,185 - INFO - User user-b1d6b8 flagged post post-20c151
+2025-02-04 14:31:10,185 - WARNING - Invalid target: comment-x5667s for action: like-comment
+2025-02-04 14:31:15,667 - INFO - Feed reaction prompt token count: 1885
+2025-02-04 14:31:20,439 - INFO - User user-c58e01 liked post post-1b47cd
+2025-02-04 14:31:20,940 - INFO - User user-c58e01 flagged post post-099387
+2025-02-04 14:31:21,441 - INFO - User user-c58e01 flagged post post-a14a61
+2025-02-04 14:31:21,445 - INFO - Feed reaction prompt token count: 1888
+2025-02-04 14:31:26,777 - INFO - User user-f219e9 liked post post-1b47cd
+2025-02-04 14:31:27,278 - INFO - User user-f219e9 flagged post post-0a6641
+2025-02-04 14:31:27,779 - INFO - User user-f219e9 flagged post post-03e305
+2025-02-04 14:31:27,782 - INFO - Feed reaction prompt token count: 1923
+2025-02-04 14:31:32,527 - INFO - User user-541ea9 flagged post post-099387
+2025-02-04 14:31:33,028 - INFO - User user-541ea9 shared post post-f096b3
+2025-02-04 14:31:33,529 - INFO - User user-541ea9 flagged post post-a14a61
+2025-02-04 14:31:37,058 - INFO - User #20 reacting to feed, at step 3
+2025-02-04 14:31:37,061 - INFO - Feed reaction prompt token count: 1716
+2025-02-04 14:31:41,746 - INFO - User user-f6e348 flagged post post-03e305
+2025-02-04 14:31:42,247 - INFO - User user-f6e348 flagged post post-0a6641
+2025-02-04 14:31:42,749 - INFO - User user-f6e348 shared post post-fdbbb4
+2025-02-04 14:31:47,051 - INFO - Feed reaction prompt token count: 1911
+2025-02-04 14:31:52,124 - INFO - User user-afeadb flagged post post-03e305
+2025-02-04 14:31:52,625 - INFO - User user-afeadb flagged post post-0a6641
+2025-02-04 14:31:53,126 - INFO - User user-afeadb shared post post-cd467f
+2025-02-04 14:31:53,129 - INFO - Feed reaction prompt token count: 1719
+2025-02-04 14:31:56,895 - INFO - User user-ccab08 flagged post post-03e305
+2025-02-04 14:31:57,396 - INFO - User user-ccab08 shared post post-b070d7
+2025-02-04 14:32:01,661 - INFO - Feed reaction prompt token count: 1771
+2025-02-04 14:32:11,674 - INFO - Retrying request to /chat/completions in 0.447409 seconds
+2025-02-04 14:32:16,149 - INFO - User user-4ba27f liked post post-b2893c
+2025-02-04 14:32:16,651 - INFO - User user-4ba27f flagged post post-0a6641
+2025-02-04 14:32:17,152 - INFO - User user-4ba27f shared post post-d2ee9b
+2025-02-04 14:32:17,155 - INFO - Feed reaction prompt token count: 1689
+2025-02-04 14:32:21,205 - INFO - User user-c850fe shared post post-b2893c
+2025-02-04 14:32:21,706 - INFO - User user-c850fe flagged post post-0a6641
+2025-02-04 14:32:22,207 - INFO - User user-c850fe flagged post post-cd467f
+2025-02-04 14:32:22,208 - INFO - User #25 reacting to feed, at step 3
+2025-02-04 14:32:22,211 - INFO - Feed reaction prompt token count: 1707
+2025-02-04 14:32:27,952 - INFO - User user-612fe3 liked post post-e58b53
+2025-02-04 14:32:28,454 - INFO - User user-612fe3 flagged post post-03e305
+2025-02-04 14:32:28,955 - INFO - User user-612fe3 flagged post post-a14a61
+2025-02-04 14:32:28,955 - WARNING - Invalid target: community note on post-a14a61  for action: rate-note
+2025-02-04 14:32:28,956 - INFO - News ID post-cd467f spread metrics - Views: 26, Depth: 2, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,957 - INFO - News ID post-d2ee9b spread metrics - Views: 26, Depth: 3, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,957 - INFO - News ID post-6c23e7 spread metrics - Views: 26, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,957 - INFO - News ID post-d0b517 spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,957 - INFO - News ID post-386424 spread metrics - Views: 26, Depth: 5, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,958 - INFO - News ID post-401e5d spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,958 - INFO - News ID post-3b35d8 spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,958 - INFO - News ID post-b82a8f spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,958 - INFO - News ID post-e05bbb spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,958 - INFO - News ID post-b070d7 spread metrics - Views: 26, Depth: 8, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,959 - INFO - News ID post-a14a61 spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,959 - INFO - News ID post-f096b3 spread metrics - Views: 26, Depth: 2, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,959 - INFO - News ID post-03e305 spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,959 - INFO - News ID post-099387 spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,959 - INFO - News ID post-0a6641 spread metrics - Views: 26, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-04 14:32:28,962 - INFO - 
+2025-02-04 14:32:28,962 - INFO - Time step: 4
+2025-02-04 14:32:28,964 - INFO - News Agent agentverse_news created a post: post-cd7c93 | NEWS: Stacey Abrams, the Democratic candidate for Georgia governor in 2018, owns and finances Happy Faces, an employment firm that supplied temporary workers who counted votes in the 2020 elections and the Senate runoffs in Fulton County, Georgia.
+2025-02-04 14:32:28,969 - INFO - News Agent agentverse_news created a post: post-8463aa | NEWS: Samsung is offering a $50 credit if you preregister to purchase the new devices it’s announcing at its Galaxy Unpacked event on January 22nd.
+2025-02-04 14:32:28,971 - INFO - News Agent agentverse_news created a post: post-84b0f8 | NEWS: COVID-19 vaccines caused the mortality rate to increase among vaccinated people in Japan.
+2025-02-04 14:32:28,973 - INFO - News Agent agentverse_news created a post: post-17eea8 | NEWS: Data from Germany’s Paul Ehrlich Institute shows that as of May 2021, one in every 56,400 vaccinated people had died during Germany’s mass vaccination campaign, which is three times more than the number of unvaccinated children who had died after contracting COVID-19. This means that children are three times more likely to die from the COVID-19 vaccine than from the disease.
+2025-02-04 14:32:28,978 - INFO - News Agent agentverse_news created a post: post-d083ce | NEWS: io9 pays tribute to departed creative who left a mark on genre entertainment.
+2025-02-04 14:32:28,978 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 14:32:28,978 - INFO - Injected news post (ID: ['post-cd7c93', 'post-8463aa', 'post-84b0f8', 'post-17eea8', 'post-d083ce']) at step 4
+2025-02-04 14:32:28,978 - INFO - Generated 19 agent configurations using file method
+2025-02-04 14:32:29,079 - INFO - Added user user-6078be to database with 22 background labels.
+2025-02-04 14:32:29,080 - INFO - Added new user user-6078be to the simulation
+2025-02-04 14:32:29,181 - INFO - Added user user-a82366 to database with 22 background labels.
+2025-02-04 14:32:29,181 - INFO - Added new user user-a82366 to the simulation
+2025-02-04 14:32:29,181 - INFO - Added 2 new users to the simulation
+2025-02-04 14:32:29,181 - INFO - User #0 reacting to feed, at step 4
+2025-02-04 14:32:29,184 - INFO - Feed reaction prompt token count: 2026
+2025-02-04 14:32:32,560 - INFO - User user-a5006c flagged post post-17eea8
+2025-02-04 14:32:33,061 - INFO - User user-a5006c shared post post-b070d7
+2025-02-04 14:32:37,383 - INFO - Feed reaction prompt token count: 1999
+2025-02-04 14:32:43,149 - INFO - User user-91ee77 liked post post-d736d6
+2025-02-04 14:32:43,650 - INFO - User user-91ee77 flagged post post-84b0f8
+2025-02-04 14:32:44,151 - INFO - User user-91ee77 flagged post post-17eea8
+2025-02-04 14:32:44,154 - INFO - Feed reaction prompt token count: 2221
+2025-02-04 14:32:47,688 - INFO - User user-887f9e shared post post-d736d6
+2025-02-04 14:32:48,189 - INFO - User user-887f9e flagged post post-17eea8
+2025-02-04 14:32:48,193 - INFO - Feed reaction prompt token count: 2172
+2025-02-04 14:32:52,507 - INFO - User user-5141a6 liked post post-7ddf2c
+2025-02-04 14:32:53,008 - INFO - User user-5141a6 flagged post post-17eea8
+2025-02-04 14:32:53,509 - INFO - User user-5141a6 flagged post post-84b0f8
+2025-02-04 14:32:53,513 - INFO - Feed reaction prompt token count: 2194
+2025-02-04 14:33:01,524 - INFO - User user-b0fe20 shared post post-7ddf2c
+2025-02-04 14:33:02,025 - INFO - User user-b0fe20 flagged post post-84b0f8
+2025-02-04 14:33:02,526 - INFO - User user-b0fe20 flagged post post-a14a61
+2025-02-04 14:33:10,377 - INFO - User #5 reacting to feed, at step 4
+2025-02-04 14:33:10,381 - INFO - Feed reaction prompt token count: 2188
+2025-02-04 14:33:15,035 - INFO - User user-fac5c2 liked post post-12243e
+2025-02-04 14:33:15,536 - INFO - User user-fac5c2 flagged post post-17eea8
+2025-02-04 14:33:16,037 - INFO - User user-fac5c2 flagged post post-cd7c93
+2025-02-04 14:33:19,836 - INFO - Feed reaction prompt token count: 2152
+2025-02-04 14:33:24,535 - INFO - User user-3ebb97 shared post post-12243e
+2025-02-04 14:33:25,036 - INFO - User user-3ebb97 flagged post post-84b0f8
+2025-02-04 14:33:25,537 - INFO - User user-3ebb97 flagged post post-17eea8
+2025-02-04 14:33:31,294 - INFO - Feed reaction prompt token count: 2126
+2025-02-04 14:33:35,649 - INFO - User user-5e4216 shared post post-34c095
+2025-02-04 14:33:36,150 - INFO - User user-5e4216 flagged post post-d0b517
+2025-02-04 14:33:36,154 - INFO - Feed reaction prompt token count: 2144
+2025-02-04 14:33:41,458 - INFO - User user-59f852 liked post post-35306c
+2025-02-04 14:33:41,959 - INFO - User user-59f852 flagged post post-84b0f8
+2025-02-04 14:33:42,460 - INFO - User user-59f852 flagged post post-cd7c93
+2025-02-04 14:33:42,464 - INFO - Feed reaction prompt token count: 2196
+2025-02-04 14:33:51,167 - INFO - User user-287433 shared post post-35306c
+2025-02-04 14:33:51,668 - INFO - User user-287433 flagged post post-cd7c93
+2025-02-04 14:33:52,169 - INFO - User user-287433 flagged post post-17eea8
+2025-02-04 14:33:57,232 - INFO - User #10 reacting to feed, at step 4
+2025-02-04 14:33:57,236 - INFO - Feed reaction prompt token count: 2235
+2025-02-04 14:34:02,012 - INFO - User user-268163 liked post post-1dfc26
+2025-02-04 14:34:02,514 - INFO - User user-268163 flagged post post-17eea8
+2025-02-04 14:34:03,015 - INFO - User user-268163 shared post post-d083ce
+2025-02-04 14:34:03,019 - INFO - Feed reaction prompt token count: 2098
+2025-02-04 14:34:08,612 - INFO - User user-5dae71 liked post post-1dfc26
+2025-02-04 14:34:09,113 - INFO - User user-5dae71 flagged post post-17eea8
+2025-02-04 14:34:09,614 - INFO - User user-5dae71 flagged post post-cd7c93
+2025-02-04 14:34:09,614 - WARNING - Invalid target:  for action: rate-note
+2025-02-04 14:34:14,727 - INFO - Feed reaction prompt token count: 2020
+2025-02-04 14:34:21,781 - INFO - User user-d8696d liked post post-1dfc26
+2025-02-04 14:34:22,282 - INFO - User user-d8696d flagged post post-cd7c93
+2025-02-04 14:34:22,282 - WARNING - Invalid target:  for action: share-post
+2025-02-04 14:34:26,242 - INFO - Feed reaction prompt token count: 2174
+2025-02-04 14:34:33,161 - INFO - User user-d2df85 flagged post post-84b0f8
+2025-02-04 14:34:33,662 - INFO - User user-d2df85 flagged post post-cd7c93
+2025-02-04 14:34:34,163 - INFO - User user-d2df85 shared post post-b070d7
+2025-02-04 14:34:42,166 - INFO - Feed reaction prompt token count: 2150
+2025-02-04 14:34:47,074 - INFO - User user-171441 liked post post-48bf11
+2025-02-04 14:34:47,575 - INFO - User user-171441 flagged post post-cd7c93
+2025-02-04 14:34:48,076 - INFO - User user-171441 flagged post post-84b0f8
+2025-02-04 14:34:48,077 - INFO - User #15 reacting to feed, at step 4
+2025-02-04 14:34:48,080 - INFO - Feed reaction prompt token count: 2114
+2025-02-04 14:34:54,780 - INFO - User user-836f9a shared post post-48bf11
+2025-02-04 14:34:55,281 - INFO - User user-836f9a flagged post post-84b0f8
+2025-02-04 14:34:55,282 - WARNING - Invalid target: post-cd7c93  for action: flag-post
+2025-02-04 14:34:59,012 - INFO - Feed reaction prompt token count: 2127
+2025-02-04 14:35:05,013 - INFO - User user-b1d6b8 flagged post post-18e3ae
+2025-02-04 14:35:05,514 - INFO - User user-b1d6b8 flagged post post-48bf11
+2025-02-04 14:35:06,015 - INFO - User user-b1d6b8 shared post post-d2ee9b
+2025-02-04 14:35:06,018 - INFO - Feed reaction prompt token count: 2198
+2025-02-04 14:35:11,781 - INFO - User user-c58e01 shared post post-ef8562
+2025-02-04 14:35:12,282 - INFO - User user-c58e01 liked post post-18e3ae
+2025-02-04 14:35:12,784 - INFO - User user-c58e01 flagged post post-cd7c93
+2025-02-04 14:35:13,285 - INFO - User user-c58e01 flagged post post-e05bbb
+2025-02-04 14:35:13,289 - INFO - Feed reaction prompt token count: 2185
+2025-02-04 14:35:18,583 - INFO - User user-f219e9 liked post post-18e3ae
+2025-02-04 14:35:19,085 - INFO - User user-f219e9 flagged post post-84b0f8
+2025-02-04 14:35:19,089 - INFO - Feed reaction prompt token count: 2169
+2025-02-04 14:35:23,294 - INFO - User user-541ea9 liked post post-18e3ae
+2025-02-04 14:35:23,795 - INFO - User user-541ea9 shared post post-bff1e3
+2025-02-04 14:35:24,296 - INFO - User user-541ea9 flagged post post-17eea8
+2025-02-04 14:35:24,297 - INFO - User #20 reacting to feed, at step 4
+2025-02-04 14:35:24,300 - INFO - Feed reaction prompt token count: 1983
+2025-02-04 14:35:29,739 - INFO - User user-f6e348 shared post post-d2ee9b
+2025-02-04 14:35:30,240 - INFO - User user-f6e348 flagged post post-17eea8
+2025-02-04 14:35:30,741 - INFO - User user-f6e348 flagged post post-a14a61
+2025-02-04 14:35:30,746 - INFO - Feed reaction prompt token count: 2221
+2025-02-04 14:35:34,270 - INFO - User user-afeadb flagged post post-17eea8
+2025-02-04 14:35:34,772 - INFO - User user-afeadb shared post post-b070d7
+2025-02-04 14:35:34,775 - INFO - Feed reaction prompt token count: 2097
+2025-02-04 14:35:44,789 - INFO - Retrying request to /chat/completions in 0.422816 seconds
+2025-02-04 14:35:50,973 - INFO - User user-ccab08 liked post post-0a8ca3
+2025-02-04 14:35:51,474 - INFO - User user-ccab08 flagged post post-17eea8
+2025-02-04 14:35:51,975 - INFO - User user-ccab08 shared post post-cd467f
+2025-02-04 14:35:51,978 - INFO - Feed reaction prompt token count: 2161
+2025-02-04 14:35:56,700 - INFO - User user-4ba27f liked post post-b523ea
+2025-02-04 14:35:57,201 - INFO - User user-4ba27f flagged post post-17eea8
+2025-02-04 14:35:57,703 - INFO - User user-4ba27f shared post post-d083ce
+2025-02-04 14:36:01,338 - INFO - Feed reaction prompt token count: 2082
+2025-02-04 14:36:07,014 - INFO - User user-c850fe shared post post-4500fe
+2025-02-04 14:36:07,515 - INFO - User user-c850fe flagged post post-b523ea
+2025-02-04 14:36:08,016 - INFO - User user-c850fe liked post post-0a8ca3
+2025-02-04 14:36:08,017 - WARNING - Invalid target:  for action: flag-post
+2025-02-04 14:36:19,939 - INFO - User #25 reacting to feed, at step 4
+2025-02-04 14:36:19,943 - INFO - Feed reaction prompt token count: 2036
+2025-02-04 14:36:25,163 - WARNING - Invalid target: post-86b0f8 for action: flag-post
+2025-02-04 14:36:25,664 - INFO - User user-612fe3 liked post post-b070d7
+2025-02-04 14:36:26,165 - INFO - User user-612fe3 shared post post-d2ee9b
+2025-02-04 14:36:26,169 - INFO - Feed reaction prompt token count: 1887
+2025-02-04 14:36:29,489 - INFO - User user-6078be flagged post post-17eea8
+2025-02-04 14:36:29,991 - INFO - User user-6078be shared post post-b070d7
+2025-02-04 14:36:33,205 - INFO - Feed reaction prompt token count: 1942

@@ -1,0 +1,37 @@
+2025-02-17 23:27:33,978 - INFO - Starting simulation with 3 users for 5 time steps using gpt-4o...
+2025-02-17 23:27:34,986 - INFO - Resetting database...
+2025-02-17 23:27:34,991 - INFO - Existing database removed.
+2025-02-17 23:27:35,006 - INFO - Database tables created successfully.
+2025-02-17 23:27:35,006 - INFO - New tables created.
+2025-02-17 23:27:35,011 - INFO - Generated 3 agent configurations using file method
+2025-02-17 23:27:35,011 - INFO - Creating 3 users
+2025-02-17 23:27:35,012 - INFO - Added user user-dd5e08 to database with 22 background labels.
+2025-02-17 23:27:35,014 - INFO - Added user user-ac7d45 to database with 22 background labels.
+2025-02-17 23:27:35,014 - INFO - Added user user-15be6a to database with 22 background labels.
+2025-02-17 23:27:35,015 - INFO - Total users in database after creation: 3
+2025-02-17 23:27:35,048 - INFO - Time step: 1
+2025-02-17 23:27:35,054 - INFO - News Agent agentverse_news created a post: post-27db5c | NEWS: The U.S. Food and Drug Administration (FDA) has endorsed treating COVID-19 with the anti-parasitic medication ivermectin.
+2025-02-17 23:27:35,064 - INFO - News Agent agentverse_news created a post: post-4dc9f6 | NEWS: Germany's foreign minister accused Moscow of "deploying a fleet of rusty tankers" to avoid sanctions.
+2025-02-17 23:27:35,068 - INFO - News Agent agentverse_news created a post: post-b5a794 | NEWS: A meningitis vaccine funded and promoted by the Bill and Melinda Gates Foundation produced a severe reaction among children in the village of Gouro, Chad, causing severe pain, convulsions, hallucinations, and leaving approximately 50 of them paralyzed. Rather than investigate the vaccine that caused the problem, government officials attempted to silence the parents of the affected children to keep them from publicizing the vaccine’s side effects.
+2025-02-17 23:27:35,073 - INFO - News Agent agentverse_news created a post: post-683f1a | NEWS: Gibraltar saw a surge in deaths since its government began vaccinating the population with the Pfizer-BioNTech vaccine. At least 53 deaths were caused by or linked to the COVID-19 vaccine in Gibraltar. These cases were falsely registered as COVID-19 deaths. Fabian Picardo, the head of Gibraltar's government, is committing mass genocide by refusing to address this issue.
+2025-02-17 23:27:35,084 - INFO - News Agent agentverse_news created a post: post-4f563f | NEWS: The 30th anniversary of the Mexican Rodeo Extravaganza at the National Western Stock Show is a celebration of pageantry and cultural heritage.
+2025-02-17 23:27:35,088 - INFO - News Agent agentverse_news created a post: post-0b9e79 | NEWS: A person experiencing a heart attack can increase their chances of survival by coughing repeatedly and vigorously until their heart is beating normally.
+2025-02-17 23:27:35,097 - INFO - News Agent agentverse_news created a post: post-c664d7 | NEWS: Mark Gurman at Bloomberg has released a report about Meta's next steps in hardware, crediting sources familiar with the company's work. According to these insiders, Meta is developing at least three new smart glasses models and has set a roadmap toward releas…
+2025-02-17 23:27:35,101 - INFO - News Agent agentverse_news created a post: post-fbcdce | NEWS: The Ukrainian Armed Forces seized a United Nations office in Kramatorsk, in Donetsk. The armed forces also seized three official UN cars with diplomatic license plates.
+2025-02-17 23:27:35,105 - INFO - News Agent agentverse_news created a post: post-4a3ae1 | NEWS: Ukrainian pharmaceutical company Microkhim is testing dangerous drugs on local residents in the eastern Ukrainian region of Lugansk.
+2025-02-17 23:27:35,114 - INFO - News Agent agentverse_news created a post: post-afc9e7 | NEWS: Judging by CES 2025, there’s little ‘augmented reality’ about the AR glasses available today.
+2025-02-17 23:27:35,114 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-17 23:27:35,114 - INFO - Injected news post (ID: ['post-27db5c', 'post-4dc9f6', 'post-b5a794', 'post-683f1a', 'post-4f563f', 'post-0b9e79', 'post-c664d7', 'post-fbcdce', 'post-4a3ae1', 'post-afc9e7']) at step 1
+2025-02-17 23:27:35,114 - INFO - Generated 3 agent configurations using file method
+2025-02-17 23:27:35,220 - INFO - Added user user-432fec to database with 22 background labels.
+2025-02-17 23:27:35,220 - INFO - Added new user user-432fec to the simulation
+2025-02-17 23:27:35,323 - INFO - Added user user-7e66cf to database with 22 background labels.
+2025-02-17 23:27:35,324 - INFO - Added new user user-7e66cf to the simulation
+2025-02-17 23:27:35,324 - INFO - Added 2 new users to the simulation
+2025-02-17 23:27:35,324 - INFO - User #0 reacting to feed, at step 1
+2025-02-17 23:27:35,328 - INFO - Feed reaction prompt token count: 765
+2025-02-17 23:27:39,240 - INFO - User user-dd5e08 flagged post post-b5a794
+2025-02-17 23:27:39,748 - INFO - User user-dd5e08 flagged post post-27db5c
+2025-02-17 23:27:43,403 - INFO - Feed reaction prompt token count: 742
+2025-02-17 23:27:46,265 - INFO - User user-ac7d45 flagged post post-b5a794
+2025-02-17 23:27:46,774 - INFO - User user-ac7d45 flagged post post-27db5c

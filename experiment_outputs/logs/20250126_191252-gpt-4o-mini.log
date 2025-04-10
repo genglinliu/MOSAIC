@@ -1,0 +1,32 @@
+2025-01-26 19:12:52,338 - INFO - Starting simulation with 3 users for 20 time steps using gpt-4o-mini...
+2025-01-26 19:12:53,338 - INFO - Resetting database...
+2025-01-26 19:12:53,339 - INFO - Existing database removed.
+2025-01-26 19:12:53,344 - INFO - Database tables created successfully.
+2025-01-26 19:12:53,344 - INFO - New tables created.
+2025-01-26 19:12:53,345 - INFO - Generated 3 agent configurations using file method
+2025-01-26 19:12:53,345 - INFO - Creating 3 users
+2025-01-26 19:12:53,346 - INFO - Added user user-371860 to database with 22 background labels.
+2025-01-26 19:12:53,348 - INFO - Added user user-87a017 to database with 22 background labels.
+2025-01-26 19:12:53,348 - INFO - Added user user-e176a5 to database with 22 background labels.
+2025-01-26 19:12:53,349 - INFO - Total users in database after creation: 3
+2025-01-26 19:12:53,369 - INFO - Time step: 1
+2025-01-26 19:12:53,369 - INFO - Generated 3 agent configurations using file method
+2025-01-26 19:12:53,470 - INFO - Added user user-4d32c7 to database with 22 background labels.
+2025-01-26 19:12:53,470 - INFO - Added new user user-4d32c7 to the simulation
+2025-01-26 19:12:53,572 - INFO - Added user user-2827b1 to database with 22 background labels.
+2025-01-26 19:12:53,572 - INFO - Added new user user-2827b1 to the simulation
+2025-01-26 19:12:53,572 - INFO - Added 2 new users to the simulation
+2025-01-26 19:12:53,573 - INFO - User #0 creating post, at step 1
+2025-01-26 19:12:55,948 - INFO - User user-371860 created a post: post-e2c148 | Just wrapped up a marathon gaming session! 🎮 It's amazing how video games can transport you to different worlds, especially when the rural landscape feels so familiar. Sometimes I wonder what lies beyond my little corner of the world—any travel tips for someone craving an adventure? 🌍 #GamingLife #TravelDreams
+2025-01-26 19:12:58,234 - INFO - User user-87a017 created a post: post-320157 | Life is like a beautiful tapestry, woven with experiences from every place I've called home. 🌎✨ Each thread tells a story of growth and connection—especially those rooted in my Hispanic heritage. As I watch friends share their gaming adventures, it reminds me how important it is to explore beyond our familiar corners while cherishing the community that surrounds us. What's one experience or lesson you've gained from stepping outside your comfort zone? #CommunityMatters #CulturalJourney
+2025-01-26 19:12:59,717 - INFO - User user-e176a5 created a post: post-7fffb9 | Just finished my daily workout, and it got me thinking about the beauty of our small town. 🌄 Each hill has its own story to tell—just like all of us! Sometimes I wonder how many life lessons we can learn from simply taking a stroll down memory lane. 
+2025-01-26 19:13:01,796 - INFO - User user-4d32c7 created a post: post-3086d5 | Reflecting on my journey as I navigate this vibrant city, I've realized that every step forward is a chance to embrace the lessons from my past. 🌆✨ Adaptability has been key for me—it's taught me resilience and the beauty of diverse perspectives. Just like how each person’s story adds color to our community tapestry! What new perspective have you gained lately? #GrowthMindset #UrbanLife
+2025-01-26 19:13:03,808 - INFO - User user-2827b1 created a post: post-aad0a3 | There's something magical about gathering with friends and family, sharing stories over a warm meal. It's in those moments I feel most alive! Even as someone who thrives on connections, the deeper conversations often evade me. Anyone else find that perfect blend of laughter and meaningful talks elusive? Let's keep seeking that balance together—life’s too short for small talk! What topic sparks your curiosity these days? #CommunityVibes #DeepConversations
+2025-01-26 19:13:03,808 - INFO - User #0 reacting to feed, at step 1
+2025-01-26 19:13:23,841 - INFO - Retrying request to /chat/completions in 0.456522 seconds
+2025-01-26 19:13:44,321 - INFO - Retrying request to /chat/completions in 0.905833 seconds
+2025-01-26 19:14:27,300 - INFO - Retrying request to /chat/completions in 0.375757 seconds
+2025-01-26 19:14:47,709 - INFO - Retrying request to /chat/completions in 0.875759 seconds
+2025-01-26 19:14:51,330 - INFO - User user-371860 liked post post-aad0a3
+2025-01-26 19:14:51,833 - INFO - User user-371860 commented on post post-7fffb9: Absolutely! Our small town has so many hidden gems, it's like each walk brings back a piece of our past.
+2025-01-26 19:15:14,086 - INFO - Retrying request to /chat/completions in 0.434573 seconds

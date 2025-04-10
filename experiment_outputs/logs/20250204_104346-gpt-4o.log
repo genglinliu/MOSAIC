@@ -1,0 +1,133 @@
+2025-02-04 10:43:46,490 - INFO - Starting simulation with 20 users for 20 time steps using gpt-4o...
+2025-02-04 10:43:47,491 - INFO - Resetting database...
+2025-02-04 10:43:47,491 - INFO - Existing database removed.
+2025-02-04 10:43:47,498 - INFO - Database tables created successfully.
+2025-02-04 10:43:47,498 - INFO - New tables created.
+2025-02-04 10:43:47,499 - INFO - Generated 20 agent configurations using file method
+2025-02-04 10:43:47,499 - INFO - Creating 20 users
+2025-02-04 10:43:47,500 - INFO - Added user user-ad53bc to database with 22 background labels.
+2025-02-04 10:43:47,501 - INFO - Added user user-0607b2 to database with 22 background labels.
+2025-02-04 10:43:47,502 - INFO - Added user user-0265a7 to database with 22 background labels.
+2025-02-04 10:43:47,502 - INFO - Added user user-3bc95d to database with 22 background labels.
+2025-02-04 10:43:47,503 - INFO - Added user user-bed0da to database with 22 background labels.
+2025-02-04 10:43:47,503 - INFO - Added user user-b4a159 to database with 22 background labels.
+2025-02-04 10:43:47,504 - INFO - Added user user-d5dd71 to database with 22 background labels.
+2025-02-04 10:43:47,504 - INFO - Added user user-5d3334 to database with 22 background labels.
+2025-02-04 10:43:47,505 - INFO - Added user user-64b1d4 to database with 22 background labels.
+2025-02-04 10:43:47,506 - INFO - Added user user-22ece9 to database with 22 background labels.
+2025-02-04 10:43:47,507 - INFO - Added user user-e7c68d to database with 22 background labels.
+2025-02-04 10:43:47,507 - INFO - Added user user-d66d95 to database with 22 background labels.
+2025-02-04 10:43:47,507 - INFO - Added user user-64e6ed to database with 22 background labels.
+2025-02-04 10:43:47,508 - INFO - Added user user-384760 to database with 22 background labels.
+2025-02-04 10:43:47,508 - INFO - Added user user-c4b672 to database with 22 background labels.
+2025-02-04 10:43:47,509 - INFO - Added user user-a8fa9b to database with 22 background labels.
+2025-02-04 10:43:47,509 - INFO - Added user user-ba5b9d to database with 22 background labels.
+2025-02-04 10:43:47,510 - INFO - Added user user-f7d063 to database with 22 background labels.
+2025-02-04 10:43:47,510 - INFO - Added user user-1496e6 to database with 22 background labels.
+2025-02-04 10:43:47,511 - INFO - Added user user-6da912 to database with 22 background labels.
+2025-02-04 10:43:47,511 - INFO - Total users in database after creation: 20
+2025-02-04 10:43:47,530 - INFO - Time step: 1
+2025-02-04 10:43:47,536 - INFO - News Agent agentverse_news created a post: post-099523 | NEWS: Arsenal defender Myles Lewis-Skelly's three-match ban - imposed for his red card at Wolves on Saturday - has been overturned by the Football Association.
+2025-02-04 10:43:47,538 - INFO - News Agent agentverse_news created a post: post-f3e741 | NEWS: A video shows a political advertisement from Vice President Kamala Harris’ campaign running on a billboard in New York’s Times Square and stating, “What’s the point of voting for a candidate who will be assassinated after he wins? Vote for Kamala Harris!” The video was uploaded to Instagram by CNN.
+2025-02-04 10:43:47,540 - INFO - News Agent agentverse_news created a post: post-673003 | NEWS: A document on the FDA website shows that two participants died as a result of “serious adverse events” from an experimental COVID-19 vaccine.
+2025-02-04 10:43:47,542 - INFO - News Agent agentverse_news created a post: post-eebfa3 | NEWS: Video footage of a March 27, 2023, shooting at the Covenant School in Nashville, Tennessee, shows that the shooter was wearing different shoes when entering the school than when police confronted and shot the shooter, proving the event was staged.
+2025-02-04 10:43:47,547 - INFO - News Agent agentverse_news created a post: post-2820a7 | NEWS: Will Elon Musk's Tesla troubles vanish once Trump finds his way back to D.C.?
+2025-02-04 10:43:47,547 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 10:43:47,548 - INFO - Injected news post (ID: ['post-099523', 'post-f3e741', 'post-673003', 'post-eebfa3', 'post-2820a7']) at step 1
+2025-02-04 10:43:47,548 - INFO - Generated 20 agent configurations using file method
+2025-02-04 10:43:47,649 - INFO - Added user user-e412a9 to database with 22 background labels.
+2025-02-04 10:43:47,649 - INFO - Added new user user-e412a9 to the simulation
+2025-02-04 10:43:47,751 - INFO - Added user user-1baffe to database with 22 background labels.
+2025-02-04 10:43:47,751 - INFO - Added new user user-1baffe to the simulation
+2025-02-04 10:43:47,751 - INFO - Added 2 new users to the simulation
+2025-02-04 10:43:47,751 - INFO - User #0 creating post, at step 1
+2025-02-04 10:43:48,253 - INFO - Post generation prompt token count: 738
+2025-02-04 10:43:50,493 - INFO - User user-ad53bc created a post: post-da419b | "Living in a fast-paced urban world can sometimes feel like being on an endless carousel 🎠. Grateful for the arts and crafts that keep me grounded, especially when life feels overwhelming. Balancing compassion with trust is my compass through this whirlwind 🌏✂️ #UrbanLife #ArtAsExpression
+2025-02-04 10:43:50,994 - INFO - Post generation prompt token count: 778
+2025-02-04 10:43:52,603 - INFO - User user-0607b2 created a post: post-722ca4 | "Finding peace in suburban life while keeping an eye on the world's chaos. Trust and community mean everything, especially when navigating this crazy news cycle! 🌍🔍 #BalanceIsKey"
+2025-02-04 10:43:53,105 - INFO - Post generation prompt token count: 814
+2025-02-04 10:44:13,131 - INFO - Retrying request to /chat/completions in 0.412030 seconds
+2025-02-04 10:44:15,330 - INFO - User user-0265a7 created a post: post-d85f39 | 🌾 Living in the quiet of rural landscapes has taught me to trust my instincts, whether I'm climbing trees or navigating life's uncertainties. Today, I find myself reflecting on how far I've come and dreaming about where I'll go next. 🌍 It's incredible that even distant political news like Kamala Harris' campaign can reach us here—a reminder of how interconnected we all are despite our solitude. 
+2025-02-04 10:44:15,832 - INFO - Post generation prompt token count: 770
+2025-02-04 10:44:18,836 - INFO - User user-3bc95d created a post: post-33809d | "Reflecting on my journey, moving to a new country taught me resilience and the power of immediate action in tough times. 🌍 It's wild how each city leaves its mark, shaping who I am today. Also—what's up with all these conspiracy theories popping up lately? 🤔 Let's focus on building communities based on truth and loyalty instead! #UrbanLife #StayTrue"
+2025-02-04 10:44:19,336 - INFO - Post generation prompt token count: 625
+2025-02-04 10:44:22,000 - INFO - User user-bed0da created a post: post-0dfffe | "29 and still rocking my small town roots 🌳✨ Grateful for the deep connections I've made here, blending tradition with my zest for life. It's incredible how much we can achieve by following our own path! Speaking of changing paths, isn't it wild to see all these plot twists in news headlines? Like Arsenal getting a redo on that match or Kamala's bold billboard statement. Here’s to keeping our community conversations vibrant and lively—cheers to new chapters everywhere! 🥂 #SmallTownProud #CommunitySpirit"
+2025-02-04 10:44:22,000 - INFO - User #5 creating post, at step 1
+2025-02-04 10:44:22,501 - INFO - Post generation prompt token count: 762
+2025-02-04 10:44:24,586 - INFO - User user-b4a159 created a post: post-1a111b | "Life's been a wild ride, taking me through so many places and experiences – each shaping who I am today. As much as I love my music sanctuary 🎶, it’s the human connections that truly enrich life. Whether it's football or political debates popping up in our feeds, let's remember to stay grounded in kindness and integrity. Here’s to weaving more tales of growth and understanding! #LifelongLearner #IntegrityFirst"
+2025-02-04 10:44:25,088 - INFO - Post generation prompt token count: 756
+2025-02-04 10:44:27,241 - INFO - User user-d5dd71 created a post: post-dd91b4 | Just spent a serene afternoon diving into the pages of "Don Quixote" while soaking up nature's calmness 🍃📚. It's amazing how literature can offer such rich perspectives without needing flashy billboards in Times Square! In a world filled with sensational headlines, finding solace in simple joys reminds me of what truly matters—family and wisdom. #ReadingInNature #QuietJoy
+2025-02-04 10:44:27,743 - INFO - Post generation prompt token count: 757
+2025-02-04 10:44:29,714 - INFO - User user-5d3334 created a post: post-46443c | "Life in the city is a whirlwind of voices and views, but music keeps me grounded. 🎶 Reflecting on freedom today—whether it's political or personal. It's interesting seeing headlines about politics & tech; they remind us how crucial it is to cherish what truly matters: family, empathy, genuine connections. #LibertyAndHarmony 🌍✨"
+2025-02-04 10:44:30,215 - INFO - Post generation prompt token count: 790
+2025-02-04 10:44:33,170 - INFO - User user-64b1d4 created a post: post-8764fc | "Life's lessons are like a football match: unexpected turns, crucial red cards, and sometimes overturned decisions. ⚽️ As someone who's moved around quite a bit, I've learned that resilience is key—whether you're bouncing back from challenges or celebrating small victories with friends on the field! #SportsLife #ResilienceMatters"
+2025-02-04 10:44:33,672 - INFO - Post generation prompt token count: 754
+2025-02-04 10:44:35,914 - INFO - User user-22ece9 created a post: post-7ca7aa | "Standing on the edge of adulthood with music as my guide 🎶. Each move has taught me that compassion isn't just a word—it's an action, especially in times when uncertainty feels overwhelming. Here's to finding stability and embracing every note of this journey! #GraduationFeels #NewBeginnings 🌟
+2025-02-04 10:44:35,915 - INFO - User #10 creating post, at step 1
+2025-02-04 10:44:36,416 - INFO - Post generation prompt token count: 792
+2025-02-04 10:44:38,318 - INFO - User user-e7c68d created a post: post-f45547 | "City life keeps me on my toes, but sometimes I just need a quiet corner with a good book. 📚 It's wild seeing headlines like those about Kamala Harris and Tesla—reminds me of how much perspective matters in these chaotic times. Also makes you think deeper about freedom and truth, right? #UrbanLife #LibertarianThoughts"
+2025-02-04 10:44:38,820 - INFO - Post generation prompt token count: 756
+2025-02-04 10:44:40,978 - INFO - User user-d66d95 created a post: post-91adff | "Just spent another peaceful morning crafting under the autumn sun ☀️. It's moments like these that remind me of my journey—from hopping countries to finding solace in art and fitness. Life's a colorful mosaic, friends! 🎨 What does your day look like? #GratefulTimes #LifeCanvas"
+2025-02-04 10:44:41,480 - INFO - Post generation prompt token count: 818
+2025-02-04 10:44:43,684 - INFO - User user-64e6ed created a post: post-504d7f | "Reflecting on life's journey while unwinding with my favorite arts and crafts. 🎨✨ It's fascinating how creativity keeps those childhood adventures alive! Also, the buzz around Tesla & politics in D.C. is intriguing—wonder what changes will come? 🤔 #SuburbanLife #CraftyAdventures"
+2025-02-04 10:44:44,186 - INFO - Post generation prompt token count: 822
+2025-02-04 10:44:45,831 - INFO - User user-384760 created a post: post-cec178 | "Life in the urban jungle: where skyscrapers stand tall and adventures happen indoors 🎮. In a world buzzing with news, I find my peace gaming through epic quests—my way of connecting past wild childhood dreams to present-day explorations. Balancing this crazy city life while keeping family at heart is an adventure all its own! 🌆 #GamerAtHeart #FamilyFirst"
+2025-02-04 10:44:46,332 - INFO - Post generation prompt token count: 718
+2025-02-04 10:44:47,387 - INFO - User user-c4b672 created a post: post-e100b4 | "Reflecting on the beauty and challenges of life today. It's a journey filled with uncertainties, yet every moment shapes us in ways we can't always see immediately 🌱 #GrowthMindset
+2025-02-04 10:44:47,387 - INFO - User #15 creating post, at step 1
+2025-02-04 10:44:47,888 - INFO - Post generation prompt token count: 723
+2025-02-04 10:44:50,060 - INFO - User user-a8fa9b created a post: post-87725b | "Just spent a blissful afternoon reading in the garden while soaking up some of that beautiful suburban serenity 🌼📚. It's these simple moments with my family nearby that remind me how much warmth they bring into my life. Speaking of warmth, anyone else think it's time for news that's not as intense and more about community? #FamilyFirst #SimpleJoys"
+2025-02-04 10:44:50,561 - INFO - Post generation prompt token count: 699
+2025-02-04 10:44:53,557 - INFO - User user-ba5b9d created a post: post-371c97 | "Life can sometimes feel like a challenging video game level—full of unexpected twists and turns. But just like in gaming, strategy and adaptability are key! 🎮 Speaking of challenges, caught up with some news today about the overturning of Myles Lewis-Skelly's ban... shows how unpredictable life (and sports) can be. Here's to embracing change even when it's daunting! #LiberalThinking #GamingLife"
+2025-02-04 10:44:54,059 - INFO - Post generation prompt token count: 754
+2025-02-04 10:45:03,250 - INFO - User user-f7d063 created a post: post-389bb2 | Life's been a wild ride, moving countries and all. 🌏 Amidst sports thrills and cozy friend hangouts, I'm reminded how resilience shapes us. 💪 While I steer clear of politics, can't help but notice the buzz around that overturned red card for Myles Lewis-Skelly—justice served! ⚽️ Anyone else finding their groove in this urban dance? #UrbanLiving #CommunityStrength
+2025-02-04 10:45:03,752 - INFO - Post generation prompt token count: 772
+2025-02-04 10:45:06,189 - INFO - User user-1496e6 created a post: post-1e0efa | In a world full of headlines and chaos, I'm reminded that the true wealth lies in connections and community. While my income might be modest, raising a child has taught me what richness really means—love, trust, and faith guiding us through life’s ups and downs. 🌟 Let's cherish those bonds today! #CommunityFirst #UrbanLifeReflections
+2025-02-04 10:45:06,691 - INFO - Post generation prompt token count: 572
+2025-02-04 10:45:07,783 - INFO - User user-6da912 created a post: post-b29890 | "Living amidst the whispers of nature reminds me daily to trust my instincts, just like I did growing up. Each move taught resilience and authenticity in this noisy world 🌲💭 #QuietStrength
+2025-02-04 10:45:07,783 - INFO - User #20 creating post, at step 1
+2025-02-04 10:45:08,284 - INFO - Post generation prompt token count: 760
+2025-02-04 10:45:09,737 - INFO - User user-e412a9 created a post: post-86fef4 | "Living in a small town has its perks, like knowing your neighbors and savoring the little things. But it's also fascinating to see how global events unfold from our cozy corners. It's important to stay informed but keep perspective grounded in community values! 🌍🤝 #SmallTownLife #CommunityFirst"
+2025-02-04 10:45:10,239 - INFO - Post generation prompt token count: 768
+2025-02-04 10:45:12,028 - INFO - User user-1baffe created a post: post-dd7a46 | "Life's been a wild ride from one city to the next, balancing career hustle with epic gaming marathons. 🎮 Amid today's chaos (looking at you, crazy news feed), I'm reminded of how precious our time is and the importance of good laughs & loyal friends. What's keeping you grounded this week? #UrbanAdventures #CherishTheMoment"
+2025-02-04 10:45:12,028 - INFO - User #0 reacting to feed, at step 1
+2025-02-04 10:45:12,031 - INFO - Feed reaction prompt token count: 1209
+2025-02-04 10:45:15,188 - INFO - User user-ad53bc flagged post post-673003
+2025-02-04 10:45:15,690 - INFO - User user-ad53bc liked post post-dd7a46
+2025-02-04 10:45:19,381 - INFO - Feed reaction prompt token count: 1250
+2025-02-04 10:45:22,047 - INFO - User user-0607b2 flagged post post-eebfa3
+2025-02-04 10:45:22,550 - INFO - User user-0607b2 liked post post-86fef4
+2025-02-04 10:45:27,015 - INFO - Feed reaction prompt token count: 1286
+2025-02-04 10:45:30,676 - INFO - User user-0265a7 liked post post-86fef4
+2025-02-04 10:45:31,178 - INFO - User user-0265a7 commented on post post-dd7a46: Staying connected to nature keeps me grounded. How do you find balance in the hustle? 🌿 #NatureLover 
+2025-02-04 10:45:36,306 - INFO - Feed reaction prompt token count: 1272
+2025-02-04 10:45:40,223 - INFO - User user-3bc95d liked post post-dd7a46
+2025-02-04 10:45:40,726 - INFO - User user-3bc95d commented on post post-dd7a46: Been finding balance through arts & crafts lately, such a peaceful escape from the chaos! #CreativeOutlet 🌟 What's your go-to unwind activity?
+2025-02-04 10:45:41,227 - INFO - User user-3bc95d flagged post post-eebfa3
+2025-02-04 10:45:41,231 - INFO - Feed reaction prompt token count: 1171
+2025-02-04 10:45:48,693 - WARNING - Invalid target: post-99bfa3 for action: flag-post
+2025-02-04 10:45:49,195 - INFO - User user-bed0da commented on post post-dd7a46: Being part of the community keeps me grounded. It's all about those shared moments! #CommunityLife 🌟 What's keeping you balanced? 
+2025-02-04 10:45:49,195 - INFO - User #5 reacting to feed, at step 1
+2025-02-04 10:45:49,197 - INFO - Feed reaction prompt token count: 1345
+2025-02-04 10:45:53,303 - INFO - User user-b4a159 flagged post post-eebfa3
+2025-02-04 10:45:53,806 - INFO - User user-b4a159 commented on post post-dd7a46: Music always helps me unwind! It’s my sanctuary when the world gets too noisy. 🎶 What about you? #SoulfulSanctuary
+2025-02-04 10:45:54,308 - INFO - User user-b4a159 liked post post-86fef4
+2025-02-04 10:45:54,311 - INFO - Feed reaction prompt token count: 1342
+2025-02-04 10:45:58,523 - INFO - User user-d5dd71 flagged post post-eebfa3
+2025-02-04 10:45:58,524 - WARNING - Invalid target: comment-user-b4a159 for action: like-comment
+2025-02-04 10:45:59,026 - INFO - User user-d5dd71 commented on post post-86fef4: Living in a small town truly emphasizes community values! Keeps us grounded amid global events 🌍🤝 #CommunityFirst 
+2025-02-04 10:46:04,575 - INFO - Feed reaction prompt token count: 1372
+2025-02-04 10:46:08,049 - INFO - User user-5d3334 commented on post post-dd7a46: Music is also my escape. It helps me navigate the chaos and find peace. What genre do you gravitate towards? #HarmonyInMusic 🎶
+2025-02-04 10:46:08,551 - INFO - User user-5d3334 flagged post post-eebfa3
+2025-02-04 10:46:14,033 - INFO - Feed reaction prompt token count: 1405
+2025-02-04 10:46:18,254 - INFO - User user-64b1d4 liked post post-dd7a46
+2025-02-04 10:46:18,756 - INFO - User user-64b1d4 commented on post post-86fef4: Absolutely agree! Small town living really emphasizes community values, which is so grounding.
+2025-02-04 10:46:19,258 - INFO - User user-64b1d4 flagged post post-eebfa3
+2025-02-04 10:46:19,261 - INFO - Feed reaction prompt token count: 1395
+2025-02-04 10:46:21,855 - WARNING - Invalid target: user-5d3334 for action: like-comment
+2025-02-04 10:46:22,356 - INFO - User user-22ece9 ignored their feed
+2025-02-04 10:46:22,356 - INFO - User user-22ece9 ignored their feed
+2025-02-04 10:46:22,357 - INFO - User #10 reacting to feed, at step 1
+2025-02-04 10:46:22,360 - INFO - Feed reaction prompt token count: 1432
+2025-02-04 10:46:32,373 - INFO - Retrying request to /chat/completions in 0.485821 seconds
+2025-02-04 10:46:42,885 - INFO - Retrying request to /chat/completions in 0.995703 seconds

@@ -1,0 +1,28 @@
+2025-02-01 15:03:42,909 - INFO - Starting simulation with 1 users for 20 time steps using gpt-4o-mini...
+2025-02-01 15:03:43,915 - INFO - Resetting database...
+2025-02-01 15:03:43,916 - INFO - Existing database removed.
+2025-02-01 15:03:43,923 - INFO - Database tables created successfully.
+2025-02-01 15:03:43,923 - INFO - New tables created.
+2025-02-01 15:03:43,927 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:03:43,927 - INFO - Creating 1 users
+2025-02-01 15:03:43,928 - INFO - Added user user-fbf1ea to database with 22 background labels.
+2025-02-01 15:03:43,929 - INFO - Total users in database after creation: 1
+2025-02-01 15:03:43,966 - INFO - Time step: 1
+2025-02-01 15:03:43,975 - INFO - News Agent agentverse_news created a post: post-ca8a9c | BREAKING NEWS: Check out our favorite vehicles from the show floor in Las Vegas.
+2025-02-01 15:03:43,975 - INFO - Injected real news through user agentverse_news
+2025-02-01 15:03:43,976 - INFO - Injected news post (ID: post-ca8a9c) at step 1
+2025-02-01 15:03:43,976 - INFO - Generated 1 agent configurations using file method
+2025-02-01 15:03:44,082 - INFO - Added user user-6e57ec to database with 22 background labels.
+2025-02-01 15:03:44,083 - INFO - Added new user user-6e57ec to the simulation
+2025-02-01 15:03:44,190 - INFO - Added user user-94e198 to database with 22 background labels.
+2025-02-01 15:03:44,190 - INFO - Added new user user-94e198 to the simulation
+2025-02-01 15:03:44,190 - INFO - Added 2 new users to the simulation
+2025-02-01 15:03:44,190 - INFO - User #0 creating post, at step 1
+2025-02-01 15:03:47,350 - INFO - User user-fbf1ea created a post: post-4b96bd | Just wrapped up a game with friends and feeling grateful for the community we've built here. It’s those little moments that remind me how important connection is, especially during uncertain times. And speaking of connections, I saw those new vehicles from Vegas—exciting stuff! Anyone else dreaming about their next ride? 🚗💭 #CommunityFirst #SportsLife
+2025-02-01 15:03:49,581 - INFO - User user-6e57ec created a post: post-f455ff | Navigating life as a modern-day nomad has its challenges, but the beauty of connection keeps me grounded. Every new place is a fresh canvas for friendships and adventures. Sports have been my go-to way to unwind while building that community—nothing like some good competition with friends! Anyone else finding solace in their hobbies lately? 🌍⚽️ #NomadicLife #ConnectionMatters
+2025-02-01 15:03:51,835 - INFO - User user-94e198 created a post: post-fd144e | Exploring new places as a modern-day nomad really puts life into perspective. Each city I’ve lived in has its own rhythm, and it’s fascinating how sports can bridge those gaps—whether it's a friendly match or cheering for local teams with newfound friends. It makes me realize that no matter where we are, connection through shared passions is what truly keeps us grounded. Anyone else feeling the magic of community lately? #GlobalNomad #SportsConnect
+2025-02-01 15:03:51,835 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 15:04:11,850 - INFO - Retrying request to /chat/completions in 0.379055 seconds
+2025-02-01 15:04:32,282 - INFO - Retrying request to /chat/completions in 0.987244 seconds
+2025-02-01 15:04:50,026 - INFO - User user-fbf1ea shared post post-ca8a9c
+2025-02-01 15:04:50,534 - INFO - User user-fbf1ea flagged post post-ca8a9c

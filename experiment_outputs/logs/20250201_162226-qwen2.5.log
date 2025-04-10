@@ -1,0 +1,22 @@
+2025-02-01 16:22:26,954 - INFO - Starting simulation with 2 users for 20 time steps using qwen2.5...
+2025-02-01 16:22:27,956 - INFO - Resetting database...
+2025-02-01 16:22:27,957 - INFO - Existing database removed.
+2025-02-01 16:22:27,966 - INFO - Database tables created successfully.
+2025-02-01 16:22:27,966 - INFO - New tables created.
+2025-02-01 16:22:27,968 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:22:27,968 - INFO - Creating 2 users
+2025-02-01 16:22:27,969 - INFO - Added user user-bbf396 to database with 22 background labels.
+2025-02-01 16:22:27,972 - INFO - Added user user-49ede8 to database with 22 background labels.
+2025-02-01 16:22:27,972 - INFO - Total users in database after creation: 2
+2025-02-01 16:22:27,998 - INFO - Time step: 1
+2025-02-01 16:22:28,009 - INFO - News Agent agentverse_news created a post: post-cd93ec | BREAKING NEWS: Physical media continues to lose favor over the conveniences of digital.
+2025-02-01 16:22:28,009 - INFO - Injected real news through user agentverse_news
+2025-02-01 16:22:28,010 - INFO - Injected news post (ID: post-cd93ec) at step 1
+2025-02-01 16:22:28,010 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:22:28,111 - INFO - Added user user-6d264c to database with 22 background labels.
+2025-02-01 16:22:28,111 - INFO - Added new user user-6d264c to the simulation
+2025-02-01 16:22:28,213 - INFO - Added user user-296eb8 to database with 22 background labels.
+2025-02-01 16:22:28,213 - INFO - Added new user user-296eb8 to the simulation
+2025-02-01 16:22:28,213 - INFO - Added 2 new users to the simulation
+2025-02-01 16:22:28,214 - INFO - User #0 creating post, at step 1
+2025-02-01 16:22:39,777 - INFO - Post generation prompt token count: 584

@@ -1,0 +1,56 @@
+2025-01-31 14:43:44,107 - INFO - Starting simulation with 2 users for 20 time steps using gpt-4o...
+2025-01-31 14:43:45,114 - INFO - Resetting database...
+2025-01-31 14:43:45,115 - INFO - Existing database removed.
+2025-01-31 14:43:45,126 - INFO - Database tables created successfully.
+2025-01-31 14:43:45,127 - INFO - New tables created.
+2025-01-31 14:43:45,132 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:43:45,132 - INFO - Creating 2 users
+2025-01-31 14:43:45,133 - INFO - Added user user-3aced6 to database with 22 background labels.
+2025-01-31 14:43:45,136 - INFO - Added user user-dc8029 to database with 22 background labels.
+2025-01-31 14:43:45,137 - INFO - Total users in database after creation: 2
+2025-01-31 14:43:45,176 - INFO - Time step: 1
+2025-01-31 14:43:45,177 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:43:45,284 - INFO - Added user user-e2beaa to database with 22 background labels.
+2025-01-31 14:43:45,284 - INFO - Added new user user-e2beaa to the simulation
+2025-01-31 14:43:45,391 - INFO - Added user user-8279bc to database with 22 background labels.
+2025-01-31 14:43:45,391 - INFO - Added new user user-8279bc to the simulation
+2025-01-31 14:43:45,391 - INFO - Added 2 new users to the simulation
+2025-01-31 14:43:45,391 - INFO - User #0 creating post, at step 1
+2025-01-31 14:43:47,485 - INFO - User user-3aced6 created a post: post-8b2b34 | Feeling grateful today for all the places life has taken me—from strict beginnings to new countries and cozy suburbs. Each step brought lessons, laughter, and music that keeps my spirit dancing. 🎶 Here's to cherishing moments with friends & family! What's a recent memory that's made you smile? #GratefulHeart
+2025-01-31 14:43:49,894 - INFO - User user-dc8029 created a post: post-78db18 | "Reflecting on life's journey today. From old ties to new horizons, each chapter has brought me closer to understanding what's truly important: faith, family, and honesty. Maybe life isn't about finding yourself but creating who you want to be with every step. How do your experiences shape you? 🌍 #LifeLessons #ModernNomad"
+2025-01-31 14:43:51,962 - INFO - User user-e2beaa created a post: post-de834d | "Life’s a whirlwind of places and stories, each move adding layers to this 'modern-day nomad' adventure. 🌍 From analyzing every twist to finding joy in sports with brilliant friends, it’s the quirky moments that truly matter. How do you blend structure and spontaneity on your journey? #NomadicLiving #FindingBalance"
+2025-01-31 14:43:54,713 - INFO - User user-8279bc created a post: post-e8bf2c | "Embracing the beauty of staying rooted in my small town, where every face tells a story and community is our greatest adventure. 🌟 While some find joy in traveling afar, I've discovered that there's magic right here at home—celebrating heritage and savoring life's moments with those who've known me forever. How do you celebrate your roots while finding new joys? #HomegrownHappiness #CommunityOverDistance"
+2025-01-31 14:43:54,713 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 14:43:58,153 - INFO - User user-3aced6 commented on post post-de834d: As someone who's moved a lot, I find that blending structure and spontaneity helps me adapt while keeping life exciting. How do you keep balance? #MovingJourneys
+2025-01-31 14:44:02,393 - INFO - User user-dc8029 liked post post-de834d
+2025-01-31 14:44:02,899 - INFO - User user-dc8029 commented on post post-8b2b34: Cherishing moments is so important. A recent memory of mine was teaching my child to play soccer—it brought us both joy! #FamilyFirst.
+2025-01-31 14:44:11,698 - INFO - User user-e2beaa liked post post-78db18
+2025-01-31 14:44:12,205 - INFO - User user-e2beaa commented on post post-8b2b34: A recent joyful memory was exploring new trails while hiking. The beauty of nature is always uplifting! 🌿 #NatureLover.
+2025-01-31 14:44:20,076 - INFO - User user-8279bc liked post post-8b2b34
+2025-01-31 14:44:20,581 - INFO - User user-8279bc commented on post post-de834d: Balance comes naturally when you find joy in simple things. For me, it's community gatherings that keep spontaneity alive! 🍂 #CommunityLife.
+2025-01-31 14:44:24,310 - INFO - 
+2025-01-31 14:44:24,310 - INFO - Time step: 2
+2025-01-31 14:44:24,317 - INFO - News Agent agentverse_news created a post: post-d02849 | BREAKING NEWS: Rapper DMX, whose real name is Earl Simmons, died on April 9, 2021, about one week after receiving the COVID-19 vaccine. His death is likely attributable to the vaccine.
+2025-01-31 14:44:24,317 - INFO - Injected fake news through user agentverse_news
+2025-01-31 14:44:24,317 - INFO - Injected news post (ID: post-d02849) at step 2
+2025-01-31 14:44:24,318 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:44:24,424 - INFO - Added user user-c6ecce to database with 22 background labels.
+2025-01-31 14:44:24,425 - INFO - Added new user user-c6ecce to the simulation
+2025-01-31 14:44:24,533 - INFO - Added user user-5c3a39 to database with 22 background labels.
+2025-01-31 14:44:24,534 - INFO - Added new user user-5c3a39 to the simulation
+2025-01-31 14:44:24,534 - INFO - Added 2 new users to the simulation
+2025-01-31 14:44:24,534 - INFO - User #0 creating post, at step 2
+2025-01-31 14:44:26,494 - INFO - User user-3aced6 created a post: post-ad4c1d | Finding balance in a constantly changing world can feel like an art form. 🎨 I've moved numerous times, each place teaching me something new about adaptability and embracing the moment. While I love exploring fresh beginnings, there's nothing quite like returning to familiar faces that make life meaningful. How do you find your rhythm amidst change? #LifeLessons #Adaptability
+2025-01-31 14:44:28,390 - INFO - User user-dc8029 created a post: post-a30d50 | "Amidst all the noise, I find comfort in the quiet moments with my family and on a sports field. Recently shared an unforgettable moment teaching soccer to my child—pure joy! 🌟 In these spaces of calm, I'm reminded of life's simple joys that matter most. What brings you peace? #FamilyMoments #FindingBalance"
+2025-01-31 14:44:30,853 - INFO - User user-e2beaa created a post: post-993bcd | "Reflecting on how each move feeds my curiosity and adaptability, I realize it's the quiet hikes that recharge me. 🌿 Grateful for nature's wisdom in guiding us amidst life's hustle. In a world full of noise, where do you find your tranquility? #NatureHeals #CuriousMind"
+2025-01-31 14:44:33,104 - INFO - User user-8279bc created a post: post-4bb467 | "Reflecting on today's news, it's a reminder to stay grounded and question everything. Amidst the noise, I find solace in our community's strength and shared moments that keep us connected. How do we honor truth while staying united? #CommunityWisdom #StayInformed"
+2025-01-31 14:44:36,175 - INFO - User user-c6ecce created a post: post-5b25a5 | "Navigating life's twists from the peaceful countryside has taught me resilience and gratitude. 📖 Recently, I've been pondering how our roots shape us—whether through nature or nurturing family bonds. Despite the noise around us, let's cherish those quiet moments where we truly connect with who we are. Where do you find your grounding? #RootsAndResilience #FamilyFirst"
+2025-01-31 14:44:36,175 - INFO - User #5 creating post, at step 2
+2025-01-31 14:44:41,536 - INFO - User user-5c3a39 created a post: post-b1877c | "Living amidst the serenity of rural life, I'm reminded daily of how simplicity fuels my soul and nurtures family bonds. Just read that reflecting on our roots can reveal so much about who we are—whether from where we've lived or what we've learned along the way. How do your experiences shape your view? #CountryLifeMusings #RootsAndReflections"
+2025-01-31 14:44:41,536 - INFO - User #0 reacting to feed, at step 2
+2025-01-31 14:44:44,981 - INFO - User user-3aced6 flagged post post-d02849
+2025-01-31 14:44:45,491 - INFO - User user-3aced6 added note to post post-d02849: This claim has been widely debunked. DMX passed away from a heart attack unrelated to the vaccine, as confirmed by multiple reliable sources.
+2025-01-31 14:44:49,481 - INFO - User user-dc8029 flagged post post-d02849
+2025-01-31 14:44:49,992 - INFO - User user-dc8029 rated note note-50447f as helpful
+2025-01-31 14:44:50,500 - INFO - User user-dc8029 liked post post-b1877c
+2025-01-31 14:45:10,520 - INFO - Retrying request to /chat/completions in 0.498442 seconds

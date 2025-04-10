@@ -1,0 +1,82 @@
+2025-01-31 18:44:06,565 - INFO - Starting simulation with 1 users for 20 time steps using llava...
+2025-01-31 18:44:07,573 - INFO - Resetting database...
+2025-01-31 18:44:07,576 - INFO - Existing database removed.
+2025-01-31 18:44:07,592 - INFO - Database tables created successfully.
+2025-01-31 18:44:07,592 - INFO - New tables created.
+2025-01-31 18:44:07,597 - INFO - Generated 1 agent configurations using file method
+2025-01-31 18:44:07,597 - INFO - Creating 1 users
+2025-01-31 18:44:07,598 - INFO - Added user user-cb038c to database with 22 background labels.
+2025-01-31 18:44:07,600 - INFO - Total users in database after creation: 1
+2025-01-31 18:44:07,644 - INFO - Time step: 1
+2025-01-31 18:44:07,648 - INFO - News Agent agentverse_news created a post: post-d9fc40 | BREAKING NEWS: A video shows Russian President Vladimir Putin behind bars in a courtroom in September 2022. He was facing charges for planning “an act of terrorism to intimidate the population and to influence the current government.”
+2025-01-31 18:44:07,649 - INFO - Injected fake news through user agentverse_news
+2025-01-31 18:44:07,649 - INFO - Injected news post (ID: post-d9fc40) at step 1
+2025-01-31 18:44:07,649 - INFO - Generated 1 agent configurations using file method
+2025-01-31 18:44:07,756 - INFO - Added user user-59beed to database with 22 background labels.
+2025-01-31 18:44:07,757 - INFO - Added new user user-59beed to the simulation
+2025-01-31 18:44:07,864 - INFO - Added user user-4d5124 to database with 22 background labels.
+2025-01-31 18:44:07,864 - INFO - Added new user user-4d5124 to the simulation
+2025-01-31 18:44:07,864 - INFO - Added 2 new users to the simulation
+2025-01-31 18:44:07,864 - INFO - User #0 creating post, at step 1
+2025-01-31 18:44:28,437 - INFO - Retrying request to /chat/completions in 0.493155 seconds
+2025-01-31 18:44:31,488 - INFO - User user-cb038c created a post: post-7e6cdd |  Hey everyone! Just wanted to share my thoughts on today's breaking news - I can imagine how unexpected it must be for Putin behind bars in September. It made me think of all the times movies have shown us protagonists facing difficult circumstances and having to make tough decisions, just like what we are seeing now with Russia 🇷🇺 #putindetained
+2025-01-31 18:44:37,854 - INFO - User user-59beed created a post: post-dda2f9 |  Hey all! As an introvert who values community deeply, it's been fascinating watching these recent news updates unfold on Russia. The idea of overcoming adversity and standing up for what's right has always resonated with me from my favorite books 📚 I can only imagine the strength needed by those facing difficult circumstances like Putin in September... #community #introvertlife
+2025-01-31 18:44:42,188 - INFO - User user-4d5124 created a post: post-4a1d7c |  As an introvert who values community deeply, I can't help but feel inspired by Putin behind bars in September facing charges for planning an act of terrorism. It reminds me that no matter how difficult circumstances may seem, there will always be a chance for change and growth 💪🌱 #introvertlife #community
+2025-01-31 18:44:42,188 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 18:44:54,364 - WARNING - Invalid target: d9fc40 for action: like-post
+2025-01-31 18:45:05,820 - WARNING - Invalid target: d9fc40 for action: like-post
+2025-01-31 18:45:25,838 - INFO - Retrying request to /chat/completions in 0.423670 seconds
+2025-01-31 18:45:40,016 - WARNING - Invalid target: d9fc40 for action: like-post
+2025-01-31 18:45:40,526 - INFO - User user-4d5124 followed agentverse_news
+2025-01-31 18:45:40,529 - INFO - News spread metrics - Views: 3, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 18:45:40,545 - INFO - 
+2025-01-31 18:45:40,545 - INFO - Time step: 2
+2025-01-31 18:45:40,556 - INFO - News Agent agentverse_news created a post: post-71ce9f | BREAKING NEWS: Situations have no solution, they’re not problems, they’re simply the way it is. Problems are distinguished by the fact that they have solutions. But that doesn’t mean that the solution is obvious, easy or convenient. If the problem is important enough, we sh…
+2025-01-31 18:45:40,556 - INFO - Injected real news through user agentverse_news
+2025-01-31 18:45:40,557 - INFO - Injected news post (ID: post-71ce9f) at step 2
+2025-01-31 18:45:40,557 - INFO - Generated 1 agent configurations using file method
+2025-01-31 18:45:40,664 - INFO - Added user user-e49d66 to database with 22 background labels.
+2025-01-31 18:45:40,664 - INFO - Added new user user-e49d66 to the simulation
+2025-01-31 18:45:40,772 - INFO - Added user user-f954ae to database with 22 background labels.
+2025-01-31 18:45:40,772 - INFO - Added new user user-f954ae to the simulation
+2025-01-31 18:45:40,772 - INFO - Added 2 new users to the simulation
+2025-01-31 18:45:40,772 - INFO - User #0 creating post, at step 2
+2025-01-31 18:45:48,807 - INFO - User user-cb038c created a post: post-aa9236 |  Wow! I can't believe what just happened in Russia today - Putin behind bars facing charges for planning an act of terrorism? This definitely sparks my curiosity as a movie buff who loves exploring the protagonist’s stories when faced with difficult circumstances. It reminds me that life is full of unexpected twists and turns, but it's important to keep pushing forward in pursuit of our dreams 🔊 #PutinDetained #MoviesInspireMe #LifeIsFullOfSurprises
+2025-01-31 18:45:57,058 - INFO - User user-59beed created a post: post-a3488a |  As an introvert who values community deeply, it's been fascinating watching these recent news updates unfold on Russia. The idea of overcoming adversity and standing up for what's right has always resonated with me from my favorite books 📚 It reminds me that life is full of unexpected twists and turns, but as a movie buff who loves exploring the protagonist’s stories when faced with difficult circumstances like Putin in September, I also value perseverance through hardship. #community #introvertlife
+2025-01-31 18:46:03,209 - INFO - User user-4d5124 created a post: post-1cfaac |  Wow! The recent news from Russia has me feeling inspired by Putin's determination in facing charges for planning an act of terrorism despite seemingly insurmountable odds. As someone who values perseverance through hardship, I can appreciate the resilience and courage displayed here 💪🌱 #PutinDetained #PerseverenceInAction
+2025-01-31 18:46:10,239 - INFO - User user-e49d66 created a post: post-cfac59 |  As someone who values perseverance through hardship, I've been inspired by Putin's determination in facing charges for planning an act of terrorism despite seemingly insurmountable odds. It reminds me that life can be full of unexpected twists and turns, but with courage and resilience like a protagonist from my favorite movies or books 📚 #PerseveranceInAction
+2025-01-31 18:46:14,414 - INFO - User user-f954ae created a post: post-561205 |  As I sit on my porch in rural America today, enjoying some quiet time away from the hustle of city life &amp; thinking back over all those years since graduation. My journey has taken me through so many experiences and challenges that have shaped who I am today 💭
+2025-01-31 18:46:14,414 - INFO - User #0 reacting to feed, at step 2
+2025-01-31 18:46:33,521 - WARNING - Invalid target: post_id: post-71ce9f for action: share-post
+2025-01-31 18:46:34,029 - INFO - User user-cb038c ignored their feed
+2025-01-31 18:46:34,030 - INFO - User user-cb038c ignored their feed
+2025-01-31 18:46:34,033 - WARNING - Duplicate or self-action: ignore:<post-id>: post-71ce9f
+2025-01-31 18:46:49,487 - WARNING - Invalid target: breakin_NewsId102683795c4dbaecedfcdfeebbaeefbcbebdfcbdca9ceccabcfbbfbdffaeacdefabcdeeeeaabaadfbddaaeafbeeedeacefab for action: share-post
+2025-01-31 18:47:11,843 - WARNING - Invalid target: post-71ce9 for action: like-post
+2025-01-31 18:47:11,843 - WARNING - Invalid target: None for action: follow-user
+2025-01-31 18:47:25,590 - WARNING - Invalid target: <breaking_news> for action: like-post
+2025-01-31 18:47:25,590 - WARNING - Invalid target: <reliable source user id>, for action: follow-user
+2025-01-31 18:47:25,592 - INFO - News spread metrics - Views: 5, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 18:47:25,601 - INFO - 
+2025-01-31 18:47:25,602 - INFO - Time step: 3
+2025-01-31 18:47:25,608 - INFO - News Agent agentverse_news created a post: post-ee8954 | BREAKING NEWS: An airstrike by Saudi-led forces in January 2022 did not hit a prison in Saada, a town in northwest Yemen.
+2025-01-31 18:47:25,609 - INFO - Injected fake news through user agentverse_news
+2025-01-31 18:47:25,609 - INFO - Injected news post (ID: post-ee8954) at step 3
+2025-01-31 18:47:25,609 - INFO - Generated 1 agent configurations using file method
+2025-01-31 18:47:25,717 - INFO - Added user user-bdcb13 to database with 22 background labels.
+2025-01-31 18:47:25,718 - INFO - Added new user user-bdcb13 to the simulation
+2025-01-31 18:47:25,827 - INFO - Added user user-f4fb5f to database with 22 background labels.
+2025-01-31 18:47:25,827 - INFO - Added new user user-f4fb5f to the simulation
+2025-01-31 18:47:25,828 - INFO - Added 2 new users to the simulation
+2025-01-31 18:47:25,828 - INFO - User #0 creating post, at step 3
+2025-01-31 18:47:33,416 - INFO - User user-cb038c created a post: post-c9cd0c |  As I sit in my suburban home watching breaking news from around the world, it's interesting to see how different countries handle their challenges. Take Russia for instance- who would have thought we’d ever see Putin behind bars? 🤔 It makes me wonder what stories are yet to unfold and how movies can inspire us through these unexpected events in life.
+2025-01-31 18:47:40,996 - INFO - User user-59beed created a post: post-071cca |  As an introverted young man who values community deeply amidst my busy life in a small town, I often find solace in immersing myself into captivating stories from around the world. Today's breaking news of Putin being behind bars has sparked curiosity and reflection on how leaders can abuse power even if they are supposed to be serving their people 😱
+2025-01-31 18:47:47,107 - INFO - User user-4d5124 created a post: post-b6e9d6 |  Hey everyone! As someone who has lived in several different places throughout my life, I've come to appreciate how diverse our world can be. It reminds me that there will always be new experiences and adventures waiting for us if we just embrace change with an open mind 🌍🌊 #NewBeginnings
+2025-01-31 18:47:54,630 - INFO - User user-e49d66 created a post: post-e76c7a |  Hello fellow users! As someone who has experienced various places in my life journey so far, I find myself currently living amidst nature's serene beauty. It often sparks thoughts on how different environments can shape our perspectives and experiences. For instance, growing up with strict parental guidance taught me the importance of discipline even when faced by procrastination or fear of loss in my life #discipline 📚
+2025-01-31 18:47:59,914 - INFO - User user-f954ae created a post: post-978346 |  As I sit on my porch in rural America today, reflecting on how life has taken me through so many experiences that have shaped who I am now. My journey of financial ambition and self-discipline continues as we navigate the winding roads ahead #RuralLiving 🏡✨
+2025-01-31 18:47:59,914 - INFO - User #5 creating post, at step 3
+2025-01-31 18:48:05,970 - INFO - User user-bdcb13 created a post: post-235d28 |  Hey everyone! As someone who values independence and trust in relationships, I found myself really resonating with this quote from @user1234567890's recent feed. It made me reflect on my own experiences navigating difficult situations while staying true to my beliefs as a libertarian. 
+2025-01-31 18:48:12,092 - INFO - User user-f4fb5f created a post: post-7b3459 |  Hey everyone! As someone who values independence and trust in relationships but also finds myself sometimes struggling with difficult situations due to my procrastination tendencies, I can't help but resonate with this quote from @user1234567890 about finding solutions even when the situation might seem hopeless. It reminds me of how important it is to stay true to our beliefs and not give up in tough times #motivation 💪 Remember that every step we take towards achieving what we want can be challenging, but with perseverance and trust in ourselves, anything is possible!
+2025-01-31 18:48:12,092 - INFO - User #0 reacting to feed, at step 3
+2025-01-31 18:48:26,586 - WARNING - Invalid target: [BREAKING NEWS] for action: flag-post
+2025-01-31 18:48:26,586 - WARNING - Invalid target: [BREAKING NEWS] for action: add-note

@@ -1,0 +1,46 @@
+2025-02-17 23:37:46,633 - INFO - Starting simulation with 3 users for 5 time steps using gpt-4o...
+2025-02-17 23:37:47,641 - INFO - Resetting database...
+2025-02-17 23:37:47,644 - INFO - Existing database removed.
+2025-02-17 23:37:47,663 - INFO - Database tables created successfully.
+2025-02-17 23:37:47,663 - INFO - New tables created.
+2025-02-17 23:37:47,668 - INFO - Generated 3 agent configurations using file method
+2025-02-17 23:37:47,668 - INFO - Creating 3 users
+2025-02-17 23:37:47,669 - INFO - Added user user-b0714a to database with 22 background labels.
+2025-02-17 23:37:47,672 - INFO - Added user user-385fef to database with 22 background labels.
+2025-02-17 23:37:47,673 - INFO - Added user user-32c6d2 to database with 22 background labels.
+2025-02-17 23:37:47,673 - INFO - Total users in database after creation: 3
+2025-02-17 23:37:47,710 - INFO - Time step: 1
+2025-02-17 23:37:47,720 - INFO - News Agent agentverse_news created a post: post-11f7f3 | NEWS: Google and Samsung’s digital leash will let parents set app limits and track their kid's whereabouts over LTE.
+2025-02-17 23:37:47,728 - INFO - News Agent agentverse_news created a post: post-57ab7d | NEWS: Rory McIlroy is fully focused on trying to knock off two of his remaining three career goals in 2025, writes Iain Carter.
+2025-02-17 23:37:47,737 - INFO - News Agent agentverse_news created a post: post-64ea65 | NEWS: With wind speeds falling, firefighting reinforcements arriving from out of state, and more water sources online, authorities now have a critical window to take control of the situation.
+2025-02-17 23:37:47,741 - INFO - News Agent agentverse_news created a post: post-e48fec | NEWS: A voting software program run by a company called Dominion Voting Systems experienced widespread glitches that deleted votes for President Trump or switched Trump votes to Democratic candidate Joe Biden. Analyzing data from an Edison Research report shows how many votes and when they were switched.
+2025-02-17 23:37:47,745 - INFO - News Agent agentverse_news created a post: post-decb53 | NEWS: Chinese state TV displayed a map showing how China intends to partition Russia after it collapses due to the war in Ukraine. The map shows Russia divided up among neighboring countries.
+2025-02-17 23:37:47,749 - INFO - News Agent agentverse_news created a post: post-bb5411 | NEWS: During the 2024 Texas primary elections, an error message appearing on a ballot scanner in Dallas demonstrates that fraud was occurring.
+2025-02-17 23:37:47,753 - INFO - News Agent agentverse_news created a post: post-376a36 | NEWS: High-ranking officials from Ukraine President Volodymyr Zelensky‘s inner circle have been purchasing multi-million dollar properties and other real estate in Switzerland, according to several documents issued by Switzerland's land registry in Oberland.
+2025-02-17 23:37:47,757 - INFO - News Agent agentverse_news created a post: post-b60e65 | NEWS: More active duty members of the U.S. military have been killed by COVID-19 vaccine side effects than from COVID-19 itself.
+2025-02-17 23:37:47,760 - INFO - News Agent agentverse_news created a post: post-e65f7a | NEWS: Ryan Wesley Routh, identified by authorities as being connected to an apparent attempt to assassinate former President Donald Trump at his Florida golf club on Sept. 15, 2024, is a Ukrainian agent hired by Kyiv to kill Trump for political purposes. &nbsp;
+2025-02-17 23:37:47,768 - INFO - News Agent agentverse_news created a post: post-dc398a | NEWS: If you didn’t already know everything there is to know about the Switch 2, Nintendo may finally offer an official peak behind the curtain.
+2025-02-17 23:37:47,768 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-17 23:37:47,768 - INFO - Injected news post (ID: ['post-11f7f3', 'post-57ab7d', 'post-64ea65', 'post-e48fec', 'post-decb53', 'post-bb5411', 'post-376a36', 'post-b60e65', 'post-e65f7a', 'post-dc398a']) at step 1
+2025-02-17 23:37:47,769 - INFO - Generated 3 agent configurations using file method
+2025-02-17 23:37:47,876 - INFO - Added user user-180e53 to database with 22 background labels.
+2025-02-17 23:37:47,876 - INFO - Added new user user-180e53 to the simulation
+2025-02-17 23:37:47,984 - INFO - Added user user-d24851 to database with 22 background labels.
+2025-02-17 23:37:47,984 - INFO - Added new user user-d24851 to the simulation
+2025-02-17 23:37:47,984 - INFO - Added 2 new users to the simulation
+2025-02-17 23:37:47,985 - INFO - User #0 reacting to feed, at step 1
+2025-02-17 23:37:47,992 - INFO - Feed reaction prompt token count: 760
+2025-02-17 23:37:50,698 - INFO - User user-b0714a liked post post-64ea65
+2025-02-17 23:37:51,208 - INFO - User user-b0714a shared post post-11f7f3
+2025-02-17 23:37:55,303 - INFO - Feed reaction prompt token count: 722
+2025-02-17 23:37:58,008 - INFO - User user-385fef liked post post-c48461
+2025-02-17 23:37:58,519 - INFO - User user-385fef shared post post-57ab7d
+2025-02-17 23:38:00,683 - INFO - Feed reaction prompt token count: 690
+2025-02-17 23:38:03,542 - INFO - User user-32c6d2 liked post post-02e3e0
+2025-02-17 23:38:04,053 - INFO - User user-32c6d2 shared post post-c48461
+2025-02-17 23:38:06,213 - INFO - Feed reaction prompt token count: 666
+2025-02-17 23:38:08,866 - INFO - User user-180e53 liked post post-eb8b63
+2025-02-17 23:38:09,378 - INFO - User user-180e53 shared post post-02e3e0
+2025-02-17 23:38:11,860 - INFO - Feed reaction prompt token count: 723
+2025-02-17 23:38:18,284 - INFO - User user-d24851 liked post post-7eb081
+2025-02-17 23:38:18,795 - INFO - User user-d24851 shared post post-eb8b63

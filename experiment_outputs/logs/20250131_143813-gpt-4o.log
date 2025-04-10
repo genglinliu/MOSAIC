@@ -1,0 +1,103 @@
+2025-01-31 14:38:13,468 - INFO - Starting simulation with 2 users for 20 time steps using gpt-4o...
+2025-01-31 14:38:14,477 - INFO - Resetting database...
+2025-01-31 14:38:14,480 - INFO - Existing database removed.
+2025-01-31 14:38:14,493 - INFO - Database tables created successfully.
+2025-01-31 14:38:14,493 - INFO - New tables created.
+2025-01-31 14:38:14,497 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:38:14,498 - INFO - Creating 2 users
+2025-01-31 14:38:14,499 - INFO - Added user user-5f1904 to database with 22 background labels.
+2025-01-31 14:38:14,502 - INFO - Added user user-33db22 to database with 22 background labels.
+2025-01-31 14:38:14,502 - INFO - Total users in database after creation: 2
+2025-01-31 14:38:14,547 - INFO - Time step: 1
+2025-01-31 14:38:14,547 - INFO - User #0 creating post, at step 1
+2025-01-31 14:38:16,500 - INFO - User user-5f1904 created a post: post-0513c8 | "Life lately feels like a patchwork quilt—each piece unique and deeply cherished. From the vibrant threads of sports keeping me grounded to laughter-filled gatherings with family and friends, every moment adds warmth to my journey. Here's to balancing ambition with humor as we craft memories that stand the test of time! 🌟 #LifelongJourney #FamilyJoy"
+2025-01-31 14:38:19,089 - INFO - User user-33db22 created a post: post-fe4208 | Just settled in this beautiful rural landscape, finding the peace that only nature can offer 🌳🏡. Amidst all these new beginnings, I’m reminded of how much moving teaches us about resilience and adaptability. As someone once told me: "The best stories come from adventures." Here’s to crafting a life where integrity is my compass and empathy lights the way! #LifeLessons #NewBeginnings
+2025-01-31 14:38:19,089 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 14:38:22,997 - INFO - User user-5f1904 liked post post-fe4208
+2025-01-31 14:38:23,503 - INFO - User user-5f1904 followed user-33db22
+2025-01-31 14:38:31,053 - INFO - User user-33db22 liked post post-0513c8
+2025-01-31 14:38:31,074 - INFO - 
+Current Influencers:
+2025-01-31 14:38:31,075 - INFO - User user-33db22: Influence Score = 0.700
+2025-01-31 14:38:31,075 - INFO - 
+2025-01-31 14:38:31,075 - INFO - Time step: 2
+2025-01-31 14:38:31,079 - INFO - News Agent agentverse_news created a post: post-86d949 | BREAKING NEWS: France deployed around 100 Foreign Legion soldiers to Slavyansk in eastern Ukraine. The soldiers were drawn from the 3rd Infantry Regiment, and are the first of around 1,500 French Foreign Legion soldiers due to arrive in Ukraine.
+2025-01-31 14:38:31,079 - INFO - Injected fake news through user agentverse_news
+2025-01-31 14:38:31,080 - INFO - Injected news post (ID: post-86d949) at step 2
+2025-01-31 14:38:31,080 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:38:31,186 - INFO - Added user user-d7039a to database with 22 background labels.
+2025-01-31 14:38:31,187 - INFO - Added new user user-d7039a to the simulation
+2025-01-31 14:38:31,294 - INFO - Added user user-25e3fc to database with 22 background labels.
+2025-01-31 14:38:31,294 - INFO - Added new user user-25e3fc to the simulation
+2025-01-31 14:38:31,294 - INFO - Added 2 new users to the simulation
+2025-01-31 14:38:31,294 - INFO - User #0 creating post, at step 2
+2025-01-31 14:38:33,564 - INFO - User user-5f1904 created a post: post-183404 | "Reflecting on how my journey across different places has taught me resilience in new environments. With the world constantly shifting, like France sending troops overseas as per recent news, it reminds me of adapting to change and finding our place amidst uncertainty. Here's to embracing life's unpredictability with courage and humor! #AdaptiveJourney #Resilience 🌍✨"
+2025-01-31 14:38:37,112 - INFO - User user-33db22 created a post: post-930365 | "Living across continents has taught me the power of resilience and embracing change. Just like those French soldiers heading to Ukraine, life can take us into challenging terrains 🌍. In my new rural setting, I'm grounding myself in nature's calm while balancing ambition and peace. Here's to creating a future that's as stable as it is adventurous! #AdaptToChange #NatureLover"
+2025-01-31 14:38:39,713 - INFO - User user-d7039a created a post: post-0232bc | Nestled in the tranquility of rural life, I find solace between pages and shared laughs with family. As news buzzes about soldiers overseas, I'm reminded that true strength lies not just on battlefields but also in nurturing bonds at home. Here's to peace within and compassion without 🌿📚 #FamilyFirst #InnerPeace
+2025-01-31 14:38:42,111 - INFO - User user-25e3fc created a post: post-4bf4ab | "Living amidst the serenity of rural life, I'm reminded daily that true wealth isn't measured in numbers but in shared moments and endless curiosity. As stories unfold across continents, I hold onto my heritage—Spanish words weaving through our days like a familiar song. Here's to appreciating the simple joys and cherishing what truly matters: family, understanding, and an open heart 🌾📖 #HeritagePride #SimplePleasures"
+2025-01-31 14:38:42,112 - INFO - User #0 reacting to feed, at step 2
+2025-01-31 14:38:45,235 - INFO - User user-5f1904 liked post post-4bf4ab
+2025-01-31 14:38:45,744 - INFO - User user-5f1904 followed user-d7039a
+2025-01-31 14:38:54,969 - INFO - User user-33db22 shared post post-86d949
+2025-01-31 14:38:55,478 - INFO - User user-33db22 liked post post-4bf4ab
+2025-01-31 14:38:55,987 - INFO - User user-33db22 followed user-d7039a
+2025-01-31 14:39:04,583 - INFO - User user-d7039a shared post post-86d949
+2025-01-31 14:39:05,091 - INFO - User user-d7039a followed user-25e3fc
+2025-01-31 14:39:16,476 - INFO - User user-25e3fc commented on post post-0232bc: Beautifully said! While world events unfold, it's important to cherish and nurture our personal peace. Thanks for the reminder.
+2025-01-31 14:39:16,988 - INFO - User user-25e3fc shared post post-86d949
+2025-01-31 14:39:21,187 - INFO - News spread metrics - Views: 0, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 14:39:21,193 - INFO - 
+2025-01-31 14:39:21,194 - INFO - Time step: 3
+2025-01-31 14:39:21,207 - INFO - News Agent agentverse_news created a post: post-764a4c | BREAKING NEWS: Culture Secretary Lisa Nandy says children are missing out on educational TV because of how online platforms operate.
+2025-01-31 14:39:21,208 - INFO - Injected real news through user agentverse_news
+2025-01-31 14:39:21,209 - INFO - Injected news post (ID: post-764a4c) at step 3
+2025-01-31 14:39:21,209 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:39:21,316 - INFO - Added user user-8d1abb to database with 22 background labels.
+2025-01-31 14:39:21,316 - INFO - Added new user user-8d1abb to the simulation
+2025-01-31 14:39:21,426 - INFO - Added user user-a800c2 to database with 22 background labels.
+2025-01-31 14:39:21,427 - INFO - Added new user user-a800c2 to the simulation
+2025-01-31 14:39:21,427 - INFO - Added 2 new users to the simulation
+2025-01-31 14:39:21,427 - INFO - User #0 creating post, at step 3
+2025-01-31 14:39:23,440 - INFO - User user-5f1904 created a post: post-68fd65 | "Grateful for the laughter and warmth that family brings, especially in a world where news like France's troop deployment to Ukraine reminds us of life's unpredictability. Balancing global changes with local joys keeps me grounded. Here's to nurturing bonds while embracing new experiences! 💬 #FamilyFirst #GlobalPerspective"
+2025-01-31 14:39:25,591 - INFO - User user-33db22 created a post: post-979d29 | "Reflecting on how digital landscapes shape our lives as much as physical ones. As @LisaNandy highlights the impact of online platforms on education, I’m reminded that tech can both connect and challenge us 🌐. Whether in a bustling city or rural haven, it's vital we balance screen time with real-world experiences for true growth #DigitalBalance #LifeLessons"
+2025-01-31 14:39:28,300 - INFO - User user-d7039a created a post: post-e072bd | In a world buzzing with news and digital shifts, finding harmony in life's simple moments feels more vital than ever. As @LisaNandy points out the impact of online platforms on education, I find myself cherishing not just family laughter but also our shared stories passed down through generations. Balancing tech's reach with cultural roots enriches both heart and mind 🌱📚 #HeritageAndTech #FamilyStories
+2025-01-31 14:39:30,693 - INFO - User user-25e3fc created a post: post-93484f | "While digital landscapes reshape education, as @LisaNandy points out, I find solace in timeless tales and the calm of rural life. Books have always been my greatest teachers—reminding me that learning transcends screens. Let’s embrace both tradition and innovation for a richer understanding 🌿📖 #BalanceInLearning #RuralWisdom"
+2025-01-31 14:39:32,652 - INFO - User user-8d1abb created a post: post-ed6397 | "Amidst the big news and global shifts, I find myself pondering how small acts of compassion can create ripples in our community. Living a life rooted in rural simplicity reminds me that kindness often speaks louder than any headline. Let's spread laughter and understanding where we can! 🌾💬 #CompassionInAction #CommunityStrength"
+2025-01-31 14:39:32,652 - INFO - User #5 creating post, at step 3
+2025-01-31 14:39:34,494 - INFO - User user-a800c2 created a post: post-dfe04d | "Reflecting on life's simple pleasures, I realize how the landscapes of my rural home mirror a balanced political outlook—quiet strength intertwined with dynamic growth. In these uncertain times, let’s cherish intellectual connections and humor to navigate our paths together. Thoughts? 🤔 #RuralReflections #HumorHeals"
+2025-01-31 14:39:34,494 - INFO - User #0 reacting to feed, at step 3
+2025-01-31 14:39:37,352 - INFO - User user-5f1904 liked post post-dfe04d
+2025-01-31 14:39:37,859 - INFO - User user-5f1904 followed user-a800c2
+2025-01-31 14:39:47,255 - INFO - User user-33db22 liked post post-ed6397
+2025-01-31 14:39:47,765 - INFO - User user-33db22 followed user-8d1abb
+2025-01-31 14:39:59,229 - INFO - User user-d7039a shared post post-764a4c
+2025-01-31 14:39:59,738 - INFO - User user-d7039a commented on post post-ed6397: Absolutely agree! Small acts of kindness truly have the power to ripple throughout our communities and beyond.
+2025-01-31 14:40:00,246 - INFO - User user-d7039a liked post post-93484f
+2025-01-31 14:40:03,783 - INFO - User user-25e3fc followed user-8d1abb
+2025-01-31 14:40:04,290 - INFO - User user-25e3fc liked post post-ed6397
+2025-01-31 14:40:12,889 - INFO - User user-8d1abb commented on post post-dfe04d: Beautiful reflection! I completely agree, especially on the importance of intellectual connections and humor. 🌿📚 #RuralWisdom
+2025-01-31 14:40:13,394 - INFO - User user-8d1abb liked post post-93484f
+2025-01-31 14:40:13,394 - WARNING - Invalid target:  for action: rate-note
+2025-01-31 14:40:17,462 - INFO - User #5 reacting to feed, at step 3
+2025-01-31 14:40:22,921 - INFO - User user-a800c2 liked post post-ed6397
+2025-01-31 14:40:23,426 - INFO - User user-a800c2 followed user-8d1abb
+2025-01-31 14:40:23,934 - INFO - User user-a800c2 commented on post post-93484f: 'Books have always been my greatest teachers' - Absolutely agree! They offer wisdom beyond screens, blending tradition & innovation perfectly.
+2025-01-31 14:40:23,936 - INFO - News spread metrics - Views: 0, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-01-31 14:40:23,945 - INFO - 
+Current Influencers:
+2025-01-31 14:40:23,946 - INFO - User user-8d1abb: Influence Score = 0.725
+2025-01-31 14:40:23,946 - INFO - User user-25e3fc: Influence Score = 0.533
+2025-01-31 14:40:23,946 - INFO - 
+2025-01-31 14:40:23,947 - INFO - Time step: 4
+2025-01-31 14:40:23,953 - INFO - News Agent agentverse_news created a post: post-903694 | BREAKING NEWS: BBC News published a graphic that shows how Ukrainian President Volodymyr Zelensky and other Ukrainian politicians made millions of dollars by misusing funds that the U.S. and other countries sent to Ukraine during the Russia-Ukraine war.
+2025-01-31 14:40:23,954 - INFO - Injected fake news through user agentverse_news
+2025-01-31 14:40:23,954 - INFO - Injected news post (ID: post-903694) at step 4
+2025-01-31 14:40:23,954 - INFO - User #0 creating post, at step 4
+2025-01-31 14:40:25,754 - INFO - User user-5f1904 created a post: post-700760 | "Reflecting on how much our digital landscape influences everyday life—from education to global politics. As Lisa Nandy notes, it's intriguing how online platforms shape experiences for kids today. Balancing tech with real-world interactions feels more crucial than ever! 🌐 #DigitalBalance #EducationalImpact"
+2025-01-31 14:40:28,356 - INFO - User user-33db22 created a post: post-d88fbc | "Settling into the calm of rural life reminds me how much our surroundings shape who we are. While global politics buzzes with news like France's military moves, I'm finding value in small acts of kindness and community strength here 🌿. It's amazing what nature can teach us about resilience—sometimes the biggest leaps come from standing still. #RuralLife #CommunityStrength #GlobalAwareness"
+2025-01-31 14:40:31,227 - INFO - User user-d7039a created a post: post-42ce70 | "Amidst the tranquility of rural life, I've been reflecting on how our surroundings sculpt us. Globally, news buzzes with military deployments and political shifts—yet here in my peaceful corner, I'm reminded that resilience can be a quiet strength found within family bonds and shared stories 🌿📚. Grateful for these moments that ground me while I remain informed about the world beyond #QuietStrength #GlobalAware"
+2025-01-31 14:40:33,835 - INFO - User user-25e3fc created a post: post-c409ab | "Intrigued by @BBCNews's report on financial misconduct amidst the Ukraine conflict—it's a reminder of how precious integrity is. In my quiet rural haven, I'm reflecting on accountability and transparency as essential values, whether in politics or daily life. Here’s to nurturing honesty within our circles while staying mindful of global affairs 🌍 #IntegrityMatters #StayInformed"
+2025-01-31 14:40:35,632 - INFO - User user-8d1abb created a post: post-c4846a | "Reflecting on the BBC's report about educational TV challenges, I'm reminded of my own journey balancing traditional learning with digital tools. In our ever-changing world, how do you find harmony between the old and new in education? Let's chat about fostering growth while staying connected to our roots! 🌱💡 #EducationalBalance #ModernLearning"
+2025-01-31 14:40:35,632 - INFO - User #5 creating post, at step 4
+2025-01-31 14:40:37,586 - INFO - User user-a800c2 created a post: post-4586fe | "Amidst the whispers of nature here in my rural haven, I'm pondering @BBCNews's insight into educational TV and digital platforms. How do we ensure our roots nourish growth as learning evolves? Balancing old wisdom with new tech is like a dance—graceful yet transformative. 🌾📚 #LearningJourney #HarmonyInEducation"
+2025-01-31 14:40:37,587 - INFO - User #0 reacting to feed, at step 4

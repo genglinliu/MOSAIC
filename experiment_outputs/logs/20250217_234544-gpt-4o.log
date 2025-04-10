@@ -1,0 +1,39 @@
+2025-02-17 23:45:44,233 - INFO - Starting simulation with 3 users for 5 time steps using gpt-4o...
+2025-02-17 23:45:45,243 - INFO - Resetting database...
+2025-02-17 23:45:45,246 - INFO - Existing database removed.
+2025-02-17 23:45:45,260 - INFO - Database tables created successfully.
+2025-02-17 23:45:45,260 - INFO - New tables created.
+2025-02-17 23:45:45,267 - INFO - Generated 3 agent configurations using file method
+2025-02-17 23:45:45,267 - INFO - Creating 3 users
+2025-02-17 23:45:45,268 - INFO - Added user user-9516df to database with 22 background labels.
+2025-02-17 23:45:45,271 - INFO - Added user user-ab64b3 to database with 22 background labels.
+2025-02-17 23:45:45,272 - INFO - Added user user-37e352 to database with 22 background labels.
+2025-02-17 23:45:45,273 - INFO - Total users in database after creation: 3
+2025-02-17 23:45:45,309 - INFO - Time step: 1
+2025-02-17 23:45:45,316 - INFO - News Agent agentverse_news created a post: post-7ce1bf | NEWS: The overthrown president of Niger, Mohamed Bazoum, has been released by the ruling military junta after signing his resignation letter. He was observed departing from the presidential villa in August 2023.
+2025-02-17 23:45:45,322 - INFO - News Agent agentverse_news created a post: post-3f8ef8 | NEWS: The North Atlantic Treaty Organization (NATO) announced on its website that it would send Ukrainian forces from the Azov and Kraken battalions to quell violent French protests.
+2025-02-17 23:45:45,334 - INFO - News Agent agentverse_news created a post: post-655da1 | NEWS: The bright substance blanketing areas of Los Angeles County has long been used to stop wildfires from spreading.
+2025-02-17 23:45:45,346 - INFO - News Agent agentverse_news created a post: post-9625ad | NEWS: The singer said he thought he was "going to die" before surgery to have a pacemaker fitted.
+2025-02-17 23:45:45,352 - INFO - News Agent agentverse_news created a post: post-264aaa | NEWS: The supplement astaxanthin protects against sun damage from ultraviolet (UV) rays and can replace traditional sunscreen.
+2025-02-17 23:45:45,359 - INFO - News Agent agentverse_news created a post: post-417501 | NEWS: Donald Trump said in a statement that he would ‘save’ Hunter Biden from his federal gun conviction if he is re-elected, suggesting a presidential pardon.
+2025-02-17 23:45:45,371 - INFO - News Agent agentverse_news created a post: post-64e1f1 | NEWS: Learning is a journey of incompetence. First, we realize that there’s something we don’t know. Then we see that we’re going to be better at it, and we’re not good at it yet. Then we figure it out and we’ve succeeded. Repeat. When we pre-process the informatio…
+2025-02-17 23:45:45,383 - INFO - News Agent agentverse_news created a post: post-cd3e92 | NEWS: Why Venu didn’t launch, what’s next for YouTube TV, Fubo, ESPN, and Amazon, and how to read more and scroll less, on this episode of The Vergecast.
+2025-02-17 23:45:45,388 - INFO - News Agent agentverse_news created a post: post-4611ea | NEWS: The Ukrainian government created an “enemies list” or “kill list” of American citizens and organizations who oppose U.S. assistance to the country.. 
+2025-02-17 23:45:45,399 - INFO - News Agent agentverse_news created a post: post-33785f | NEWS: The simplest way forward is to see which boxes your target market has and then check all of them. Unfortunately #1: The audience doesn’t publish their actual list of boxes, they conceal many of them. Unfortunately #2: They don’t all have the same boxes. Unfor…
+2025-02-17 23:45:45,399 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-17 23:45:45,400 - INFO - Injected news post (ID: ['post-7ce1bf', 'post-3f8ef8', 'post-655da1', 'post-9625ad', 'post-264aaa', 'post-417501', 'post-64e1f1', 'post-cd3e92', 'post-4611ea', 'post-33785f']) at step 1
+2025-02-17 23:45:45,400 - INFO - Generated 3 agent configurations using file method
+2025-02-17 23:45:45,508 - INFO - Added user user-8aa497 to database with 22 background labels.
+2025-02-17 23:45:45,508 - INFO - Added new user user-8aa497 to the simulation
+2025-02-17 23:45:45,616 - INFO - Added user user-f114d4 to database with 22 background labels.
+2025-02-17 23:45:45,616 - INFO - Added new user user-f114d4 to the simulation
+2025-02-17 23:45:45,616 - INFO - Added 2 new users to the simulation
+2025-02-17 23:45:45,617 - INFO - User #0 reacting to feed, at step 1
+2025-02-17 23:45:55,134 - INFO - User user-9516df shared post post-7ce1bf
+2025-02-17 23:45:55,643 - INFO - User user-9516df liked post post-655da1
+2025-02-17 23:46:00,599 - INFO - User user-ab64b3 shared post post-01ad42
+2025-02-17 23:46:01,109 - INFO - User user-ab64b3 flagged post post-3f8ef8
+2025-02-17 23:46:05,340 - INFO - User user-37e352 liked post post-83ed33
+2025-02-17 23:46:07,485 - INFO - User user-8aa497 ignored their feed
+2025-02-17 23:46:07,486 - INFO - User user-8aa497 ignored their feed
+2025-02-17 23:46:09,749 - INFO - User user-f114d4 shared post post-83ed33

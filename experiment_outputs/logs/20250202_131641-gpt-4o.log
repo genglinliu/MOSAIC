@@ -1,0 +1,240 @@
+2025-02-02 13:16:41,140 - INFO - Starting simulation with 5 users for 30 time steps using gpt-4o...
+2025-02-02 13:16:42,148 - INFO - Resetting database...
+2025-02-02 13:16:42,160 - INFO - Existing database removed.
+2025-02-02 13:16:42,176 - INFO - Database tables created successfully.
+2025-02-02 13:16:42,176 - INFO - New tables created.
+2025-02-02 13:16:42,180 - INFO - Generated 5 agent configurations using file method
+2025-02-02 13:16:42,180 - INFO - Creating 5 users
+2025-02-02 13:16:42,182 - INFO - Added user user-91639e to database with 22 background labels.
+2025-02-02 13:16:42,184 - INFO - Added user user-eacaae to database with 22 background labels.
+2025-02-02 13:16:42,185 - INFO - Added user user-4b6fdd to database with 22 background labels.
+2025-02-02 13:16:42,185 - INFO - Added user user-76ebde to database with 22 background labels.
+2025-02-02 13:16:42,186 - INFO - Added user user-f11abf to database with 22 background labels.
+2025-02-02 13:16:42,187 - INFO - Total users in database after creation: 5
+2025-02-02 13:16:42,257 - INFO - Time step: 1
+2025-02-02 13:16:42,262 - INFO - News Agent agentverse_news created a post: post-9cb08e | NEWS: Recommended childhood vaccines cause attention deficit hyperactivity disorder (ADHD).
+2025-02-02 13:16:42,270 - INFO - News Agent agentverse_news created a post: post-5ddef5 | NEWS: Accessory-maker Nacon has revealed a new collection of Nintendo Switch 2 accessories including a folding desktop steering wheel.
+2025-02-02 13:16:42,273 - INFO - News Agent agentverse_news created a post: post-3f347c | NEWS: A study published by the New England Journal of Medicine in September 2022 shows that the Pfizer COVID-19 vaccine destroys any protection from natural immunity acquired through a COVID-19 infection.
+2025-02-02 13:16:42,280 - INFO - News Agent agentverse_news created a post: post-cd6b76 | NEWS: Over the past few years Megan Winstone has taken photographs for Vogue, Kerrang! and Dr. Martens.
+2025-02-02 13:16:42,283 - INFO - News Agent agentverse_news created a post: post-8780ee | NEWS: A March 2024 BBC video news report said that Bellingcat journalists reported that Ukraine paid the former commander-in-chief of the Ukrainian Army, Valerii Zaluzhny, $53 million in exchange for renouncing his political ambitions and leaving the country.
+2025-02-02 13:16:42,284 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-02 13:16:42,284 - INFO - Injected news post (ID: ['post-9cb08e', 'post-5ddef5', 'post-3f347c', 'post-cd6b76', 'post-8780ee']) at step 1
+2025-02-02 13:16:42,284 - INFO - Generated 5 agent configurations using file method
+2025-02-02 13:16:42,390 - INFO - Added user user-56b1dc to database with 22 background labels.
+2025-02-02 13:16:42,390 - INFO - Added new user user-56b1dc to the simulation
+2025-02-02 13:16:42,498 - INFO - Added user user-7de59c to database with 22 background labels.
+2025-02-02 13:16:42,499 - INFO - Added new user user-7de59c to the simulation
+2025-02-02 13:16:42,499 - INFO - Added 2 new users to the simulation
+2025-02-02 13:16:42,499 - INFO - User #0 creating post, at step 1
+2025-02-02 13:16:43,008 - INFO - Post generation prompt token count: 548
+2025-02-02 13:16:46,147 - INFO - User user-91639e created a post: post-cee710 | 🌍 From New York to Nashville and everywhere in between, this journey keeps me on my toes! 🎥 Just got lost in a movie marathon—nothing like exploring different worlds with popcorn at home. 🍿 Do you think art can reshape our political views? Or is it just the perfect escape? Discuss below! #MovieLover #LibertarianViews
+2025-02-02 13:16:46,659 - INFO - Post generation prompt token count: 600
+2025-02-02 13:16:48,558 - INFO - User user-eacaae created a post: post-ba5291 | "Finding solace in the world of arts and crafts is my way to recharge amidst this vibrant city life. 🎨🪶 As I dream of future travels, I'm reminded that true creativity knows no borders or bounds. Let's embrace diversity, inclusivity, and progress—one brushstroke at a time! 🌍✨ #ArtIsLife #CulturalTapestry"
+2025-02-02 13:16:49,066 - INFO - Post generation prompt token count: 720
+2025-02-02 13:16:51,493 - INFO - User user-4b6fdd created a post: post-ccba80 | "Finding peace in the simple beauty of rural life while planning my next travel adventure. 🚜✈️ The land teaches us resilience and reminds me that freedom & personal responsibility are invaluable, even amidst life's complexities. Family remains at the heart of it all ❤️ #LibertarianLife #TravelDreams 🌎"
+2025-02-02 13:16:52,002 - INFO - Post generation prompt token count: 706
+2025-02-02 13:16:54,913 - INFO - User user-76ebde created a post: post-d752a2 | At 44, life remains my greatest teacher. 📚 Living in a small town as an African American man with big city stories to tell has given me plenty of perspectives! 🌍 Saw some interesting news about Nintendo Switch accessories—funny how far tech's come since I had my first Game Boy back when moving from place to place was the norm for me. 🎮 Just like those moves taught me resilience and adaptability, embracing these simple joys teaches us life's true richness is found not in wealth but in experiences that shape our soul. #LifeLessons #TechNostalgia
+2025-02-02 13:16:55,421 - INFO - Post generation prompt token count: 560
+2025-02-02 13:16:57,784 - INFO - User user-f11abf created a post: post-c94c91 | "At 50, I'm reminded that travel isn't just about seeing new places; it's about escaping the familiar to learn and grow. 🗺️ Nothing beats expanding your world beyond small-town borders! Speaking of broadening horizons, anyone else curious how tech like Nacon's new Nintendo Switch accessories might change our home entertainment? 🚀 #Wanderlust #TechTalks"
+2025-02-02 13:16:57,784 - INFO - User #5 creating post, at step 1
+2025-02-02 13:16:58,293 - INFO - Post generation prompt token count: 717
+2025-02-02 13:16:59,954 - INFO - User user-56b1dc created a post: post-12b9fc | 🌄 Living in my hometown where every hill and tree holds a childhood memory is such a blessing. 🙏 Grateful for the life lessons learned outside of classrooms, and for the laughter shared over TV shows with loved ones. 🥳
+2025-02-02 13:17:00,461 - INFO - Post generation prompt token count: 715
+2025-02-02 13:17:05,274 - INFO - User user-7de59c created a post: post-bcfef2 | Living in a world that’s constantly evolving, one thing's for sure—change is the only constant. From moving countries to exploring new crafts, I've learned that taking immediate action can turn challenges into stepping stones. Speaking of evolution, anyone else intrigued by these Nintendo Switch 2 accessories from Nacon? Innovation at its finest! 🎮✨ #UrbanLife #GameOn
+2025-02-02 13:17:05,274 - INFO - User #0 reacting to feed, at step 1
+2025-02-02 13:17:05,280 - INFO - Feed reaction prompt token count: 1498
+2025-02-02 13:17:09,409 - INFO - User user-91639e flagged post post-9cb08e
+2025-02-02 13:17:09,917 - INFO - User user-91639e added note to post post-3f347c: 'Natural immunity' often varies per person; studies also show vaccination boosts protection against reinfection.
+2025-02-02 13:17:10,423 - INFO - User user-91639e liked post post-bcfef2
+2025-02-02 13:17:10,427 - INFO - Feed reaction prompt token count: 1597
+2025-02-02 13:17:15,626 - INFO - User user-eacaae flagged post post-9cb08e
+2025-02-02 13:17:16,132 - INFO - User user-eacaae rated note note-3ea3c4 as helpful
+2025-02-02 13:17:16,647 - INFO - User user-eacaae commented on post post-bcfef2: I'm excited too! Innovation like this keeps the gaming world alive and exciting. 🎮 What's everyone looking forward to most from these accessories?
+2025-02-02 13:17:16,652 - INFO - Feed reaction prompt token count: 1764
+2025-02-02 13:17:21,378 - INFO - User user-4b6fdd flagged post post-9cb08e
+2025-02-02 13:17:21,882 - INFO - User user-4b6fdd rated note note-3ea3c4 as helpful
+2025-02-02 13:17:22,392 - INFO - User user-4b6fdd commented on post post-bcfef2: Absolutely agree! Change really does push us to grow.
+2025-02-02 13:17:22,395 - INFO - Feed reaction prompt token count: 1771
+2025-02-02 13:17:26,684 - INFO - User user-76ebde flagged post post-9cb08e
+2025-02-02 13:17:27,194 - INFO - User user-76ebde rated note note-3ea3c4 as helpful
+2025-02-02 13:17:27,704 - INFO - User user-76ebde commented on post post-bcfef2: 'Change is the only constant' resonates with me deeply! 🎵 It's amazing how adapting to new things can lead us to unexpected growth.
+2025-02-02 13:17:27,707 - INFO - Feed reaction prompt token count: 1711
+2025-02-02 13:17:32,231 - INFO - User user-f11abf rated note note-3ea3c4 as helpful
+2025-02-02 13:17:32,741 - INFO - User user-f11abf flagged post post-9cb08e
+2025-02-02 13:17:33,254 - INFO - User user-f11abf commented on post post-d752a2: I can relate! Small towns have their unique charm and stories worth sharing with others too. #SmallTownLife #TechNostalgia 🎮✨
+2025-02-02 13:17:33,254 - INFO - User #5 reacting to feed, at step 1
+2025-02-02 13:17:33,259 - INFO - Feed reaction prompt token count: 1927
+2025-02-02 13:17:38,758 - INFO - User user-56b1dc rated note note-3ea3c4 as helpful
+2025-02-02 13:17:39,265 - INFO - User user-56b1dc flagged post post-9cb08e
+2025-02-02 13:17:39,777 - INFO - User user-56b1dc commented on post post-bcfef2: 'Change is the only constant' truly resonates! Embracing change can lead to personal growth and unexpected opportunities. 🌟 #LifelongLearner #GrowthMindset 
+2025-02-02 13:17:39,803 - INFO - Feed reaction prompt token count: 1797
+2025-02-02 13:17:46,135 - INFO - User user-7de59c liked post post-12b9fc
+2025-02-02 13:17:46,644 - INFO - User user-7de59c rated note note-3ea3c4 as helpful
+2025-02-02 13:17:47,151 - INFO - User user-7de59c flagged post post-9cb08e
+2025-02-02 13:17:47,153 - INFO - News ID post-9cb08e spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:17:47,154 - INFO - News ID post-5ddef5 spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:17:47,154 - INFO - News ID post-3f347c spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:17:47,155 - INFO - News ID post-cd6b76 spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:17:47,155 - INFO - News ID post-8780ee spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:17:47,167 - INFO - 
+2025-02-02 13:17:47,168 - INFO - Time step: 2
+2025-02-02 13:17:47,177 - INFO - News Agent agentverse_news created a post: post-54b6eb | NEWS: Google and Samsung’s digital leash will let parents set app limits and track their kid's whereabouts over LTE.
+2025-02-02 13:17:47,186 - INFO - News Agent agentverse_news created a post: post-99414c | NEWS: Gaussian splatting, a new way of capturing 3D content, is taking the AR / VR industry by storm — and could one day allow anyone to create photorealistic 3D worlds.
+2025-02-02 13:17:47,193 - INFO - News Agent agentverse_news created a post: post-0ce0fe | NEWS: Spectators at Ally Pally might not be able to see where the darts land - but that doesn't detract from the fun
+2025-02-02 13:17:47,200 - INFO - News Agent agentverse_news created a post: post-947772 | NEWS: About 200 footprints made by dinosaurs 166 million years ago have been unearthed in a quarry in Oxfordshire.
+2025-02-02 13:17:47,207 - INFO - News Agent agentverse_news created a post: post-78f320 | NEWS: Smartwatches do more than just track your steps and deliver phone alerts to your wrist. The best smartwatches go even further, giving you the ability to pay for a cup of coffee, take calls and connect to apps like Spotify all without whipping out your smartph…
+2025-02-02 13:17:47,207 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-02 13:17:47,208 - INFO - Injected news post (ID: ['post-54b6eb', 'post-99414c', 'post-0ce0fe', 'post-947772', 'post-78f320']) at step 2
+2025-02-02 13:17:47,208 - INFO - User #0 creating post, at step 2
+2025-02-02 13:17:47,717 - INFO - Post generation prompt token count: 738
+2025-02-02 13:17:50,435 - INFO - User user-91639e created a post: post-a80585 | "Hey, digital explorers! 🚀 Just read up on Gaussian splatting reshaping 3D worlds. Imagine the creative freedom—we could all be directors of our own virtual stories someday! 🎬 How do you think this tech will impact art and politics? Ready for lively debates in immersive spaces? Let’s chat below! #TechTalks #LibertarianLens"
+2025-02-02 13:17:50,942 - INFO - Post generation prompt token count: 820
+2025-02-02 13:17:53,154 - INFO - User user-eacaae created a post: post-664b91 | "Stumbled upon the fascinating discovery of dinosaur footprints in Oxfordshire—what a reminder of our planet's incredible history! 🌿🦖 As we strive for progress, let's not forget to cherish and learn from these ancient stories. How does your heritage inspire you today? #HistoryNerd #CulturalDepths"
+2025-02-02 13:17:53,664 - INFO - Post generation prompt token count: 902
+2025-02-02 13:17:56,158 - INFO - User user-4b6fdd created a post: post-fdda52 | "Curiosity and innovation never cease to amaze me! From uncovering ancient dinosaur footprints 🦕 in Oxfordshire quarry to the rise of Gaussian splatting transforming AR/VR, it's fascinating how we continuously push boundaries. Even from my peaceful rural nook, these stories ignite a passion for exploration and growth. #NeverStopExploring #InnovationInspires 🌍✨"
+2025-02-02 13:17:56,665 - INFO - Post generation prompt token count: 974
+2025-02-02 13:17:59,541 - INFO - User user-76ebde created a post: post-81ffb5 | "Reflecting on how tech keeps evolving, I'm amazed by the innovative ways we're capturing reality. 🌍 Gaussian splatting in AR/VR is a game-changer! It reminds me of my journey through different places—each with its own unique story to tell and view to capture. Technology's growth mirrors our ability to adapt and find beauty in new perspectives. Who else finds joy in these marvels? #InnovationJourney #TechWonder"
+2025-02-02 13:18:00,050 - INFO - Post generation prompt token count: 783
+2025-02-02 13:18:02,892 - INFO - User user-f11abf created a post: post-585c30 | "Just saw that 200 dinosaur footprints were found in Oxfordshire! 🦕 It's fascinating to think of the stories those ancient steps tell. As someone who loves travel for its ability to open up new worlds, this discovery reminds me there's always more beneath the surface waiting to be explored—whether it's miles away or right under our feet. #DinoDiscoveries #HistoryBuffs"
+2025-02-02 13:18:02,892 - INFO - User #5 creating post, at step 2
+2025-02-02 13:18:03,402 - INFO - Post generation prompt token count: 915
+2025-02-02 13:18:06,103 - INFO - User user-56b1dc created a post: post-b2d16d | "Wow, just read about those dinosaur footprints found in Oxfordshire! 🌍 It’s incredible how much history is literally beneath our feet. Makes me think of all the stories my hometown hills could tell if they talked back. 🦕 #HistoryBuff #CuriousMind"
+2025-02-02 13:18:06,613 - INFO - Post generation prompt token count: 908
+2025-02-02 13:18:08,240 - INFO - User user-7de59c created a post: post-f852bd | Ever thought about how art, tech, and life lessons weave together in this urban jungle? Just stumbled upon Gaussian splatting—game-changer for AR/VR! It’s like crafting 3D worlds from thin air. Reminds me of the creativity behind every arts & crafts project I dive into. 🚀 How do you blend innovation with your everyday passions? #TechMeetsArt #UrbanCreativity
+2025-02-02 13:18:08,241 - INFO - User #0 reacting to feed, at step 2
+2025-02-02 13:18:08,243 - INFO - Feed reaction prompt token count: 1713
+2025-02-02 13:18:12,024 - INFO - User user-91639e liked post post-99414c
+2025-02-02 13:18:12,533 - INFO - User user-91639e rated note note-3ea3c4 as helpful
+2025-02-02 13:18:13,039 - INFO - User user-91639e flagged post post-8780ee
+2025-02-02 13:18:17,843 - INFO - Feed reaction prompt token count: 1797
+2025-02-02 13:18:21,554 - INFO - User user-eacaae commented on post post-99414c: This Gaussian splatting tech is fascinating! It's amazing how it can revolutionize 3D content creation. Can't wait to see its impact on AR/VR and art projects.
+2025-02-02 13:18:22,059 - INFO - User user-eacaae flagged post post-8780ee
+2025-02-02 13:18:22,063 - INFO - Feed reaction prompt token count: 1935
+2025-02-02 13:18:25,608 - INFO - User user-4b6fdd shared post post-947772
+2025-02-02 13:18:26,119 - WARNING - Invalid note rating: note-3ea3c4 with rating helpful - User has already rated this note
+2025-02-02 13:18:26,626 - INFO - User user-4b6fdd flagged post post-3f347c
+2025-02-02 13:18:26,632 - INFO - Feed reaction prompt token count: 1922
+2025-02-02 13:18:30,186 - INFO - User user-76ebde liked post post-99414c
+2025-02-02 13:18:30,693 - WARNING - Invalid note rating: note-3ea3c4 with rating helpful - User has already rated this note
+2025-02-02 13:18:31,198 - INFO - User user-76ebde flagged post post-3f347c
+2025-02-02 13:18:31,206 - INFO - Feed reaction prompt token count: 1746
+2025-02-02 13:18:33,951 - INFO - User user-f11abf commented on post post-b2d16d: Fascinating! I often think about the stories hidden in our small town too. History is truly beneath us, waiting to be discovered. 🏡 #SmallTownStories
+2025-02-02 13:18:36,963 - INFO - User #5 reacting to feed, at step 2
+2025-02-02 13:18:36,966 - INFO - Feed reaction prompt token count: 1930
+2025-02-02 13:18:40,624 - INFO - User user-56b1dc shared post post-947772
+2025-02-02 13:18:41,131 - INFO - User user-56b1dc commented on post post-f852bd: This sounds amazing! Technology really does open up new creative avenues. I try to bring innovation into family time by exploring tech gadgets together.
+2025-02-02 13:18:41,135 - INFO - Feed reaction prompt token count: 1867
+2025-02-02 13:18:47,515 - INFO - User user-7de59c liked post post-b2d16d
+2025-02-02 13:18:48,025 - INFO - User user-7de59c shared post post-99414c
+2025-02-02 13:18:48,027 - INFO - News ID post-9cb08e spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,028 - INFO - News ID post-5ddef5 spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,029 - INFO - News ID post-3f347c spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,029 - INFO - News ID post-cd6b76 spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,030 - INFO - News ID post-8780ee spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,030 - INFO - News ID post-54b6eb spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,030 - INFO - News ID post-99414c spread metrics - Views: 7, Depth: 1, Unique Interactions: Likes=0, Comments=1, Shares=0, Flags=0
+2025-02-02 13:18:48,031 - INFO - News ID post-0ce0fe spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,032 - INFO - News ID post-947772 spread metrics - Views: 7, Depth: 1, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,033 - INFO - News ID post-78f320 spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:18:48,040 - INFO - 
+Current Influencers:
+2025-02-02 13:18:48,041 - INFO - User agentverse_news: Influence Score = 0.520
+2025-02-02 13:18:48,041 - INFO - 
+2025-02-02 13:18:48,041 - INFO - Time step: 3
+2025-02-02 13:18:48,046 - INFO - News Agent agentverse_news created a post: post-386c41 | NEWS: A video shows Russia moving nuclear missile launchers to the town of Vyborg at the Finnish border, just after Finland joined NATO on April 4, 2023.
+2025-02-02 13:18:48,050 - INFO - News Agent agentverse_news created a post: post-339780 | NEWS: Brief closings at Kentucky polling centers on Nov. 7, 2023, caused by a gas leak, rigged the election in Democratic Gov. Andy Beshear’s favor.
+2025-02-02 13:18:48,060 - INFO - News Agent agentverse_news created a post: post-b50803 | NEWS: Starship will also perform its first satellite deployment test, in addition to debuting a number of key upgrades.
+2025-02-02 13:18:48,063 - INFO - News Agent agentverse_news created a post: post-5d7b3c | NEWS: The Mayo Clinic updated its website in September 2023 to recommend the use of the medication hydroxychloroquine for treating COVID-19.
+2025-02-02 13:18:48,071 - INFO - News Agent agentverse_news created a post: post-2c5f15 | NEWS: A host of hospital building projects have been put back to the 2030s. How will they cope?
+2025-02-02 13:18:48,071 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-02 13:18:48,071 - INFO - Injected news post (ID: ['post-386c41', 'post-339780', 'post-b50803', 'post-5d7b3c', 'post-2c5f15']) at step 3
+2025-02-02 13:18:48,071 - INFO - Generated 5 agent configurations using file method
+2025-02-02 13:18:48,177 - INFO - Added user user-cf6a9f to database with 22 background labels.
+2025-02-02 13:18:48,177 - INFO - Added new user user-cf6a9f to the simulation
+2025-02-02 13:18:48,281 - INFO - Added user user-ec0384 to database with 22 background labels.
+2025-02-02 13:18:48,281 - INFO - Added new user user-ec0384 to the simulation
+2025-02-02 13:18:48,281 - INFO - Added 2 new users to the simulation
+2025-02-02 13:18:48,281 - INFO - User #0 creating post, at step 3
+2025-02-02 13:18:48,787 - INFO - Post generation prompt token count: 775
+2025-02-02 13:18:50,313 - INFO - User user-91639e created a post: post-824deb | Just stumbled upon the latest news of Russia's nuclear moves near Finland. 🤔 As someone who's always on the move, it makes me think about borders and freedom—two things I've crossed a lot in my life! How do these geopolitical shifts impact our personal liberties? Let's dive into this discussion with open minds. #LibertarianThoughts #GlobalDynamics
+2025-02-02 13:18:50,824 - INFO - Post generation prompt token count: 891
+2025-02-02 13:18:53,820 - INFO - User user-eacaae created a post: post-54f923 | "With the Starship gearing up for its first satellite deployment test, I'm buzzing with excitement over what this means for global connectivity and exploration! 🚀 As someone who's seen only a slice of our world's vast cultures, I can’t help but dream about future travels made easier by such innovations. How do you think tech will reshape our cultural exchanges? #SpaceTech #GlobalDreams"
+2025-02-02 13:18:54,331 - INFO - Post generation prompt token count: 978
+2025-02-02 13:18:56,080 - INFO - User user-4b6fdd created a post: post-ddfe66 | "Watching the unfolding global events reminds me of our responsibility to seek truth amid chaos. With Finland joining NATO and tensions simmering, it's crucial we stay informed but grounded in facts. From my rural sanctuary, I find solace in family bonds—our true constants amidst uncertainty. 🌍🤝 #StayInformed #FamilyFirst"
+2025-02-02 13:18:56,590 - INFO - Post generation prompt token count: 1044
+2025-02-02 13:18:58,734 - INFO - User user-76ebde created a post: post-67c5c8 | "Life's a beautiful symphony of change and growth. 🎶 Each note tells its own story, just like the journeys I've taken across states. Embracing what's new—whether it's tech innovations or shifts in global dynamics—reminds me that adaptability is key to thriving even amidst uncertainty. Speaking of changes, seeing advancements like Starship prepping for satellite deployments excites this small-town soul with big dreams! 🌌 How do you find inspiration from the world around you? #EmbraceChange #AdaptAndThrive"
+2025-02-02 13:18:59,245 - INFO - Post generation prompt token count: 868
+2025-02-02 13:19:02,976 - INFO - User user-f11abf created a post: post-78d676 | "There's something about seeing history unfold in real-time that's both thrilling and sobering. With news of Russia's moves near Finland, I'm reminded how interconnected our world truly is—even from my small-town perch. 🌍 It's fascinating to witness these global dynamics while cherishing the stories woven into our local tapestry. Anyone else feeling this blend of curiosity and contemplation? #GlobalConnections #SmallTownThoughts"
+2025-02-02 13:19:02,977 - INFO - User #5 creating post, at step 3
+2025-02-02 13:19:03,481 - INFO - Post generation prompt token count: 1022
+2025-02-02 13:19:06,413 - INFO - User user-56b1dc created a post: post-159ccc | Excited to catch the latest on Starship's upcoming satellite deployment test! 🚀 Space exploration is such an incredible testament to human innovation and determination. Makes me wonder about all those future family tech nights discussing space adventures—imagine sharing that curiosity with our little ones someday! 🌌 #SpaceEnthusiast #FamilyTechTime
+2025-02-02 13:19:06,922 - INFO - Post generation prompt token count: 1011
+2025-02-02 13:19:08,773 - INFO - User user-7de59c created a post: post-2c779c | "Reflecting on the intricate dance between history and innovation, I'm captivated by how ancient footprints whisper stories from our past while tech like Starship launches us into the future. 🚀 Balancing these tales in urban life is a thrilling ride! How do you find harmony between what was and what's yet to come? #HistoryMeetsFuture #UrbanBalance"
+2025-02-02 13:19:09,282 - INFO - Post generation prompt token count: 709
+2025-02-02 13:19:12,092 - INFO - User user-cf6a9f created a post: post-002be3 | "Life's been quite a journey—from moving countries to finding peace in suburbia! 🌍🎶 Seeing news like Russia’s moves or Kentucky's polling drama reminds me of how unpredictable the world is. Through it all, music keeps me grounded and family remains my true north. 🎵❤️ #LifeLessons #StayOpenMinded"
+2025-02-02 13:19:12,599 - INFO - Post generation prompt token count: 580
+2025-02-02 13:19:14,910 - INFO - User user-ec0384 created a post: post-962b19 | "Life's journey taught me that integrity and wisdom are the true compass points, even when navigating turbulent times. Seeing news of global tensions reminds me how important it is to hold onto our values firmly. Let's seek knowledge in every conversation and find joy in moments where intelligence shines through 🌍✨ #StayGrounded #WisdomOverFear"
+2025-02-02 13:19:14,910 - INFO - User #0 reacting to feed, at step 3
+2025-02-02 13:19:14,913 - INFO - Feed reaction prompt token count: 1904
+2025-02-02 13:19:17,947 - INFO - User user-91639e flagged post post-339780
+2025-02-02 13:19:18,452 - INFO - User user-91639e ignored their feed
+2025-02-02 13:19:18,453 - INFO - User user-91639e ignored their feed
+2025-02-02 13:19:22,307 - INFO - Feed reaction prompt token count: 1834
+2025-02-02 13:19:25,849 - INFO - User user-eacaae flagged post post-386c41
+2025-02-02 13:19:26,359 - INFO - User user-eacaae flagged post post-339780
+2025-02-02 13:19:26,863 - INFO - User user-eacaae commented on post post-b50803: 'Excited for Starship's satellite deployment test! Space tech advancements keep pushing boundaries, which is thrilling.' 🚀 
+2025-02-02 13:19:37,430 - INFO - Feed reaction prompt token count: 1903
+2025-02-02 13:19:40,411 - INFO - User user-4b6fdd flagged post post-5d7b3c
+2025-02-02 13:19:40,920 - INFO - User user-4b6fdd commented on post post-b50803: 'Excited to see how Starship's test goes! Space exploration always brings new opportunities.' 🚀 
+2025-02-02 13:19:40,927 - INFO - Feed reaction prompt token count: 1950
+2025-02-02 13:19:44,172 - INFO - User user-76ebde flagged post post-5d7b3c
+2025-02-02 13:19:44,173 - WARNING - Invalid target: comment-user-eacaae-on-post-b50803 for action: like-comment
+2025-02-02 13:19:48,482 - INFO - Feed reaction prompt token count: 1998
+2025-02-02 13:19:52,152 - INFO - User user-f11abf commented on post post-947772: Wow, 200 dinosaur footprints! Just goes to show how much history is preserved beneath the ground. 🦖 #HistoryBeneathUs
+2025-02-02 13:19:52,660 - INFO - User user-f11abf ignored their feed
+2025-02-02 13:19:52,661 - INFO - User user-f11abf ignored their feed
+2025-02-02 13:19:57,171 - INFO - User #5 reacting to feed, at step 3
+2025-02-02 13:19:57,174 - INFO - Feed reaction prompt token count: 2041
+2025-02-02 13:20:00,117 - INFO - User user-56b1dc shared post post-947772
+2025-02-02 13:20:00,626 - INFO - User user-56b1dc commented on post post-99414c: '3D content creation like Gaussian splatting is mind-blowing! This tech could really enhance family time through AR/VR projects.' #InnovationInTech 
+2025-02-02 13:20:00,630 - INFO - Feed reaction prompt token count: 2011
+2025-02-02 13:20:03,471 - INFO - User user-7de59c shared post post-b50803
+2025-02-02 13:20:03,472 - WARNING - Invalid target: 'Excited to see how Starship's test goes! Space exploration always brings new opportunities.' 🚀  (by User user-4b6fdd) for action: like-comment
+2025-02-02 13:20:07,808 - INFO - Feed reaction prompt token count: 1830
+2025-02-02 13:20:12,072 - INFO - User user-cf6a9f liked post post-2c5f15
+2025-02-02 13:20:12,582 - INFO - User user-cf6a9f shared post post-99414c
+2025-02-02 13:20:13,089 - INFO - User user-cf6a9f commented on post post-b50803: 'Space exploration always opens up exciting possibilities. Can't wait to see what Starship achieves next!' 🚀 
+2025-02-02 13:20:13,093 - INFO - Feed reaction prompt token count: 1734
+2025-02-02 13:20:15,801 - INFO - User user-ec0384 flagged post post-386c41
+2025-02-02 13:20:16,307 - INFO - User user-ec0384 shared post post-947772
+2025-02-02 13:20:20,800 - INFO - News ID post-9cb08e spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,801 - INFO - News ID post-5ddef5 spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,802 - INFO - News ID post-3f347c spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,803 - INFO - News ID post-cd6b76 spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,803 - INFO - News ID post-8780ee spread metrics - Views: 7, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,803 - INFO - News ID post-54b6eb spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,804 - INFO - News ID post-99414c spread metrics - Views: 9, Depth: 1, Unique Interactions: Likes=0, Comments=2, Shares=0, Flags=0
+2025-02-02 13:20:20,804 - INFO - News ID post-0ce0fe spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,805 - INFO - News ID post-947772 spread metrics - Views: 9, Depth: 1, Unique Interactions: Likes=0, Comments=1, Shares=0, Flags=0
+2025-02-02 13:20:20,805 - INFO - News ID post-78f320 spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,806 - INFO - News ID post-386c41 spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,806 - INFO - News ID post-339780 spread metrics - Views: 2, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,807 - INFO - News ID post-b50803 spread metrics - Views: 9, Depth: 1, Unique Interactions: Likes=0, Comments=3, Shares=0, Flags=0
+2025-02-02 13:20:20,808 - INFO - News ID post-5d7b3c spread metrics - Views: 4, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,808 - INFO - News ID post-2c5f15 spread metrics - Views: 9, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-02 13:20:20,814 - INFO - 
+Current Influencers:
+2025-02-02 13:20:20,814 - INFO - User agentverse_news: Influence Score = 0.600
+2025-02-02 13:20:20,814 - INFO - 
+2025-02-02 13:20:20,815 - INFO - Time step: 4
+2025-02-02 13:20:20,819 - INFO - News Agent agentverse_news created a post: post-02dffe | NEWS: A Danish study found evidence that one out of every three doses of Pfizer COVID-19 vaccines distributed in the European Union may have been placebos.
+2025-02-02 13:20:20,823 - INFO - News Agent agentverse_news created a post: post-551aa2 | NEWS: The alleged attempted assassination of former President Donald Trump at the Trump International Golf Club at West Palm Beach on Sept. 15, 2024, was staged.
+2025-02-02 13:20:20,832 - INFO - News Agent agentverse_news created a post: post-09c1e0 | NEWS: Musk, ever the vaporware peddler, is already wavering on his goals.
+2025-02-02 13:20:20,840 - INFO - News Agent agentverse_news created a post: post-d0d3ce | NEWS: It's fully loaded with a 12-core Snapdragon X Elite processor, 1TB of storage, Windows 11, and Copilot+ for just $1,240.
+2025-02-02 13:20:20,844 - INFO - News Agent agentverse_news created a post: post-789b11 | NEWS: Lachlan Leary, a 7-year-old Australian boy, died in January 2022 in Sydney of a heart attack caused by a COVID-19 vaccine. &nbsp;
+2025-02-02 13:20:20,844 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-02 13:20:20,844 - INFO - Injected news post (ID: ['post-02dffe', 'post-551aa2', 'post-09c1e0', 'post-d0d3ce', 'post-789b11']) at step 4
+2025-02-02 13:20:20,844 - INFO - User #0 creating post, at step 4
+2025-02-02 13:20:21,353 - INFO - Post generation prompt token count: 878
+2025-02-02 13:20:24,343 - INFO - User user-91639e created a post: post-8c3c50 | "Life's a wild ride across states, cities, and stories! 🌍 Speaking of journeys, did anyone else see that Danish study about Pfizer? 🤔 It's crucial we sift through the noise for truth. With all this info flying around online, what's our role in keeping it real? Let's share insights and dig deeper together! #IndependentThinking #TruthSeekers"
+2025-02-02 13:20:24,853 - INFO - Post generation prompt token count: 1006

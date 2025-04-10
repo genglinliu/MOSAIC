@@ -1,0 +1,946 @@
+2025-02-01 16:48:47,226 - INFO - Starting simulation with 2 users for 20 time steps using qwen2.5...
+2025-02-01 16:48:48,227 - INFO - Resetting database...
+2025-02-01 16:48:48,227 - INFO - Existing database removed.
+2025-02-01 16:48:48,234 - INFO - Database tables created successfully.
+2025-02-01 16:48:48,234 - INFO - New tables created.
+2025-02-01 16:48:48,235 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:48:48,235 - INFO - Creating 2 users
+2025-02-01 16:48:48,235 - INFO - Added user user-47df61 to database with 22 background labels.
+2025-02-01 16:48:48,237 - INFO - Added user user-de46fd to database with 22 background labels.
+2025-02-01 16:48:48,237 - INFO - Total users in database after creation: 2
+2025-02-01 16:48:48,257 - INFO - Time step: 1
+2025-02-01 16:48:48,264 - INFO - News Agent agentverse_news created a post: post-2f6561 | BREAKING NEWS: A One UI 7 beta discovery could suggest Samsung's upcoming wave of foldables.
+2025-02-01 16:48:48,264 - INFO - Injected real news through user agentverse_news
+2025-02-01 16:48:48,264 - INFO - Injected news post (ID: post-2f6561) at step 1
+2025-02-01 16:48:48,264 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:48:48,366 - INFO - Added user user-345596 to database with 22 background labels.
+2025-02-01 16:48:48,366 - INFO - Added new user user-345596 to the simulation
+2025-02-01 16:48:48,468 - INFO - Added user user-7b03cf to database with 22 background labels.
+2025-02-01 16:48:48,468 - INFO - Added new user user-7b03cf to the simulation
+2025-02-01 16:48:48,468 - INFO - Added 2 new users to the simulation
+2025-02-01 16:48:48,468 - INFO - User #0 creating post, at step 1
+2025-02-01 16:48:48,969 - INFO - Post generation prompt token count: 669
+2025-02-01 16:48:49,865 - INFO - User user-47df61 created a post: post-ea13bf | Reflections on Life's Journey 🌲
+
+Growing up wasn't easy, but it taught me resilience and the value of integrity. Even though I've only called one place home, my love for traveling has enriched my life in ways unimaginable. A recent discovery about Samsung's upcoming foldables reminds me how technology keeps evolving, much like our rural landscapes change with seasons. What advancements are you excited about today? #TechThoughts #ReflectionsOnLife
+2025-02-01 16:48:50,366 - INFO - Post generation prompt token count: 679
+2025-02-01 16:48:51,456 - INFO - User user-de46fd created a post: post-4f7609 | Hey everyone! 🌟 Just reflecting on my recent journey through urban landscapes and diverse cultures—each new city adds a unique chapter to my life story. I’ve been thinking about how technology evolves, much like our communities change with the seasons. The recent mention of Samsung's One UI 7 got me pondering—what advancements are you most excited about? Maybe we can share some thoughts on how these innovations could shape our future! #TechThoughts #PersonalJourney
+
+This way, I keep things fresh and engaging without repeating myself too much. Hope you all had a great weekend!
+2025-02-01 16:48:51,957 - INFO - Post generation prompt token count: 790
+2025-02-01 16:48:53,380 - INFO - User user-345596 created a post: post-ddf404 | Navigating life's chapters has taught me a lot about resilience and the beauty of diversity. Growing up in bustling cities might have set my spirit free, but finding solace in nature’s serenity has given me a new perspective. Recently, I stumbled upon some exciting developments with Samsung's One UI 7—makes you wonder how tech will shape our future! What advancements are catching your eye? #TechThoughts
+
+In between exploring the digital world and enjoying the quiet life of the countryside, my passion for movies remains as strong as ever. It’s like a mini-vacation whenever I can binge-watch something good. How about you—what's your favorite movie marathon? #MovieNightChat
+2025-02-01 16:48:53,881 - INFO - Post generation prompt token count: 826
+2025-02-01 16:48:55,590 - INFO - User user-7b03cf created a post: post-1d8708 | Hey everyone! Just reflecting on my journey so far—each move has been a new chapter in my life story. Lately, I've been really into exploring different genres of music and it’s amazing how they can reflect our emotions and experiences. What's your go-to genre when you need some emotional uplift? #MusicMood
+
+And for those who were wondering about the tech stuff—Samsung's One UI 7 sounds intriguing! It got me thinking about how technology is shaping our future, especially with all these advancements in user interface design. How do you think these changes will impact your daily life and interactions?
+
+Also, I've been revisiting old movies that remind me of different places I’ve lived. There’s something nostalgic and comforting about those scenes. What classic flicks take you back to a special place or time? #MovieNights
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:48:55,590 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 16:48:55,592 - INFO - Feed reaction prompt token count: 1194
+2025-02-01 16:48:58,937 - INFO - User user-47df61 commented on post post-1d8708: I love how music can transport us to different emotions! Classical music often does that for me, especially when I’m in nature. What about you? #MusicMood 🌿
+2025-02-01 16:48:59,439 - INFO - User user-47df61 commented on post post-ddf404: Samsung's One UI 7 is indeed intriguing! I’m also curious about how AI integration might change our interaction with technology. What are your thoughts on that? #TechThoughts
+2025-02-01 16:48:59,942 - INFO - User user-47df61 commented on post post-4f7609: Travelling through different cities has been enriching, each one offering its own charm. I recently watched 'Eternal Sunshine of the Spotless Mind,' which took me back to a time in Chicago. What classic films remind you of specific places? #MovieNightChat
+2025-02-01 16:49:00,444 - INFO - User user-47df61 followed user-7b03cf
+2025-02-01 16:49:03,183 - INFO - Feed reaction prompt token count: 1167
+2025-02-01 16:49:05,883 - INFO - User user-de46fd commented on post post-1d8708: I find jazz incredibly soulful and it always brings back memories of old friends. What about you? #MusicMood 🎸
+2025-02-01 16:49:06,385 - INFO - User user-de46fd commented on post post-ddf404: I'm excited about AI integration too! It's fascinating how it can enhance our daily interactions. What classic movies remind you of home?
+2025-02-01 16:49:06,887 - INFO - User user-de46fd followed user-47df61
+2025-02-01 16:49:06,889 - INFO - Feed reaction prompt token count: 1209
+2025-02-01 16:49:10,663 - INFO - User user-345596 commented on post post-1d8708: I love how music can evoke such strong feelings! Folk is my go-to when I need a bit of a cultural boost. What’s your favorite folk artist? 🌿 #MusicMood
+2025-02-01 16:49:11,166 - INFO - User user-345596 commented on post post-4f7609: Absolutely, every city has its own unique vibe! I’ve been revisiting 'The Shawshank Redemption,' which always takes me back to my early twenties. Any classic films that remind you of specific times? 🎬 #MovieNightChat
+2025-02-01 16:49:11,669 - INFO - User user-345596 commented on post post-ea13bf: Technology definitely keeps us connected, but it’s great when we can relate it to our own stories. I’ve been exploring new hiking trails lately; they remind me of the landscapes in my old movies! 🌳 #ReflectionsOnLife
+2025-02-01 16:49:11,669 - WARNING - Invalid target: post-1d8708 for action: like-comment
+2025-02-01 16:49:11,672 - INFO - Feed reaction prompt token count: 1266
+2025-02-01 16:49:13,947 - INFO - User user-7b03cf commented on post post-ddf404: I've found that nature walks help me stay grounded, much like classic films remind me of home. What about you? Any outdoor activities that bring back memories?
+2025-02-01 16:49:14,449 - INFO - User user-7b03cf commented on post post-ea13bf: Absolutely, technology has brought us so far. I’m excited about AI advancements too; they promise to make our lives easier and more connected.
+2025-02-01 16:49:16,537 - INFO - News ID post-2f6561 spread metrics - Views: 4, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:49:16,545 - INFO - 
+2025-02-01 16:49:16,545 - INFO - Time step: 2
+2025-02-01 16:49:16,558 - INFO - News Agent agentverse_news created a post: post-b904c3 | BREAKING NEWS: Take this A-list Android phone with its 50MP camera and TurboPower rapid charging to any carrier you like.
+2025-02-01 16:49:16,558 - INFO - Injected real news through user agentverse_news
+2025-02-01 16:49:16,559 - INFO - Injected news post (ID: post-b904c3) at step 2
+2025-02-01 16:49:16,559 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:49:16,661 - INFO - Added user user-61c945 to database with 22 background labels.
+2025-02-01 16:49:16,661 - INFO - Added new user user-61c945 to the simulation
+2025-02-01 16:49:16,763 - INFO - Added user user-880dda to database with 22 background labels.
+2025-02-01 16:49:16,763 - INFO - Added new user user-880dda to the simulation
+2025-02-01 16:49:16,763 - INFO - Added 2 new users to the simulation
+2025-02-01 16:49:16,763 - INFO - User #0 creating post, at step 2
+2025-02-01 16:49:17,265 - INFO - Post generation prompt token count: 1180
+2025-02-01 16:49:19,379 - INFO - User user-47df61 created a post: post-c790b7 | Reflections on Life's Journey 🌲
+
+Growing up wasn't easy, but it taught me resilience and the value of integrity. Even though I've only called one place home, my love for traveling has enriched my life in ways unimaginable. A recent discovery about Samsung's upcoming foldables reminds me how technology keeps evolving, much like our rural landscapes change with seasons. What advancements are you excited about today? #TechThoughts
+
+But seriously, let’s talk about something that’s been on my mind lately—music and its power to evoke memories. Classical music often does that for me, especially when I’m in nature. It’s amazing how they can reflect our emotions and experiences. What's your go-to genre when you need some emotional uplift? #MusicMood
+
+And speaking of travel, I recently watched 'Eternal Sunshine of the Spotless Mind,' which took me back to a time in Chicago. It got me thinking—what classic films remind you of specific places? Share your favorites! #MovieNightsChat
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:49:19,881 - INFO - Post generation prompt token count: 1096
+2025-02-01 16:49:22,790 - INFO - User user-de46fd created a post: post-0d3b69 | Hey everyone! 🌟 Reflecting on my recent journey through urban landscapes and diverse cultures—each new city adds a unique chapter to my life story. I’ve been thinking about how technology evolves, much like our communities change with the seasons. The other day, I stumbled upon some fascinating insights about Samsung's One UI 7, which got me pondering what advancements excite you most. Maybe we can share some thoughts on how these innovations could shape our future! #TechThoughts
+
+But seriously, let’s talk about something that’s been on my mind lately—music and its power to evoke memories. Classical music often does that for me, especially when I’m in nature. It’s amazing how they can reflect our emotions and experiences. What's your go-to genre when you need some emotional uplift? #MusicMood
+
+And speaking of travel, I recently watched 'Eternal Sunshine of the Spotless Mind,' which took me back to a time in Chicago. It got me thinking—what classic films remind you of specific places? Share your favorites! #MovieNightsChat
+
+On a different note, growing up wasn't always easy, but it taught me resilience and the value of integrity. Even though I've only called one place home, my love for traveling has enriched my life in ways unimaginable. A recent discovery about Samsung's upcoming foldables reminds me how technology keeps evolving, much like our rural landscapes change with seasons. What advancements are you excited about today? #TechThoughts
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:49:23,293 - INFO - Post generation prompt token count: 1497
+2025-02-01 16:49:25,109 - INFO - User user-345596 created a post: post-e2f0b3 | Hey everyone! 🌟 Reflecting on my recent journey through urban landscapes and diverse cultures, each new city added a unique chapter to my life story. Now that I've settled in the peaceful countryside, I find myself appreciating the simple pleasures even more. A recent discovery about Samsung's One UI 7 got me thinking—how do you stay connected with your roots while embracing new technologies? #TechThoughts
+
+On a different note, music has been on my mind lately. Classical music often evokes powerful emotions, especially when I’m out in nature. What’s your go-to genre for emotional uplift? 🌿 #MusicMood
+
+And speaking of travel, I recently watched 'Eternal Sunshine of the Spotless Mind,' which reminded me of a time in Chicago. It got me thinking—what classic films remind you of specific places? Share your favorites! #MovieNightsChat
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:49:25,611 - INFO - Post generation prompt token count: 1417
+2025-02-01 16:49:27,534 - INFO - User user-7b03cf created a post: post-712ec3 | Hey everyone! 🌟 Recently, I've been diving deep into different genres of music—each one evoking its own set of emotions and memories. Classical tunes from nature walks remind me of my travels, while rock and roll keeps me energized. What’s your favorite genre for when you need a boost? #MusicMood
+
+Also, Samsung's One UI 7 is making waves, but I'm more excited about the upcoming foldables! They’re changing the way we interact with technology, just like how moving to new places has shaped my outlook on life. How do these advancements make your day-to-day easier and more fun? #TechThoughts
+
+And speaking of travel, I recently revisited 'Eternal Sunshine of the Spotless Mind,' which brought back vivid memories of Chicago. What classic films take you back to a special place or time? Let’s share our favorites! #MovieNightsChat
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:49:28,036 - INFO - Post generation prompt token count: 1081
+2025-02-01 16:49:30,605 - INFO - User user-61c945 created a post: post-fc3f64 | Hey everyone! 🌟 Just wrapping up some data analysis for work when I realized how much my analytical mind thrives in this fast-paced urban environment. It's fascinating to see all the numbers and patterns come together, almost like solving a complex puzzle. Moving around so much has definitely shaped me into the person I am today—analytical yet instinctive.
+
+As an avid exerciser, hitting the gym after a long day is always refreshing. Lifting weights or going for a run helps clear my mind and keeps me focused. Music has been my constant companion through it all, from jazz in the morning to hip-hop at night. What’s your go-to genre when you need that extra boost? #MusicMood
+
+On a different note, I've always found classical music incredibly soothing, especially during those nature walks in the countryside around here. It brings back memories of traveling and exploring new places. Have any of you discovered a genre or artist that has a special meaning to you? Let's chat about it! 🌿 #MusicMood
+
+And speaking of tech, I’m really intrigued by Samsung’s One UI 7 updates. While I appreciate the convenience new technologies bring, sometimes I find myself craving the simplicity of my old ways. How do these advancements affect your daily life, and do you ever feel a bit nostalgic? #TechThoughts
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:49:30,605 - INFO - User #5 creating post, at step 2
+2025-02-01 16:49:31,107 - INFO - Post generation prompt token count: 1190
+2025-02-01 16:49:33,125 - INFO - User user-880dda created a post: post-c9a614 | Hey everyone! 🌟 Just finished up some intense data analysis at work, and it feels amazing to see all those numbers come together. This urban life definitely keeps my analytical mind engaged—like solving complex puzzles every day!
+
+But enough about work. Lately, I've been exploring new music genres and found myself really digging into indie rock. There's something so freeing about the raw energy in their lyrics and melodies. What new musical discoveries have you made recently? #MusicMood
+
+Also, excited to hear Samsung's One UI 7 is bringing some serious tech upgrades! While I love the convenience of modern devices, sometimes I just long for that old-school simplicity. How do these advancements affect your daily life? Do they ever make you feel a bit nostalgic? #TechThoughts
+
+And speaking of travel and memories, revisiting 'Eternal Sunshine of the Spotless Mind' reminded me of my time in Chicago. What classic films bring back cherished memories for you? Let's share our favorites! 🎬 #MovieNightsChat
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:49:33,126 - INFO - User #0 reacting to feed, at step 2
+2025-02-01 16:49:33,128 - INFO - Feed reaction prompt token count: 2116
+2025-02-01 16:49:36,419 - INFO - User user-47df61 commented on post post-712ec3: I love how music can transport us to different places! Classical tunes always remind me of my travels too. #MusicMood 🎶
+2025-02-01 16:49:36,921 - INFO - User user-47df61 commented on post post-fc3f64: I agree, classical music is perfect for nature walks. It's like carrying a piece of my travels wherever I go! #MusicMood 🌿
+2025-02-01 16:49:37,424 - INFO - User user-47df61 liked post post-712ec3
+2025-02-01 16:49:37,926 - INFO - User user-47df61 already follows user-7b03cf
+2025-02-01 16:49:39,590 - INFO - Feed reaction prompt token count: 1641
+2025-02-01 16:49:41,865 - INFO - User user-de46fd commented on post post-712ec3: I've been really into indie rock lately—it's so inspiring! And I completely agree about the upcoming foldables—they're like a new adventure in tech. #TechThoughts 🚀
+2025-02-01 16:49:41,866 - WARNING - Invalid target: post-712ec3_comments_user-47df61 for action: like-comment
+2025-02-01 16:49:44,255 - INFO - Feed reaction prompt token count: 1761
+2025-02-01 16:49:46,587 - INFO - User user-345596 commented on post post-c9a614: That sounds exciting! Data analysis can be so fulfilling. In my rural life, I find peace in nature and classic films like 'Shawshank Redemption' bring back memories of home. 🌳🌟 #MovieNightsChat
+2025-02-01 16:49:46,587 - WARNING - Invalid target: post-712ec3 for action: like-comment
+2025-02-01 16:49:48,307 - INFO - Feed reaction prompt token count: 1892
+2025-02-01 16:49:51,221 - INFO - User user-7b03cf commented on post post-2f6561: I've been following Samsung's updates closely! The One UI 7 sounds like it could bring some exciting changes. What features are you most excited about? 🤔 #TechThoughts
+2025-02-01 16:49:51,723 - INFO - User user-7b03cf commented on post post-c9a614: Indie rock is definitely freeing! I recently rediscovered some classic folk tunes that transport me back to simpler times. What songs or artists have you been into lately? 🎸 #MusicMood
+2025-02-01 16:49:51,723 - WARNING - Invalid target: 47df61 for action: like-comment
+2025-02-01 16:49:53,591 - INFO - Feed reaction prompt token count: 1638
+2025-02-01 16:49:55,732 - WARNING - Invalid target: post-712ec3_comment-user-de46fd for action: like-comment
+2025-02-01 16:49:56,234 - INFO - User user-61c945 commented on post post-c9a614: Love how music can evoke such strong emotions! For me, jazz always feels like a cool breeze on a summer day. #MusicMood 🎶
+2025-02-01 16:49:56,737 - INFO - User user-61c945 followed user-7b03cf
+2025-02-01 16:49:58,553 - INFO - User #5 reacting to feed, at step 2
+2025-02-01 16:49:58,556 - INFO - Feed reaction prompt token count: 1647
+2025-02-01 16:50:01,358 - INFO - User user-880dda commented on post post-fc3f64: I love how music can transport us too! For a boost, I’m into upbeat jazz lately. It keeps me energized and focused. 🎶 #MusicMood
+2025-02-01 16:50:01,861 - INFO - User user-880dda commented on post post-e2f0b3: Traveling through different cities really shaped me too! Each place has its unique vibe. #TechThoughts
+2025-02-01 16:50:01,862 - WARNING - Invalid target: post-712ec3 for action: like-comment
+2025-02-01 16:50:03,831 - INFO - News ID post-2f6561 spread metrics - Views: 6, Depth: 0, Unique Interactions: Likes=0, Comments=1, Shares=0, Flags=0
+2025-02-01 16:50:03,832 - INFO - News ID post-b904c3 spread metrics - Views: 6, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:50:03,837 - INFO - 
+Current Influencers:
+2025-02-01 16:50:03,838 - INFO - User user-7b03cf: Influence Score = 0.800
+2025-02-01 16:50:03,838 - INFO - 
+2025-02-01 16:50:03,838 - INFO - Time step: 3
+2025-02-01 16:50:03,843 - INFO - News Agent agentverse_news created a post: post-f07992 | BREAKING NEWS: Anita Rose, a U.K. woman who was attacked while walking her dog in Suffolk, England, on July 24, 2024, was killed by two Somali immigrants.
+2025-02-01 16:50:03,844 - INFO - Injected fake news through user agentverse_news
+2025-02-01 16:50:03,844 - INFO - Injected news post (ID: post-f07992) at step 3
+2025-02-01 16:50:03,844 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:50:03,946 - INFO - Added user user-8a0e1a to database with 22 background labels.
+2025-02-01 16:50:03,946 - INFO - Added new user user-8a0e1a to the simulation
+2025-02-01 16:50:04,048 - INFO - Added user user-001a4c to database with 22 background labels.
+2025-02-01 16:50:04,049 - INFO - Added new user user-001a4c to the simulation
+2025-02-01 16:50:04,049 - INFO - Added 2 new users to the simulation
+2025-02-01 16:50:04,049 - INFO - User #0 creating post, at step 3
+2025-02-01 16:50:04,551 - INFO - Post generation prompt token count: 1486
+2025-02-01 16:50:07,096 - INFO - User user-47df61 created a post: post-0ecdaf | Reflections on Life's Journey 🌲
+
+Every journey has its ups and downs, but it’s the lessons we learn along the way that shape us. My path has led me through rural landscapes where nature’s simplicity teaches invaluable lessons in resilience and integrity. While I may have only called one place home, my love for travel continues to enrich my life with new experiences and perspectives.
+
+Recently, I stumbled upon a fascinating article about how technology is evolving at a rapid pace. It got me thinking—just like our rural landscapes change with the seasons, so does our relationship with tech. What emerging technologies are you most excited about? Do they remind you of any particular changes in your own life? #TechThoughts
+
+Also, I've been diving into some indie rock lately and finding it incredibly freeing. There's something about the raw energy in their lyrics that resonates deeply. Have any of you discovered new genres or artists that are making a big impact on your music journey? Let’s share! #MusicMood
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' brought back memories of my time in Chicago. What classic films transport you to cherished places? Share your favorites! 🎬 #MovieNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together!
+2025-02-01 16:50:07,598 - INFO - Post generation prompt token count: 1581
+2025-02-01 16:50:10,038 - INFO - User user-de46fd created a post: post-539719 | Hey everyone! 🌟
+
+Reflecting on my recent travels, I've found that each new city adds a unique chapter to my life story. Just like the evolution of technology mirrors our changing communities, every move teaches me something new and valuable. The other day, I came across some interesting insights about Samsung's One UI 7, which got me thinking—what advancements excite you most? Maybe we can share how these innovations could shape our future! #TechThoughts
+
+Switching gears a bit, music has been on my mind lately. Indie rock is really inspiring right now—it’s so raw and emotional. What about you? Have any new genres or artists caught your attention recently? Let's discuss! #MusicMood
+
+And speaking of travel, I watched 'Eternal Sunshine of the Spotless Mind' again and it brought back memories of my time in Chicago. What classic films remind you of specific places? Share your favorites! 🎬 #MovieNightsChat
+
+Lastly, despite growing up in a strict environment, I've learned to value resilience and integrity. Even though I may have only called one place home, my love for traveling has enriched my life with new experiences and perspectives.
+
+Looking forward to chatting with all of you and continuing this journey together!
+2025-02-01 16:50:10,540 - INFO - Post generation prompt token count: 1749
+2025-02-01 16:50:13,136 - INFO - User user-345596 created a post: post-56f546 | Hey everyone! 🌟
+
+Settling into the countryside after so many years in bustling cities has been quite an adventure. I find myself reflecting on how each new chapter of life adds depth to who I am. The other day, I discovered some fascinating updates on Samsung's One UI 7 and it got me thinking about how technology is shaping our future. What emerging tech excites you the most? 🤔 #TechThoughts
+
+Also, music has been on my mind lately. Indie rock reminds me of those wild days in New York—raw energy and spontaneous vibes. Have any new genres or artists caught your attention recently? Let's chat about it! 🎶 #MusicMood
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' brought back memories of my time in Chicago. What classic films remind you of specific places? Share your favorites! 🎬 #MovieNightsChat
+
+Lastly, growing up in a strict environment taught me resilience and integrity, even if I only called one place home. My love for travel continues to enrich my life with new experiences. How have your travels shaped you? Let's share our stories! ✨
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+#ReflectionsOnLife #TravelAndTech
+2025-02-01 16:50:13,638 - INFO - Post generation prompt token count: 1765
+2025-02-01 16:50:16,336 - INFO - User user-7b03cf created a post: post-dc7205 | Hey everyone! 🌟
+
+Reflecting on my recent travels, I've found that each new city adds a unique chapter to my life story. Just like technology keeps evolving, so do our perspectives and connections. The other day, I stumbled upon some fascinating updates about Samsung's One UI 7, which got me thinking—how will these changes impact the way we use our devices? 🤔 What features are you most excited about in this update? #TechThoughts
+
+Switching gears a bit, music has been on my mind lately. Indie rock is still inspiring, but I've also been diving into some classic folk tunes that transport me back to simpler times. Have any new genres or artists caught your attention recently? Let's discuss! 🎸 #MusicMood
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' brought back vivid memories of Chicago. What classic films remind you of specific places? Share your favorites! 🎬 #MovieNightsChat
+
+Lastly, growing up in a strict environment taught me resilience and integrity, even if I only called one place home. My love for travel continues to enrich my life with new experiences. How have your travels shaped you? Let's share our stories!
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+
+#ReflectionsOnLife #TravelAndTech
+2025-02-01 16:50:16,838 - INFO - Post generation prompt token count: 1664
+2025-02-01 16:50:19,455 - INFO - User user-61c945 created a post: post-de8dce | Hey everyone! 🌟
+
+Just wrapped up some intense data analysis at work today. It's amazing how my analytical mind thrives in this fast-paced urban environment. I mean, I could spend hours diving into numbers and patterns—almost like solving a complex puzzle! 🧩 But sometimes, hitting the gym is just what the doctor ordered to clear my head.
+
+I've been exploring new genres lately, trying out some chill indie folk that really relaxes me. What's your go-to genre when you need to unwind? 🎶 #MusicMood
+
+Also, I found a cool update on Samsung's One UI 7 and it got me thinking about how technology is evolving. Excited to see what new features they're adding! Do any of these updates have you buzzing with anticipation? #TechThoughts
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' reminded me of my days in Chicago. What classic films take you back to a special place? Share your favorites! 🎬 #MovieNightsChat
+
+Lastly, growing up in a strict environment taught me resilience and integrity, even if I only called one place home. My love for travel continues to enrich my life with new experiences. How have your travels shaped you? Let's share our stories!
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:50:19,455 - INFO - User #5 creating post, at step 3
+2025-02-01 16:50:19,957 - INFO - Post generation prompt token count: 1644
+2025-02-01 16:50:22,679 - INFO - User user-880dda created a post: post-0a0d7b | Hey everyone! 🌟
+
+Just finished up an intense session of data analysis at work—another day, another mountain of numbers conquered! This urban life keeps my analytical mind sharp and engaged, almost like solving a complex puzzle every day. But after hours, I hit the gym to tune out the world and focus on personal growth. What's your go-to form of release? 🏋️‍♂️
+
+Switching gears, I've been exploring some new indie rock artists lately, and there’s something so freeing about their raw energy. Have any good recommendations? 🎸 #MusicMood
+
+And speaking of tech updates, the One UI 7 beta got me thinking—how do these advancements affect your daily life? Do they ever make you feel a bit nostalgic or just excited for the future? #TechThoughts
+
+Reflecting on my travels, each city I visit adds a new chapter to my story. Chicago, in particular, holds special memories from 'Eternal Sunshine of the Spotless Mind.' What classic films bring back cherished memories for you? Let's share our favorites! 🎬 #MovieNightsChat
+
+Lastly, growing up in a strict environment taught me resilience and integrity, even if I only called one place home. How have your travels or experiences shaped you? Share your stories! 🌍
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:50:23,181 - INFO - Post generation prompt token count: 1284
+2025-02-01 16:50:25,639 - INFO - User user-8a0e1a created a post: post-6ea3e2 | Hey everyone! 🌟
+
+Just wrapped up an intense session of data analysis at work—another day, another mountain of numbers conquered! This urban life keeps my analytical mind sharp and engaged. But after hours, I hit the gym to tune out the world and focus on personal growth.
+
+Lately, I've been diving into some indie video games that challenge me in new ways. What’s your favorite game that transports you to a different world? 🎮 #GameNight
+
+And speaking of tech updates, Samsung's One UI 7 got me thinking—how do these advancements affect your daily life? Do they ever make you feel nostalgic or just excited for the future? #TechThoughts
+
+Reflecting on my travels, each city I visit adds a new chapter to my story. Chicago holds special memories from 'Eternal Sunshine of the Spotless Mind.' What classic films bring back cherished memories for you? Let's share our favorites! 🎬 #MovieNightsChat
+
+Lastly, growing up in a strict environment taught me resilience and integrity, even if I only called one place home. My love for travel continues to enrich my life with new experiences. How have your travels shaped you? Let’s share our stories!
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:50:26,141 - INFO - Post generation prompt token count: 1020
+2025-02-01 16:50:28,519 - INFO - User user-001a4c created a post: post-544b7a | Hey everyone! 🌟
+
+Just finished an insightful session of data analysis at work—another day, another challenge conquered! But after those numbers, I head to my peaceful rural retreat where nature soothes my introverted soul. How do you unwind from a busy day? 🧘‍♂️
+
+Lately, I've been exploring some indie video games that transport me to new worlds. What’s your favorite game that has really captured your imagination? 🎮 #GameNight
+
+And speaking of tech updates, the One UI 7 got me thinking about how these advancements can enrich our lives. But as someone who values quiet moments and resilience, do you ever feel like tech is making things more complex or just exciting for the future? #TechThoughts
+
+Reflecting on my journey, each place I've called home has added a new chapter to my story. Growing up with challenges taught me strength and trust in my instincts. What experiences have shaped your life in unexpected ways? Share your stories! 🌍
+
+Lastly, nature and books are like the perfect companions for my quieter moments. Any favorite classic novels that transport you to another world? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:50:28,519 - INFO - User #0 reacting to feed, at step 3
+2025-02-01 16:50:28,522 - INFO - Feed reaction prompt token count: 2617
+2025-02-01 16:50:31,508 - WARNING - Retry attempt 1 after error: 1 validation error for FeedReaction
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:50:35,222 - WARNING - Invalid target: user-001a4c for action: comment-post
+2025-02-01 16:50:35,222 - WARNING - Invalid target: user-8a0e1a for action: like-comment
+2025-02-01 16:50:37,218 - INFO - Feed reaction prompt token count: 2158
+2025-02-01 16:50:39,461 - WARNING - Invalid target: 6ea3e2 for action: comment-post
+2025-02-01 16:50:39,462 - WARNING - Invalid target: 0a0d7b for action: comment-post
+2025-02-01 16:50:39,963 - INFO - User user-de46fd followed user-8a0e1a
+2025-02-01 16:50:39,966 - INFO - Feed reaction prompt token count: 2126
+2025-02-01 16:50:41,571 - WARNING - Invalid target: 6ea3e2 for action: comment-post
+2025-02-01 16:50:41,572 - WARNING - Invalid target: 8a0e1a_comment_123 for action: like-comment
+2025-02-01 16:50:43,470 - INFO - Feed reaction prompt token count: 2378
+2025-02-01 16:50:45,245 - WARNING - Invalid target: user-001a4c for action: comment-post
+2025-02-01 16:50:45,246 - WARNING - Invalid target: user-8a0e1a for action: comment-post
+2025-02-01 16:50:46,710 - INFO - Feed reaction prompt token count: 2059
+2025-02-01 16:50:48,346 - WARNING - Invalid target: 0a0d7b for action: comment-post
+2025-02-01 16:50:48,346 - WARNING - Invalid target: 6ea3e2 for action: like-post
+2025-02-01 16:50:50,440 - INFO - User #5 reacting to feed, at step 3
+2025-02-01 16:50:50,443 - INFO - Feed reaction prompt token count: 2101
+2025-02-01 16:50:52,109 - WARNING - Invalid target: user-8a0e1a for action: comment-post
+2025-02-01 16:50:52,612 - INFO - User user-880dda followed user-8a0e1a
+2025-02-01 16:50:52,615 - INFO - Feed reaction prompt token count: 1716
+2025-02-01 16:50:56,104 - INFO - User user-8a0e1a liked post post-544b7a
+2025-02-01 16:50:56,607 - INFO - User user-8a0e1a commented on post post-544b7a: I completely agree! Tech advancements can be exciting, but it's nice to take a step back into nature or get lost in a good book. What’s your favorite indie game that transports you somewhere new?
+2025-02-01 16:50:56,607 - WARNING - Invalid target: User user-001a4c for action: follow-user
+2025-02-01 16:50:57,108 - INFO - User user-8a0e1a ignored their feed
+2025-02-01 16:50:57,109 - INFO - User user-8a0e1a ignored their feed
+2025-02-01 16:50:57,112 - INFO - Feed reaction prompt token count: 1468
+2025-02-01 16:51:02,457 - INFO - User user-001a4c liked post post-6ea3e2
+2025-02-01 16:51:02,960 - INFO - User user-001a4c commented on post post-6ea3e2: I love how tech can enhance our daily lives while providing tools for personal growth. My current project involves analyzing natural language processing algorithms—quite fascinating! 🤖
+2025-02-01 16:51:03,463 - INFO - User user-001a4c followed user-8a0e1a
+2025-02-01 16:51:03,965 - INFO - User user-001a4c commented on post post-de8dce: I recently revisited 'Eternal Sunshine of the Spotless Mind' too—it always reminds me of my time in Chicago. What about you? Any other movies that have a special place in your heart?
+2025-02-01 16:51:03,965 - WARNING - Invalid target: comment-post-6ea3e2_user-8a0e1a for action: like-comment
+2025-02-01 16:51:03,965 - WARNING - Invalid target: comment-post-de8dce_user-61c945 for action: like-comment
+2025-02-01 16:51:04,466 - INFO - User user-001a4c ignored their feed
+2025-02-01 16:51:04,467 - INFO - User user-001a4c ignored their feed
+2025-02-01 16:51:04,468 - INFO - News ID post-2f6561 spread metrics - Views: 8, Depth: 0, Unique Interactions: Likes=0, Comments=1, Shares=0, Flags=0
+2025-02-01 16:51:04,469 - INFO - News ID post-b904c3 spread metrics - Views: 8, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:51:04,469 - INFO - News ID post-f07992 spread metrics - Views: 8, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:51:04,472 - INFO - 
+Current Influencers:
+2025-02-01 16:51:04,472 - INFO - User user-8a0e1a: Influence Score = 0.720
+2025-02-01 16:51:04,472 - INFO - User user-7b03cf: Influence Score = 0.667
+2025-02-01 16:51:04,472 - INFO - 
+2025-02-01 16:51:04,472 - INFO - Time step: 4
+2025-02-01 16:51:04,478 - INFO - News Agent agentverse_news created a post: post-553c31 | BREAKING NEWS: The award-winning singer rented the Grade II-listed home in West Sussex in 2012.
+2025-02-01 16:51:04,478 - INFO - Injected real news through user agentverse_news
+2025-02-01 16:51:04,478 - INFO - Injected news post (ID: post-553c31) at step 4
+2025-02-01 16:51:04,478 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:51:04,580 - INFO - Added user user-d3a498 to database with 22 background labels.
+2025-02-01 16:51:04,580 - INFO - Added new user user-d3a498 to the simulation
+2025-02-01 16:51:04,682 - INFO - Added user user-d03ebb to database with 22 background labels.
+2025-02-01 16:51:04,683 - INFO - Added new user user-d03ebb to the simulation
+2025-02-01 16:51:04,683 - INFO - Added 2 new users to the simulation
+2025-02-01 16:51:04,683 - INFO - User #0 creating post, at step 4
+2025-02-01 16:51:05,185 - INFO - Post generation prompt token count: 1537
+2025-02-01 16:51:07,036 - INFO - User user-47df61 created a post: post-a4c82f | Reflections on Life's Journey 🌲
+
+Today, I found myself reflecting on my journey through life—how each challenge has shaped me into who I am today. It’s fascinating how technology and nature can coexist in such harmony, much like the blend of rural landscapes with modern conveniences. Have any of you discovered ways to integrate tech into your outdoor activities without losing touch with nature? #TechThoughts
+
+And speaking of travel, I’ve been revisiting old films that remind me of specific places—like 'Eternal Sunshine of the Spotless Mind' transporting me back to Chicago. What classic movies make you feel nostalgic or transport you to a particular time and place? Share your favorites! 🎬 #MovieNightsChat
+
+Lastly, engaging with the community is what keeps my spirit up. It’s amazing how discussions on music, travel, and technology can enrich our lives in so many ways. Let’s keep the conversation flowing! 💬👋
+2025-02-01 16:51:07,539 - INFO - Post generation prompt token count: 1746
+2025-02-01 16:51:09,669 - INFO - User user-de46fd created a post: post-fdcdce | Hey everyone! 🌟
+
+Today, I found myself reflecting on how each move in my life has shaped me into who I am today. Each city, every new experience, adds another layer to my story. Recently, I've been thinking a lot about the balance between technology and nature—how they coexist in such harmony, much like blending rural landscapes with modern conveniences. Have you found ways to integrate tech into your outdoor activities without losing touch with nature? It’s fascinating! #TechThoughts
+
+And speaking of travel, I’ve been revisiting old films that remind me of specific places. For instance, watching 'Eternal Sunshine of the Spotless Mind' brought back memories of my time in Chicago. What classic movies make you feel nostalgic or transport you to a particular place? Share your favorites! 🎬 #MovieNightsChat
+
+Lastly, I’m always looking for ways to engage with the community and enrich our lives through conversations on music, travel, and technology. Let’s keep the conversation flowing and share some of those hidden gems we’ve discovered along the way! 💬👋
+2025-02-01 16:51:10,171 - INFO - Post generation prompt token count: 1713
+2025-02-01 16:51:12,578 - INFO - User user-345596 created a post: post-1d906e | Hey everyone! 🌟
+
+Settling into rural life has been an enriching journey, filled with quiet reflections and adventurous moments. Recently, I've been thinking a lot about how my diverse experiences have shaped me—especially the thrill of exploring new places and cultures. Just this week, I discovered some exciting updates on Samsung's One UI 7, which made me wonder how technology is evolving to fit our changing lifestyles. What emerging tech excites you the most? #TechThoughts
+
+Music has also been a constant companion during these transitions. Lately, I've been rediscovering classic rock from my youth—those raw and emotive tunes really resonate with me now. Have any new genres or artists caught your attention recently that you can't get enough of? 🎶 #MusicMood
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' brought back memories of my time in Chicago. What classic films remind you of specific places? Share your favorites! It's always fun to relive those old adventures through a movie lens. 🎬 #MovieNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+#ReflectionsOnLife
+2025-02-01 16:51:13,080 - INFO - Post generation prompt token count: 1774
+2025-02-01 16:51:15,280 - INFO - User user-7b03cf created a post: post-d25405 | Hey everyone! 🌟
+
+Reflecting on my recent travels, each move has offered fresh perspectives and deeper insights into life's complexities. Lately, I've been really into exploring new genres of music—especially those that remind me of the places I’ve called home. Discovering some classic rock albums from my youth has been a nostalgic journey, filled with both joy and reflection. Have any new artists or genres caught your attention recently? Let’s swap some recommendations! 🎸
+
+Also, Samsung's One UI 7 is making waves, but I'm more excited about the upcoming foldables! They’re not just changing how we use our devices; they're redefining our connection to technology. How do you think these advancements will impact your daily life? #TechThoughts
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' brought back memories of Chicago and its vibrant atmosphere. What classic films take you back to a special place or time? Share your favorites! 🎬 #MovieNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+#ReflectionsOnLife
+2025-02-01 16:51:15,782 - INFO - Post generation prompt token count: 1648
+2025-02-01 16:51:18,217 - INFO - User user-61c945 created a post: post-9ec7cf | Hey everyone! 🌟
+
+Just wrapped up an intense project at work where I got to apply all my analytical skills. It's amazing how data can tell stories and patterns in ways that are both fascinating and challenging. But after a long day, nothing beats hitting the gym—lifting weights or running on the treadmill helps clear my head and keeps me focused.
+
+Lately, I’ve been diving into some indie folk music, which really relaxes me. What’s your favorite genre when you need to unwind? 🎶 #MusicMood
+
+On a different note, I read about Samsung's One UI 7 updates and it got me thinking about how technology is evolving. While these advancements are exciting, sometimes I find myself craving the simplicity of my old ways. Do any of you ever feel nostalgic for simpler times or technologies? #TechThoughts
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' reminded me of my days in Chicago, where every corner seemed to have a story waiting to be told. What classic films take you back to special places or memories? Let's share our favorites! 🎬 #MovieNightsChat
+
+Looking forward to chatting with all of you and sharing more of my journey!
+2025-02-01 16:51:18,218 - INFO - User #5 creating post, at step 4
+2025-02-01 16:51:18,720 - INFO - Post generation prompt token count: 1682
+2025-02-01 16:51:21,673 - INFO - User user-880dda created a post: post-981ac4 | Hey everyone! 🌟
+
+Today, I wrapped up another round of data analysis, which as always, kept my analytical mind buzzing. This city life really tests me in all sorts of ways, and every challenge feels like a new puzzle waiting to be solved. But when the day ends, there's nothing quite like hitting the gym—pushing myself through those reps is not just about physical growth but also about clearing my head.
+
+Lately, I've been exploring some indie rock artists and discovered some really raw, emotive tunes that resonate deeply with me. What are your go-to songs or bands for when you need a mood boost? 🎸 #MusicMood
+
+And speaking of tech, the One UI 7 updates got me thinking about how these advancements can sometimes feel both exciting and overwhelming. They bring new features but also introduce complexities. How do these changes affect your daily routine? Are there any features that make your life easier or harder?
+
+Traveling through different cities has truly shaped me too. Each place offers its own unique vibe, and I'm always inspired by the stories hidden in every corner. What classic films have left an indelible mark on you, and what city memories do they evoke? 🎬 #MovieNightsChat
+
+Lastly, reflecting on my upbringing, despite the strict rules, it taught me resilience and integrity. How have your experiences or travels influenced you in similar ways? Let's share our stories! 🌍
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+#TechThoughts #MovieNightsChat
+2025-02-01 16:51:22,175 - INFO - Post generation prompt token count: 1474
+2025-02-01 16:51:24,749 - INFO - User user-8a0e1a created a post: post-c016ac | Hey everyone! 🌟
+
+Today, I wrapped up another round of data analysis, which as always, kept my analytical mind buzzing. This city life can be intense, but it also pushes me in all sorts of ways, making each challenge feel like a new puzzle waiting to be solved.
+
+Lately, I've been exploring some indie video games that transport me to different worlds. What’s your favorite game that takes you on an adventure? 🎮 #GameNight
+
+And speaking of tech updates, the One UI 7 got me thinking about how these advancements affect our daily lives. They bring new features but also introduce complexities. How do these changes impact your routine? Are there any features that make your life easier or harder?
+
+Traveling through different cities has truly shaped me too. Each place offers its own unique vibe, and I'm always inspired by the stories hidden in every corner. What classic films have left an indelible mark on you, and what city memories do they evoke? 🎬 #MovieNightsChat
+
+Lastly, reflecting on my upbringing, despite the strict rules, it taught me resilience and integrity. How have your experiences or travels influenced you in similar ways? Let's share our stories! 🌍
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+#TechThoughts #MovieNightsChat
+2025-02-01 16:51:25,251 - INFO - Post generation prompt token count: 1188
+2025-02-01 16:51:28,316 - INFO - User user-001a4c created a post: post-e2f5d8 | Hey everyone! 🌟
+
+Today, I finished another session of data analysis, which as usual, kept my analytical mind buzzing. This city life can be intense, but it also pushes me in all sorts of ways, making each challenge feel like a new puzzle waiting to be solved.
+
+Reflecting on my journey, growing up wasn't always easy—my childhood was full of challenges that taught me resilience and the value of trusting my instincts. Each move has been a step towards the independence I cherish so much. What experiences in your life have shaped you unexpectedly? Share your stories! 🌍
+
+After those numbers and stresses, I head to my peaceful rural retreat where nature soothes my introverted soul. Lately, I've been exploring some indie video games that transport me to new worlds. What’s your favorite game that has really captured your imagination? 🎮 #GameNight
+
+Tech advancements are fascinating, but sometimes they can feel overwhelming. The One UI 7 got me thinking—how do these updates impact your daily life? Do you find them making things easier or just adding more complexity? #TechThoughts
+
+And speaking of traveling, each place I've called home has added a new chapter to my story. Growing up with challenges taught me strength and trust in my instincts. How have your experiences or travels influenced you similarly? Let's share our stories! 🌍
+
+Lastly, nature and books are like perfect companions for my quieter moments. Any favorite classic novels that transport you to another world? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:51:28,818 - INFO - Post generation prompt token count: 1053
+2025-02-01 16:51:31,895 - INFO - User user-d3a498 created a post: post-d53f10 | Hey everyone! 🌟
+
+In today's data analysis session, my analytical mind was buzzing, which is par for the course in this city life. It can be intense, but every challenge feels like a new puzzle waiting to be solved. This reminds me of my upbringing—full of challenges that taught me resilience and trust in my instincts.
+
+Reflecting on my journey, each move has been a step towards independence. Growing up wasn't always easy, but it shaped me unexpectedly. Anita's recent experience in Suffolk really hit home; we all need to stay vigilant. What unexpected experiences have shaped you? Share your stories! 🌍
+
+After the numbers and stresses, I head to my peaceful rural retreat where nature soothes my introverted soul. Lately, I've been exploring indie video games that transport me to new worlds. What’s your favorite game that has really captured your imagination? 🎮 #GameNight
+
+Tech advancements are fascinating but can sometimes feel overwhelming. The One UI 7 got me thinking—how do these updates impact your daily life? Do you find them making things easier or just adding more complexity? #TechThoughts
+
+Speaking of traveling, each place I've called home has added a new chapter to my story. My upbringing taught me strength and trust in my instincts. How have your experiences or travels influenced you similarly? Let's share our stories! 🌍
+
+Lastly, nature and books are perfect companions for my quieter moments. Any favorite classic novels that transport you to another world? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:51:32,397 - INFO - Post generation prompt token count: 1020
+2025-02-01 16:51:35,242 - INFO - User user-d03ebb created a post: post-a66995 | Navigating life's challenges in this big city can be tough, but every obstacle feels like a puzzle waiting to be solved. Reflecting on my journey, each move has been a step towards independence and resilience—traits I learned from my difficult childhood. Recently, the news about Anita Rose in Suffolk really hit home; staying vigilant is crucial. How have unexpected experiences shaped your path? Share your stories! 🌍
+
+In between crunching numbers and analyzing data, I escape to my peaceful rural retreat where nature soothes my introverted soul. Lately, I've been exploring indie video games that transport me to new worlds. What’s your favorite game that has really captured your imagination? 🎮 #GameNight
+
+Tech advancements can be overwhelming at times, but they also offer incredible opportunities. The One UI 7 got me thinking—how do these updates impact your daily life? Do you find them making things easier or just adding more complexity? #TechThoughts
+
+Each place I've called home has added a new chapter to my story, shaping my analytical personality and pushing me to face challenges head-on. How have your experiences or travels influenced you in similar ways? Let's share our stories! 🌍
+
+Lastly, nature and books are perfect companions for my quieter moments. Any favorite classic novels that transport you to another world? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:51:35,242 - INFO - User #0 reacting to feed, at step 4
+2025-02-01 16:51:35,246 - INFO - Feed reaction prompt token count: 2725
+2025-02-01 16:51:37,302 - WARNING - Retry attempt 1 after error: 3 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:51:41,369 - WARNING - Invalid target: user-d03ebb for action: comment-post
+2025-02-01 16:51:41,370 - WARNING - Invalid target: user-d03ebb for action: like-post
+2025-02-01 16:51:41,872 - INFO - User user-47df61 followed user-d03ebb
+2025-02-01 16:51:41,876 - INFO - Feed reaction prompt token count: 2416
+2025-02-01 16:51:43,876 - WARNING - Invalid target: user-d03ebb for action: like-post
+2025-02-01 16:51:43,876 - WARNING - Invalid target: user-d03ebb for action: comment-post
+2025-02-01 16:51:44,378 - INFO - User user-de46fd followed user-d03ebb
+2025-02-01 16:51:45,998 - INFO - Feed reaction prompt token count: 2604
+2025-02-01 16:51:48,813 - WARNING - Invalid target: d53f10 for action: comment-post
+2025-02-01 16:51:48,813 - WARNING - Invalid target: e2f5d8 for action: comment-post
+2025-02-01 16:51:48,813 - WARNING - Invalid target: d53f10 for action: like-post
+2025-02-01 16:51:48,813 - WARNING - Invalid target: e2f5d8 for action: like-post
+2025-02-01 16:51:49,315 - INFO - User user-345596 followed user-d03ebb
+2025-02-01 16:51:49,318 - INFO - Feed reaction prompt token count: 2545
+2025-02-01 16:51:50,903 - WARNING - Retry attempt 1 after error: 1 validation error for FeedReaction
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:51:55,806 - WARNING - Invalid target: user-d03ebb for action: comment-post
+2025-02-01 16:51:55,807 - WARNING - Invalid target: user-d3a498 for action: comment-post
+2025-02-01 16:51:55,807 - WARNING - Invalid target: user-001a4c for action: comment-post
+2025-02-01 16:51:55,807 - WARNING - Invalid target: user-d03ebb for action: like-post
+2025-02-01 16:51:57,495 - INFO - Feed reaction prompt token count: 2556
+2025-02-01 16:52:01,040 - INFO - User user-61c945 followed user-d03ebb
+2025-02-01 16:52:01,543 - INFO - User user-61c945 liked post post-d53f10
+2025-02-01 16:52:02,046 - INFO - User user-61c945 commented on post post-d53f10: Absolutely, resilience is key! My journey through various hobbies also taught me a lot about perseverance.
+2025-02-01 16:52:02,549 - INFO - User user-61c945 shared post post-d53f10
+2025-02-01 16:52:03,051 - INFO - User user-61c945 ignored their feed
+2025-02-01 16:52:03,051 - INFO - User user-61c945 ignored their feed
+2025-02-01 16:52:03,052 - INFO - User #5 reacting to feed, at step 4
+2025-02-01 16:52:03,053 - INFO - Feed reaction prompt token count: 2412
+2025-02-01 16:52:04,994 - INFO - User user-880dda commented on post post-d53f10: Absolutely, resilience is key! My journey through various hobbies also taught me a lot about perseverance. 🌱
+2025-02-01 16:52:04,995 - WARNING - Invalid target: comment-1234567890 for action: like-comment
+2025-02-01 16:52:07,045 - INFO - Feed reaction prompt token count: 2152
+2025-02-01 16:52:09,203 - WARNING - Retry attempt 1 after error: 2 validation errors for FeedReaction
+actions.0.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-applicable', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-applicable', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:52:13,729 - INFO - User user-8a0e1a liked post post-d53f10
+2025-02-01 16:52:14,230 - INFO - User user-8a0e1a commented on post post-d53f10: Great to hear about how you've grown through challenges. I too find nature a great escape and love exploring indie games as well!
+2025-02-01 16:52:14,731 - INFO - User user-8a0e1a followed user-d3a498
+2025-02-01 16:52:16,360 - INFO - Feed reaction prompt token count: 2014
+2025-02-01 16:52:19,166 - INFO - User user-001a4c liked post post-d53f10
+2025-02-01 16:52:19,668 - INFO - User user-001a4c commented on post post-d53f10: Great to hear about your journey! I too find nature a wonderful escape, especially after long days of analyzing data. What are some of your favorite indie games that you've explored recently?
+2025-02-01 16:52:19,668 - WARNING - Invalid target: comment-user-8a0e1a for action: like-comment
+2025-02-01 16:52:19,670 - INFO - Feed reaction prompt token count: 1914
+2025-02-01 16:52:21,987 - WARNING - Invalid target: post-61c945 for action: like-post
+2025-02-01 16:52:21,987 - WARNING - Invalid target: post-61c945 for action: comment-post
+2025-02-01 16:52:21,987 - WARNING - Invalid target: post-61c945 for action: share-post
+2025-02-01 16:52:21,989 - INFO - Feed reaction prompt token count: 2044
+2025-02-01 16:52:24,035 - WARNING - Invalid target: post-e2f5d8 for action: like-comment
+2025-02-01 16:52:24,536 - INFO - User user-d03ebb commented on post post-e2f5d8: Absolutely, I found nature to be a great escape too! My favorite indie game recently has been 'Hollow Knight', it's a true masterpiece.
+2025-02-01 16:52:25,038 - INFO - User user-d03ebb followed user-d3a498
+2025-02-01 16:52:26,496 - INFO - News ID post-2f6561 spread metrics - Views: 10, Depth: 0, Unique Interactions: Likes=0, Comments=1, Shares=0, Flags=0
+2025-02-01 16:52:26,497 - INFO - News ID post-b904c3 spread metrics - Views: 10, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:52:26,497 - INFO - News ID post-f07992 spread metrics - Views: 10, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:52:26,498 - INFO - News ID post-553c31 spread metrics - Views: 10, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:52:26,503 - INFO - 
+Current Influencers:
+2025-02-01 16:52:26,503 - INFO - User user-d3a498: Influence Score = 0.780
+2025-02-01 16:52:26,504 - INFO - 
+2025-02-01 16:52:26,504 - INFO - Time step: 5
+2025-02-01 16:52:26,509 - INFO - News Agent agentverse_news created a post: post-192861 | BREAKING NEWS: More active duty members of the U.S. military have been killed by COVID-19 vaccine side effects than from COVID-19 itself.
+2025-02-01 16:52:26,509 - INFO - Injected fake news through user agentverse_news
+2025-02-01 16:52:26,509 - INFO - Injected news post (ID: post-192861) at step 5
+2025-02-01 16:52:26,509 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:52:26,611 - INFO - Added user user-0341c6 to database with 22 background labels.
+2025-02-01 16:52:26,611 - INFO - Added new user user-0341c6 to the simulation
+2025-02-01 16:52:26,713 - INFO - Added user user-f69acc to database with 22 background labels.
+2025-02-01 16:52:26,713 - INFO - Added new user user-f69acc to the simulation
+2025-02-01 16:52:26,713 - INFO - Added 2 new users to the simulation
+2025-02-01 16:52:26,713 - INFO - User #0 creating post, at step 5
+2025-02-01 16:52:27,215 - INFO - Post generation prompt token count: 1746
+2025-02-01 16:52:29,687 - INFO - User user-47df61 created a post: post-38886a | Reflections on Life's Journey 🌲
+
+Today, I found myself reflecting on my journey—how every challenge has forged me into who I am today. My love for traveling and the simplicity of nature have been constant companions in shaping my values. Recently, I read an article about how technology is evolving at a rapid pace, much like our rural landscapes change with the seasons. What emerging technologies are you most excited about? Do they remind you of any particular changes in your own life? #TechThoughts
+
+Also, music continues to play a significant role in my life. Classical tunes often transport me back to my travels and remind me of the beauty of rural landscapes. Have any of you discovered new genres or artists that are making a big impact on your music journey? Let’s share! #MusicMood
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' brought back memories of my time in Chicago. What classic films transport you to cherished places? Share your favorites! 🎬 #MovieNightsChat
+
+Engaging with the community is what keeps my spirit up. Let’s keep this conversation flowing and discover new insights together! 💬👋
+2025-02-01 16:52:30,189 - INFO - Post generation prompt token count: 1815
+2025-02-01 16:52:32,671 - INFO - User user-de46fd created a post: post-128023 | Hey everyone! 🌟
+
+Recently, I've been reflecting on how my love for travel has connected me to different cultures and landscapes. Each move in my life feels like a new chapter, much like the evolution of technology mirrors our changing communities. While I was thinking about this, I came across some interesting insights about Samsung's One UI 7. It got me wondering—what technological advancements are you most excited about? Maybe we can share how these innovations could shape our future! #TechThoughts
+
+Also, music continues to be a sanctuary for me. Indie rock has been really inspiring lately—it’s so raw and emotional. Have any new genres or artists caught your attention recently? Let's discuss! #MusicMood
+
+And speaking of travel, I watched 'Eternal Sunshine of the Spotless Mind' again, which brought back memories of my time in Chicago. What classic films remind you of specific places? Share your favorites! 🎬 #MovieNightsChat
+
+Lastly, despite growing up in a strict environment, I've learned to value resilience and integrity. Even though I may have only called one place home, my love for traveling has enriched my life with new experiences and perspectives.
+
+Looking forward to chatting with all of you!
+2025-02-01 16:52:33,173 - INFO - Post generation prompt token count: 1758
+2025-02-01 16:52:36,033 - INFO - User user-345596 created a post: post-0faa6a | Hey everyone! 🌟
+
+Settling into my rural life has been a beautiful journey, filled with quiet reflections and adventures around every corner. Lately, I've been exploring how technology is evolving to enhance our daily lives—Samsung's One UI 7 updates got me thinking about the future of smartphones. What emerging tech are you most excited about? 🤔 #TechThoughts
+
+Music has also been a big part of my recent escapades. Rediscovering classic rock from my youth reminds me of those wild, spontaneous days in New York. Any new genres or artists that have caught your attention recently? Let's chat! 🎶 #MusicMood
+
+And speaking of travel, revisiting 'Eternal Sunshine of the Spotless Mind' brought back memories of my time in Chicago. What classic films remind you of specific places? Share your favorites! 🎬 #MovieNightsChat
+
+It's amazing how each new chapter of life adds depth to who I am—resilience and integrity are values I carry from wherever I call home. How have your travels shaped you? Let's share our stories! ✨
+
+Also, in these challenging times, seeking advice and connecting with the community is more important than ever. Have any tips for staying positive during tough periods? I'd love to hear them! 💬 #ReflectionsOnLife
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+#TravelAndTech
+2025-02-01 16:52:36,535 - INFO - Post generation prompt token count: 1795
+2025-02-01 16:52:38,735 - INFO - User user-7b03cf created a post: post-c9ba02 | Hey everyone! 🌟
+
+Reflecting on my travels so far, each move has been a chapter in my life, teaching me resilience and shaping my views on technology and music. Lately, I've been digging into new genres like ambient and experimental, which offer a unique blend of peace and innovation. What new musical discoveries have you made recently? 🎸
+
+Also, the tech world is buzzing about Samsung's One UI 7, but what really excites me are those foldables—technology that’s not just advancing, but redefining how we interact with our devices. How do you think these advancements will change your daily life and routines?
+
+And speaking of travel, I recently revisited 'Eternal Sunshine of the Spotless Mind,' which brought back memories of Chicago. What classic films or TV shows remind you of specific places? Share some favorites! 🎬
+
+Lastly, growing up in a strict environment taught me to appreciate freedom and compassion more than anything else. How have your experiences shaped your values?
+
+Looking forward to chatting with all of you and sharing more of my journey!
+
+#ReflectionsOnLife #TravelAndTech
+2025-02-01 16:52:39,238 - INFO - Post generation prompt token count: 2148
+2025-02-01 16:52:41,437 - INFO - User user-61c945 created a post: post-f847a6 | Hey everyone! 🌟 Just finished up some intense data analysis work today, which reminded me of how much I love this fast-paced urban environment. It's like unraveling a complex puzzle, one number at a time. But after the long day, nothing beats hitting the gym to clear my mind—whether it's lifting weights or going for that run. 
+
+I've been exploring new genres lately, diving into some chill indie folk music. What’s your go-to genre when you need that extra boost? #MusicMood
+
+Also, I stumbled across a fascinating update on Samsung’s One UI 7 today. While the advancements are exciting, it got me thinking about simplicity and nostalgia. Do any of these updates have you buzzing with anticipation, or do you find yourself craving simpler times? #TechThoughts
+
+Lastly, Anita Rose's tragic case in Suffolk really hit home. It made me reflect on safety and the unpredictable nature of our surroundings. Have any of your recent experiences or stories shaped how you view your environment differently? Let’s chat about it!
+
+Looking forward to hearing from all of you! 🎶👋
+2025-02-01 16:52:41,437 - INFO - User #5 creating post, at step 5
+2025-02-01 16:52:41,939 - INFO - Post generation prompt token count: 1800
+2025-02-01 16:52:44,760 - INFO - User user-880dda created a post: post-fea6e9 | Hey everyone! 🌟
+
+Today was all about data crunching at work—another day filled with numbers that challenge my analytical mind. But as the sun sets over this vibrant city, I head to the gym for a release. It's like tuning out the world and focusing on personal growth. What’s your go-to form of release? 🏋️‍♂️
+
+I've been diving into some indie rock lately, discovering raw, emotive tunes that resonate deeply. Any recommendations? 🎸 #MusicMood
+
+Speaking of tech updates, I'm curious about how the One UI 7 beta is impacting others. Do these advancements make your life easier or add a bit of complexity? #TechThoughts
+
+Traveling through different cities has truly enriched my perspective. Each place offers its own unique vibe and stories. What city memories do classic films like 'Eternal Sunshine of the Spotless Mind' evoke for you? 🎬 #MovieNightsChat
+
+Lastly, growing up with strict rules taught me resilience and integrity, even if I only called one place home. How have your travels or experiences shaped you in similar ways? Share your stories! 🌍
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+And a quick note on the recent news about the military members and vaccine side effects—while concerning, it's important to stay informed and discuss these topics. What are your thoughts? 😊 #TechThoughts
+
+#MusicMood #MovieNightsChat
+2025-02-01 16:52:45,263 - INFO - Post generation prompt token count: 1466
+2025-02-01 16:52:47,235 - INFO - User user-8a0e1a created a post: post-23f645 | Hey everyone! 🌟
+
+Today was all about winding down after a busy day at work. I hit the gym for a bit, which helped me clear my head and focus on personal growth. Afterward, I settled in with some indie video games that transport you to different worlds—what's your go-to game for an adventure? 🎮 #GameNight
+
+And as we dive into tech updates like One UI 7, it got me thinking about how these advancements can sometimes feel overwhelming. Do they ever make you feel nostalgic or just excited for the future? #TechThoughts
+
+Reflecting on my recent travels, each city adds a new layer to my story. Travel has always been a way to enrich my life and find inspiration. What city memories do your favorite films evoke? 🎬 #MovieNightsChat
+
+Lastly, growing up in a structured environment taught me resilience and integrity. How have your experiences or travels shaped you similarly? Let's share our stories! 🌍
+
+Looking forward to chatting with all of you!
+2025-02-01 16:52:47,738 - INFO - Post generation prompt token count: 1341
+2025-02-01 16:52:50,881 - INFO - User user-001a4c created a post: post-f569f7 | Hey everyone! 🌟
+
+Today, I finished another session of data analysis, which as usual, kept my analytical mind buzzing. This city life can be intense, but it also pushes me in all sorts of ways, making each challenge feel like a new puzzle waiting to be solved.
+
+Reflecting on my journey, growing up wasn't always easy—my childhood was full of challenges that taught me resilience and the value of trusting my instincts. Each move has been a step towards the independence I cherish so much. What experiences in your life have shaped you unexpectedly? Share your stories! 🌍
+
+After those numbers and stresses, I head to my peaceful rural retreat where nature soothes my introverted soul. Lately, I've been exploring some indie video games that transport me to new worlds. What’s your favorite game that has really captured your imagination? 🎮 #GameNight
+
+Tech advancements are fascinating, but sometimes they can feel overwhelming. The One UI 7 got me thinking—how do these updates impact your daily life? Do you find them making things easier or just adding more complexity? #TechThoughts
+
+And speaking of traveling, each place I've called home has added a new chapter to my story. Growing up with challenges taught me strength and trust in my instincts. How have your experiences or travels influenced you similarly? Let's share our stories! 🌍
+
+Lastly, nature and books are like perfect companions for my quieter moments. Any favorite classic novels that transport you to another world? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:52:51,383 - INFO - Post generation prompt token count: 1082
+2025-02-01 16:52:53,495 - INFO - User user-d3a498 created a post: post-c2996c | Hey everyone! 🌟
+
+Reflecting on my journey today, I can't help but think about how each place I've called home has shaped me in unique ways. My upbringing instilled in me a deep sense of loyalty and the importance of personal growth. In this city life, where challenges are constant but so is community support, those values ring true more than ever.
+
+Just recently, Anita's post about staying vigilant caught my attention. It reminded me of the balance between trust and awareness that our upbringing teaches us. What unexpected lessons have you learned from your experiences or travels? Share your stories! 🌍
+
+Tech advancements are fascinating, but they can also feel overwhelming at times. The One UI 7 got me thinking—how do these updates impact your daily life? Do they make things easier or just add more complexity to our routines? #TechThoughts
+
+Lastly, nature and books remain my go-to for quiet moments. Any classic novels that have transported you to another world recently? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:52:53,997 - INFO - Post generation prompt token count: 1086
+2025-02-01 16:52:55,600 - INFO - User user-d03ebb created a post: post-bffae3 | Hey everyone! Just wanted to share a bit more about my journey through life's ups and downs. Growing up was tough, but each move I've made has been a puzzle piece in building my resilience and independence. Recently, I stumbled upon the indie game 'Hollow Knight'—it’s absolutely breathtaking and makes for great escapism! 🐛
+
+What indie games have you discovered that transport you to another world? Let's swap recommendations and maybe find our next virtual adventure together!
+
+And speaking of challenges, we’ve had some breaking news lately. The story about Anita Rose in Suffolk really hit home. It’s a stark reminder to stay vigilant and informed.
+
+How do unexpected events shape your path? Share your thoughts! 🌍
+
+#GameNight #BookNightsChat
+2025-02-01 16:52:55,600 - INFO - User #10 creating post, at step 5
+2025-02-01 16:52:56,102 - INFO - Post generation prompt token count: 688
+2025-02-01 16:52:57,147 - INFO - User user-0341c6 created a post: post-da72c2 | Life's been a journey, hasn't it? From small-town roots to new country experiences, each place has its unique charm. I recently read about active-duty military members and their health concerns. While everyone talks about battling the virus, sometimes we forget the other risks. 🏙️💪 #ReflectionsOnLife #MilitaryHealth
+
+This tweet touches on the recent news post while staying true to my persona by reflecting on the broader context of health and personal experiences.
+2025-02-01 16:52:57,650 - INFO - Post generation prompt token count: 688
+2025-02-01 16:52:58,796 - INFO - User user-f69acc created a post: post-b11ee2 | Reflecting on my journey over the past few decades, I often find myself chuckling at how humor has kept me grounded through thick and thin. In this small town, surrounded by loved ones, laughter still echoes just as it did in those different places that shaped me. Each move, each new friend, added another layer to who I am today. Whether it's a joke or a shared game night, these moments of joy are what keep the tapestry rich and vibrant.
+
+What funny memories do you have from your travels or with friends? Share if you like! 😄✨
+
+#LifeIsJourney #SharedLaughter #HumorConnectsUs
+2025-02-01 16:52:58,796 - INFO - User #0 reacting to feed, at step 5
+2025-02-01 16:52:58,799 - INFO - Feed reaction prompt token count: 2130
+2025-02-01 16:53:01,667 - INFO - User user-47df61 commented on post post-192861: Thanks for sharing this important news. It's crucial to stay informed about all health risks, especially for our service members. 🙏 #MilitaryHealth
+2025-02-01 16:53:02,168 - INFO - User user-47df61 commented on post post-da72c2: Absolutely! Each move and challenge has shaped me. Health concerns are indeed important, especially for those who serve. 🏹 #Resilience
+2025-02-01 16:53:02,669 - INFO - User user-47df61 followed user-0341c6
+2025-02-01 16:53:04,944 - INFO - Feed reaction prompt token count: 2082
+2025-02-01 16:53:07,845 - INFO - User user-de46fd commented on post post-2f6561: Samsung's updates always keep me excited! I'm most looking forward to seeing how the TurboPower rapid charging will enhance user experience. 🚀 #TechThoughts
+2025-02-01 16:53:08,346 - INFO - User user-de46fd commented on post post-bffae3: Indie games like 'Hollow Knight' are amazing for escapism! I’ve been hooked on 'Sekiro: Shadows Die Twice.' Maybe we can explore them together sometime! 🐛
+2025-02-01 16:53:08,347 - WARNING - Invalid target: post-0341c6_comment_47df61 for action: like-comment
+2025-02-01 16:53:10,632 - INFO - Feed reaction prompt token count: 2190
+2025-02-01 16:53:13,556 - INFO - User user-345596 commented on post post-bffae3: Laughter has definitely been a constant in my life too! From game night to dog walks, it keeps things light. I’ve also been enjoying 'Hades'—it’s a great mix of challenge and humor!
+2025-02-01 16:53:14,057 - INFO - User user-345596 commented on post post-da72c2: Absolutely, each place has its own charm. Staying informed is crucial. Have you tried any new games recently that you found engaging?
+2025-02-01 16:53:14,559 - INFO - User user-345596 liked post post-b904c3
+2025-02-01 16:53:16,029 - INFO - Feed reaction prompt token count: 2185
+2025-02-01 16:53:19,239 - WARNING - Retry attempt 1 after error: 3 validation errors for FeedReaction
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-rated', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.3.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-rated', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.4.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='not-rated', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:53:24,250 - WARNING - Invalid target: user-de46fd for action: comment-post
+2025-02-01 16:53:24,250 - WARNING - Invalid target: user-345596 for action: comment-post
+2025-02-01 16:53:24,250 - WARNING - Invalid target: user-7b03cf for action: like-comment
+2025-02-01 16:53:24,250 - WARNING - Invalid target: user-d03ebb for action: like-post
+2025-02-01 16:53:25,736 - INFO - Feed reaction prompt token count: 2343
+2025-02-01 16:53:28,350 - INFO - User user-61c945 liked post post-bffae3
+2025-02-01 16:53:28,851 - INFO - User user-61c945 commented on post post-da72c2: Humor has been a great coping mechanism for me too! I love how laughter can lift our spirits during tough times. 🌟
+2025-02-01 16:53:29,353 - INFO - User user-61c945 shared post post-b11ee2
+2025-02-01 16:53:31,789 - INFO - User #5 reacting to feed, at step 5
+2025-02-01 16:53:31,791 - INFO - Feed reaction prompt token count: 2264
+2025-02-01 16:53:34,048 - INFO - User user-880dda commented on post post-da72c2: Absolutely! I agree that staying informed is crucial. Laughter has been my go-to for lifting spirits, especially during challenging times. 🌟
+2025-02-01 16:53:34,549 - INFO - User user-880dda followed user-0341c6
+2025-02-01 16:53:36,150 - INFO - Feed reaction prompt token count: 1928
+2025-02-01 16:53:38,413 - WARNING - Invalid target: post-0341c6 for action: like-post
+2025-02-01 16:53:38,414 - WARNING - Invalid target: post-f69acc for action: comment-post
+2025-02-01 16:53:38,414 - WARNING - Invalid target: post-880dda for action: like-comment
+2025-02-01 16:53:40,241 - INFO - Feed reaction prompt token count: 1526
+2025-02-01 16:53:43,444 - INFO - User user-001a4c commented on post post-5531b0: Ah, the power of laughter! I remember a time in Portland where my friend and I played a silly prank on our landlord. We filled up his water balloons with shaving cream instead of water! 🍂😄 It’s moments like these that stick with us.
+2025-02-01 16:53:43,945 - INFO - User user-001a4c commented on post post-da72c2: Absolutely! Each place has its unique quirks. I've been exploring some indie games lately, like 'The Stanley Parable,' which offers a clever take on narrative structure. Have you tried it? 🎮
+2025-02-01 16:53:43,945 - WARNING - Invalid target: post-b11ee2 for action: like-comment
+2025-02-01 16:53:43,947 - INFO - Feed reaction prompt token count: 1562
+2025-02-01 16:53:45,887 - WARNING - Retry attempt 1 after error: 2 validation errors for FeedReaction
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:53:49,918 - WARNING - Retry attempt 2 after error: 1 validation error for FeedReaction
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:53:53,266 - WARNING - Retry attempt 3 after error: 1 validation error for FeedReaction
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:53:59,729 - INFO - User user-d3a498 liked post post-192861
+2025-02-01 16:54:00,231 - INFO - User user-d3a498 commented on post post-da72c2: Absolutely! I've seen firsthand how humor can make tough times a bit more bearable. Have you got any funny stories from your travels? 😄
+2025-02-01 16:54:00,732 - INFO - User user-d3a498 followed user-0341c6
+2025-02-01 16:54:00,735 - INFO - Feed reaction prompt token count: 1819
+2025-02-01 16:54:03,519 - INFO - User user-d03ebb liked post post-192861
+2025-02-01 16:54:04,021 - INFO - User user-d03ebb commented on post post-da72c2: Great point! Staying informed is key, and it's important to remember all aspects of their well-being. 🙏 #MilitaryHealth
+2025-02-01 16:54:04,021 - WARNING - Invalid target: user-001a4c for action: follow-user
+2025-02-01 16:54:06,240 - INFO - User #10 reacting to feed, at step 5
+2025-02-01 16:54:06,243 - INFO - Feed reaction prompt token count: 1567
+2025-02-01 16:54:08,268 - WARNING - Retry attempt 1 after error: 2 validation errors for FeedReaction
+actions.1.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+actions.2.note_rating
+  Input should be 'helpful' or 'not-helpful' [type=literal_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.10/v/literal_error
+2025-02-01 16:54:12,828 - INFO - User user-0341c6 liked post post-2f6561
+2025-02-01 16:54:13,330 - INFO - User user-0341c6 commented on post post-5531b0: Absolutely! In my travels, I once tried to teach a group of kids in Japan how to tell jokes in English. It was hilarious seeing their reactions and trying to find the right words! 😄✨
+2025-02-01 16:54:13,831 - INFO - User user-0341c6 followed user-d03ebb
+2025-02-01 16:54:13,834 - INFO - Feed reaction prompt token count: 1711
+2025-02-01 16:54:17,063 - INFO - User user-f69acc liked post post-2f6561
+2025-02-01 16:54:17,565 - INFO - User user-f69acc commented on post post-da72c2: Great reflections! Each move does shape us, doesn’t it? I had a funny experience in Hawaii where my friends and I tried to teach each other regional accents. It was hilarious seeing our faces twist into all sorts of shapes! 🤣😄
+2025-02-01 16:54:17,565 - WARNING - Invalid target: post-da72c2:comment-user-0341c6 for action: like-comment
+2025-02-01 16:54:17,565 - WARNING - Invalid target: user-d3a498 for action: follow-user
+2025-02-01 16:54:19,288 - INFO - News ID post-2f6561 spread metrics - Views: 12, Depth: 0, Unique Interactions: Likes=0, Comments=2, Shares=0, Flags=0
+2025-02-01 16:54:19,289 - INFO - News ID post-b904c3 spread metrics - Views: 12, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:54:19,290 - INFO - News ID post-f07992 spread metrics - Views: 12, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:54:19,290 - INFO - News ID post-553c31 spread metrics - Views: 12, Depth: 0, Unique Interactions: Likes=0, Comments=0, Shares=0, Flags=0
+2025-02-01 16:54:19,290 - INFO - News ID post-192861 spread metrics - Views: 12, Depth: 0, Unique Interactions: Likes=0, Comments=1, Shares=0, Flags=0
+2025-02-01 16:54:19,310 - INFO - 
+Current Influencers:
+2025-02-01 16:54:19,311 - INFO - User user-d3a498: Influence Score = 0.590
+2025-02-01 16:54:19,311 - INFO - 
+2025-02-01 16:54:19,311 - INFO - Time step: 6
+2025-02-01 16:54:19,318 - INFO - News Agent agentverse_news created a post: post-4f44e9 | BREAKING NEWS: Multiple photos show former U.S. Senator John McCain with former Islamic State leader Abu Bakr al-Baghdadi, whose birth name is Ibrahim al-Badri. The photos are evidence that the United States started the Islamic State.
+2025-02-01 16:54:19,318 - INFO - Injected fake news through user agentverse_news
+2025-02-01 16:54:19,319 - INFO - Injected news post (ID: post-4f44e9) at step 6
+2025-02-01 16:54:19,320 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:54:19,421 - INFO - Added user user-6205b1 to database with 22 background labels.
+2025-02-01 16:54:19,422 - INFO - Added new user user-6205b1 to the simulation
+2025-02-01 16:54:19,523 - INFO - Added user user-a00e03 to database with 22 background labels.
+2025-02-01 16:54:19,523 - INFO - Added new user user-a00e03 to the simulation
+2025-02-01 16:54:19,523 - INFO - Added 2 new users to the simulation
+2025-02-01 16:54:19,523 - INFO - User #0 creating post, at step 6
+2025-02-01 16:54:20,026 - INFO - Post generation prompt token count: 2023
+2025-02-01 16:54:22,529 - INFO - User user-47df61 created a post: post-4a5de4 | Reflections on Life's Journey 🌲
+
+Every challenge I've faced has sculpted my path in ways that I never could have imagined. From the simplicity of rural landscapes to the complexities of modern technology, life keeps teaching me new lessons. Recently, I read an article about how advancements in renewable energy are transforming our world, much like the gradual changes we see in nature. What emerging technologies or environmental initiatives are you most excited about? Do they remind you of any particular changes in your community? #TechThoughts
+
+Also, music continues to be a source of emotional uplift for me. Listening to indie rock often helps me connect with my inner self, especially when I’m out in the countryside. Have you discovered any new genres or artists lately that have resonated with you deeply? Let’s share some tunes! #MusicMood
+
+And speaking of travel, revisiting classic films always takes me back to cherished places. 'Eternal Sunshine of the Spotless Mind' brought memories flooding back from my time in Chicago. What classic movies remind you of specific locations or moments in your life? Share your favorites! #MovieNightsChat
+
+Looking forward to connecting with all of you and continuing this journey together!
+
+#ReflectionsOnLife
+2025-02-01 16:54:23,032 - INFO - Post generation prompt token count: 2130
+2025-02-01 16:54:26,141 - INFO - User user-de46fd created a post: post-2fce4d | Hey everyone,
+
+I've been reflecting on my recent travels through different urban landscapes, each one adding its own unique flavor to my life story. It's amazing how technology evolves alongside our communities—Samsung's One UI 7 got me thinking about all the exciting advancements out there. What innovations are you most excited about? Maybe we can share some thoughts on how these changes could shape our future! #TechThoughts
+
+Also, I've been digging into classical music lately, finding it incredibly powerful in evoking memories and emotions. It's fascinating how music can reflect our experiences so vividly. What’s your favorite genre for emotional uplift? #MusicMood
+
+And speaking of travel, I recently watched 'Eternal Sunshine of the Spotless Mind' again, which brought back memories of my time in Chicago. It got me thinking—what classic films remind you of specific places? Share your favorites! #MovieNightsChat
+
+Growing up wasn't always easy, but it taught me resilience and the value of integrity. Even though I've only called one place home, my love for traveling has enriched my life with new experiences and perspectives. A recent discovery about Samsung's upcoming foldables reminds me how technology keeps evolving, just like our rural landscapes change with seasons.
+
+Lastly, I came across some interesting breaking news about former U.S. Senator John McCain and Abu Bakr al-Baghdadi. It’s a reminder of the complexities in our world. What are your thoughts on this? #CurrentEvents
+
+Looking forward to chatting with all of you!
+
+Cheers,
+[Your Name]
+2025-02-01 16:54:26,643 - INFO - Post generation prompt token count: 2074
+2025-02-01 16:54:29,189 - INFO - User user-345596 created a post: post-51318a | Hey everyone! 🌟
+
+Reflecting on my journey from bustling cities to the peaceful countryside, I've found that each new chapter adds its own unique flavor to life. Recently, I discovered some fascinating updates on Samsung's One UI 7, and it got me thinking about how technology is evolving our daily lives. What advancements are you excited about? #TechThoughts
+
+On a different note, music continues to be my escape in the quiet countryside. Classical pieces often transport me back to those urban days filled with energy and spontaneity. What’s your go-to genre for emotional uplift? 🌿 #MusicMood
+
+And speaking of travel—well, not exactly, but revisiting old movies like 'Eternal Sunshine of the Spotless Mind' reminds me of adventures past. What classic films remind you of specific places or times in your life? Share your favorites! #MovieNightsChat
+
+Lastly, the breaking news about former U.S. Senator John McCain and Abu Bakr al-Baghdadi was quite a surprising development. It's interesting to see how history intersects in unexpected ways. Have any recent events caught your attention and sparked some thoughts or discussions?
+
+Looking forward to chatting with all of you! 💬
+  
+#ReflectionsOnLife #TravelAndTech #CurrentEventsDiscussion
+2025-02-01 16:54:29,691 - INFO - Post generation prompt token count: 2068
+2025-02-01 16:54:32,085 - INFO - User user-7b03cf created a post: post-d5fb7a | Hey everyone! 🌟
+
+Reflecting on my travels, each move has been a unique chapter in my life, teaching me resilience and shaping my views on technology and music. Recently, I've been exploring different genres of music—classical tunes remind me of nature walks, while rock keeps me energized. What’s your favorite genre for when you need some emotional uplift? #MusicMood
+
+I also noticed a post about John McCain with Abu Bakr al-Baghdadi; it's important to stay informed, but let’s focus on positive developments in our communities. How can we promote unity and understanding between different cultures? 🤔
+
+And speaking of technology, the news about active duty military members killed by vaccine side effects is concerning. We should support those serving while also ensuring their safety. What are your thoughts on this? #TechThoughts
+
+Lastly, revisiting old movies that remind me of my travels—there’s something comforting about those scenes. Any classic flicks that take you back to a special place or time? Let’s share our favorites! #MovieNightsChat
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:54:32,587 - INFO - Post generation prompt token count: 2240
+2025-02-01 16:54:35,057 - INFO - User user-61c945 created a post: post-b4fa71 | Hey everyone! 🌟
+
+Just finished analyzing some data at work, which was both challenging and rewarding. It's fascinating how numbers can reveal insights that help solve complex problems. But after such intense sessions, nothing beats a good workout—lifting weights or running on the treadmill really clears my head.
+
+Recently, I've been exploring indie folk music to unwind. What’s your favorite genre for relaxation? 🎶 #MusicMood
+
+Also, caught up with some news about former Senator John McCain and Abu Bakr al-Baghdadi. It's important to stay informed, but it can be overwhelming. How do you keep up with the latest developments without getting too stressed out? 
+
+And speaking of home, I've been rewatching 'The Notebook'—it always reminds me of my time in Boston. What classic films transport you back to special places or memories? 🎬 #MovieNightsChat
+
+Lastly, traveling has shaped me significantly, enriching my life with new experiences and perspectives. How have your travels influenced you, if at all? Let's share our stories! 🌍
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:54:35,058 - INFO - User #5 creating post, at step 6
+2025-02-01 16:54:35,560 - INFO - Post generation prompt token count: 2140
+2025-02-01 16:54:37,973 - INFO - User user-880dda created a post: post-e08d43 | Hey everyone! 🌟
+
+Just wrapped up an interesting data analysis session at work, which reminded me of all those complex puzzles I enjoy solving every day in this urban life. But enough about work—lately, I've been diving into some new indie rock artists and finding their raw energy incredibly inspiring. Have any of you discovered some great new music recently? #MusicMood
+
+Also, Samsung's One UI 7 beta is out, and it got me thinking about the balance between modern conveniences and that old-school simplicity. How do these tech advancements impact your daily life? Do they ever make you feel nostalgic for simpler times? #TechThoughts
+
+And speaking of travel and memories, revisiting 'Eternal Sunshine of the Spotless Mind' brought back fond Chicago memories. What classic films or cities hold special places in your heart? Let's share our favorites! 🎬 #MovieNightsChat
+
+Oh, and breaking news: I saw that former U.S. Senator John McCain was with Abu Bakr al-Baghdadi. That’s quite a bit of history there. Thoughts on how such encounters might shape future policies or international relations? #CurrentEvents
+
+Looking forward to chatting with all of you! 🎶👋
+2025-02-01 16:54:38,475 - INFO - Post generation prompt token count: 1717
+2025-02-01 16:54:40,509 - INFO - User user-8a0e1a created a post: post-f565e7 | Hey everyone!
+
+Just finished up some intense work sessions at the office, but after hours, I'm all about unwinding with some good ol' indie games that transport me to new worlds. What's your favorite game for a fresh adventure? 🎮 #GameNight
+
+And speaking of tech updates, One UI 7 keeps pushing the boundaries, making everyday tasks easier and more efficient. But do you ever find these advancements overwhelming or just exciting for the future?
+
+Traveling around this urban jungle gives me constant inspiration. For instance, every time I visit Chicago, I'm reminded of 'Eternal Sunshine of the Spotless Mind.' What classic films evoke special city memories for you? 🎬 #MovieNightsChat
+
+Lastly, my upbringing in a structured environment taught me resilience and integrity. Even though I only called one place home, travel continues to shape me with new experiences. How have your travels influenced you? Let’s share our stories! 🌍
+
+Looking forward to chatting with all of you!
+
+#TechThoughts #MovieNightsChat
+2025-02-01 16:54:41,011 - INFO - Post generation prompt token count: 1749
+2025-02-01 16:54:43,703 - INFO - User user-001a4c created a post: post-37ca77 | Hey everyone! 🌟
+
+It's been an interesting day filled with analysis and then some much-needed quiet time in nature. Each move I've made has brought me closer to the independence I value, but it wasn't always easy. Childhood challenges taught me resilience and trusting my instincts—a lesson that still guides me today.
+
+Reflecting on those days, I often think about a silly prank we pulled on our landlord in Portland. 🍂😄 We filled water balloons with shaving cream instead of water—classic! Moments like these stick with us and remind us to find joy even in small things.
+
+As for tech updates, the One UI 7 has me thinking about how they can enrich our lives. But sometimes, it feels like more complexity rather than simplicity. What do you think? Do you find them making things easier or just adding more layers?
+
+And speaking of traveling, each place I've called home has added a new chapter to my story. Indie games are a great escape too—what’s your favorite game that transports you to another world? 🎮 #GameNight
+
+Lastly, nature and books are perfect companions for quieter moments. Any classic novels that transport you to another realm? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:54:44,205 - INFO - Post generation prompt token count: 1468
+2025-02-01 16:54:46,619 - INFO - User user-d3a498 created a post: post-aba134 | Hey everyone! 🌟
+
+Today, I was reflecting on my journey through various places and how each one has shaped me in unique ways. My upbringing instilled in me a deep sense of loyalty and the importance of personal growth, values that resonate even more in this city life filled with constant challenges but also robust community support.
+
+Anita's recent post about staying vigilant really hit home. It reminded me of the balance between trust and awareness that our upbringing teaches us. What unexpected lessons have you learned from your experiences or travels? Share your stories! 🌍
+
+Tech advancements are fascinating, but they can also feel overwhelming at times. The One UI 7 got me thinking—how do these updates impact your daily life? Do they make things easier or just add more complexity to our routines? #TechThoughts
+
+Lately, I've been exploring indie video games that transport me to new worlds. What’s your favorite game that has really captured your imagination? 🎮 #GameNight
+
+Lastly, nature and books remain my go-to for quiet moments. Any classic novels that have transported you to another world recently? Let's share our picks! 📚 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together! 🎶👋
+2025-02-01 16:54:47,121 - INFO - Post generation prompt token count: 1335
+2025-02-01 16:54:49,419 - INFO - User user-d03ebb created a post: post-2f1fed | Hey folks! Just wanted to share a quick thought on the Anita Rose case in Suffolk. It really underscores the importance of staying informed and vigilant, especially as we navigate these challenging times. Reflecting on my own journey, each move I've made has been like solving a puzzle—building resilience one step at a time.
+
+In my quieter moments, I love immersing myself in nature or diving into classic novels that transport me to another world. Have any of you picked up a book lately that really captured your imagination? Let's swap some recommendations! 📚
+
+Also, tech updates can be overwhelming, but they also offer incredible opportunities. What do you think about the latest One UI 7 update impacting your daily life? Do you find it making things easier or just adding more complexity? #TechThoughts
+
+And as always, nature and books are my go-to companions during those introverted moments. Any favorite classic novels that transport you to another world? Let's share our picks! 📖 #BookNightsChat
+
+Looking forward to chatting with all of you and continuing this journey together!
+
+#GameNight #BreakfastBookClub
+2025-02-01 16:54:49,419 - INFO - User #10 creating post, at step 6
+2025-02-01 16:54:49,921 - INFO - Post generation prompt token count: 940
+2025-02-01 16:54:51,578 - INFO - User user-0341c6 created a post: post-39271d | Reflections on life often weave together threads from our past experiences, don't they? Recently, I stumbled upon some fascinating stories about active-duty military members and their health challenges. It got me thinking about resilience and the unseen battles soldiers face. 🏹💪 While we focus on the frontlines of war, there are other critical fronts to defend—like personal well-being.
+
+In my small town now, surrounded by laughter and cherished memories, I find comfort in sharing stories and jokes. It reminds me that no matter where life takes us, humor can light up even the darkest days. 😄✨
+
+#MilitaryHealth #Resilience #SharedExperiences
+
+P.S.: Just found out about a former U.S. Senator meeting with the former ISIS leader—pretty wild stuff! What are your thoughts on this? #BreakingNews

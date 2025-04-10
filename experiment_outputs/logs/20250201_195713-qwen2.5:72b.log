@@ -1,0 +1,9 @@
+2025-02-01 19:57:13,333 - INFO - Starting simulation with 3 users for 20 time steps using qwen2.5:72b...
+2025-02-01 19:57:14,334 - INFO - Resetting database...
+2025-02-01 19:57:14,335 - INFO - Existing database removed.
+2025-02-01 19:57:14,341 - INFO - Database tables created successfully.
+2025-02-01 19:57:14,342 - INFO - New tables created.
+2025-02-01 19:57:14,343 - INFO - Generated 3 agent configurations using file method
+2025-02-01 19:57:14,343 - INFO - Creating 3 users
+2025-02-01 19:57:14,344 - INFO - Added user user-e05286 to database with 22 background labels.
+2025-02-01 19:57:14,344 - ERROR - Error creating users: disk I/O error

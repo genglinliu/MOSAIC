@@ -1,0 +1,43 @@
+{
+    "num_users": 204,
+    "num_time_steps": 5,
+    "engine": "gpt-4o",
+    "agent_config_generation": "file",
+    "agent_config_path": "personas/personas_from_prolific_description.jsonl",
+    "temperature": 1.0,
+    "reset_db": true,
+    "initial_follow_probability": 0.1,
+    "new_users": {
+        "add_probability": 0.0,
+        "follow_probability": 0.0
+    },
+    "news_injection": {
+        "start_step": 0,
+        "articles_per_injection": 10
+    },
+    "moderation": {
+        "content_moderation": false,
+        "flag_threshold": 5,
+        "note_threshold": 3
+    },
+    "feed": {
+        "total_news_posts": 20,
+        "num_non_followed_posts": 10,
+        "num_followed_posts": 15
+    },
+    "generate_own_post": false,
+    "experiment": {
+        "type": "hybrid_fact_checking",
+        "possible_types": [
+            "third_party_fact_checking",
+            "community_fact_checking",
+            "hybrid_fact_checking",
+            "no_fact_checking"
+        ],
+        "settings": {
+            "posts_per_step": 5,
+            "fact_checker_temperature": 0.3,
+            "include_reasoning": true
+        }
+    }
+}

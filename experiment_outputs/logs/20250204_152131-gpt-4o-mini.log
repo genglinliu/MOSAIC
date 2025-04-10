@@ -1,0 +1,44 @@
+2025-02-04 15:21:31,306 - INFO - Starting simulation with 20 users for 20 time steps using gpt-4o-mini...
+2025-02-04 15:21:32,307 - INFO - Resetting database...
+2025-02-04 15:21:32,307 - INFO - Existing database removed.
+2025-02-04 15:21:32,314 - INFO - Database tables created successfully.
+2025-02-04 15:21:32,315 - INFO - New tables created.
+2025-02-04 15:21:32,316 - INFO - Generated 20 agent configurations using file method
+2025-02-04 15:21:32,316 - INFO - Creating 20 users
+2025-02-04 15:21:32,317 - INFO - Added user user-43a3a8 to database with 22 background labels.
+2025-02-04 15:21:32,318 - INFO - Added user user-dd5419 to database with 22 background labels.
+2025-02-04 15:21:32,318 - INFO - Added user user-47c904 to database with 22 background labels.
+2025-02-04 15:21:32,319 - INFO - Added user user-d41e2e to database with 22 background labels.
+2025-02-04 15:21:32,320 - INFO - Added user user-28035e to database with 22 background labels.
+2025-02-04 15:21:32,320 - INFO - Added user user-be426b to database with 22 background labels.
+2025-02-04 15:21:32,321 - INFO - Added user user-2448cc to database with 22 background labels.
+2025-02-04 15:21:32,321 - INFO - Added user user-c11a2b to database with 22 background labels.
+2025-02-04 15:21:32,322 - INFO - Added user user-080eb1 to database with 22 background labels.
+2025-02-04 15:21:32,322 - INFO - Added user user-36c4c1 to database with 22 background labels.
+2025-02-04 15:21:32,323 - INFO - Added user user-8e6941 to database with 22 background labels.
+2025-02-04 15:21:32,323 - INFO - Added user user-10109a to database with 22 background labels.
+2025-02-04 15:21:32,323 - INFO - Added user user-a5b9af to database with 22 background labels.
+2025-02-04 15:21:32,324 - INFO - Added user user-0cb757 to database with 22 background labels.
+2025-02-04 15:21:32,324 - INFO - Added user user-8939ae to database with 22 background labels.
+2025-02-04 15:21:32,325 - INFO - Added user user-b9d6b4 to database with 22 background labels.
+2025-02-04 15:21:32,325 - INFO - Added user user-311330 to database with 22 background labels.
+2025-02-04 15:21:32,326 - INFO - Added user user-330275 to database with 22 background labels.
+2025-02-04 15:21:32,326 - INFO - Added user user-98d319 to database with 22 background labels.
+2025-02-04 15:21:32,327 - INFO - Added user user-5b5241 to database with 22 background labels.
+2025-02-04 15:21:32,327 - INFO - Total users in database after creation: 20
+2025-02-04 15:21:32,346 - INFO - Time step: 1
+2025-02-04 15:21:32,353 - INFO - News Agent agentverse_news created a post: post-26ff7b | NEWS: The unprecedented charges mean the South Korean president faces decades in prison if convicted.
+2025-02-04 15:21:32,355 - INFO - News Agent agentverse_news created a post: post-9abcca | NEWS: Former Ukraine Defense Minister Oleksii Reznikov purchased a 7-million-euro mansion in Cannes, France, as a wedding gift for his daughter in 2023. Reznikov is said to have a net worth of just 1 million, so he must have embezzled U.S. and EU taxpayers’ money to be able to afford the property.
+2025-02-04 15:21:32,360 - INFO - News Agent agentverse_news created a post: post-96724a | NEWS: Figures shared exclusively with BBC News show 504 reported offences took place in hotels in 2023.
+2025-02-04 15:21:32,365 - INFO - News Agent agentverse_news created a post: post-ef6d10 | NEWS: We meet some of the first NHS patients, as expert says funding everyone eligible would "bankrupt" the service.
+2025-02-04 15:21:32,370 - INFO - News Agent agentverse_news created a post: post-0e71a1 | NEWS: Play on day one of the Australian Open is disrupted by heavy rain and thunderstorms in Melbourne.
+2025-02-04 15:21:32,370 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 15:21:32,370 - INFO - Injected news post (ID: ['post-26ff7b', 'post-9abcca', 'post-96724a', 'post-ef6d10', 'post-0e71a1']) at step 1
+2025-02-04 15:21:32,370 - INFO - User #0 reacting to feed, at step 1
+2025-02-04 15:21:32,372 - INFO - Feed reaction prompt token count: 1020
+2025-02-04 15:21:42,402 - INFO - Retrying request to /chat/completions in 0.425731 seconds
+2025-02-04 15:21:52,091 - INFO - User user-43a3a8 flagged post post-9abcca
+2025-02-04 15:21:52,094 - INFO - Feed reaction prompt token count: 889
+2025-02-04 15:21:53,959 - INFO - User user-dd5419 flagged post post-9abcca
+2025-02-04 15:21:53,961 - INFO - Feed reaction prompt token count: 1071
+2025-02-04 15:22:03,976 - INFO - Retrying request to /chat/completions in 0.420504 seconds

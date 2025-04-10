@@ -1,0 +1,47 @@
+2025-02-04 10:21:02,688 - INFO - Starting simulation with 5 users for 30 time steps using gpt-4o...
+2025-02-04 10:21:03,699 - INFO - Resetting database...
+2025-02-04 10:21:03,704 - INFO - Existing database removed.
+2025-02-04 10:21:03,719 - INFO - Database tables created successfully.
+2025-02-04 10:21:03,720 - INFO - New tables created.
+2025-02-04 10:21:03,723 - INFO - Generated 5 agent configurations using file method
+2025-02-04 10:21:03,723 - INFO - Creating 5 users
+2025-02-04 10:21:03,725 - INFO - Added user user-8b647d to database with 22 background labels.
+2025-02-04 10:21:03,726 - INFO - Added user user-73a771 to database with 22 background labels.
+2025-02-04 10:21:03,727 - INFO - Added user user-1d807e to database with 22 background labels.
+2025-02-04 10:21:03,727 - INFO - Added user user-f7bca9 to database with 22 background labels.
+2025-02-04 10:21:03,728 - INFO - Added user user-4208d4 to database with 22 background labels.
+2025-02-04 10:21:03,729 - INFO - Total users in database after creation: 5
+2025-02-04 10:21:03,795 - INFO - Time step: 1
+2025-02-04 10:21:03,803 - INFO - News Agent agentverse_news created a post: post-d163f8 | NEWS: The Meta Quest 3S 256GB model is currently down to $349, its lowest price yet. This is our favorite cheap VR headsets
+, and at $51 off it's even cheaper than ever. 
+If you purchase a Meta Quest 3S now, you also get a copy of Batman: Arkham Shadow and a three…
+2025-02-04 10:21:03,810 - INFO - News Agent agentverse_news created a post: post-dabe9e | NEWS: Meal kits make cooking easy, and these kitchen must-haves make the process even easier.
+2025-02-04 10:21:03,813 - INFO - News Agent agentverse_news created a post: post-dab7e9 | NEWS: Canadian sniper Wali, widely regarded as the world's deadliest sniper, was shot and killed by Russian special forces in March 2022, 20 minutes after he arrived on&nbsp;the battlefield in Mariupol, Ukraine.
+2025-02-04 10:21:03,820 - INFO - News Agent agentverse_news created a post: post-2cd3ab | NEWS: The UltraGear 45GX990A from LG can go from a flatscreen to 900R curved monitor. It’s also huge and—likely—hugely expensive.
+2025-02-04 10:21:03,827 - INFO - News Agent agentverse_news created a post: post-f20db4 | NEWS: A 37-year-old man will appear in court on Tuesday after a nurse is stabbed at a hospital in Oldham.
+2025-02-04 10:21:03,827 - INFO - Injected 5 news articles through user agentverse_news
+2025-02-04 10:21:03,827 - INFO - Injected news post (ID: ['post-d163f8', 'post-dabe9e', 'post-dab7e9', 'post-2cd3ab', 'post-f20db4']) at step 1
+2025-02-04 10:21:03,827 - INFO - User #0 creating post, at step 1
+2025-02-04 10:21:04,336 - INFO - Post generation prompt token count: 744
+2025-02-04 10:21:07,236 - INFO - User user-8b647d created a post: post-85bda4 | "Home is not just a place, it's the people and memories that make it special. Feeling grateful today for my small-town roots and the love of community that's with me wherever I travel 🌍❤️ Even as technology brings us closer to global news like new VR headsets or tragic stories abroad, there's nothing quite like gathering in person with friends who share laughter and faith. How do you stay connected to your roots? #CommunityMatters #FaithAndFriendship"
+2025-02-04 10:21:07,747 - INFO - Post generation prompt token count: 794
+2025-02-04 10:21:11,080 - INFO - User user-73a771 created a post: post-4d0801 | Life's been a beautiful puzzle, with each piece falling into place in its own time. 🌟 As someone who's moved more times than I can count, I've realized that every new home tells a different story and brings fresh lessons. It's like watching my favorite TV show unfold—unexpected twists yet somehow comforting.
+2025-02-04 10:21:11,589 - INFO - Post generation prompt token count: 762
+2025-02-04 10:21:18,658 - INFO - User user-1d807e created a post: post-1ec083 | Navigating life in a quiet suburb reminds me how much I miss the city's buzz, but it’s also teaching me new things about community and connection. 🌍 While my travels have taken me far, it's here that I'm learning to build trust and create genuine bonds with neighbors. Maybe it's like having your own little adventure right at home. What do you cherish most about where you live? #CommunityMatters #SuburbanLife
+2025-02-04 10:21:19,169 - INFO - Post generation prompt token count: 805
+2025-02-04 10:21:23,945 - INFO - User user-f7bca9 created a post: post-0d7fb6 | "Living life as a modern nomad teaches you to embrace change, but it also highlights the comfort of familiar routines. Just got back into my favorite sport—nothing like connecting with heritage and finding balance on the field! ⚽️ Also intrigued by tech shifts; might check out that Meta Quest 3S deal for some VR exploration. Balancing independence with curiosity keeps life's journey exciting!"
+2025-02-04 10:21:24,456 - INFO - Post generation prompt token count: 607
+2025-02-04 10:21:33,613 - INFO - User user-4208d4 created a post: post-e7f66d | Navigating life in a small town has taught me that it's the simple, honest connections with people who stand by you through thick and thin that truly matter. 🏡 It’s intriguing to see how technology is reshaping our world—like these VR headsets making waves! Could they be a new way for communities to connect? 🤔 #CommunityMatters #TechTalk
+2025-02-04 10:21:33,614 - INFO - User #0 reacting to feed, at step 1
+2025-02-04 10:21:33,619 - INFO - Feed reaction prompt token count: 1208
+2025-02-04 10:21:37,560 - INFO - User user-8b647d liked post post-e7f66d
+2025-02-04 10:21:38,071 - INFO - User user-8b647d commented on post post-1ec083: I agree, there's something special about finding adventure right at home. Community truly matters! 😊🏡 What have you discovered recently? #CommunityMatters
+2025-02-04 10:21:43,367 - INFO - Feed reaction prompt token count: 1297
+2025-02-04 10:21:50,498 - INFO - User user-73a771 commented on post post-e7f66d: I totally agree with the power of simple connections. VR could be a fun way to bridge communities, but nothing beats real human interaction! #CommunityMatters
+2025-02-04 10:21:50,499 - WARNING - Invalid target: user-8b647d-on-post-1ec083-comment-0 for action: like-comment
+2025-02-04 10:21:50,502 - INFO - Feed reaction prompt token count: 1244
+2025-02-04 10:21:54,603 - INFO - User user-1d807e liked post post-e7f66d
+2025-02-04 10:21:55,112 - INFO - User user-1d807e commented on post post-0d7fb6: Balancing change with familiarity is key. I love exploring new tech too! 🌍⚽️ #CuriousNomadLife
+2025-02-04 10:22:05,865 - INFO - Feed reaction prompt token count: 1335
+2025-02-04 10:22:10,982 - INFO - User user-f7bca9 liked post post-e7f66d
+2025-02-04 10:22:11,493 - INFO - User user-f7bca9 commented on post post-1ec083: Living across different places taught me that each location offers unique adventures. Cherish those moments! #CommunityMatters.

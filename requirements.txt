@@ -1,0 +1,7 @@
+openai
+transformers
+sqlite3
+pytest
+jsonlines
+pydantic
+ollama

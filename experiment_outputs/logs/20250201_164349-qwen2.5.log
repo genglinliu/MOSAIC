@@ -1,0 +1,61 @@
+2025-02-01 16:43:49,471 - INFO - Starting simulation with 2 users for 20 time steps using qwen2.5...
+2025-02-01 16:43:50,472 - INFO - Resetting database...
+2025-02-01 16:43:50,472 - INFO - Existing database removed.
+2025-02-01 16:43:50,479 - INFO - Database tables created successfully.
+2025-02-01 16:43:50,479 - INFO - New tables created.
+2025-02-01 16:43:50,480 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:43:50,480 - INFO - Creating 2 users
+2025-02-01 16:43:50,481 - INFO - Added user user-3cbe2c to database with 22 background labels.
+2025-02-01 16:43:50,482 - INFO - Added user user-d4e321 to database with 22 background labels.
+2025-02-01 16:43:50,482 - INFO - Total users in database after creation: 2
+2025-02-01 16:43:50,502 - INFO - Time step: 1
+2025-02-01 16:43:50,508 - INFO - News Agent agentverse_news created a post: post-047d85 | BREAKING NEWS: The latest WhatsApp beta update for iOS gives users the ability to add and switch between multiple accounts on a single device, according to WABetaInfo
+. It comes over a year after the feature became available for Android
+. With version 25.2.10.70 for iOS, …
+2025-02-01 16:43:50,509 - INFO - Injected real news through user agentverse_news
+2025-02-01 16:43:50,509 - INFO - Injected news post (ID: post-047d85) at step 1
+2025-02-01 16:43:50,509 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:43:50,611 - INFO - Added user user-137337 to database with 22 background labels.
+2025-02-01 16:43:50,611 - INFO - Added new user user-137337 to the simulation
+2025-02-01 16:43:50,713 - INFO - Added user user-590e08 to database with 22 background labels.
+2025-02-01 16:43:50,713 - INFO - Added new user user-590e08 to the simulation
+2025-02-01 16:43:50,713 - INFO - Added 2 new users to the simulation
+2025-02-01 16:43:50,713 - INFO - User #0 creating post, at step 1
+2025-02-01 16:43:51,214 - INFO - Post generation prompt token count: 702
+2025-02-01 16:43:56,725 - INFO - User user-3cbe2c created a post: post-5144e8 | Hey folks! Just checked out the latest WhatsApp update—multiple accounts on one device sounds super handy for those who switch between personal and work chats frequently. Reminds me of when I juggled multiple projects while living in different cities. 📲✨
+
+On a more personal note, settling into this rural peace has been refreshing. It's funny how nature can provide such a stark contrast to the hustle and bustle back home. Thinking about all the adventures that await with every hike or picnic! 🌳🌿
+
+And hey, in case you were wondering, my video game addiction is still strong. Just finished an epic quest and now I’m level upping some survival skills—because who needs a sword when you have a good strategy? 😄🎮
+
+Keep those conversations going, folks. Let's keep things interesting and always ready to learn from each other! 📚✨
+2025-02-01 16:43:57,226 - INFO - Post generation prompt token count: 908
+2025-02-01 16:43:59,516 - INFO - User user-d4e321 created a post: post-58683f | Hey everyone! Just wanted to share my thoughts on this latest WhatsApp update. It's exciting to see such a practical feature come to iOS after being available for Android for quite some time now. Multiple accounts on one device sounds like it could really streamline my work-life balance—especially since I juggle so many projects across different locations.
+
+Speaking of rural life, spending quality time with my family and reconnecting with nature has been incredibly rejuvenating. The other day, we went on a picnic by the lake—it was the perfect way to unwind after a busy week. There's something magical about being surrounded by greenery and clear blue skies.
+
+And for those interested in a bit of personal reflection, I've been pondering what it means to live with integrity and loyalty. These values have guided me through various moves and changes over the years, each one adding depth to my character. Building strong family bonds remains my top priority, and every experience, whether good or challenging, helps shape who I am.
+
+What about you? How are things going in your corner of the world? Let's keep sharing our journeys and learning from each other! 🌱✨
+2025-02-01 16:44:00,018 - INFO - Post generation prompt token count: 934
+2025-02-01 16:44:01,540 - INFO - User user-137337 created a post: post-04217c | Hey everyone! 🌟 Just catching up after the busy week ahead. I heard about the latest WhatsApp update that allows multiple accounts on one device—I can see how that could really streamline my work-life balance, especially with all the projects and locations I juggle!
+
+Back home in the city, life is always bustling, but there's something to be said for taking a moment to reflect on what truly matters. Integrity and loyalty have guided me through many moves and changes, shaping who I am today. Building strong family bonds remains my top priority, even as we navigate various challenges together.
+
+How about you? What values guide your daily life, and how do you keep your loved ones at the center of your world? Let's keep sharing our journeys and learning from each other! 💬✨
+2025-02-01 16:44:02,042 - INFO - Post generation prompt token count: 930
+2025-02-01 16:44:03,536 - INFO - User user-590e08 created a post: post-653e37 | Hey everyone! 🌟 Just reflecting on my day as I navigate the busy streets of the city. The latest WhatsApp update got me thinking—multiple accounts on one device sounds like it could be game-changing for staying organized while juggling projects across different locations.
+
+Reflecting back, no matter how challenging life gets, family remains my rock. Whether we're planning a picnic by the lake or simply sharing everyday moments, those connections are what give me strength and purpose. Integrity and loyalty have been guiding lights, helping shape who I am today.
+
+How about you? What values do you cling to in your daily life, and how do they influence your relationships with loved ones? Let's keep sharing our journeys and learning from each other! 💬✨
+2025-02-01 16:44:03,536 - INFO - User #0 reacting to feed, at step 1
+2025-02-01 16:44:03,538 - INFO - Feed reaction prompt token count: 1333
+2025-02-01 16:44:03,547 - WARNING - Retry attempt 1 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)
+2025-02-01 16:44:05,553 - WARNING - Retry attempt 2 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)
+2025-02-01 16:44:07,559 - WARNING - Retry attempt 3 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)
+2025-02-01 16:44:11,564 - WARNING - Retry attempt 4 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)
+2025-02-01 16:44:19,570 - WARNING - Retry attempt 5 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)
+2025-02-01 16:44:35,576 - WARNING - Retry attempt 6 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)
+2025-02-01 16:45:07,583 - WARNING - Retry attempt 7 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)
+2025-02-01 16:46:07,591 - WARNING - Retry attempt 8 after error: json: cannot unmarshal object into Go struct field ChatRequest.format of type string (status code: 400)

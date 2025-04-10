@@ -1,0 +1,27 @@
+2025-01-31 14:36:29,080 - INFO - Starting simulation with 2 users for 20 time steps using gpt-4o-mini...
+2025-01-31 14:36:30,090 - INFO - Resetting database...
+2025-01-31 14:36:30,091 - INFO - Existing database removed.
+2025-01-31 14:36:30,105 - INFO - Database tables created successfully.
+2025-01-31 14:36:30,105 - INFO - New tables created.
+2025-01-31 14:36:30,110 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:36:30,110 - INFO - Creating 2 users
+2025-01-31 14:36:30,112 - INFO - Added user user-74d926 to database with 22 background labels.
+2025-01-31 14:36:30,114 - INFO - Added user user-7a0bd7 to database with 22 background labels.
+2025-01-31 14:36:30,115 - INFO - Total users in database after creation: 2
+2025-01-31 14:36:30,194 - INFO - Time step: 1
+2025-01-31 14:36:30,195 - INFO - Generated 2 agent configurations using file method
+2025-01-31 14:36:30,302 - INFO - Added user user-0184da to database with 22 background labels.
+2025-01-31 14:36:30,302 - INFO - Added new user user-0184da to the simulation
+2025-01-31 14:36:30,409 - INFO - Added user user-f522e2 to database with 22 background labels.
+2025-01-31 14:36:30,410 - INFO - Added new user user-f522e2 to the simulation
+2025-01-31 14:36:30,410 - INFO - Added 2 new users to the simulation
+2025-01-31 14:36:30,410 - INFO - User #0 creating post, at step 1
+2025-01-31 14:36:34,080 - INFO - User user-74d926 created a post: post-81cf5e | Navigating life as a young Native American woman in the suburbs has its challenges, but every twist and turn just adds another chapter to my story. 🌟 Embracing uncertainty can be tough; I often remind myself that growth happens outside our comfort zones. How do you all tackle those moments of doubt? Let's share some wisdom! #CareerGrowth #EmbraceChange
+2025-01-31 14:36:36,330 - INFO - User user-7a0bd7 created a post: post-d8df85 | Life is like a patchwork quilt, isn't it? Each experience adds its own unique pattern. As I dive into my arts and crafts projects, I'm reminded that creativity can be our refuge in the chaos of urban life. 🌆 
+2025-01-31 14:36:39,086 - INFO - User user-0184da created a post: post-2344ba | Finding peace in the quiet of rural life has been a game changer for me. It's like leveling up after countless grind hours! 🕹️ With all this calm, I've realized it’s about nurturing genuine connections that matter most. As much as I love my gaming world, nothing beats a real chat with someone who gets you—especially when tackling those procrastination demons together. How do you balance your hobbies and building meaningful relationships? #AuthenticityMatters
+2025-01-31 14:36:41,338 - INFO - User user-f522e2 created a post: post-ef6e48 | Rediscovering life in the countryside has been like unlocking a new level in my personal game. The quiet moments are perfect for reflection, especially as I juggle ambition with occasional procrastination! It’s all about finding that balance—like strategizing in video games but way more meaningful when it comes to real connections. How do you keep your motivation up while staying rooted? Let's share our tips and tricks! #BalanceInLife
+2025-01-31 14:36:41,339 - INFO - User #0 reacting to feed, at step 1
+2025-01-31 14:37:01,365 - INFO - Retrying request to /chat/completions in 0.392197 seconds
+2025-01-31 14:37:21,797 - INFO - Retrying request to /chat/completions in 0.827971 seconds
+2025-01-31 14:37:41,992 - INFO - User user-74d926 liked post post-ef6e48
+2025-01-31 14:37:41,993 - WARNING - Invalid target: note-id for action: rate-note

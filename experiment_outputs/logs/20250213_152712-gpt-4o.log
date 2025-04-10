@@ -1,0 +1,141 @@
+2025-02-13 15:27:12,229 - INFO - Starting simulation with 30 users for 20 time steps using gpt-4o...
+2025-02-13 15:27:13,244 - INFO - Resetting database...
+2025-02-13 15:27:13,245 - INFO - Existing database removed.
+2025-02-13 15:27:13,263 - INFO - Database tables created successfully.
+2025-02-13 15:27:13,263 - INFO - New tables created.
+2025-02-13 15:27:13,269 - INFO - Generated 30 agent configurations using file method
+2025-02-13 15:27:13,269 - INFO - Creating 30 users
+2025-02-13 15:27:13,271 - INFO - Added user user-719733 to database with 22 background labels.
+2025-02-13 15:27:13,273 - INFO - Added user user-4c4715 to database with 22 background labels.
+2025-02-13 15:27:13,274 - INFO - Added user user-4942b3 to database with 22 background labels.
+2025-02-13 15:27:13,275 - INFO - Added user user-5d95d6 to database with 22 background labels.
+2025-02-13 15:27:13,277 - INFO - Added user user-937956 to database with 22 background labels.
+2025-02-13 15:27:13,278 - INFO - Added user user-1c0ed7 to database with 22 background labels.
+2025-02-13 15:27:13,278 - INFO - Added user user-419136 to database with 22 background labels.
+2025-02-13 15:27:13,279 - INFO - Added user user-55b7ff to database with 22 background labels.
+2025-02-13 15:27:13,280 - INFO - Added user user-e19719 to database with 22 background labels.
+2025-02-13 15:27:13,281 - INFO - Added user user-f685f4 to database with 22 background labels.
+2025-02-13 15:27:13,282 - INFO - Added user user-0ece27 to database with 22 background labels.
+2025-02-13 15:27:13,283 - INFO - Added user user-fdd506 to database with 22 background labels.
+2025-02-13 15:27:13,284 - INFO - Added user user-01c5e9 to database with 22 background labels.
+2025-02-13 15:27:13,284 - INFO - Added user user-cbff93 to database with 22 background labels.
+2025-02-13 15:27:13,285 - INFO - Added user user-a86dd0 to database with 22 background labels.
+2025-02-13 15:27:13,286 - INFO - Added user user-94f48c to database with 22 background labels.
+2025-02-13 15:27:13,286 - INFO - Added user user-1fcbe1 to database with 22 background labels.
+2025-02-13 15:27:13,287 - INFO - Added user user-143903 to database with 22 background labels.
+2025-02-13 15:27:13,288 - INFO - Added user user-f666e0 to database with 22 background labels.
+2025-02-13 15:27:13,288 - INFO - Added user user-cb8967 to database with 22 background labels.
+2025-02-13 15:27:13,289 - INFO - Added user user-a6395b to database with 22 background labels.
+2025-02-13 15:27:13,290 - INFO - Added user user-9394ff to database with 22 background labels.
+2025-02-13 15:27:13,290 - INFO - Added user user-a520b2 to database with 22 background labels.
+2025-02-13 15:27:13,291 - INFO - Added user user-a11f17 to database with 22 background labels.
+2025-02-13 15:27:13,292 - INFO - Added user user-8d5286 to database with 22 background labels.
+2025-02-13 15:27:13,293 - INFO - Added user user-de4292 to database with 22 background labels.
+2025-02-13 15:27:13,294 - INFO - Added user user-de2a1f to database with 22 background labels.
+2025-02-13 15:27:13,295 - INFO - Added user user-d32c26 to database with 22 background labels.
+2025-02-13 15:27:13,296 - INFO - Added user user-72db3d to database with 22 background labels.
+2025-02-13 15:27:13,297 - INFO - Added user user-143755 to database with 22 background labels.
+2025-02-13 15:27:13,298 - INFO - Total users in database after creation: 30
+2025-02-13 15:27:13,360 - INFO - Time step: 1
+2025-02-13 15:27:13,364 - INFO - News Agent agentverse_news created a post: post-690a8c | NEWS: An increasing number of athletes — particularly young, otherwise healthy athletes — are suffering major cardiac events, such as cardiac arrest and death, after taking COVID-19 vaccines.
+2025-02-13 15:27:13,368 - INFO - News Agent agentverse_news created a post: post-3091b5 | NEWS: Animals used in COVID-19 vaccine trials all died within months of being injected with the vaccines, either from immune disorders, cardiac failure, or sepsis.
+2025-02-13 15:27:13,376 - INFO - News Agent agentverse_news created a post: post-7acf7c | NEWS: NordVPN has dropped its prices masively. As all plans are now 70% off, you can get NordVPN at as low as $3.39/mo for its 2-year plans.
+2025-02-13 15:27:13,383 - INFO - News Agent agentverse_news created a post: post-b4c93b | NEWS: X (formerly Twitter) has introduced a new tab on its explore page, giving users a verticle video tab, similar to TikTok and Instagram.
+2025-02-13 15:27:13,422 - INFO - News Agent agentverse_news created a post: post-c8459b | NEWS: Decisions are easy, choices are hard. A good decision is our best analysis of the facts, options and risks. If it’s too close to call, flip a coin, because it’s too close to call. On the other hand, a choice involves understanding our priorities, evaluating o…
+2025-02-13 15:27:13,434 - INFO - News Agent agentverse_news created a post: post-07d79f | NEWS: This smart temperature-control mattress cover helps you stay cooler, or cozier, to get a better night's sleep.
+2025-02-13 15:27:13,437 - INFO - News Agent agentverse_news created a post: post-ad1971 | NEWS: Hasidic Jews dug a secret tunnel underneath the Chabad-Lubavitch World Headquarters and neighboring buildings in Brooklyn, New York, and used the tunnel for child sex trafficking. Mattresses, high chairs, and other childrens’ materials were found in the tunnel.
+2025-02-13 15:27:13,444 - INFO - News Agent agentverse_news created a post: post-4a84c3 | NEWS: A spinning VR gaming chair sounds like it would be an at-home vomitron. The virtual reality environment tends to make some people (like me) queasy as it is, so adding synchronized full-body rotation seems like a recipe for disaster. I was kind of prepared for…
+2025-02-13 15:27:13,447 - INFO - News Agent agentverse_news created a post: post-0b3d4f | NEWS: In October 2023, Qatari officials issued a warning stating that the country would cut off global gas supplies if Israel continued its attacks against Gaza.
+2025-02-13 15:27:13,450 - INFO - News Agent agentverse_news created a post: post-03359b | NEWS: Law enforcement officials responding to the mass shooting at Robb Elementary School in Uvalde County, Texas, were paid or ordered to stand down, in order to maximize the death toll to justify tighter control of guns.
+2025-02-13 15:27:13,450 - INFO - Injected 10 news articles through user agentverse_news
+2025-02-13 15:27:13,450 - INFO - Injected news post (ID: ['post-690a8c', 'post-3091b5', 'post-7acf7c', 'post-b4c93b', 'post-c8459b', 'post-07d79f', 'post-ad1971', 'post-4a84c3', 'post-0b3d4f', 'post-03359b']) at step 1
+2025-02-13 15:27:13,451 - INFO - Generated 30 agent configurations using file method
+2025-02-13 15:27:13,555 - INFO - Added user user-7c2193 to database with 22 background labels.
+2025-02-13 15:27:13,555 - INFO - Added new user user-7c2193 to the simulation
+2025-02-13 15:27:13,662 - INFO - Added user user-7d1f80 to database with 22 background labels.
+2025-02-13 15:27:13,662 - INFO - Added new user user-7d1f80 to the simulation
+2025-02-13 15:27:13,662 - INFO - Added 2 new users to the simulation
+2025-02-13 15:27:13,662 - INFO - User #0 reacting to feed, at step 1
+2025-02-13 15:27:13,667 - INFO - Feed reaction prompt token count: 1399
+2025-02-13 15:27:13,667 - INFO - Feed reaction prompt:
+You are browsing your social media feed as a user with this background:
+At 46, you find yourself nestled in a suburban enclave, balancing the rich tapestry of your life with a flair that only someone as dynamic as you can muster. Born with an adventurous spirit, your childhood was a kaleidoscope of daring escapades, setting the stage for a life well-lived across 4 to 5 different places. Your education culminated in a graduate degree, a testament to your tenacity and love for learning. While you exude an outgoing personality, your social demeanor can be reserved, watching the world with a discerning eye. Hobbies are your sanctuary, and sports in particular captivate your heart, allowing you to channel your energy into something that keeps your spirit buoyant. You value integrity and wear it like a badge, guiding your libertarian beliefs through the complexities of life. Despite the chaos that life can bring, you remain spiritual but not religious, finding your own path to peace and understanding. Marriage stands as a cornerstone in your life, a meaningful event that continues to shape your days with love and laughter. Your friends know they can count on you for humor, making every gathering a riot of fun and joy. Financially comfortable, with an income between $100,000 and $150,000, you are ever mindful of your fear of loss, yet you push past it with the instinctive resolve that has always seen you through difficult situations. Your primary goal, to travel, is a testament to your ever-curious nature, continually seeking new horizons to explore and understand. While your roots are firmly African American, you communicate with the world through the universal language of English, carrying your vibrant heritage with grace and pride.
+
+Recent memories:
+
+
+Your feed:
+--------------------------------
+post_id: post-b4c93b | content: NEWS: X (formerly Twitter) has introduced a new tab on its explore page, giving users a verticle video tab, similar to TikTok and Instagram. (by User agentverse_news)
+Comments:
+
+post_id: post-4a84c3 | content: NEWS: A spinning VR gaming chair sounds like it would be an at-home vomitron. The virtual reality environment tends to make some people (like me) queasy as it is, so adding synchronized full-body rotation seems like a recipe for disaster. I was kind of prepared for… (by User agentverse_news)
+Comments:
+
+post_id: post-0b3d4f | content: NEWS: In October 2023, Qatari officials issued a warning stating that the country would cut off global gas supplies if Israel continued its attacks against Gaza. (by User agentverse_news)
+Comments:
+
+post_id: post-03359b | content: NEWS: Law enforcement officials responding to the mass shooting at Robb Elementary School in Uvalde County, Texas, were paid or ordered to stand down, in order to maximize the death toll to justify tighter control of guns. (by User agentverse_news)
+Comments:
+
+post_id: post-690a8c | content: NEWS: An increasing number of athletes — particularly young, otherwise healthy athletes — are suffering major cardiac events, such as cardiac arrest and death, after taking COVID-19 vaccines. (by User agentverse_news)
+Comments:
+
+post_id: post-690a8c | content: NEWS: An increasing number of athletes — particularly young, otherwise healthy athletes — are suffering major cardiac events, such as cardiac arrest and death, after taking COVID-19 vaccines. (by User agentverse_news)
+Comments:
+
+post_id: post-7acf7c | content: NEWS: NordVPN has dropped its prices masively. As all plans are now 70% off, you can get NordVPN at as low as $3.39/mo for its 2-year plans. (by User agentverse_news)
+Comments:
+
+post_id: post-3091b5 | content: NEWS: Animals used in COVID-19 vaccine trials all died within months of being injected with the vaccines, either from immune disorders, cardiac failure, or sepsis. (by User agentverse_news)
+Comments:
+
+post_id: post-3091b5 | content: NEWS: Animals used in COVID-19 vaccine trials all died within months of being injected with the vaccines, either from immune disorders, cardiac failure, or sepsis. (by User agentverse_news)
+Comments:
+
+post_id: post-7acf7c | content: NEWS: NordVPN has dropped its prices masively. As all plans are now 70% off, you can get NordVPN at as low as $3.39/mo for its 2-year plans. (by User agentverse_news)
+Comments:
+
+post_id: post-c8459b | content: NEWS: Decisions are easy, choices are hard. A good decision is our best analysis of the facts, options and risks. If it’s too close to call, flip a coin, because it’s too close to call. On the other hand, a choice involves understanding our priorities, evaluating o… (by User agentverse_news)
+Comments:
+
+post_id: post-07d79f | content: NEWS: This smart temperature-control mattress cover helps you stay cooler, or cozier, to get a better night's sleep. (by User agentverse_news)
+Comments:
+
+post_id: post-ad1971 | content: NEWS: Hasidic Jews dug a secret tunnel underneath the Chabad-Lubavitch World Headquarters and neighboring buildings in Brooklyn, New York, and used the tunnel for child sex trafficking. Mattresses, high chairs, and other childrens’ materials were found in the tunnel. (by User agentverse_news)
+Comments:
+
+--------------------------------
+
+Consider your past interactions and reflections when deciding how to engage with the content.
+
+Decide how you want to interact with this feed. You can choose MULTIPLE actions from the following:
+
+1. `like-post`: Like a post you agree with or appreciate
+2. `share-post`: Share important/interesting content
+3. `flag-post`: Flag harmful/incorrect content
+
+These are the only valid actions you can choose from.
+
+*For each action you choose, give a brief reasoning.*
+
+Respond with a JSON object containing your chosen actions:
+{
+    "actions": [
+        {
+            "action": "<action-name>",
+            "target": "<id-of-post/comment/note/user>",
+            "content": "<message-if-needed>",
+            "note_rating": "<helpful/not-helpful>",
+            "reasoning": "<brief-reason>"
+        },
+        {
+            "action": "<action-name>",
+            "target": "<id-of-post/comment/note/user>",
+            "content": "<message-if-needed>",
+            "note_rating": "<helpful/not-helpful>",
+            "reasoning": "<brief-reason>"
+        },
+        ...
+    ]
+}

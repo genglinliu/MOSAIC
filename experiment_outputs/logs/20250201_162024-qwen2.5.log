@@ -1,0 +1,22 @@
+2025-02-01 16:20:24,902 - INFO - Starting simulation with 2 users for 20 time steps using qwen2.5...
+2025-02-01 16:20:25,903 - INFO - Resetting database...
+2025-02-01 16:20:25,903 - INFO - Existing database removed.
+2025-02-01 16:20:25,911 - INFO - Database tables created successfully.
+2025-02-01 16:20:25,911 - INFO - New tables created.
+2025-02-01 16:20:25,912 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:20:25,912 - INFO - Creating 2 users
+2025-02-01 16:20:25,913 - INFO - Added user user-2b6211 to database with 22 background labels.
+2025-02-01 16:20:25,914 - INFO - Added user user-c28794 to database with 22 background labels.
+2025-02-01 16:20:25,914 - INFO - Total users in database after creation: 2
+2025-02-01 16:20:25,934 - INFO - Time step: 1
+2025-02-01 16:20:25,937 - INFO - News Agent agentverse_news created a post: post-7a8815 | BREAKING NEWS: The German Ministry of Defense issued a statement in February 2023, requesting that Ukrainian troops training in Germany stop displaying swastikas and other symbols associated with fascism, or else they risk facing fines and three years in prison.
+2025-02-01 16:20:25,938 - INFO - Injected fake news through user agentverse_news
+2025-02-01 16:20:25,938 - INFO - Injected news post (ID: post-7a8815) at step 1
+2025-02-01 16:20:25,938 - INFO - Generated 2 agent configurations using file method
+2025-02-01 16:20:26,040 - INFO - Added user user-57e0c4 to database with 22 background labels.
+2025-02-01 16:20:26,040 - INFO - Added new user user-57e0c4 to the simulation
+2025-02-01 16:20:26,142 - INFO - Added user user-bc8f85 to database with 22 background labels.
+2025-02-01 16:20:26,142 - INFO - Added new user user-bc8f85 to the simulation
+2025-02-01 16:20:26,142 - INFO - Added 2 new users to the simulation
+2025-02-01 16:20:26,142 - INFO - User #0 creating post, at step 1
+2025-02-01 16:20:26,643 - INFO - Post generation prompt token count: 666
